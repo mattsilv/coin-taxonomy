@@ -1,9 +1,9 @@
 {
   "country_code": "US",
-  "total_issues": 97,
+  "total_issues": 86,
   "issues": [
     {
-      "issue_id": "US-IND-1864-P",
+      "issue_id": "US-UNK-1864-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -52,7 +52,7 @@
       "notes": "Red Book"
     },
     {
-      "issue_id": "US-SHI-1867-P",
+      "issue_id": "US-UNK-1867-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -62,7 +62,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -101,7 +101,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-IND-1869-P",
+      "issue_id": "US-UNK-1869-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -150,56 +150,7 @@
       "notes": "Red Book"
     },
     {
-      "issue_id": "US-IND-1877-P",
-      "object_type": "coin",
-      "series_id": "indian_head_cent",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.01,
-        "unit_name": "Cents",
-        "common_names": [
-          "Cents"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1877,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 3.11,
-        "diameter_mm": 19.05,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "indian_head_cent_obverse_1877",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "indian_head_cent_reverse_1877",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 852500, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-SHI-1877-P",
+      "issue_id": "US-UNK-1877-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -209,7 +160,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -248,7 +199,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SHI-1878-P",
+      "issue_id": "US-UNK-1878-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -258,7 +209,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -297,7 +248,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MOR-1879-CC",
+      "issue_id": "US-UNK-1879-CC",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -307,7 +258,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -346,7 +297,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SHI-1880-P",
+      "issue_id": "US-UNK-1880-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -356,7 +307,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -395,7 +346,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIB-1883-P",
+      "issue_id": "US-UNK-1883-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -405,7 +356,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -444,7 +395,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIB-1885-P",
+      "issue_id": "US-UNK-1885-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -454,7 +405,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -493,7 +444,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-IND-1888-P",
+      "issue_id": "US-UNK-1888-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -542,7 +493,7 @@
       "notes": "Red Book"
     },
     {
-      "issue_id": "US-MOR-1889-CC",
+      "issue_id": "US-UNK-1889-CC",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -552,7 +503,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -591,7 +542,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1892-P",
+      "issue_id": "US-UNK-1892-P",
       "object_type": "coin",
       "series_id": "barber_quarter",
       "issuing_entity": {
@@ -601,7 +552,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -640,7 +591,7 @@
       "notes": "Red Book"
     },
     {
-      "issue_id": "US-MOR-1893-S",
+      "issue_id": "US-UNK-1893-S",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -650,7 +601,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -689,56 +640,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1894-S",
-      "object_type": "coin",
-      "series_id": "barber_dime",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.1,
-        "unit_name": "Dimes",
-        "common_names": [
-          "Dimes"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1894,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 2.5,
-        "diameter_mm": 17.9,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "barber_dime_obverse_1894",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "barber_dime_reverse_1894",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 24}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MOR-1894-P",
+      "issue_id": "US-UNK-1894-P",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -748,7 +650,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -787,7 +689,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1895-O",
+      "issue_id": "US-UNK-1894-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -797,7 +699,56 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
+        "unit_name": "Dimes",
+        "common_names": [
+          "Dimes"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1894,
+      "mint_id": "S",
+      "specifications": {},
+      "sides": {
+        "weight_grams": 2.5,
+        "diameter_mm": 17.9,
+        "edge": "plain"
+      },
+      "mintage": {
+        "obverse": {
+          "design_id": "barber_dime_obverse_1894",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "barber_dime_reverse_1894",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 24}",
+      "varieties": [],
+      "source_citation": "[]",
+      "notes": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1895-O",
+      "object_type": "coin",
+      "series_id": "barber_dime",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -836,7 +787,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MOR-1895-O",
+      "issue_id": "US-UNK-1895-P",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -846,56 +797,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
-        "unit_name": "Dollars",
-        "common_names": [
-          "Dollars"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1895,
-      "mint_id": "O",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 26.73,
-        "diameter_mm": 38.1,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "morgan_dollar_obverse_1895",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "morgan_dollar_reverse_1895",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 450000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MOR-1895-P",
-      "object_type": "coin",
-      "series_id": "morgan_dollar",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -934,7 +836,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MOR-1895-S",
+      "issue_id": "US-UNK-1895-S",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -944,7 +846,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -983,7 +885,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1896-S",
+      "issue_id": "US-UNK-1896-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -993,7 +895,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1032,7 +934,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1901-S",
+      "issue_id": "US-UNK-1901-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1042,7 +944,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1081,56 +983,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1903-S",
-      "object_type": "coin",
-      "series_id": "barber_dime",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.1,
-        "unit_name": "Dimes",
-        "common_names": [
-          "Dimes"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1903,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 2.5,
-        "diameter_mm": 17.9,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "barber_dime_obverse_1903",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "barber_dime_reverse_1903",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 613300, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MOR-1903-O",
+      "issue_id": "US-UNK-1903-O",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -1140,7 +993,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -1179,7 +1032,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1904-S",
+      "issue_id": "US-UNK-1903-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1189,7 +1042,56 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
+        "unit_name": "Dimes",
+        "common_names": [
+          "Dimes"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1903,
+      "mint_id": "S",
+      "specifications": {},
+      "sides": {
+        "weight_grams": 2.5,
+        "diameter_mm": 17.9,
+        "edge": "plain"
+      },
+      "mintage": {
+        "obverse": {
+          "design_id": "barber_dime_obverse_1903",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "barber_dime_reverse_1903",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "rarity": "{\"business_strikes\": 613300, \"proof_strikes\": 0}",
+      "varieties": [],
+      "source_citation": "[]",
+      "notes": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1904-S",
+      "object_type": "coin",
+      "series_id": "barber_dime",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1228,7 +1130,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-IND-1908-S",
+      "issue_id": "US-UNK-1908-S",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -1277,56 +1179,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-IND-1909-S",
-      "object_type": "coin",
-      "series_id": "indian_head_cent",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.01,
-        "unit_name": "Cents",
-        "common_names": [
-          "Cents"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1909,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 3.11,
-        "diameter_mm": 19.05,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "indian_head_cent_obverse_1909",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "indian_head_cent_reverse_1909",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 309000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-LIN-1909-S",
+      "issue_id": "US-UNK-1909-S",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -1375,7 +1228,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIB-1912-S",
+      "issue_id": "US-UNK-1912-S",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -1385,7 +1238,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -1424,7 +1277,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIB-1913-P",
+      "issue_id": "US-UNK-1913-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -1434,7 +1287,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -1473,7 +1326,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUF-1913-S",
+      "issue_id": "US-UNK-1913-S",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -1483,7 +1336,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -1522,56 +1375,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BAR-1913-S",
-      "object_type": "coin",
-      "series_id": "barber_quarter",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.25,
-        "unit_name": "Quarters",
-        "common_names": [
-          "Quarters"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1913,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 6.25,
-        "diameter_mm": 24.3,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "barber_quarter_obverse_1913",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "barber_quarter_reverse_1913",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 40000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-LIN-1914-D",
+      "issue_id": "US-UNK-1914-D",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -1620,56 +1424,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUF-1916-P",
-      "object_type": "coin",
-      "series_id": "buffalo_nickel",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.05,
-        "unit_name": "Nickels",
-        "common_names": [
-          "Nickels"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1916,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 5.0,
-        "diameter_mm": 21.2,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "buffalo_nickel_obverse_1916",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "buffalo_nickel_reverse_1916",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 63498066, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"BN-1916-P-DDO-01\", \"name\": \"Doubled Die Obverse\", \"description\": \"Dramatic doubling\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MER-1916-D",
+      "issue_id": "US-UNK-1916-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1679,7 +1434,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1718,7 +1473,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1916-P",
+      "issue_id": "US-UNK-1916-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1728,7 +1483,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1767,7 +1522,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-MER-1916-S",
+      "issue_id": "US-UNK-1916-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1777,7 +1532,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -1816,7 +1571,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-STA-1916-P",
+      "issue_id": "US-UNK-1917-P",
       "object_type": "coin",
       "series_id": "standing_liberty_quarter",
       "issuing_entity": {
@@ -1826,56 +1581,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
-        "unit_name": "Quarters",
-        "common_names": [
-          "Quarters"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1916,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 6.25,
-        "diameter_mm": 24.3,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "standing_liberty_quarter_obverse_1916",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "standing_liberty_quarter_reverse_1916",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 52000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SLQ-1916-P-T1-01\", \"name\": \"Type I\", \"description\": \"Bare-breasted Liberty\", \"estimated_mintage\": 52000}]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-STA-1917-P",
-      "object_type": "coin",
-      "series_id": "standing_liberty_quarter",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -1914,7 +1620,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUF-1918-D",
+      "issue_id": "US-UNK-1918-D",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -1924,7 +1630,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -1963,7 +1669,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-STA-1918-S",
+      "issue_id": "US-UNK-1918-S",
       "object_type": "coin",
       "series_id": "standing_liberty_quarter",
       "issuing_entity": {
@@ -1973,7 +1679,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -2012,7 +1718,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1921-D",
+      "issue_id": "US-UNK-1921-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2022,7 +1728,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2061,7 +1767,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1921-P",
+      "issue_id": "US-UNK-1921-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2071,7 +1777,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2110,105 +1816,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-STA-1921-P",
-      "object_type": "coin",
-      "series_id": "standing_liberty_quarter",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.25,
-        "unit_name": "Quarters",
-        "common_names": [
-          "Quarters"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1921,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 6.25,
-        "diameter_mm": 24.3,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "standing_liberty_quarter_obverse_1921",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "standing_liberty_quarter_reverse_1921",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 1916000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-PEA-1921-P",
-      "object_type": "coin",
-      "series_id": "peace_dollar",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 1.0,
-        "unit_name": "Dollars",
-        "common_names": [
-          "Dollars"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1921,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 26.73,
-        "diameter_mm": 38.1,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "peace_dollar_obverse_1921",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "peace_dollar_reverse_1921",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 1006473, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"PD-1921-P-HR-01\", \"name\": \"High Relief\", \"description\": \"First year high relief design\", \"estimated_mintage\": 1006473}]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-LIN-1922-D",
+      "issue_id": "US-UNK-1922-D",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -2257,56 +1865,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUF-1926-S",
-      "object_type": "coin",
-      "series_id": "buffalo_nickel",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.05,
-        "unit_name": "Nickels",
-        "common_names": [
-          "Nickels"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1926,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 5.0,
-        "diameter_mm": 21.2,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "buffalo_nickel_obverse_1926",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "buffalo_nickel_reverse_1926",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 970000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MER-1926-S",
+      "issue_id": "US-UNK-1926-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2316,7 +1875,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2355,56 +1914,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-STA-1927-S",
-      "object_type": "coin",
-      "series_id": "standing_liberty_quarter",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.25,
-        "unit_name": "Quarters",
-        "common_names": [
-          "Quarters"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1927,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 6.25,
-        "diameter_mm": 24.3,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "standing_liberty_quarter_obverse_1927",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "standing_liberty_quarter_reverse_1927",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 396000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-PEA-1927-D",
+      "issue_id": "US-UNK-1927-D",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2414,7 +1924,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -2453,7 +1963,56 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-PEA-1928-P",
+      "issue_id": "US-UNK-1927-S",
+      "object_type": "coin",
+      "series_id": "standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Quarters",
+        "common_names": [
+          "Quarters"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1927,
+      "mint_id": "S",
+      "specifications": {},
+      "sides": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "plain"
+      },
+      "mintage": {
+        "obverse": {
+          "design_id": "standing_liberty_quarter_obverse_1927",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "standing_liberty_quarter_reverse_1927",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "rarity": "{\"business_strikes\": 396000, \"proof_strikes\": 0}",
+      "varieties": [],
+      "source_citation": "[]",
+      "notes": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1928-P",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2463,7 +2022,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -2502,56 +2061,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1931-S",
-      "object_type": "coin",
-      "series_id": "lincoln_wheat_cent",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.01,
-        "unit_name": "Cents",
-        "common_names": [
-          "Cents"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1931,
-      "mint_id": "S",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 3.11,
-        "diameter_mm": 19.05,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "lincoln_wheat_cent_obverse_1931",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "abraham_lincoln",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "lincoln_wheat_cent_reverse_1931",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "wheat_ears",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 866000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
-    },
-    {
-      "issue_id": "US-MER-1931-D",
+      "issue_id": "US-UNK-1931-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2561,7 +2071,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2600,7 +2110,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1931-S",
+      "issue_id": "US-UNK-1931-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2610,7 +2120,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2659,7 +2169,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -2708,7 +2218,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -2747,7 +2257,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-PEA-1934-S",
+      "issue_id": "US-UNK-1934-S",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2757,7 +2267,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -2796,7 +2306,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUF-1937-D",
+      "issue_id": "US-UNK-1937-D",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -2806,7 +2316,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -2845,7 +2355,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1942-D",
+      "issue_id": "US-UNK-1942-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2855,7 +2365,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2894,7 +2404,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1942-P",
+      "issue_id": "US-UNK-1942-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2904,7 +2414,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -2943,7 +2453,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1943-P",
+      "issue_id": "US-UNK-1943-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -2992,7 +2502,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1944-P",
+      "issue_id": "US-UNK-1944-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -3041,7 +2551,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MER-1945-D",
+      "issue_id": "US-UNK-1945-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -3051,7 +2561,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3090,7 +2600,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-MER-1945-P",
+      "issue_id": "US-UNK-1945-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -3100,7 +2610,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3139,7 +2649,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-MER-1945-S",
+      "issue_id": "US-UNK-1945-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -3149,7 +2659,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3188,7 +2698,7 @@
       "notes": "Red Book"
     },
     {
-      "issue_id": "US-ROO-1946-D",
+      "issue_id": "US-UNK-1946-D",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3198,7 +2708,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3237,7 +2747,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1946-P",
+      "issue_id": "US-UNK-1946-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3247,7 +2757,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3286,7 +2796,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1946-S",
+      "issue_id": "US-UNK-1946-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3296,7 +2806,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3335,7 +2845,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1949-S",
+      "issue_id": "US-UNK-1949-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3345,7 +2855,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3384,7 +2894,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-JEF-1950-D",
+      "issue_id": "US-UNK-1950-D",
       "object_type": "coin",
       "series_id": "jefferson_nickel",
       "issuing_entity": {
@@ -3394,7 +2904,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -3433,7 +2943,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1955-P",
+      "issue_id": "US-UNK-1955-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -3482,7 +2992,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-ROO-1964-D",
+      "issue_id": "US-UNK-1964-D",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3492,7 +3002,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3531,7 +3041,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1964-P",
+      "issue_id": "US-UNK-1964-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3541,7 +3051,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3580,7 +3090,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1965-P",
+      "issue_id": "US-UNK-1965-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3590,7 +3100,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3629,7 +3139,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-1968-S",
+      "issue_id": "US-UNK-1968-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3639,7 +3149,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3678,7 +3188,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1969-S",
+      "issue_id": "US-UNK-1969-S",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -3727,7 +3237,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-JEF-1971-S",
+      "issue_id": "US-UNK-1971-S",
       "object_type": "coin",
       "series_id": "jefferson_nickel",
       "issuing_entity": {
@@ -3737,7 +3247,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.05,
+        "face_value": 0.01,
         "unit_name": "Nickels",
         "common_names": [
           "Nickels"
@@ -3776,7 +3286,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1972-P",
+      "issue_id": "US-UNK-1972-P",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -3825,7 +3335,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-EIS-1973-D",
+      "issue_id": "US-UNK-1973-D",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3835,7 +3345,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -3874,7 +3384,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-EIS-1973-P",
+      "issue_id": "US-UNK-1973-P",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3884,7 +3394,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -3923,7 +3433,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-ROO-1975-S",
+      "issue_id": "US-UNK-1975-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3933,7 +3443,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -3972,7 +3482,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-EIS-1976-P",
+      "issue_id": "US-UNK-1976-P",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3982,7 +3492,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4021,7 +3531,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SUS-1979-P",
+      "issue_id": "US-UNK-1979-P",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -4031,7 +3541,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4070,7 +3580,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SUS-1979-S",
+      "issue_id": "US-UNK-1979-S",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -4080,7 +3590,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4119,7 +3629,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LIN-1983-P",
+      "issue_id": "US-UNK-1983-P",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -4168,7 +3678,7 @@
       "notes": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-ROO-1996-W",
+      "issue_id": "US-UNK-1996-W",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -4178,7 +3688,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.1,
+        "face_value": 0.01,
         "unit_name": "Dimes",
         "common_names": [
           "Dimes"
@@ -4217,56 +3727,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-WAS-1999-P",
-      "object_type": "coin",
-      "series_id": "washington_quarter",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.25,
-        "unit_name": "Quarters",
-        "common_names": [
-          "Quarters"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 1999,
-      "mint_id": "P",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 5.67,
-        "diameter_mm": 24.3,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "washington_quarter_obverse_1999",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "washington_quarter_reverse_1999",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 373400000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"WQ-1999-P-DE-01\", \"name\": \"Delaware\", \"description\": \"First state quarter - Delaware reverse\", \"estimated_mintage\": 373400000}]",
-      "notes": "US Mint records"
-    },
-    {
-      "issue_id": "US-SUS-1999-P",
+      "issue_id": "US-UNK-1999-P",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -4276,7 +3737,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4315,7 +3776,56 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-SAC-2000-D",
+      "issue_id": "US-WAS-1999-P",
+      "object_type": "coin",
+      "series_id": "washington_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Quarters",
+        "common_names": [
+          "Quarters"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1999,
+      "mint_id": "P",
+      "specifications": {},
+      "sides": {
+        "weight_grams": 5.67,
+        "diameter_mm": 24.3,
+        "edge": "plain"
+      },
+      "mintage": {
+        "obverse": {
+          "design_id": "washington_quarter_obverse_1999",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "washington_quarter_reverse_1999",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "rarity": "{\"business_strikes\": 373400000, \"proof_strikes\": 0}",
+      "varieties": [],
+      "source_citation": "[{\"variety_id\": \"WQ-1999-P-DE-01\", \"name\": \"Delaware\", \"description\": \"First state quarter - Delaware reverse\", \"estimated_mintage\": 373400000}]",
+      "notes": "US Mint records"
+    },
+    {
+      "issue_id": "US-UNK-2000-D",
       "object_type": "coin",
       "series_id": "sacagawea_dollar",
       "issuing_entity": {
@@ -4325,7 +3835,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4364,7 +3874,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-SAC-2000-P",
+      "issue_id": "US-UNK-2000-P",
       "object_type": "coin",
       "series_id": "sacagawea_dollar",
       "issuing_entity": {
@@ -4374,7 +3884,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 1.0,
+        "face_value": 0.01,
         "unit_name": "Dollars",
         "common_names": [
           "Dollars"
@@ -4413,9 +3923,9 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-LIN-2009-D",
+      "issue_id": "US-UNK-2009-D",
       "object_type": "coin",
-      "series_id": "lincoln_bicentennial_cent",
+      "series_id": "roosevelt_dime",
       "issuing_entity": {
         "country_code": "US",
         "authority_name": "United States of America",
@@ -4424,9 +3934,9 @@
       },
       "denomination": {
         "face_value": 0.01,
-        "unit_name": "Cents",
+        "unit_name": "Dimes",
         "common_names": [
-          "Cents"
+          "Dimes"
         ],
         "system_fraction": "1/100 dollar"
       },
@@ -4434,21 +3944,21 @@
       "mint_id": "D",
       "specifications": {},
       "sides": {
-        "weight_grams": 2.5,
-        "diameter_mm": 19.05,
+        "weight_grams": 2.268,
+        "diameter_mm": 17.9,
         "edge": "plain"
       },
       "mintage": {
         "obverse": {
-          "design_id": "lincoln_bicentennial_cent_obverse_2009",
+          "design_id": "roosevelt_dime_obverse_2009",
           "primary_element": {
             "type": "portrait",
-            "subject_id": "abraham_lincoln",
+            "subject_id": "unknown",
             "description": "To be enriched with detailed design data"
           }
         },
         "reverse": {
-          "design_id": "lincoln_bicentennial_cent_reverse_2009",
+          "design_id": "roosevelt_dime_reverse_2009",
           "primary_element": {
             "type": "symbol",
             "subject_id": "unknown",
@@ -4456,13 +3966,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 350400000, \"proof_strikes\": 0}",
+      "rarity": "{\"business_strikes\": 49500000, \"proof_strikes\": 0}",
       "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LBC-2009-D-Birth-01\", \"name\": \"Birth and Early Childhood\", \"description\": \"2009 Bicentennial - Birth and Early Childhood reverse\", \"estimated_mintage\": 350400000}]",
+      "source_citation": "[]",
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-LIN-2009-P",
+      "issue_id": "US-UNK-2009-P",
       "object_type": "coin",
       "series_id": "lincoln_bicentennial_cent",
       "issuing_entity": {
@@ -4511,56 +4021,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-ROO-2009-D",
-      "object_type": "coin",
-      "series_id": "roosevelt_dime",
-      "issuing_entity": {
-        "country_code": "US",
-        "authority_name": "United States of America",
-        "monetary_system": "decimal",
-        "currency_unit": "dollar"
-      },
-      "denomination": {
-        "face_value": 0.1,
-        "unit_name": "Dimes",
-        "common_names": [
-          "Dimes"
-        ],
-        "system_fraction": "1/100 dollar"
-      },
-      "issue_year": 2009,
-      "mint_id": "D",
-      "specifications": {},
-      "sides": {
-        "weight_grams": 2.268,
-        "diameter_mm": 17.9,
-        "edge": "plain"
-      },
-      "mintage": {
-        "obverse": {
-          "design_id": "roosevelt_dime_obverse_2009",
-          "primary_element": {
-            "type": "portrait",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        },
-        "reverse": {
-          "design_id": "roosevelt_dime_reverse_2009",
-          "primary_element": {
-            "type": "symbol",
-            "subject_id": "unknown",
-            "description": "To be enriched with detailed design data"
-          }
-        }
-      },
-      "rarity": "{\"business_strikes\": 49500000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
-    },
-    {
-      "issue_id": "US-LIN-2017-P",
+      "issue_id": "US-UNK-2017-P",
       "object_type": "coin",
       "series_id": "lincoln_shield_cent",
       "issuing_entity": {
@@ -4609,7 +4070,7 @@
       "notes": "US Mint records"
     },
     {
-      "issue_id": "US-LIN-2019-W",
+      "issue_id": "US-UNK-2019-W",
       "object_type": "coin",
       "series_id": "lincoln_shield_cent",
       "issuing_entity": {
@@ -4668,7 +4129,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"
@@ -4717,7 +4178,7 @@
         "currency_unit": "dollar"
       },
       "denomination": {
-        "face_value": 0.25,
+        "face_value": 0.01,
         "unit_name": "Quarters",
         "common_names": [
           "Quarters"

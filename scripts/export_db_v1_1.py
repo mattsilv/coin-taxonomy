@@ -12,6 +12,7 @@ This script supports:
 import json
 import sqlite3
 import os
+from datetime import datetime, timezone
 from collections import defaultdict
 from pathlib import Path
 
@@ -24,6 +25,8 @@ def safe_json_loads(data, default=None):
         return json.loads(data)
     except (json.JSONDecodeError, TypeError):
         return default
+
+
 
 
 def check_universal_tables(conn):
@@ -345,6 +348,7 @@ def export_complete_universal_dataset(conn, output_dir):
     summary = {
         'taxonomy_version': '1.1',
         'format': 'universal_flat_structure',
+        'generated_at': datetime.now(timezone.utc).isoformat(),
         'total_issues': total_issues,
         'countries': total_countries,
         'object_types': total_types,

@@ -410,6 +410,9 @@ def migrate_existing_data(conn):
     """Migrate existing US coin data to universal structure."""
     cursor = conn.cursor()
     
+    # Temporarily disable foreign key constraints during migration
+    cursor.execute('PRAGMA foreign_keys = OFF;')
+    
     # First, populate series registry from existing data
     cursor.execute("""
         SELECT DISTINCT series_id, series_name, MIN(year), MAX(year), denomination
@@ -538,6 +541,9 @@ def migrate_existing_data(conn):
     
     conn.commit()
     print(f"✓ Migrated {migrated_count} coins to universal issues table")
+    
+    # Re-enable foreign key constraints
+    cursor.execute('PRAGMA foreign_keys = ON;')
 
 
 def run_migration():
