@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Currency Taxonomy Browser</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'coin-gold': '#FFD700',
+                        'coin-silver': '#C0C0C0',
+                        'coin-copper': '#B87333'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-gray-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="py-6 flex justify-between items-start">
+                <div>
+                    <h1 class="text-3xl font-bold text-gray-900">Universal Currency Taxonomy</h1>
+                    <p class="mt-2 text-gray-600">Browse and search currency issues from around the world</p>
+                </div>
+                <a href="https://github.com/mattsilv/coin-taxonomy" 
+                   class="inline-flex items-center p-2 text-gray-500 hover:text-gray-700 transition-colors duration-150"
+                   title="View on GitHub">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Controls -->
+        <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6 mb-6">
+            <!-- Primary Controls Row -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-4">
+                <!-- Country Selector -->
+                <div>
+                    <label for="country-select" class="block text-sm font-medium text-gray-700 mb-2">
+                        Country
+                    </label>
+                    <select id="country-select" class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                        <option value="">Select a country...</option>
+                    </select>
+                </div>
+
+                <!-- Search Box -->
+                <div>
+                    <label for="search-input" class="block text-sm font-medium text-gray-700 mb-2">
+                        Search Issues
+                    </label>
+                    <input 
+                        type="text" 
+                        id="search-input" 
+                        placeholder="Search ID, series, varieties..."
+                        class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    />
+                </div>
+
+                <!-- Year Range -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">
+                        Year Range
+                    </label>
+                    <div class="flex space-x-2">
+                        <input 
+                            type="number" 
+                            id="year-from" 
+                            placeholder="From"
+                            min="1600" 
+                            max="2030"
+                            class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        />
+                        <input 
+                            type="number" 
+                            id="year-to" 
+                            placeholder="To"
+                            min="1600" 
+                            max="2030"
+                            class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        />
+                    </div>
+                </div>
+
+                <!-- Sort By -->
+                <div>
+                    <label for="sort-select" class="block text-sm font-medium text-gray-700 mb-2">
+                        Sort By
+                    </label>
+                    <select id="sort-select" class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                        <option value="issue_year">Year</option>
+                        <option value="series_id">Series</option>
+                        <option value="unit_name">Denomination</option>
+                        <option value="mint_id">Mint</option>
+                        <option value="face_value">Face Value</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Collector Filters Row -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 pt-4 border-t border-gray-200">
+
+                <!-- Mint Filter -->
+                <div>
+                    <label for="mint-filter" class="block text-sm font-medium text-gray-700 mb-2">
+                        Mint Mark
+                    </label>
+                    <select id="mint-filter" class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                        <option value="">All Mints</option>
+                    </select>
+                </div>
+
+                <!-- Series Filter -->
+                <div>
+                    <label for="series-filter" class="block text-sm font-medium text-gray-700 mb-2">
+                        Series
+                    </label>
+                    <select id="series-filter" class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                        <option value="">All Series</option>
+                    </select>
+                </div>
+
+                <!-- Varieties Filter -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">
+                        Has Varieties
+                    </label>
+                    <div class="flex items-center space-x-4 mt-3">
+                        <label class="inline-flex items-center">
+                            <input type="checkbox" id="has-varieties" class="rounded border-gray-300 text-blue-600 focus:ring-blue-500">
+                            <span class="ml-2 text-sm text-gray-700">Show only issues with varieties</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Clear Filters -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">
+                        Actions
+                    </label>
+                    <div class="flex flex-col space-y-2">
+                        <button id="clear-filters" class="px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-500">
+                            Clear Filters
+                        </button>
+                        <button id="download-csv" class="inline-flex items-center px-3 py-2 text-sm bg-green-600 text-white rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                            </svg>
+                            Download CSV
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats -->
+            <div class="mt-4 pt-4 border-t border-gray-200">
+                <div class="flex items-center justify-between">
+                    <div class="text-sm text-gray-600">
+                        Showing <span id="results-count" class="font-medium">0</span> results
+                    </div>
+                    <div class="text-sm text-gray-500">
+                        Last updated: <span id="last-updated" class="font-medium">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-12">
+            <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+            <p class="mt-2 text-gray-600">Loading currency data...</p>
+        </div>
+
+        <!-- No Results -->
+        <div id="no-results" class="text-center py-12 hidden">
+            <svg class="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.47-.881-6.073-2.329C5.483 12.22 5 11.665 5 11c0-.665.483-1.22.927-1.671A7.962 7.962 0 0112 7c2.34 0 4.47.881 6.073 2.329C18.517 9.78 19 10.335 19 11c0 .665-.483 1.22-.927 1.671z"></path>
+            </svg>
+            <h3 class="mt-2 text-sm font-medium text-gray-900">No results found</h3>
+            <p class="mt-1 text-sm text-gray-500">Try adjusting your search or filters</p>
+        </div>
+
+        <!-- Results Table -->
+        <div id="results-container" class="hidden">
+            <div class="bg-white shadow-sm border border-gray-200 rounded-lg overflow-hidden">
+                <div class="overflow-x-auto shadow ring-1 ring-black ring-opacity-5 rounded-lg">
+                    <table class="min-w-full divide-y divide-gray-200">
+                        <thead class="bg-gray-50">
+                            <tr>
+                                <th class="px-3 py-3 text-left text-sm font-semibold text-gray-900">
+                                    ID
+                                </th>
+                                <th class="px-4 py-3 text-left text-sm font-semibold text-gray-900 cursor-pointer hover:bg-gray-100 select-none" data-sort="issue_year">
+                                    <div class="flex items-center">
+                                        Year
+                                    </div>
+                                </th>
+                                <th class="px-4 py-3 text-left text-sm font-semibold text-gray-900 cursor-pointer hover:bg-gray-100 select-none" data-sort="series_id">
+                                    <div class="flex items-center">
+                                        Series
+                                    </div>
+                                </th>
+                                <th class="px-4 py-3 text-center text-sm font-semibold text-gray-900 cursor-pointer hover:bg-gray-100 select-none" data-sort="unit_name">
+                                    <div class="flex items-center justify-center">
+                                        Denomination
+                                    </div>
+                                </th>
+                                <th class="px-4 py-3 text-center text-sm font-semibold text-gray-900 cursor-pointer hover:bg-gray-100 select-none" data-sort="mint_id">
+                                    <div class="flex items-center justify-center">
+                                        Mint
+                                    </div>
+                                </th>
+                                <th class="px-4 py-3 text-left text-sm font-semibold text-gray-900 cursor-pointer hover:bg-gray-100 select-none" data-sort="mintage">
+                                    <div class="flex items-center">
+                                        Production
+                                    </div>
+                                </th>
+                                <th class="px-4 py-3 text-left text-sm font-semibold text-gray-900">
+                                    Details
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="results-tbody" class="bg-white divide-y divide-gray-200">
+                            <!-- Results will be populated here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Pagination -->
+            <div id="pagination" class="mt-6 flex items-center justify-between">
+                <div class="flex-1 flex justify-between sm:hidden">
+                    <button id="prev-mobile" class="relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+                        Previous
+                    </button>
+                    <button id="next-mobile" class="ml-3 relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+                        Next
+                    </button>
+                </div>
+                <div class="hidden sm:flex-1 sm:flex sm:items-center sm:justify-between">
+                    <div>
+                        <p class="text-sm text-gray-700">
+                            Showing <span id="page-start">1</span> to <span id="page-end">10</span> of <span id="total-results">0</span> results
+                        </p>
+                    </div>
+                    <div>
+                        <nav class="relative z-0 inline-flex rounded-md shadow-sm -space-x-px" id="page-numbers">
+                            <!-- Page numbers will be populated here -->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="text-center text-sm text-gray-500">
+                <p>Universal Currency Taxonomy v1.1</p>
+                <p class="mt-1">
+                    <a href="https://github.com/mattsilv/coin-taxonomy" class="text-blue-600 hover:text-blue-500">
+                        View on GitHub
+                    </a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Details Modal -->
+    <div id="details-modal" class="fixed inset-0 z-50 hidden overflow-y-auto">
+        <div class="flex items-center justify-center min-h-screen px-4 pt-4 pb-20 text-center sm:block sm:p-0">
+            <div class="fixed inset-0 transition-opacity bg-gray-500 bg-opacity-75" onclick="currencyBrowser.closeDetails()"></div>
+            <div class="inline-block align-bottom bg-white rounded-lg px-4 pt-5 pb-4 text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-2xl sm:w-full sm:p-6">
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-lg font-medium text-gray-900">Issue Details</h3>
+                    <button onclick="currencyBrowser.closeDetails()" class="text-gray-400 hover:text-gray-600">
+                        <span class="sr-only">Close</span>
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+::1 - - [27/Jul/2025 17:12:46] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:12:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:15] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:15] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:15] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:15] "GET /data/universal/taxonomy_summary.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:15] code 404, message File not found
+::1 - - [27/Jul/2025 17:13:15] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:13:18] "GET / HTTP/1.1" 304 -
+::1 - - [27/Jul/2025 17:13:19] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] code 404, message File not found
+::1 - - [27/Jul/2025 17:13:19] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:13:19] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] code 404, message File not found
+::1 - - [27/Jul/2025 17:13:19] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:13:19] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] code 404, message File not found
+::1 - - [27/Jul/2025 17:13:19] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:13:19] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:19] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:13:20] code 404, message File not found
+::1 - - [27/Jul/2025 17:13:20] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:50] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:50] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:50] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:50] "GET /data/universal/taxonomy_summary.json HTTP/1.1" 304 -
+::1 - - [27/Jul/2025 17:15:50] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:50] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:50] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:50] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:15:51] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:15:51] code 404, message File not found
+::1 - - [27/Jul/2025 17:15:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Jul/2025 17:20:19] "GET / HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:20:19] "GET /app.js HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:20:19] "GET /data/universal/us_issues.json HTTP/1.1" 200 -
+::1 - - [27/Jul/2025 17:20:19] "GET /data/universal/taxonomy_summary.json HTTP/1.1" 304 -
+::1 - - [27/Jul/2025 17:20:19] code 404, message File not found
+::1 - - [27/Jul/2025 17:20:19] "GET /favicon.ico HTTP/1.1" 404 -

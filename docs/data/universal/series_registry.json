@@ -1,0 +1,13 @@
+{
+  "series": [
+    {
+      "series_id": "washington_quarter",
+      "series_name": "Washington Quarter",
+      "country_code": "WAS",
+      "denomination": "US",
+      "start_year": "Quarters",
+      "end_year": 1864,
+      "defining_characteristics": 2020
+    }
+  ]
+}

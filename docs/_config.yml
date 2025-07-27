@@ -1,0 +1,14 @@
+# GitHub Pages configuration for Universal Currency Taxonomy Browser
+title: "Universal Currency Taxonomy Browser"
+description: "Browse and search currency issues from around the world"
+
+# GitHub Pages settings
+plugins:
+  - jekyll-remote-theme
+
+# Theme (optional - we're using custom HTML)
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Exclude files from Jekyll processing
+exclude:
+  - README.md
