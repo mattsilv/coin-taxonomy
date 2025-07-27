@@ -392,6 +392,8 @@ def main():
     # Connect to database
     conn = sqlite3.connect('database/coins.db')
     conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     
     # Check available table structures
     has_universal = check_universal_tables(conn)

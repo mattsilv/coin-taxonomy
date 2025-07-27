@@ -21,6 +21,8 @@ def migrate_database(db_path='database/coins.db'):
         print(f"Backup created: {backup_path}")
     
     conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     
     # Check if new columns exist
     cursor = conn.execute("PRAGMA table_info(coins)")

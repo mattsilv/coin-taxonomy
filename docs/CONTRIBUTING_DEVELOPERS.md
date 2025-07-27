@@ -51,6 +51,20 @@ Applications & APIs
 - Supports atomic transactions for data updates
 - JSON exports provide version control and distribution
 
+### Database as Build Artifact
+
+**IMPORTANT**: The `database/coins.db` file is treated as a **build artifact**, not source code:
+
+- ✅ **Database is ignored by git** (in `.gitignore`)
+- ✅ **Migration scripts are source-controlled** (define schema and data)
+- ✅ **Developers generate local database** via `uv run python scripts/migrate_to_universal_v1_1.py`
+
+**Benefits of this approach**:
+- **No merge conflicts** on binary database files
+- **Reviewable changes** via text-based migration scripts
+- **Smaller repository size** without binary file bloat
+- **Reproducible builds** from migration scripts
+
 ### Universal Schema Design
 
 #### Core Philosophy

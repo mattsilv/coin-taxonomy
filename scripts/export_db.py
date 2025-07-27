@@ -13,6 +13,8 @@ def export_to_json(db_path='database/coins.db', output_dir='data'):
     """Export database contents to JSON files"""
     
     conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     conn.row_factory = sqlite3.Row
     
     # Get all countries
@@ -163,6 +165,8 @@ def main():
     
     # Check if we have the required tables
     conn = sqlite3.connect('database/coins.db')
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     tables = conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
     table_names = [t[0] for t in tables]
     

@@ -171,6 +171,8 @@ def main():
         
         # Connect and migrate
         conn = sqlite3.connect('database/coins.db')
+        cursor = conn.cursor()
+        cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
         
         create_new_schema(conn)
         record_count = populate_from_json_files(conn)

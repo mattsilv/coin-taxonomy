@@ -5,6 +5,7 @@ import json
 def check_database_structure():
     conn = sqlite3.connect('database/coins.db')
     cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
 
     # Get the actual schema of the issues table
     cursor.execute('PRAGMA table_info(issues)')

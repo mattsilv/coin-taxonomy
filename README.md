@@ -51,9 +51,11 @@ coin-taxonomy/
 
 The SQLite database serves as the source of truth, with JSON files for version control:
 
-1. **JSON files**: Human-readable, version-controlled source data
-2. **SQLite database**: Optimized for queries and analysis
-3. **Export scripts**: Generate comprehensive datasets for testing
+1. **Migration scripts**: Version-controlled schema and data definitions (source of truth)
+2. **SQLite database**: Generated build artifact optimized for queries and analysis
+3. **JSON exports**: Generated files for distribution and compatibility
+
+**Important**: The `database/coins.db` file is treated as a **build artifact** and is not committed to git. Developers generate their local database by running the migration scripts.
 
 ### Validation and Quality Control
 
@@ -89,10 +91,19 @@ The SQLite database serves as the source of truth, with JSON files for version c
    uv add jsonschema
    ```
 
-3. **Verify installation:**
+3. **Generate the database:**
+   ```bash
+   # Generate local database from migration scripts
+   uv run python scripts/migrate_to_universal_v1_1.py
+   ```
+
+4. **Verify installation:**
    ```bash
    # Test that validation works
    uv run python scripts/validate.py
+   
+   # Verify database structure
+   uv run python scripts/check_db_structure.py
    ```
 
 ### Basic Usage

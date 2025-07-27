@@ -61,6 +61,7 @@ def create_universal_schema(conn):
         CREATE TABLE IF NOT EXISTS series_registry (
             series_id TEXT PRIMARY KEY,
             series_name TEXT NOT NULL,
+            series_abbreviation TEXT UNIQUE NOT NULL,  -- Unique 3-4 char abbreviation for ID generation
             country_code TEXT NOT NULL,
             denomination TEXT NOT NULL,
             start_year INTEGER NOT NULL,
@@ -333,6 +334,37 @@ def populate_known_subjects(conn):
     print(f"✓ Populated {len(subjects)} known subjects")
 
 
+def generate_unique_series_abbreviation(series_id, series_name, existing_abbreviations):
+    """Generate a unique abbreviation for a series."""
+    # Try different strategies in order of preference
+    
+    # Strategy 1: First 3 chars of series_id (uppercase, no underscores)
+    candidate = series_id.replace("_", "").upper()[:3] if series_id else "UNK"
+    if candidate not in existing_abbreviations and len(candidate) >= 3:
+        return candidate
+    
+    # Strategy 2: First letter of each major word in series_name
+    if series_name:
+        words = series_name.replace("-", " ").split()
+        # Take first letter of significant words (skip articles, prepositions)
+        skip_words = {"the", "of", "and", "a", "an", "in", "on", "at", "for", "with"}
+        significant_words = [w for w in words if w.lower() not in skip_words and len(w) > 1]
+        candidate = "".join(w[0].upper() for w in significant_words[:4])
+        if candidate not in existing_abbreviations and len(candidate) >= 3:
+            return candidate
+    
+    # Strategy 3: Add numeric suffix to base abbreviation
+    base = series_id.replace("_", "").upper()[:3] if series_id else "UNK"
+    for i in range(1, 100):
+        candidate = f"{base}{i}"
+        if candidate not in existing_abbreviations:
+            return candidate
+    
+    # Fallback: Generate unique ID
+    import uuid
+    return str(uuid.uuid4())[:4].upper()
+
+
 def generate_issue_id(country_code, series_abbrev, year, mint, variety=None):
     """Generate standardized issue ID."""
     base_id = f"{country_code}-{series_abbrev}-{year}"
@@ -387,14 +419,20 @@ def migrate_existing_data(conn):
     """)
     
     series_data = cursor.fetchall()
+    existing_abbreviations = set()
+    
     for series_id, series_name, start_year, end_year, denomination in series_data:
+        # Generate unique abbreviation for this series
+        abbreviation = generate_unique_series_abbreviation(series_id, series_name, existing_abbreviations)
+        existing_abbreviations.add(abbreviation)
+        
         cursor.execute("""
             INSERT OR REPLACE INTO series_registry 
-            (series_id, series_name, country_code, denomination, start_year, end_year, type)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
-        """, (series_id, series_name, "US", denomination, start_year, end_year, "coin"))
+            (series_id, series_name, series_abbreviation, country_code, denomination, start_year, end_year, type)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        """, (series_id, series_name, abbreviation, "US", denomination, start_year, end_year, "coin"))
     
-    print(f"✓ Migrated {len(series_data)} series to registry")
+    print(f"✓ Migrated {len(series_data)} series to registry with unique abbreviations")
     
     # Now migrate individual coin records to issues
     cursor.execute("SELECT * FROM coins ORDER BY year, mint")
@@ -407,8 +445,14 @@ def migrate_existing_data(conn):
          business_strikes, proof_strikes, rarity, composition, weight_grams,
          diameter_mm, varieties, source_citation, notes, created_at) = coin
         
-        # Generate issue ID
-        series_abbrev = series_id.replace("_", "").upper()[:3] if series_id else "UNK"
+        # Look up series abbreviation from registry
+        if series_id:
+            cursor.execute("SELECT series_abbreviation FROM series_registry WHERE series_id = ?", (series_id,))
+            result = cursor.fetchone()
+            series_abbrev = result[0] if result else "UNK"
+        else:
+            series_abbrev = "UNK"
+        
         issue_id = generate_issue_id("US", series_abbrev, year, mint or "P")
         
         # Map denomination to face value
@@ -503,6 +547,8 @@ def run_migration():
     
     # Connect to database
     conn = sqlite3.connect('database/coins.db')
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     
     try:
         # Create new schema

@@ -3,6 +3,7 @@ import sqlite3
 
 conn = sqlite3.connect('database/coins.db')
 cursor = conn.cursor()
+cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
 
 # Check current data
 cursor.execute('SELECT COUNT(*), unit_name FROM issues GROUP BY unit_name')

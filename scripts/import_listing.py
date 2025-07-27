@@ -11,6 +11,8 @@ import json
 class ListingMatcher:
     def __init__(self, db_path='database/coins.db'):
         self.conn = sqlite3.connect(db_path)
+        cursor = self.conn.cursor()
+        cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
         self.load_grade_mappings()
     
     def load_grade_mappings(self):

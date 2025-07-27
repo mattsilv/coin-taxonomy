@@ -12,6 +12,7 @@ def check_database_structure():
     """Check database schema and record count"""
     conn = sqlite3.connect('database/coins.db')
     cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     
     # Get table schema
     cursor.execute("PRAGMA table_info(coins)")
