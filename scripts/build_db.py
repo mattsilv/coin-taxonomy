@@ -166,6 +166,8 @@ def main():
     os.makedirs('database', exist_ok=True)
     
     conn = sqlite3.connect('database/coins.db')
+    cursor = conn.cursor()
+    cursor.execute('PRAGMA foreign_keys = ON;')  # Enable foreign key enforcement
     create_tables(conn)
     
     # Import data for each country

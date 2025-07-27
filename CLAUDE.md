@@ -44,21 +44,23 @@ ALWAYS use uv for Python dependency management:
 - Never use pip directly
 
 ## Data Source of Truth - CRITICAL WORKFLOW
-⚠️ **IMPORTANT**: The SQLite database (`database/coins.db`) is the SINGLE SOURCE OF TRUTH.
+⚠️ **IMPORTANT**: Migration scripts are the SINGLE SOURCE OF TRUTH for schema and data definitions.
 
 ### Workflow Rules:
-1. **NEVER edit JSON files directly** - they are generated outputs
-2. **ALL data changes** must be made via database operations
-3. **JSON files are generated** from database using `scripts/export_db.py`
+1. **Database is a build artifact** - not committed to git, generated from migration scripts
+2. **Migration scripts define everything** - schema, data, relationships (version controlled)
+3. **JSON exports are generated** from database using `scripts/export_db_v1_1.py`
 4. **Always run data integrity check** before/after changes: `uv run python scripts/data_integrity_check.py`
 
 ### Safe Change Process:
 1. Backup database: `cp database/coins.db backups/coins_backup_$(date +%Y%m%d_%H%M%S).db`
-2. Make changes via database scripts or SQL
-3. Run integrity check to verify
-4. Generate JSON files: `uv run python scripts/export_db.py`
-5. Commit both database and generated JSON files
+2. **Update migration scripts** for schema/data changes (never edit database directly)
+3. **Regenerate database**: `uv run python scripts/migrate_to_universal_v1_1.py`
+4. Run integrity check to verify
+5. Generate JSON files: `uv run python scripts/export_db_v1_1.py`
+6. **Commit migration scripts and JSON files** (never commit database)
 
 ### Emergency Restore:
 - JSON backups: `backups/json_files_*/`
 - Database backups: `backups/coins_backup_*.db`
+- **Regenerate from migration scripts** if database is lost (best practice)

@@ -41,3 +41,5 @@ coin_taxonomy_complete.json
 # Private documentation (not for public release)
 docs/private/
 docs/internal/
+
+.env

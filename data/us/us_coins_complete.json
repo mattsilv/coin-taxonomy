@@ -3,7 +3,7 @@
     "title": "United States Coin Taxonomy Database - Complete Edition",
     "description": "Comprehensive database of US coin series, mintages, varieties, and key dates",
     "version": "1.0",
-    "generated": "2025-07-27T00:16:41.194250",
+    "generated": "2025-07-27T00:19:34.494576",
     "source": "Compiled from PCGS CoinFacts, NGC, Red Book, US Mint records",
     "note": "This file combines all individual denomination files for convenience"
   },
@@ -2459,7 +2459,7 @@
     "denominations": 5,
     "total_series": 20,
     "total_coins": 99,
-    "generation_date": "2025-07-27T00:16:41.195813",
+    "generation_date": "2025-07-27T00:19:34.494931",
     "file_sources": [
       "cents.json",
       "dimes.json",

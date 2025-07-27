@@ -51,9 +51,11 @@ coin-taxonomy/
 
 The SQLite database serves as the source of truth, with JSON files for version control:
 
-1. **JSON files**: Human-readable, version-controlled source data
-2. **SQLite database**: Optimized for queries and analysis
-3. **Export scripts**: Generate comprehensive datasets for testing
+1. **Migration scripts**: Version-controlled schema and data definitions (source of truth)
+2. **SQLite database**: Generated build artifact optimized for queries and analysis
+3. **JSON exports**: Generated files for distribution and compatibility
+
+**Important**: The `database/coins.db` file is treated as a **build artifact** and is not committed to git. Developers generate their local database by running the migration scripts.
 
 ### Validation and Quality Control
 
@@ -89,10 +91,19 @@ The SQLite database serves as the source of truth, with JSON files for version c
    uv add jsonschema
    ```
 
-3. **Verify installation:**
+3. **Generate the database:**
+   ```bash
+   # Generate local database from migration scripts
+   uv run python scripts/migrate_to_universal_v1_1.py
+   ```
+
+4. **Verify installation:**
    ```bash
    # Test that validation works
    uv run python scripts/validate.py
+   
+   # Verify database structure
+   uv run python scripts/check_db_structure.py
    ```
 
 ### Basic Usage
@@ -112,9 +123,93 @@ uv run python scripts/calculate_melt.py
 
 # Export complete US taxonomy to single file
 uv run python scripts/export_us_complete.py
+
+# Generate both legacy and universal format exports
+uv run python scripts/export_db_v1_1.py
+
+# Run comprehensive data integrity check
+uv run python scripts/data_integrity_check.py
 ```
 
 ## Data Structure
+
+### Universal Currency Taxonomy (v1.1)
+
+As of v1.1, this project supports a **Universal Currency Taxonomy** that can accommodate coins and banknotes from any country and time period. The system uses a flat, normalized structure that replaces the previous nested format while maintaining full backward compatibility.
+
+#### Database-First Architecture
+
+The SQLite database (`database/coins.db`) serves as the **single source of truth**. All JSON exports are generated from the database:
+
+```
+database/coins.db (source of truth)
+    ↓ (export via scripts)
+data/us/coins/*.json (legacy format - backward compatibility)
+data/universal/*.json (new universal format)
+```
+
+#### Universal Tables
+
+The new v1.1 schema includes these core tables:
+
+**`issues` table**: Flat structure for all currency items
+- Universal issue IDs (e.g., `US-LWC-1909-S-VDB`)
+- Country-agnostic denomination and authority data
+- JSON fields for specifications, design details, mintage data
+
+**Registry Tables**: Normalized reference data
+- `subject_registry`: People, symbols, design elements (8 entries)
+- `composition_registry`: Alloy definitions (8 standard compositions)  
+- `series_registry`: Series metadata across all countries
+
+#### Dual Export Formats
+
+**Legacy Format** (`data/us/coins/*.json`): Preserves existing nested structure
+```json
+{
+  "country": "United States",
+  "denomination": "Cents",
+  "series": [
+    {
+      "series_name": "Lincoln Wheat Cent",
+      "coins": [...]
+    }
+  ]
+}
+```
+
+**Universal Format** (`data/universal/*.json`): New flat structure
+```json
+{
+  "country_code": "US", 
+  "total_issues": 97,
+  "issues": [
+    {
+      "issue_id": "US-LWC-1909-S-VDB",
+      "object_type": "coin",
+      "issuing_entity": {...},
+      "denomination": {...},
+      "specifications": {...}
+    }
+  ]
+}
+```
+
+#### Issue ID Generation
+
+The universal system uses human-readable, standardized issue IDs:
+
+**Format**: `{COUNTRY}-{SERIES_ABBREV}-{YEAR}-{MINT}[-{VARIETY}]`
+
+**Examples**:
+- `US-LWC-1909-S-VDB` - 1909-S VDB Lincoln Wheat Cent
+- `US-MD-1916-D` - 1916-D Mercury Dime  
+- `US-WQ-1932-D` - 1932-D Washington Quarter
+
+**Generation Logic**: 
+- Country code (ISO-style)
+- Series abbreviation (first 3 chars of series_id, uppercase)
+- Year, mint mark, optional variety identifier
 
 ### Complete Taxonomy File
 
@@ -168,8 +263,15 @@ Each coin entry contains:
 - **`validate.py`**: Validates all JSON files against schema
 - **`build_db.py`**: Builds SQLite database from JSON sources
 - **`migrate_db.py`**: Safely updates database schema
-- **`export_db.py`**: Exports database back to JSON files
+- **`export_db.py`**: Exports database back to JSON files (legacy format)
+- **`export_db_v1_1.py`**: Enhanced export with both legacy and universal formats
 - **`export_us_complete.py`**: Generates single comprehensive US taxonomy file
+
+### Migration Scripts (v1.1)
+
+- **`migrate_to_universal_v1_1.py`**: Complete migration to universal taxonomy
+- **`fix_face_values.py`**: Data correction utilities
+- **`data_integrity_check.py`**: Comprehensive validation and integrity checking
 
 ### Analysis Tools
 
@@ -195,9 +297,24 @@ This project follows strict data quality standards:
 3. **Key date verification**: Rarity classifications must be supported by market data
 4. **Composition accuracy**: Metal content must match official mint specifications
 
-### Expanding Beyond US Coins
+### For Developers
+
+See the **[Developer Contribution Guide](docs/CONTRIBUTING_DEVELOPERS.md)** for detailed information on:
+- Universal schema architecture and design patterns
+- Adding new currency data (coins and banknotes)
+- Database operations and safety procedures
+- Testing and validation processes
+- Code standards and best practices
+
+### For Numismatists  
 
 We welcome contributions to expand this taxonomy beyond United States coins. If you have expertise in coins from other countries and are interested in contributing to create a truly global numismatic taxonomy, please feel free to reach out.
+
+The v1.1 universal structure makes it straightforward to add:
+- **International currencies** from any country or time period
+- **Historical monetary systems** (pre-decimal, non-standard)
+- **Banknotes and paper currency** with minimal schema changes
+- **Complex authority relationships** (regime changes, successions)
 
 For project updates and related numismatic tools, visit: **[silv.app](https://www.silv.app)**
 

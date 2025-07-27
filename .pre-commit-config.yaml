@@ -1,0 +1,37 @@
+# Pre-commit hooks for coin-taxonomy
+# See https://pre-commit.com for more information
+repos:
+  - repo: local
+    hooks:
+      - id: export-database-to-json
+        name: Export database to JSON files
+        entry: uv run python scripts/export_db_v1_1.py
+        language: system
+        files: database/coins\.db$
+        pass_filenames: false
+        always_run: false
+        
+      - id: validate-json-exports
+        name: Validate JSON exports
+        entry: uv run python scripts/validate.py
+        language: system
+        files: data/.*\.json$
+        pass_filenames: false
+        always_run: false
+        
+      - id: data-integrity-check
+        name: Run data integrity check
+        entry: uv run python scripts/data_integrity_check.py
+        language: system
+        files: (database/coins\.db|scripts/migrate.*\.py)$
+        pass_filenames: false
+        always_run: false
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+      - id: check-merge-conflict
