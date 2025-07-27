@@ -2,6 +2,8 @@
 
 A comprehensive, structured database of US coin series, mintages, varieties, and key dates from 1859 to present.
 
+**🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface for collectors
+
 ## Project Goals
 
 The goal of this project is to create a **unified taxonomy structure** that enables AI systems to accurately classify coins and better connect buyers and sellers in the age of artificial intelligence. By providing standardized, machine-readable coin data with consistent identifiers and comprehensive metadata, this database serves as a foundation for:
