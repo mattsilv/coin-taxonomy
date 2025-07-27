@@ -1,0 +1,228 @@
+{
+  "format": "universal_currency_taxonomy_v1.1",
+  "description": "Sample universal issue records demonstrating the new flat structure. This shows how coins from any country can be cataloged using the normalized registry system.",
+  "version": "1.1",
+  "sample_count": 3,
+  "issues": [
+    {
+      "issue_id": "US-IND-1877-P",
+      "object_type": "coin",
+      "series_id": "indian_head_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "cent",
+        "common_names": ["penny", "cent"],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1877,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": 3.11,
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.55,
+        "edge": "plain",
+        "composition_key": "bronze_95_4_1"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "indian_head_cent_obverse_1877",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "liberty_native_american",
+            "subject_type": "allegorical_figure",
+            "description": "Liberty wearing Native American headdress"
+          },
+          "inscriptions": [
+            {"text": "UNITED STATES OF AMERICA", "position": "outer_ring"},
+            {"text": "LIBERTY", "position": "headband"},
+            {"text": "1877", "position": "bottom_right"}
+          ]
+        },
+        "reverse": {
+          "design_id": "indian_head_cent_reverse_1877",
+          "primary_element": {
+            "type": "botanical",
+            "subject_id": "oak_wreath",
+            "subject_type": "flora",
+            "description": "Oak wreath surrounding denomination"
+          },
+          "inscriptions": [
+            {"text": "ONE CENT", "position": "center"}
+          ]
+        }
+      },
+      "mintage": {
+        "business_strikes": 852500,
+        "proof_strikes": 510
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Famous key date - lowest mintage Indian Head cent"
+    },
+    {
+      "issue_id": "US-MD-1916-D",
+      "object_type": "coin", 
+      "series_id": "mercury_dime",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.10,
+        "unit_name": "dime",
+        "common_names": ["dime"],
+        "system_fraction": "1/10 dollar"
+      },
+      "issue_year": 1916,
+      "mint_id": "D",
+      "specifications": {
+        "weight_grams": 2.5,
+        "diameter_mm": 17.9,
+        "thickness_mm": 1.35,
+        "edge": "reeded",
+        "composition_key": "silver_90"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "mercury_dime_obverse_1916",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "liberty_winged",
+            "subject_type": "allegorical_figure",
+            "description": "Liberty wearing winged cap (often called Mercury)"
+          },
+          "inscriptions": [
+            {"text": "LIBERTY", "position": "left_field"},
+            {"text": "IN GOD WE TRUST", "position": "lower_left"},
+            {"text": "1916", "position": "lower_right"}
+          ],
+          "designer_id": "adolph_weinman"
+        },
+        "reverse": {
+          "design_id": "mercury_dime_reverse_1916",
+          "primary_element": {
+            "type": "heraldic",
+            "subject_id": "fasces_olive_branch",
+            "subject_type": "symbol",
+            "description": "Fasces with olive branch symbolizing strength and peace"
+          },
+          "inscriptions": [
+            {"text": "UNITED STATES OF AMERICA", "position": "top_arc"},
+            {"text": "E PLURIBUS UNUM", "position": "middle_left"},
+            {"text": "ONE DIME", "position": "bottom"}
+          ],
+          "designer_id": "adolph_weinman"
+        }
+      },
+      "mintage": {
+        "business_strikes": 264000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "King of Mercury dimes - extremely scarce first-year Denver issue"
+    },
+    {
+      "issue_id": "US-WQ-1943-P",
+      "object_type": "coin",
+      "series_id": "washington_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America", 
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "quarter",
+        "common_names": ["quarter", "quarter dollar"],
+        "system_fraction": "1/4 dollar"
+      },
+      "issue_year": 1943,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "thickness_mm": 1.75,
+        "edge": "reeded",
+        "composition_key": "silver_90"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "washington_quarter_obverse_1943",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "george_washington",
+            "subject_type": "historical_figure",
+            "description": "Left-facing bust of George Washington"
+          },
+          "inscriptions": [
+            {"text": "LIBERTY", "position": "left_arc"},
+            {"text": "IN GOD WE TRUST", "position": "lower_left"},
+            {"text": "1943", "position": "lower_right"}
+          ],
+          "designer_id": "john_flanagan"
+        },
+        "reverse": {
+          "design_id": "washington_quarter_reverse_1943",
+          "primary_element": {
+            "type": "heraldic",
+            "subject_id": "american_eagle",
+            "subject_type": "fauna",
+            "description": "Eagle with spread wings perched on bundle of arrows"
+          },
+          "inscriptions": [
+            {"text": "UNITED STATES OF AMERICA", "position": "top_arc"},
+            {"text": "E PLURIBUS UNUM", "position": "upper_ribbon"},
+            {"text": "QUARTER DOLLAR", "position": "bottom_arc"}
+          ],
+          "designer_id": "john_flanagan"
+        }
+      },
+      "mintage": {
+        "business_strikes": 99700000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "Red Book",
+      "notes": "Common wartime silver quarter"
+    }
+  ],
+  "registry_references": {
+    "subjects": {
+      "george_washington": "subject_registry.json",
+      "liberty_winged": "subject_registry.json",
+      "american_eagle": "subject_registry.json"
+    },
+    "compositions": {
+      "bronze_95_4_1": "composition_registry.json",
+      "silver_90": "composition_registry.json"
+    },
+    "series": {
+      "indian_head_cent": "series_registry.json",
+      "mercury_dime": "series_registry.json", 
+      "washington_quarter": "series_registry.json"
+    }
+  },
+  "notes": {
+    "issue_id_format": "{COUNTRY}-{SERIES_ABBREV}-{YEAR}-{MINT}[-{VARIETY}]",
+    "json_fields": [
+      "specifications: Physical dimensions and composition data",
+      "sides: Complete design descriptions with subject references",
+      "mintage: Production figures for business strikes and proofs",
+      "varieties: Array of known varieties and errors"
+    ],
+    "registry_system": "All subjects, compositions, and series reference standardized registry entries for consistency across countries and time periods"
+  }
+}
