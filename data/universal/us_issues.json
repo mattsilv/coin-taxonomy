@@ -22,13 +22,12 @@
       },
       "issue_year": 1864,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 4.67,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "indian_head_cent_obverse_1864",
           "primary_element": {
@@ -46,10 +45,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 39233714, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"IHC-1864-P-L-01\", \"name\": \"L on Ribbon\", \"description\": \"Designer's initial L on ribbon\", \"estimated_mintage\": null}]",
-      "notes": "Red Book"
+      "mintage": {
+        "business_strikes": 39233714,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "IHC-1864-P-L-01",
+          "name": "L on Ribbon",
+          "description": "Designer's initial L on ribbon",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "Red Book"
     },
     {
       "issue_id": "US-UNK-1867-P",
@@ -71,13 +80,12 @@
       },
       "issue_year": 1867,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 20.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "shield_nickel_obverse_1867",
           "primary_element": {
@@ -95,10 +103,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2019000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 2019000,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "With Rays variety"
     },
     {
       "issue_id": "US-UNK-1869-P",
@@ -120,13 +132,12 @@
       },
       "issue_year": 1869,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "indian_head_cent_obverse_1869",
           "primary_element": {
@@ -144,10 +155,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 6420000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"IHC-1869-P-99-01\", \"name\": \"9 over 9\", \"description\": \"1869/1869 9 over 9 overdate\", \"estimated_mintage\": null}]",
-      "notes": "Red Book"
+      "mintage": {
+        "business_strikes": 6420000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "IHC-1869-P-99-01",
+          "name": "9 over 9",
+          "description": "1869/1869 9 over 9 overdate",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "Red Book"
     },
     {
       "issue_id": "US-UNK-1877-P",
@@ -169,13 +190,12 @@
       },
       "issue_year": 1877,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 20.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "shield_nickel_obverse_1877",
           "primary_element": {
@@ -193,10 +213,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 510}",
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 510
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Proof-only issue"
     },
     {
       "issue_id": "US-UNK-1878-P",
@@ -218,13 +242,12 @@
       },
       "issue_year": 1878,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 20.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "shield_nickel_obverse_1878",
           "primary_element": {
@@ -242,10 +265,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 2350}",
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 2350
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Proof-only issue"
     },
     {
       "issue_id": "US-UNK-1879-CC",
@@ -267,13 +294,12 @@
       },
       "issue_year": 1879,
       "mint_id": "CC",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1879",
           "primary_element": {
@@ -291,10 +317,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 756000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 756000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Important Carson City issue"
     },
     {
       "issue_id": "US-UNK-1880-P",
@@ -316,13 +346,12 @@
       },
       "issue_year": 1880,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 20.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "shield_nickel_obverse_1880",
           "primary_element": {
@@ -340,10 +369,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 19995, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 19995,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest circulation mintage"
     },
     {
       "issue_id": "US-UNK-1883-P",
@@ -365,13 +398,12 @@
       },
       "issue_year": 1883,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "liberty_head_nickel_obverse_1883",
           "primary_element": {
@@ -389,10 +421,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 5479519, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LHN-1883-P-NC-01\", \"name\": \"No CENTS\", \"description\": \"Used in 'Racketeer' frauds\", \"estimated_mintage\": 5479519}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 5479519,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LHN-1883-P-NC-01",
+          "name": "No CENTS",
+          "description": "Used in 'Racketeer' frauds",
+          "estimated_mintage": 5479519
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1885-P",
@@ -414,13 +456,12 @@
       },
       "issue_year": 1885,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "liberty_head_nickel_obverse_1885",
           "primary_element": {
@@ -438,10 +479,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1476490, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1476490,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Primary key date"
     },
     {
       "issue_id": "US-UNK-1888-P",
@@ -463,13 +508,12 @@
       },
       "issue_year": 1888,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "indian_head_cent_obverse_1888",
           "primary_element": {
@@ -487,10 +531,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 37494414, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"IHC-1888-P-87-01\", \"name\": \"8 over 7\", \"description\": \"1888/1887 8 over 7 overdate\", \"estimated_mintage\": null}]",
-      "notes": "Red Book"
+      "mintage": {
+        "business_strikes": 37494414,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "IHC-1888-P-87-01",
+          "name": "8 over 7",
+          "description": "1888/1887 8 over 7 overdate",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "Red Book"
     },
     {
       "issue_id": "US-UNK-1889-CC",
@@ -512,13 +566,12 @@
       },
       "issue_year": 1889,
       "mint_id": "CC",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1889",
           "primary_element": {
@@ -536,10 +589,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 350000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 350000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second key date Carson City issue"
     },
     {
       "issue_id": "US-UNK-1892-P",
@@ -561,13 +618,12 @@
       },
       "issue_year": 1892,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_quarter_obverse_1892",
           "primary_element": {
@@ -585,10 +641,26 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 8237245, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"BQ-1892-P-T1-01\", \"name\": \"Type I\", \"description\": \"Eagle wing coverage differs from Type II\", \"estimated_mintage\": null}, {\"variety_id\": \"BQ-1892-P-T1-02\", \"name\": \"Type II\", \"description\": \"Modified eagle wing coverage\", \"estimated_mintage\": null}]",
-      "notes": "Red Book"
+      "mintage": {
+        "business_strikes": 8237245,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "BQ-1892-P-T1-01",
+          "name": "Type I",
+          "description": "Eagle wing coverage differs from Type II",
+          "estimated_mintage": null
+        },
+        {
+          "variety_id": "BQ-1892-P-T1-02",
+          "name": "Type II",
+          "description": "Modified eagle wing coverage",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "Red Book"
     },
     {
       "issue_id": "US-UNK-1893-S",
@@ -610,13 +682,12 @@
       },
       "issue_year": 1893,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1893",
           "primary_element": {
@@ -634,10 +705,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 100000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 100000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Absolute key date"
     },
     {
       "issue_id": "US-UNK-1894-P",
@@ -659,13 +734,12 @@
       },
       "issue_year": 1894,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1894",
           "primary_element": {
@@ -683,10 +757,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 110000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 110000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Philadelphia key"
     },
     {
       "issue_id": "US-UNK-1894-S",
@@ -708,13 +786,12 @@
       },
       "issue_year": 1894,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1894",
           "primary_element": {
@@ -732,10 +809,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 24}",
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 24
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million"
     },
     {
       "issue_id": "US-UNK-1895-O",
@@ -757,13 +838,12 @@
       },
       "issue_year": 1895,
       "mint_id": "O",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1895",
           "primary_element": {
@@ -781,10 +861,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 440000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 440000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest regular mintage"
     },
     {
       "issue_id": "US-UNK-1895-P",
@@ -806,13 +890,12 @@
       },
       "issue_year": 1895,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1895",
           "primary_element": {
@@ -830,10 +913,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 880}",
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 880
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Proofs only - No business strikes"
     },
     {
       "issue_id": "US-UNK-1895-S",
@@ -855,13 +942,12 @@
       },
       "issue_year": 1895,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1895",
           "primary_element": {
@@ -879,10 +965,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 400000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 400000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1896-S",
@@ -904,13 +993,12 @@
       },
       "issue_year": 1896,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1896",
           "primary_element": {
@@ -928,10 +1016,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 575056, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 575056,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Scarce in high grades"
     },
     {
       "issue_id": "US-UNK-1901-S",
@@ -953,13 +1045,12 @@
       },
       "issue_year": 1901,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1901",
           "primary_element": {
@@ -977,10 +1068,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 593022, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 593022,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1903-O",
@@ -1002,13 +1096,12 @@
       },
       "issue_year": 1903,
       "mint_id": "O",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "morgan_dollar_obverse_1903",
           "primary_element": {
@@ -1026,10 +1119,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 4450000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 4450000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Treasury Release coin"
     },
     {
       "issue_id": "US-UNK-1903-S",
@@ -1051,13 +1148,12 @@
       },
       "issue_year": 1903,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1903",
           "primary_element": {
@@ -1075,10 +1171,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 613300, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 613300,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1904-S",
@@ -1100,13 +1199,12 @@
       },
       "issue_year": 1904,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "barber_dime_obverse_1904",
           "primary_element": {
@@ -1124,10 +1222,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 800000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 800000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1908-S",
@@ -1149,13 +1250,12 @@
       },
       "issue_year": 1908,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "indian_head_cent_obverse_1908",
           "primary_element": {
@@ -1173,10 +1273,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1115000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1115000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Third lowest mintage, first San Francisco Indian cent"
     },
     {
       "issue_id": "US-UNK-1909-S",
@@ -1198,13 +1302,12 @@
       },
       "issue_year": 1909,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1909",
           "primary_element": {
@@ -1222,10 +1325,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 484000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LWC-1909-S-VDB-01\", \"name\": \"VDB\", \"description\": \"With designer initials VDB\", \"estimated_mintage\": 484000}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 484000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [
+        {
+          "variety_id": "LWC-1909-S-VDB-01",
+          "name": "VDB",
+          "description": "With designer initials VDB",
+          "estimated_mintage": 484000
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Holy Grail of Lincoln cents"
     },
     {
       "issue_id": "US-UNK-1912-S",
@@ -1247,13 +1361,12 @@
       },
       "issue_year": 1912,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "liberty_head_nickel_obverse_1912",
           "primary_element": {
@@ -1271,10 +1384,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 238000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 238000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest regular mintage"
     },
     {
       "issue_id": "US-UNK-1913-P",
@@ -1296,13 +1413,12 @@
       },
       "issue_year": 1913,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "liberty_head_nickel_obverse_1913",
           "primary_element": {
@@ -1320,10 +1436,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 5, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 5,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Clandestinely struck, worth millions"
     },
     {
       "issue_id": "US-UNK-1913-S",
@@ -1345,13 +1465,12 @@
       },
       "issue_year": 1913,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "buffalo_nickel_obverse_1913",
           "primary_element": {
@@ -1369,10 +1488,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1209000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1209000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Type 2, lowest regular mintage"
     },
     {
       "issue_id": "US-UNK-1914-D",
@@ -1394,13 +1517,12 @@
       },
       "issue_year": 1914,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1914",
           "primary_element": {
@@ -1418,10 +1540,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1193000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1193000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second most valuable regular issue"
     },
     {
       "issue_id": "US-UNK-1916-D",
@@ -1443,13 +1569,12 @@
       },
       "issue_year": 1916,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1916",
           "primary_element": {
@@ -1467,10 +1592,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 264000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 264000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "King of Mercury dimes"
     },
     {
       "issue_id": "US-UNK-1916-P",
@@ -1492,13 +1621,12 @@
       },
       "issue_year": 1916,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1916",
           "primary_element": {
@@ -1516,10 +1644,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 22180080, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 22180080,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-1916-S",
@@ -1541,13 +1672,12 @@
       },
       "issue_year": 1916,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1916",
           "primary_element": {
@@ -1565,10 +1695,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 10450000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 10450000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-1917-P",
@@ -1590,13 +1723,12 @@
       },
       "issue_year": 1917,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "standing_liberty_quarter_obverse_1917",
           "primary_element": {
@@ -1614,10 +1746,26 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 8792000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SLQ-1917-P-T1-01\", \"name\": \"Type I\", \"description\": \"Bare-breasted Liberty\", \"estimated_mintage\": 8792000}, {\"variety_id\": \"SLQ-1917-P-T1-02\", \"name\": \"Type II\", \"description\": \"Chain mail added\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 8792000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "SLQ-1917-P-T1-01",
+          "name": "Type I",
+          "description": "Bare-breasted Liberty",
+          "estimated_mintage": 8792000
+        },
+        {
+          "variety_id": "SLQ-1917-P-T1-02",
+          "name": "Type II",
+          "description": "Chain mail added",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1918-D",
@@ -1639,13 +1787,12 @@
       },
       "issue_year": 1918,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "buffalo_nickel_obverse_1918",
           "primary_element": {
@@ -1663,10 +1810,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 8362000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"BN-1918-D-87-01\", \"name\": \"8 over 7\", \"description\": \"1918/7-D Overdate - 8 stamped over 7\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 8362000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "BN-1918-D-87-01",
+          "name": "8 over 7",
+          "description": "1918/7-D Overdate - 8 stamped over 7",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1918-S",
@@ -1688,13 +1845,12 @@
       },
       "issue_year": 1918,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "standing_liberty_quarter_obverse_1918",
           "primary_element": {
@@ -1712,10 +1868,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 11072000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SLQ-1918-S-87-01\", \"name\": \"1918/7-S Overdate\", \"description\": \"8 over 7 overdate\", \"estimated_mintage\": 3000}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 11072000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "SLQ-1918-S-87-01",
+          "name": "1918/7-S Overdate",
+          "description": "8 over 7 overdate",
+          "estimated_mintage": 3000
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "~3,000 survivors of overdate"
     },
     {
       "issue_id": "US-UNK-1921-D",
@@ -1737,13 +1904,12 @@
       },
       "issue_year": 1921,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1921",
           "primary_element": {
@@ -1761,10 +1927,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1080000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1080000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second-lowest mintage"
     },
     {
       "issue_id": "US-UNK-1921-P",
@@ -1786,13 +1956,12 @@
       },
       "issue_year": 1921,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1921",
           "primary_element": {
@@ -1810,10 +1979,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1230000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1230000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1922-D",
@@ -1835,13 +2007,12 @@
       },
       "issue_year": 1922,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1922",
           "primary_element": {
@@ -1859,10 +2030,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 7160000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LWC-1922-D-NoD-01\", \"name\": \"No D\", \"description\": \"Error without mintmark\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 7160000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LWC-1922-D-NoD-01",
+          "name": "No D",
+          "description": "Error without mintmark",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1926-S",
@@ -1884,13 +2065,12 @@
       },
       "issue_year": 1926,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1926",
           "primary_element": {
@@ -1908,10 +2088,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1520000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1520000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Notorious for weak strikes"
     },
     {
       "issue_id": "US-UNK-1927-D",
@@ -1933,13 +2117,12 @@
       },
       "issue_year": 1927,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "peace_dollar_obverse_1927",
           "primary_element": {
@@ -1957,10 +2140,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1268900, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1268900,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Scarce despite higher mintage"
     },
     {
       "issue_id": "US-UNK-1927-S",
@@ -1982,13 +2169,12 @@
       },
       "issue_year": 1927,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "standing_liberty_quarter_obverse_1927",
           "primary_element": {
@@ -2006,10 +2192,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 396000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 396000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second lowest mintage"
     },
     {
       "issue_id": "US-UNK-1928-P",
@@ -2031,13 +2221,12 @@
       },
       "issue_year": 1928,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "peace_dollar_obverse_1928",
           "primary_element": {
@@ -2055,10 +2244,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 360649, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 360649,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Undisputed key date"
     },
     {
       "issue_id": "US-UNK-1931-D",
@@ -2080,13 +2273,12 @@
       },
       "issue_year": 1931,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1931",
           "primary_element": {
@@ -2104,10 +2296,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1260000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1260000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1931-S",
@@ -2129,13 +2324,12 @@
       },
       "issue_year": 1931,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1931",
           "primary_element": {
@@ -2153,10 +2347,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1800000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1800000,
+        "proof_strikes": 0
+      },
+      "rarity": "semi-key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-WAS-1932-D",
@@ -2178,13 +2375,12 @@
       },
       "issue_year": 1932,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "washington_quarter_obverse_1932",
           "primary_element": {
@@ -2202,10 +2398,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 436800, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 436800,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Rarest Washington quarter"
     },
     {
       "issue_id": "US-WAS-1932-S",
@@ -2227,13 +2427,12 @@
       },
       "issue_year": 1932,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 6.25,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "washington_quarter_obverse_1932",
           "primary_element": {
@@ -2251,10 +2450,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 408000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 408000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second rarest"
     },
     {
       "issue_id": "US-UNK-1934-S",
@@ -2276,13 +2479,12 @@
       },
       "issue_year": 1934,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 26.73,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "peace_dollar_obverse_1934",
           "primary_element": {
@@ -2300,10 +2502,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1011000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1011000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Second key date"
     },
     {
       "issue_id": "US-UNK-1937-D",
@@ -2325,13 +2531,12 @@
       },
       "issue_year": 1937,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "buffalo_nickel_obverse_1937",
           "primary_element": {
@@ -2349,10 +2554,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 17826000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"BN-1937-D-3L-01\", \"name\": \"3-Legged Buffalo\", \"description\": \"Famous variety with missing front leg\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 17826000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "BN-1937-D-3L-01",
+          "name": "3-Legged Buffalo",
+          "description": "Famous variety with missing front leg",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1942-D",
@@ -2374,13 +2589,12 @@
       },
       "issue_year": 1942,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1942",
           "primary_element": {
@@ -2398,10 +2612,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 60740000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"MD-1942-D-21-01\", \"name\": \"1942/1 Overdate\", \"description\": \"2 over 1 overdate variety\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 60740000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "MD-1942-D-21-01",
+          "name": "1942/1 Overdate",
+          "description": "2 over 1 overdate variety",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1942-P",
@@ -2423,13 +2647,12 @@
       },
       "issue_year": 1942,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1942",
           "primary_element": {
@@ -2447,10 +2670,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 205432329, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"MD-1942-P-21-01\", \"name\": \"1942/1 Overdate\", \"description\": \"2 over 1 overdate variety\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 205432329,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "MD-1942-P-21-01",
+          "name": "1942/1 Overdate",
+          "description": "2 over 1 overdate variety",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1943-P",
@@ -2472,13 +2705,12 @@
       },
       "issue_year": 1943,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.7,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1943",
           "primary_element": {
@@ -2496,10 +2728,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 684628670, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LWC-1943-P-Bronze-01\", \"name\": \"Bronze\", \"description\": \"Error struck in bronze instead of steel\", \"estimated_mintage\": 40}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 684628670,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LWC-1943-P-Bronze-01",
+          "name": "Bronze",
+          "description": "Error struck in bronze instead of steel",
+          "estimated_mintage": 40
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Bronze variety values $300,000-$2,000,000"
     },
     {
       "issue_id": "US-UNK-1944-P",
@@ -2521,13 +2764,12 @@
       },
       "issue_year": 1944,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1944",
           "primary_element": {
@@ -2545,10 +2787,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1435400000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LWC-1944-P-Steel-01\", \"name\": \"Steel\", \"description\": \"Error struck in steel instead of bronze\", \"estimated_mintage\": 27}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 1435400000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LWC-1944-P-Steel-01",
+          "name": "Steel",
+          "description": "Error struck in steel instead of bronze",
+          "estimated_mintage": 27
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1945-D",
@@ -2570,13 +2822,12 @@
       },
       "issue_year": 1945,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1945",
           "primary_element": {
@@ -2594,10 +2845,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 40245000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 40245000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-1945-P",
@@ -2619,13 +2873,12 @@
       },
       "issue_year": 1945,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1945",
           "primary_element": {
@@ -2643,10 +2896,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 159130000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 159130000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "Final year of Mercury dime"
     },
     {
       "issue_id": "US-UNK-1945-S",
@@ -2668,13 +2925,12 @@
       },
       "issue_year": 1945,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "mercury_dime_obverse_1945",
           "primary_element": {
@@ -2692,10 +2948,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 41920000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"MD-1945-S-Micro-01\", \"name\": \"Micro S\", \"description\": \"Smaller S mintmark variety\", \"estimated_mintage\": null}]",
-      "notes": "Red Book"
+      "mintage": {
+        "business_strikes": 41920000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "MD-1945-S-Micro-01",
+          "name": "Micro S",
+          "description": "Smaller S mintmark variety",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "Red Book",
+      "notes": "Final year micro S variety exists"
     },
     {
       "issue_id": "US-UNK-1946-D",
@@ -2717,13 +2984,12 @@
       },
       "issue_year": 1946,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1946",
           "primary_element": {
@@ -2741,10 +3007,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 61043500, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 61043500,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-1946-P",
@@ -2766,13 +3035,12 @@
       },
       "issue_year": 1946,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1946",
           "primary_element": {
@@ -2790,10 +3058,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 255250000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 255250000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "First year Roosevelt dime"
     },
     {
       "issue_id": "US-UNK-1946-S",
@@ -2815,13 +3087,12 @@
       },
       "issue_year": 1946,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1946",
           "primary_element": {
@@ -2839,10 +3110,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 27900000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 27900000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-1949-S",
@@ -2864,13 +3138,12 @@
       },
       "issue_year": 1949,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1949",
           "primary_element": {
@@ -2888,10 +3161,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 13510000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 13510000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest silver mintage"
     },
     {
       "issue_id": "US-UNK-1950-D",
@@ -2913,13 +3190,12 @@
       },
       "issue_year": 1950,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "jefferson_nickel_obverse_1950",
           "primary_element": {
@@ -2937,10 +3213,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2630030, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 2630030,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest mintage Jefferson nickel"
     },
     {
       "issue_id": "US-UNK-1955-P",
@@ -2962,13 +3242,12 @@
       },
       "issue_year": 1955,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_wheat_cent_obverse_1955",
           "primary_element": {
@@ -2986,10 +3265,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 330958200, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LWC-1955-P-DDO-01\", \"name\": \"Doubled Die Obverse\", \"description\": \"Dramatic doubling on obverse\", \"estimated_mintage\": 22000}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 330958200,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LWC-1955-P-DDO-01",
+          "name": "Doubled Die Obverse",
+          "description": "Dramatic doubling on obverse",
+          "estimated_mintage": 22000
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1964-D",
@@ -3011,13 +3300,12 @@
       },
       "issue_year": 1964,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1964",
           "primary_element": {
@@ -3035,10 +3323,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1357517180, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1357517180,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "Last silver dime, highest mintage dime ever"
     },
     {
       "issue_id": "US-UNK-1964-P",
@@ -3060,13 +3352,12 @@
       },
       "issue_year": 1964,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1964",
           "primary_element": {
@@ -3084,10 +3375,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 933310762, \"proof_strikes\": 3950762}",
+      "mintage": {
+        "business_strikes": 933310762,
+        "proof_strikes": 3950762
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "Final year of silver Roosevelt dime"
     },
     {
       "issue_id": "US-UNK-1965-P",
@@ -3109,13 +3404,12 @@
       },
       "issue_year": 1965,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.268,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1965",
           "primary_element": {
@@ -3133,10 +3427,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1652140570, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1652140570,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "First clad dime"
     },
     {
       "issue_id": "US-UNK-1968-S",
@@ -3158,13 +3456,12 @@
       },
       "issue_year": 1968,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.268,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1968",
           "primary_element": {
@@ -3182,10 +3479,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 3041509}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"RD-1968-S-NoS-01\", \"name\": \"No S Proof\", \"description\": \"Error proof without S mintmark\", \"estimated_mintage\": 21}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 3041509
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "RD-1968-S-NoS-01",
+          "name": "No S Proof",
+          "description": "Error proof without S mintmark",
+          "estimated_mintage": 21
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Values over $45,000"
     },
     {
       "issue_id": "US-UNK-1969-S",
@@ -3207,13 +3515,12 @@
       },
       "issue_year": 1969,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_memorial_cent_obverse_1969",
           "primary_element": {
@@ -3231,10 +3538,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 547309631, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LMC-1969-S-DDO-01\", \"name\": \"Doubled Die Obverse\", \"description\": \"Most valuable Memorial cent variety\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 547309631,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LMC-1969-S-DDO-01",
+          "name": "Doubled Die Obverse",
+          "description": "Most valuable Memorial cent variety",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "$126,500 record sale in 2005"
     },
     {
       "issue_id": "US-UNK-1971-S",
@@ -3256,13 +3574,12 @@
       },
       "issue_year": 1971,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.0,
         "diameter_mm": 21.2,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "jefferson_nickel_obverse_1971",
           "primary_element": {
@@ -3280,10 +3597,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 3220733}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"JN-1971-S-NoS-01\", \"name\": \"No S Proof\", \"description\": \"Error proof without S mintmark\", \"estimated_mintage\": 200}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 3220733
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "JN-1971-S-NoS-01",
+          "name": "No S Proof",
+          "description": "Error proof without S mintmark",
+          "estimated_mintage": 200
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1972-P",
@@ -3305,13 +3632,12 @@
       },
       "issue_year": 1972,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 3.11,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_memorial_cent_obverse_1972",
           "primary_element": {
@@ -3329,10 +3655,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2933255000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LMC-1972-P-DDO-01\", \"name\": \"Doubled Die Obverse\", \"description\": \"Strong doubling, MS65 examples reach $14,000+\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 2933255000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LMC-1972-P-DDO-01",
+          "name": "Doubled Die Obverse",
+          "description": "Strong doubling, MS65 examples reach $14,000+",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1973-D",
@@ -3354,13 +3690,12 @@
       },
       "issue_year": 1973,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 22.68,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "eisenhower_dollar_obverse_1973",
           "primary_element": {
@@ -3378,10 +3713,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1769258, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1769258,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest mintage"
     },
     {
       "issue_id": "US-UNK-1973-P",
@@ -3403,13 +3742,12 @@
       },
       "issue_year": 1973,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 22.68,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "eisenhower_dollar_obverse_1973",
           "primary_element": {
@@ -3427,10 +3765,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1769258, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1769258,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "PCGS CoinFacts"
+      "source_citation": "PCGS CoinFacts",
+      "notes": "Lowest mintage"
     },
     {
       "issue_id": "US-UNK-1975-S",
@@ -3452,13 +3794,12 @@
       },
       "issue_year": 1975,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.268,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1975",
           "primary_element": {
@@ -3476,10 +3817,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 2845450}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"RD-1975-S-NoS-01\", \"name\": \"No S Proof\", \"description\": \"Error proof without S mintmark\", \"estimated_mintage\": 2}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 2845450
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "RD-1975-S-NoS-01",
+          "name": "No S Proof",
+          "description": "Error proof without S mintmark",
+          "estimated_mintage": 2
+        }
+      ],
+      "source_citation": "PCGS CoinFacts",
+      "notes": "$456,000 record sale"
     },
     {
       "issue_id": "US-UNK-1976-P",
@@ -3501,13 +3853,12 @@
       },
       "issue_year": 1976,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 22.68,
         "diameter_mm": 38.1,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "eisenhower_dollar_obverse_1976",
           "primary_element": {
@@ -3525,10 +3876,26 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 117337000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"ED-1976-P-T1-01\", \"name\": \"Type 1\", \"description\": \"Bicentennial design Type 1\", \"estimated_mintage\": null}, {\"variety_id\": \"ED-1976-P-T1-02\", \"name\": \"Type 2\", \"description\": \"Bicentennial design Type 2\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 117337000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "ED-1976-P-T1-01",
+          "name": "Type 1",
+          "description": "Bicentennial design Type 1",
+          "estimated_mintage": null
+        },
+        {
+          "variety_id": "ED-1976-P-T1-02",
+          "name": "Type 2",
+          "description": "Bicentennial design Type 2",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1979-P",
@@ -3550,13 +3917,12 @@
       },
       "issue_year": 1979,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 8.1,
         "diameter_mm": 26.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "susan_b_anthony_dollar_obverse_1979",
           "primary_element": {
@@ -3574,10 +3940,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 360222000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SBA-1979-P-WR-01\", \"name\": \"Wide Rim\", \"description\": \"Scarce variety worth premium\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 360222000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "SBA-1979-P-WR-01",
+          "name": "Wide Rim",
+          "description": "Scarce variety worth premium",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1979-S",
@@ -3599,13 +3975,12 @@
       },
       "issue_year": 1979,
       "mint_id": "S",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 8.1,
         "diameter_mm": 26.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "susan_b_anthony_dollar_obverse_1979",
           "primary_element": {
@@ -3623,10 +3998,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 0, \"proof_strikes\": 3677175}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SBA-1979-S-T2-01\", \"name\": \"Type 2 Proof\", \"description\": \"Clear S, 15-20% of proofs\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 3677175
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "SBA-1979-S-T2-01",
+          "name": "Type 2 Proof",
+          "description": "Clear S, 15-20% of proofs",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1983-P",
@@ -3648,13 +4033,12 @@
       },
       "issue_year": 1983,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_memorial_cent_obverse_1983",
           "primary_element": {
@@ -3672,10 +4056,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 7752355000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LMC-1983-P-DDR-01\", \"name\": \"Doubled Die Reverse\", \"description\": \"Doubling on reverse inscriptions\", \"estimated_mintage\": null}]",
-      "notes": "PCGS CoinFacts"
+      "mintage": {
+        "business_strikes": 7752355000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LMC-1983-P-DDR-01",
+          "name": "Doubled Die Reverse",
+          "description": "Doubling on reverse inscriptions",
+          "estimated_mintage": null
+        }
+      ],
+      "source_citation": "PCGS CoinFacts"
     },
     {
       "issue_id": "US-UNK-1996-W",
@@ -3697,13 +4091,12 @@
       },
       "issue_year": 1996,
       "mint_id": "W",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.268,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_1996",
           "primary_element": {
@@ -3721,10 +4114,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 1457000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 1457000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "50th anniversary issue"
     },
     {
       "issue_id": "US-UNK-1999-P",
@@ -3746,13 +4143,12 @@
       },
       "issue_year": 1999,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 8.1,
         "diameter_mm": 26.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "susan_b_anthony_dollar_obverse_1999",
           "primary_element": {
@@ -3770,10 +4166,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 29592000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 29592000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "Stopgap before Sacagawea"
     },
     {
       "issue_id": "US-WAS-1999-P",
@@ -3795,13 +4195,12 @@
       },
       "issue_year": 1999,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.67,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "washington_quarter_obverse_1999",
           "primary_element": {
@@ -3819,10 +4218,21 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 373400000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"WQ-1999-P-DE-01\", \"name\": \"Delaware\", \"description\": \"First state quarter - Delaware reverse\", \"estimated_mintage\": 373400000}]",
-      "notes": "US Mint records"
+      "mintage": {
+        "business_strikes": 373400000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "WQ-1999-P-DE-01",
+          "name": "Delaware",
+          "description": "First state quarter - Delaware reverse",
+          "estimated_mintage": 373400000
+        }
+      ],
+      "source_citation": "US Mint records",
+      "notes": "State Quarters program begins - Delaware"
     },
     {
       "issue_id": "US-UNK-2000-D",
@@ -3844,13 +4254,12 @@
       },
       "issue_year": 2000,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 8.1,
         "diameter_mm": 26.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "sacagawea_dollar_obverse_2000",
           "primary_element": {
@@ -3868,10 +4277,13 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 518916000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 518916000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-2000-P",
@@ -3893,13 +4305,12 @@
       },
       "issue_year": 2000,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 8.1,
         "diameter_mm": 26.5,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "sacagawea_dollar_obverse_2000",
           "primary_element": {
@@ -3917,10 +4328,26 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 767140000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"SAC-2000-P-Cheerios-01\", \"name\": \"Cheerios Dollars\", \"description\": \"~5,500 with detailed tail feathers\", \"estimated_mintage\": 5500}, {\"variety_id\": \"SAC-2000-P-Cheerios-02\", \"name\": \"Goodacre Presentation\", \"description\": \"5,000 special pieces\", \"estimated_mintage\": 5000}]",
-      "notes": "US Mint records"
+      "mintage": {
+        "business_strikes": 767140000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "SAC-2000-P-Cheerios-01",
+          "name": "Cheerios Dollars",
+          "description": "~5,500 with detailed tail feathers",
+          "estimated_mintage": 5500
+        },
+        {
+          "variety_id": "SAC-2000-P-Cheerios-02",
+          "name": "Goodacre Presentation",
+          "description": "5,000 special pieces",
+          "estimated_mintage": 5000
+        }
+      ],
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-2009-D",
@@ -3942,13 +4369,12 @@
       },
       "issue_year": 2009,
       "mint_id": "D",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.268,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "roosevelt_dime_obverse_2009",
           "primary_element": {
@@ -3966,10 +4392,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 49500000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 49500000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "Lowest clad mintage"
     },
     {
       "issue_id": "US-UNK-2009-P",
@@ -3991,13 +4421,12 @@
       },
       "issue_year": 2009,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_bicentennial_cent_obverse_2009",
           "primary_element": {
@@ -4015,10 +4444,20 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 284800000, \"proof_strikes\": 0}",
-      "varieties": [],
-      "source_citation": "[{\"variety_id\": \"LBC-2009-P-Birth-01\", \"name\": \"Birth and Early Childhood\", \"description\": \"2009 Bicentennial - Birth and Early Childhood reverse\", \"estimated_mintage\": 284800000}]",
-      "notes": "US Mint records"
+      "mintage": {
+        "business_strikes": 284800000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [
+        {
+          "variety_id": "LBC-2009-P-Birth-01",
+          "name": "Birth and Early Childhood",
+          "description": "2009 Bicentennial - Birth and Early Childhood reverse",
+          "estimated_mintage": 284800000
+        }
+      ],
+      "source_citation": "US Mint records"
     },
     {
       "issue_id": "US-UNK-2017-P",
@@ -4040,13 +4479,12 @@
       },
       "issue_year": 2017,
       "mint_id": "P",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_shield_cent_obverse_2017",
           "primary_element": {
@@ -4064,10 +4502,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 4040000000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 4040000000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "First P mintmark on cents since wartime"
     },
     {
       "issue_id": "US-UNK-2019-W",
@@ -4089,13 +4531,12 @@
       },
       "issue_year": 2019,
       "mint_id": "W",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 2.5,
         "diameter_mm": 19.05,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "lincoln_shield_cent_obverse_2019",
           "primary_element": {
@@ -4113,10 +4554,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2000000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 2000000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "First W mintmark on cents"
     },
     {
       "issue_id": "US-WAS-2019-W",
@@ -4138,13 +4583,12 @@
       },
       "issue_year": 2019,
       "mint_id": "W",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.67,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "washington_quarter_obverse_2019",
           "primary_element": {
@@ -4162,10 +4606,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2000000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 2000000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "First W mint quarters - various designs, 2 million each"
     },
     {
       "issue_id": "US-WAS-2020-W",
@@ -4187,13 +4635,12 @@
       },
       "issue_year": 2020,
       "mint_id": "W",
-      "specifications": {},
-      "sides": {
+      "specifications": {
         "weight_grams": 5.67,
         "diameter_mm": 24.3,
         "edge": "plain"
       },
-      "mintage": {
+      "sides": {
         "obverse": {
           "design_id": "washington_quarter_obverse_2020",
           "primary_element": {
@@ -4211,10 +4658,14 @@
           }
         }
       },
-      "rarity": "{\"business_strikes\": 2000000, \"proof_strikes\": 0}",
+      "mintage": {
+        "business_strikes": 2000000,
+        "proof_strikes": 0
+      },
+      "rarity": null,
       "varieties": [],
-      "source_citation": "[]",
-      "notes": "US Mint records"
+      "source_citation": "US Mint records",
+      "notes": "W mint quarters continue - various designs, 2 million each"
     }
   ]
 }

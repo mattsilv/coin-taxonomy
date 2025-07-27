@@ -297,11 +297,11 @@ def export_issues_by_country(conn, output_dir):
                 },
                 'issue_year': row[11],
                 'mint_id': row[12],
-                'specifications': safe_json_loads(row[15], {}),
-                'sides': safe_json_loads(row[16], {}),
-                'mintage': safe_json_loads(row[17], {}),
-                'rarity': row[18],
-                'varieties': safe_json_loads(row[19], [])
+                'specifications': safe_json_loads(row[16], {}),
+                'sides': safe_json_loads(row[17], {}),
+                'mintage': safe_json_loads(row[18], {}),
+                'rarity': row[19],
+                'varieties': safe_json_loads(row[20], [])
             }
             
             # Add optional fields
@@ -309,10 +309,10 @@ def export_issues_by_country(conn, output_dir):
                 issue['date_range_start'] = row[13]
             if row[14]:  # date_range_end
                 issue['date_range_end'] = row[14]
-            if row[20]:  # source_citation
-                issue['source_citation'] = row[20]
-            if row[21]:  # notes
-                issue['notes'] = row[21]
+            if row[21]:  # source_citation
+                issue['source_citation'] = row[21]
+            if row[22]:  # notes
+                issue['notes'] = row[22]
             
             issues.append(issue)
         

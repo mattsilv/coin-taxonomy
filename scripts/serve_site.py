@@ -46,14 +46,15 @@ def kill_processes_on_port(port):
 
 def serve_site(port=8000, auto_port=True, kill_existing=False):
     """Serve the GitHub Pages site locally"""
-    # Change to docs directory
-    docs_dir = Path(__file__).parent.parent / "docs"
+    # Change to project root directory (not docs) so we can access data/
+    project_root = Path(__file__).parent.parent
+    docs_dir = project_root / "docs"
     
     if not docs_dir.exists():
         print("❌ docs/ directory not found")
         sys.exit(1)
         
-    os.chdir(docs_dir)
+    os.chdir(project_root)
     
     # Handle port conflicts
     if kill_existing:
@@ -68,8 +69,26 @@ def serve_site(port=8000, auto_port=True, kill_existing=False):
             sys.exit(1)
         port = available_port
     
-    # Start server
-    Handler = http.server.SimpleHTTPRequestHandler
+    # Create custom handler that serves docs/ as root but allows data/ access
+    class CustomHandler(http.server.SimpleHTTPRequestHandler):
+        def translate_path(self, path):
+            # Remove leading slash and decode
+            path = path.strip('/')
+            
+            # If requesting data, serve from project root
+            if path.startswith('data/'):
+                return str(project_root / path)
+            
+            # If requesting docs content or root, serve from docs/
+            if path == '' or path == 'index.html':
+                return str(docs_dir / 'index.html')
+            elif path.startswith('docs/'):
+                return str(project_root / path)
+            else:
+                # Everything else from docs/
+                return str(docs_dir / path)
+    
+    Handler = CustomHandler
     
     try:
         with socketserver.TCPServer(("", port), Handler) as httpd:

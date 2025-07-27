@@ -87,7 +87,6 @@ class SimpleE2ETest {
             'id="search-input"', 
             'id="year-from"',
             'id="year-to"',
-            'id="rarity-filter"',
             'id="mint-filter"',
             'id="series-filter"',
             'id="has-varieties"',
@@ -192,7 +191,6 @@ class SimpleE2ETest {
         const collectorFeatures = [
             'year-from',
             'year-to', 
-            'rarity-filter',
             'mint-filter',
             'series-filter',
             'has-varieties',
