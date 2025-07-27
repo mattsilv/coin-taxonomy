@@ -163,6 +163,27 @@ class SimpleE2ETest {
         this.assert(firstIssue.issuing_entity && firstIssue.issuing_entity.country_code, 'country_code missing');
     }
 
+    async testFunctionalIntegration() {
+        const jsPath = path.join(process.cwd(), 'docs/app.js');
+        const js = fs.readFileSync(jsPath, 'utf8');
+
+        // Test that site loads US data by default
+        this.assert(js.includes('Auto-load US data by default'), 'Site should auto-load US data');
+        this.assert(js.includes('await this.loadCountryData'), 'Auto-load mechanism missing');
+        
+        // Test that countries dropdown is populated
+        this.assert(js.includes('United States'), 'US not in countries list');
+        this.assert(js.includes('us_issues.json'), 'US data file not referenced');
+        
+        // Test error handling for missing data
+        this.assert(js.includes('showError'), 'Error handling missing');
+        this.assert(js.includes('console.error'), 'Error logging missing');
+        
+        // Verify data structure expectations
+        this.assert(js.includes('data.issues'), 'Issues array not expected in data structure');
+        this.assert(js.includes('this.data = data.issues'), 'Data assignment missing');
+    }
+
     async testCollectorFeatures() {
         const jsPath = path.join(process.cwd(), 'docs/app.js');
         const js = fs.readFileSync(jsPath, 'utf8');
@@ -223,6 +244,7 @@ async function main() {
     tester.test('HTML structure is valid', () => tester.testHTMLStructure());
     tester.test('JavaScript syntax is valid', () => tester.testJavaScriptSyntax());
     tester.test('JSON data integrity', () => tester.testJSONDataIntegrity());
+    tester.test('Functional integration works', () => tester.testFunctionalIntegration());
     tester.test('Collector features present', () => tester.testCollectorFeatures());
     tester.test('CSV functionality implemented', () => tester.testCSVFunctionality());
     
