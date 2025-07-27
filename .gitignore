@@ -35,6 +35,9 @@ uv.lock
 coin_taxonomy_complete.json
 *_complete.json
 
+# Allow our official complete taxonomy file in source control
+!data/us/us_coins_complete.json
+
 # Private documentation (not for public release)
 docs/private/
 docs/internal/

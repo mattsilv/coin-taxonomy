@@ -1,0 +1,2471 @@
+{
+  "metadata": {
+    "title": "United States Coin Taxonomy Database - Complete Edition",
+    "description": "Comprehensive database of US coin series, mintages, varieties, and key dates",
+    "version": "1.0",
+    "generated": "2025-07-27T00:16:41.194250",
+    "source": "Compiled from PCGS CoinFacts, NGC, Red Book, US Mint records",
+    "note": "This file combines all individual denomination files for convenience"
+  },
+  "country": "US",
+  "denominations": {
+    "Cents": {
+      "face_value": 0.01,
+      "series": [
+        {
+          "series_id": "indian_head_cent",
+          "series_name": "Indian Head Cent",
+          "official_name": "Indian Head Cent",
+          "years": {
+            "start": 1859,
+            "end": 1909
+          },
+          "specifications": {
+            "diameter_mm": 19.05,
+            "thickness_mm": 1.52,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1859,
+                "end": 1864
+              },
+              "alloy_name": "Copper-Nickel (Indian Head)",
+              "alloy": {
+                "copper": 0.88,
+                "nickel": 0.12
+              },
+              "weight": {
+                "grams": 4.67
+              }
+            },
+            {
+              "date_range": {
+                "start": 1864,
+                "end": 1909
+              },
+              "alloy_name": "Bronze",
+              "alloy": {
+                "copper": 0.95,
+                "tin": 0.04,
+                "zinc": 0.01
+              },
+              "weight": {
+                "grams": 3.11
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "IHC-1864-P-L",
+              "year": 1864,
+              "mint": "P",
+              "business_strikes": 39233714,
+              "proof_strikes": null,
+              "source_citation": "Red Book",
+              "varieties": [
+                {
+                  "variety_id": "IHC-1864-P-L-01",
+                  "name": "L on Ribbon",
+                  "description": "Designer's initial L on ribbon",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "IHC-1869-P-99",
+              "year": 1869,
+              "mint": "P",
+              "business_strikes": 6420000,
+              "proof_strikes": null,
+              "source_citation": "Red Book",
+              "varieties": [
+                {
+                  "variety_id": "IHC-1869-P-99-01",
+                  "name": "9 over 9",
+                  "description": "1869/1869 9 over 9 overdate",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "IHC-1877-P",
+              "year": 1877,
+              "mint": "P",
+              "business_strikes": 852500,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Ultimate key date, extremely low mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "IHC-1888-P-87",
+              "year": 1888,
+              "mint": "P",
+              "business_strikes": 37494414,
+              "proof_strikes": null,
+              "source_citation": "Red Book",
+              "varieties": [
+                {
+                  "variety_id": "IHC-1888-P-87-01",
+                  "name": "8 over 7",
+                  "description": "1888/1887 8 over 7 overdate",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "IHC-1908-S",
+              "year": 1908,
+              "mint": "S",
+              "business_strikes": 1115000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Third lowest mintage, first San Francisco Indian cent",
+              "varieties": []
+            },
+            {
+              "coin_id": "IHC-1909-S",
+              "year": 1909,
+              "mint": "S",
+              "business_strikes": 309000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage of series, final year",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "James B. Longacre",
+            "reverse": "James B. Longacre"
+          }
+        },
+        {
+          "series_id": "lincoln_wheat_cent",
+          "series_name": "Lincoln Wheat Cent",
+          "official_name": "Lincoln Wheat Cent",
+          "years": {
+            "start": 1909,
+            "end": 1958
+          },
+          "specifications": {
+            "diameter_mm": 19.05,
+            "thickness_mm": 1.55,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1909,
+                "end": 1942
+              },
+              "alloy_name": "Bronze",
+              "alloy": {
+                "copper": 0.95,
+                "tin": 0.04,
+                "zinc": 0.01
+              },
+              "weight": {
+                "grams": 3.11
+              }
+            },
+            {
+              "date_range": {
+                "start": 1943,
+                "end": 1943
+              },
+              "alloy_name": "Steel with Zinc Coating",
+              "alloy": {
+                "steel": 0.99,
+                "zinc_coating": 0.01
+              },
+              "weight": {
+                "grams": 2.7
+              }
+            },
+            {
+              "date_range": {
+                "start": 1944,
+                "end": 1958
+              },
+              "alloy_name": "Brass",
+              "alloy": {
+                "copper": 0.95,
+                "zinc": 0.05
+              },
+              "weight": {
+                "grams": 3.11
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "LWC-1909-S-VDB",
+              "year": 1909,
+              "mint": "S",
+              "business_strikes": 484000,
+              "proof_strikes": 0,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Holy Grail of Lincoln cents",
+              "varieties": [
+                {
+                  "variety_id": "LWC-1909-S-VDB-01",
+                  "name": "VDB",
+                  "description": "With designer initials VDB",
+                  "estimated_mintage": 484000
+                }
+              ]
+            },
+            {
+              "coin_id": "LWC-1914-D",
+              "year": 1914,
+              "mint": "D",
+              "business_strikes": 1193000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second most valuable regular issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "LWC-1922-D-NoD",
+              "year": 1922,
+              "mint": "D",
+              "business_strikes": 7160000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LWC-1922-D-NoD-01",
+                  "name": "No D",
+                  "description": "Error without mintmark",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "LWC-1931-S",
+              "year": 1931,
+              "mint": "S",
+              "business_strikes": 866000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Great Depression era rarity",
+              "varieties": []
+            },
+            {
+              "coin_id": "LWC-1943-P-Bronze",
+              "year": 1943,
+              "mint": "P",
+              "business_strikes": 684628670,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Bronze variety values $300,000-$2,000,000",
+              "varieties": [
+                {
+                  "variety_id": "LWC-1943-P-Bronze-01",
+                  "name": "Bronze",
+                  "description": "Error struck in bronze instead of steel",
+                  "estimated_mintage": 40
+                }
+              ]
+            },
+            {
+              "coin_id": "LWC-1944-P-Steel",
+              "year": 1944,
+              "mint": "P",
+              "business_strikes": 1435400000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LWC-1944-P-Steel-01",
+                  "name": "Steel",
+                  "description": "Error struck in steel instead of bronze",
+                  "estimated_mintage": 27
+                }
+              ]
+            },
+            {
+              "coin_id": "LWC-1955-P-DDO",
+              "year": 1955,
+              "mint": "P",
+              "business_strikes": 330958200,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LWC-1955-P-DDO-01",
+                  "name": "Doubled Die Obverse",
+                  "description": "Dramatic doubling on obverse",
+                  "estimated_mintage": 22000
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Victor David Brenner",
+            "reverse": "Victor David Brenner"
+          }
+        },
+        {
+          "series_id": "lincoln_memorial_cent",
+          "series_name": "Lincoln Memorial Cent",
+          "official_name": "Lincoln Memorial Cent",
+          "years": {
+            "start": 1959,
+            "end": 2008
+          },
+          "specifications": {
+            "diameter_mm": 19.05,
+            "thickness_mm": 1.55,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1959,
+                "end": 1962
+              },
+              "alloy_name": "Bronze",
+              "alloy": {
+                "copper": 0.95,
+                "tin": 0.04,
+                "zinc": 0.01
+              },
+              "weight": {
+                "grams": 3.11
+              }
+            },
+            {
+              "date_range": {
+                "start": 1962,
+                "end": 1982
+              },
+              "alloy_name": "Brass",
+              "alloy": {
+                "copper": 0.95,
+                "zinc": 0.05
+              },
+              "weight": {
+                "grams": 3.11
+              }
+            },
+            {
+              "date_range": {
+                "start": 1982,
+                "end": 2008
+              },
+              "alloy_name": "Copper-Plated Zinc",
+              "alloy": {
+                "zinc": 0.975,
+                "copper": 0.025
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "LMC-1969-S-DDO",
+              "year": 1969,
+              "mint": "S",
+              "business_strikes": 547309631,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "$126,500 record sale in 2005",
+              "varieties": [
+                {
+                  "variety_id": "LMC-1969-S-DDO-01",
+                  "name": "Doubled Die Obverse",
+                  "description": "Most valuable Memorial cent variety",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "LMC-1972-P-DDO",
+              "year": 1972,
+              "mint": "P",
+              "business_strikes": 2933255000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LMC-1972-P-DDO-01",
+                  "name": "Doubled Die Obverse",
+                  "description": "Strong doubling, MS65 examples reach $14,000+",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "LMC-1983-P-DDR",
+              "year": 1983,
+              "mint": "P",
+              "business_strikes": 7752355000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LMC-1983-P-DDR-01",
+                  "name": "Doubled Die Reverse",
+                  "description": "Doubling on reverse inscriptions",
+                  "estimated_mintage": null
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Victor David Brenner",
+            "reverse": "Frank Gasparro"
+          }
+        },
+        {
+          "series_id": "lincoln_bicentennial_cent",
+          "series_name": "Lincoln Bicentennial Cent",
+          "official_name": "Lincoln Bicentennial Cent",
+          "years": {
+            "start": 2009,
+            "end": 2009
+          },
+          "specifications": {
+            "diameter_mm": 19.05,
+            "thickness_mm": 1.55,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 2009,
+                "end": 2009
+              },
+              "alloy_name": "Copper-Plated Zinc",
+              "alloy": {
+                "zinc": 0.975,
+                "copper": 0.025
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "LBC-2009-D-Birth",
+              "year": 2009,
+              "mint": "D",
+              "business_strikes": 350400000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": [
+                {
+                  "variety_id": "LBC-2009-D-Birth-01",
+                  "name": "Birth and Early Childhood",
+                  "description": "2009 Bicentennial - Birth and Early Childhood reverse",
+                  "estimated_mintage": 350400000
+                }
+              ]
+            },
+            {
+              "coin_id": "LBC-2009-P-Birth",
+              "year": 2009,
+              "mint": "P",
+              "business_strikes": 284800000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": [
+                {
+                  "variety_id": "LBC-2009-P-Birth-01",
+                  "name": "Birth and Early Childhood",
+                  "description": "2009 Bicentennial - Birth and Early Childhood reverse",
+                  "estimated_mintage": 284800000
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Victor David Brenner",
+            "reverse": "Various (4 designers)"
+          }
+        },
+        {
+          "series_id": "lincoln_shield_cent",
+          "series_name": "Lincoln Shield Cent",
+          "official_name": "Lincoln Shield Cent",
+          "years": {
+            "start": 2010,
+            "end": 2024
+          },
+          "specifications": {
+            "diameter_mm": 19.05,
+            "thickness_mm": 1.55,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 2010,
+                "end": 2024
+              },
+              "alloy_name": "Copper-Plated Zinc",
+              "alloy": {
+                "zinc": 0.975,
+                "copper": 0.025
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "LSC-2017-P",
+              "year": 2017,
+              "mint": "P",
+              "business_strikes": 4040000000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "First P mintmark on cents since wartime",
+              "varieties": []
+            },
+            {
+              "coin_id": "LSC-2019-W",
+              "year": 2019,
+              "mint": "W",
+              "business_strikes": 2000000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "First W mintmark on cents",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Victor David Brenner",
+            "reverse": "Lyndall Bass"
+          }
+        }
+      ]
+    },
+    "Dimes": {
+      "face_value": 0.1,
+      "series": [
+        {
+          "series_id": "barber_dime",
+          "series_name": "Barber Dime",
+          "official_name": "Barber Dime",
+          "years": {
+            "start": 1892,
+            "end": 1916
+          },
+          "specifications": {
+            "diameter_mm": 17.9,
+            "thickness_mm": 1.35,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1892,
+                "end": 1916
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "BD-1894-S",
+              "year": 1894,
+              "mint": "S",
+              "business_strikes": 0,
+              "proof_strikes": 24,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million",
+              "varieties": []
+            },
+            {
+              "coin_id": "BD-1895-O",
+              "year": 1895,
+              "mint": "O",
+              "business_strikes": 440000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest regular mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "BD-1896-S",
+              "year": 1896,
+              "mint": "S",
+              "business_strikes": 575056,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Scarce in high grades",
+              "varieties": []
+            },
+            {
+              "coin_id": "BD-1901-S",
+              "year": 1901,
+              "mint": "S",
+              "business_strikes": 593022,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "BD-1903-S",
+              "year": 1903,
+              "mint": "S",
+              "business_strikes": 613300,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "BD-1904-S",
+              "year": 1904,
+              "mint": "S",
+              "business_strikes": 800000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Charles E. Barber",
+            "reverse": "Charles E. Barber"
+          }
+        },
+        {
+          "series_id": "mercury_dime",
+          "series_name": "Mercury Dime",
+          "official_name": "Winged Liberty Head Dime",
+          "years": {
+            "start": 1916,
+            "end": 1945
+          },
+          "specifications": {
+            "diameter_mm": 17.9,
+            "thickness_mm": 1.35,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1916,
+                "end": 1945
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "MD-1916-D",
+              "year": 1916,
+              "mint": "D",
+              "business_strikes": 264000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "King of Mercury dimes",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1916-P",
+              "year": 1916,
+              "mint": "P",
+              "business_strikes": 22180080,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1916-S",
+              "year": 1916,
+              "mint": "S",
+              "business_strikes": 10450000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1921-D",
+              "year": 1921,
+              "mint": "D",
+              "business_strikes": 1080000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second-lowest mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1921-P",
+              "year": 1921,
+              "mint": "P",
+              "business_strikes": 1230000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1926-S",
+              "year": 1926,
+              "mint": "S",
+              "business_strikes": 1520000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Notorious for weak strikes",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1931-D",
+              "year": 1931,
+              "mint": "D",
+              "business_strikes": 1260000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1931-S",
+              "year": 1931,
+              "mint": "S",
+              "business_strikes": 1800000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1942-D-21",
+              "year": 1942,
+              "mint": "D",
+              "business_strikes": 60740000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "MD-1942-D-21-01",
+                  "name": "1942/1 Overdate",
+                  "description": "2 over 1 overdate variety",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "MD-1942-P-21",
+              "year": 1942,
+              "mint": "P",
+              "business_strikes": 205432329,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "MD-1942-P-21-01",
+                  "name": "1942/1 Overdate",
+                  "description": "2 over 1 overdate variety",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "MD-1945-D",
+              "year": 1945,
+              "mint": "D",
+              "business_strikes": 40245000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1945-P",
+              "year": 1945,
+              "mint": "P",
+              "business_strikes": 159130000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "Final year of Mercury dime",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1945-S-Micro",
+              "year": 1945,
+              "mint": "S",
+              "business_strikes": 41920000,
+              "proof_strikes": null,
+              "source_citation": "Red Book",
+              "notes": "Final year micro S variety exists",
+              "varieties": [
+                {
+                  "variety_id": "MD-1945-S-Micro-01",
+                  "name": "Micro S",
+                  "description": "Smaller S mintmark variety",
+                  "estimated_mintage": null
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Adolph A. Weinman",
+            "reverse": "Adolph A. Weinman"
+          }
+        },
+        {
+          "series_id": "roosevelt_dime",
+          "series_name": "Roosevelt Dime",
+          "official_name": "Roosevelt Dime",
+          "years": {
+            "start": 1946,
+            "end": 2024
+          },
+          "specifications": {
+            "diameter_mm": 17.9,
+            "thickness_mm": 1.35,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1946,
+                "end": 1964
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 2.5
+              }
+            },
+            {
+              "date_range": {
+                "start": 1965,
+                "end": 2024
+              },
+              "alloy_name": "Copper-Nickel Clad",
+              "alloy": {
+                "copper_core": 0.917,
+                "cupronickel_cladding": 0.083
+              },
+              "weight": {
+                "grams": 2.27
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "RD-1946-D",
+              "year": 1946,
+              "mint": "D",
+              "business_strikes": 61043500,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1946-P",
+              "year": 1946,
+              "mint": "P",
+              "business_strikes": 255250000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "First year Roosevelt dime",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1946-S",
+              "year": 1946,
+              "mint": "S",
+              "business_strikes": 27900000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1949-S",
+              "year": 1949,
+              "mint": "S",
+              "business_strikes": 13510000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest silver mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1964-D",
+              "year": 1964,
+              "mint": "D",
+              "business_strikes": 1357517180,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "Last silver dime, highest mintage dime ever",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1964-P",
+              "year": 1964,
+              "mint": "P",
+              "business_strikes": 933310762,
+              "proof_strikes": 3950762,
+              "source_citation": "US Mint records",
+              "notes": "Final year of silver Roosevelt dime",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1965-P",
+              "year": 1965,
+              "mint": "P",
+              "business_strikes": 1652140570,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "First clad dime",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-1968-S-NoS",
+              "year": 1968,
+              "mint": "S",
+              "business_strikes": 0,
+              "proof_strikes": 3041509,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Values over $45,000",
+              "varieties": [
+                {
+                  "variety_id": "RD-1968-S-NoS-01",
+                  "name": "No S Proof",
+                  "description": "Error proof without S mintmark",
+                  "estimated_mintage": 21
+                }
+              ]
+            },
+            {
+              "coin_id": "RD-1975-S-NoS",
+              "year": 1975,
+              "mint": "S",
+              "business_strikes": 0,
+              "proof_strikes": 2845450,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "$456,000 record sale",
+              "varieties": [
+                {
+                  "variety_id": "RD-1975-S-NoS-01",
+                  "name": "No S Proof",
+                  "description": "Error proof without S mintmark",
+                  "estimated_mintage": 2
+                }
+              ]
+            },
+            {
+              "coin_id": "RD-1996-W",
+              "year": 1996,
+              "mint": "W",
+              "business_strikes": 1457000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "50th anniversary issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "RD-2009-D",
+              "year": 2009,
+              "mint": "D",
+              "business_strikes": 49500000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "US Mint records",
+              "notes": "Lowest clad mintage",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "John Sinnock",
+            "reverse": "John Sinnock"
+          }
+        }
+      ]
+    },
+    "Dollars": {
+      "face_value": 1.0,
+      "series": [
+        {
+          "series_id": "morgan_dollar",
+          "series_name": "Morgan Dollar",
+          "official_name": "Morgan Dollar",
+          "years": {
+            "start": 1878,
+            "end": 1921
+          },
+          "specifications": {
+            "diameter_mm": 38.1,
+            "thickness_mm": 2.4,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1878,
+                "end": 1921
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 26.73
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "MD-1879-CC",
+              "year": 1879,
+              "mint": "CC",
+              "business_strikes": 756000,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Important Carson City issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1889-CC",
+              "year": 1889,
+              "mint": "CC",
+              "business_strikes": 350000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second key date Carson City issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1893-S",
+              "year": 1893,
+              "mint": "S",
+              "business_strikes": 100000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Absolute key date",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1894-P",
+              "year": 1894,
+              "mint": "P",
+              "business_strikes": 110000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Philadelphia key",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1895-O",
+              "year": 1895,
+              "mint": "O",
+              "business_strikes": 450000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1895-P",
+              "year": 1895,
+              "mint": "P",
+              "business_strikes": 0,
+              "proof_strikes": 880,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Proofs only - No business strikes",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1895-S",
+              "year": 1895,
+              "mint": "S",
+              "business_strikes": 400000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "varieties": []
+            },
+            {
+              "coin_id": "MD-1903-O",
+              "year": 1903,
+              "mint": "O",
+              "business_strikes": 4450000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Treasury Release coin",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "George T. Morgan",
+            "reverse": "George T. Morgan"
+          }
+        },
+        {
+          "series_id": "peace_dollar",
+          "series_name": "Peace Dollar",
+          "official_name": "Peace Dollar",
+          "years": {
+            "start": 1921,
+            "end": 1935
+          },
+          "specifications": {
+            "diameter_mm": 38.1,
+            "thickness_mm": 2.4,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1921,
+                "end": 1935
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 26.73
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "PD-1921-P-HR",
+              "year": 1921,
+              "mint": "P",
+              "business_strikes": 1006473,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "High Relief - Most artistic",
+              "varieties": [
+                {
+                  "variety_id": "PD-1921-P-HR-01",
+                  "name": "High Relief",
+                  "description": "First year high relief design",
+                  "estimated_mintage": 1006473
+                }
+              ]
+            },
+            {
+              "coin_id": "PD-1927-D",
+              "year": 1927,
+              "mint": "D",
+              "business_strikes": 1268900,
+              "proof_strikes": null,
+              "rarity": "semi-key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Scarce despite higher mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "PD-1928-P",
+              "year": 1928,
+              "mint": "P",
+              "business_strikes": 360649,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Undisputed key date",
+              "varieties": []
+            },
+            {
+              "coin_id": "PD-1934-S",
+              "year": 1934,
+              "mint": "S",
+              "business_strikes": 1011000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second key date",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Anthony de Francisci",
+            "reverse": "Anthony de Francisci"
+          }
+        },
+        {
+          "series_id": "eisenhower_dollar",
+          "series_name": "Eisenhower Dollar",
+          "official_name": "Eisenhower Dollar",
+          "years": {
+            "start": 1971,
+            "end": 1978
+          },
+          "specifications": {
+            "diameter_mm": 38.1,
+            "thickness_mm": 2.58,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1971,
+                "end": 1978
+              },
+              "alloy_name": "Copper-Nickel Clad",
+              "alloy": {
+                "copper_core": 0.917,
+                "cupronickel_cladding": 0.083
+              },
+              "weight": {
+                "grams": 22.68
+              }
+            },
+            {
+              "date_range": {
+                "start": 1971,
+                "end": 1976
+              },
+              "alloy_name": "40% Silver",
+              "alloy": {
+                "silver": 0.4,
+                "copper": 0.6
+              },
+              "weight": {
+                "grams": 24.59
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "ED-1973-D",
+              "year": 1973,
+              "mint": "D",
+              "business_strikes": 1769258,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "ED-1973-P",
+              "year": 1973,
+              "mint": "P",
+              "business_strikes": 1769258,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "ED-1976-P-T1",
+              "year": 1976,
+              "mint": "P",
+              "business_strikes": 117337000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "ED-1976-P-T1-01",
+                  "name": "Type 1",
+                  "description": "Bicentennial design Type 1",
+                  "estimated_mintage": null
+                },
+                {
+                  "variety_id": "ED-1976-P-T1-02",
+                  "name": "Type 2",
+                  "description": "Bicentennial design Type 2",
+                  "estimated_mintage": null
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Frank Gasparro",
+            "reverse": "Frank Gasparro"
+          }
+        },
+        {
+          "series_id": "susan_b_anthony_dollar",
+          "series_name": "Susan B. Anthony Dollar",
+          "official_name": "Susan B. Anthony Dollar",
+          "years": {
+            "start": 1979,
+            "end": 1999
+          },
+          "specifications": {
+            "diameter_mm": 26.5,
+            "thickness_mm": 2.0,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1979,
+                "end": 1999
+              },
+              "alloy_name": "Copper-Nickel Clad",
+              "alloy": {
+                "copper_core": 0.917,
+                "cupronickel_cladding": 0.083
+              },
+              "weight": {
+                "grams": 8.1
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "SBA-1979-P-WR",
+              "year": 1979,
+              "mint": "P",
+              "business_strikes": 360222000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "SBA-1979-P-WR-01",
+                  "name": "Wide Rim",
+                  "description": "Scarce variety worth premium",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "SBA-1979-S-T2",
+              "year": 1979,
+              "mint": "S",
+              "business_strikes": 0,
+              "proof_strikes": 3677175,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "SBA-1979-S-T2-01",
+                  "name": "Type 2 Proof",
+                  "description": "Clear S, 15-20% of proofs",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "SBA-1999-P",
+              "year": 1999,
+              "mint": "P",
+              "business_strikes": 29592000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "Stopgap before Sacagawea",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Frank Gasparro",
+            "reverse": "Frank Gasparro"
+          }
+        },
+        {
+          "series_id": "sacagawea_dollar",
+          "series_name": "Sacagawea Dollar",
+          "official_name": "Sacagawea Dollar",
+          "years": {
+            "start": 2000,
+            "end": 2008
+          },
+          "specifications": {
+            "diameter_mm": 26.5,
+            "thickness_mm": 2.0,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 2000,
+                "end": 2008
+              },
+              "alloy_name": "Manganese Brass",
+              "alloy": {
+                "copper": 0.885,
+                "zinc": 0.06,
+                "manganese": 0.035,
+                "nickel": 0.02
+              },
+              "weight": {
+                "grams": 8.1
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "SAC-2000-D",
+              "year": 2000,
+              "mint": "D",
+              "business_strikes": 518916000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": []
+            },
+            {
+              "coin_id": "SAC-2000-P-Cheerios",
+              "year": 2000,
+              "mint": "P",
+              "business_strikes": 767140000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "varieties": [
+                {
+                  "variety_id": "SAC-2000-P-Cheerios-01",
+                  "name": "Cheerios Dollars",
+                  "description": "~5,500 with detailed tail feathers",
+                  "estimated_mintage": 5500
+                },
+                {
+                  "variety_id": "SAC-2000-P-Cheerios-02",
+                  "name": "Goodacre Presentation",
+                  "description": "5,000 special pieces",
+                  "estimated_mintage": 5000
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Glenna Goodacre",
+            "reverse": "Thomas D. Rogers Sr."
+          }
+        }
+      ]
+    },
+    "Nickels": {
+      "face_value": 0.05,
+      "series": [
+        {
+          "series_id": "shield_nickel",
+          "series_name": "Shield Nickel",
+          "official_name": "Shield Nickel",
+          "years": {
+            "start": 1866,
+            "end": 1883
+          },
+          "specifications": {
+            "diameter_mm": 20.5,
+            "thickness_mm": 1.95,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1866,
+                "end": 1883
+              },
+              "alloy_name": "Copper-Nickel",
+              "alloy": {
+                "copper": 0.75,
+                "nickel": 0.25
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "SN-1867-P",
+              "year": 1867,
+              "mint": "P",
+              "business_strikes": 2019000,
+              "proof_strikes": null,
+              "rarity": "scarce",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "With Rays variety",
+              "varieties": []
+            },
+            {
+              "coin_id": "SN-1877-P",
+              "year": 1877,
+              "mint": "P",
+              "business_strikes": 0,
+              "proof_strikes": 510,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Proof-only issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "SN-1878-P",
+              "year": 1878,
+              "mint": "P",
+              "business_strikes": 0,
+              "proof_strikes": 2350,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Proof-only issue",
+              "varieties": []
+            },
+            {
+              "coin_id": "SN-1880-P",
+              "year": 1880,
+              "mint": "P",
+              "business_strikes": 19995,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest circulation mintage",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "James B. Longacre",
+            "reverse": "James B. Longacre"
+          }
+        },
+        {
+          "series_id": "liberty_head_nickel",
+          "series_name": "Liberty Head Nickel",
+          "official_name": "Liberty Head Nickel",
+          "years": {
+            "start": 1883,
+            "end": 1913
+          },
+          "specifications": {
+            "diameter_mm": 21.2,
+            "thickness_mm": 1.95,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1883,
+                "end": 1913
+              },
+              "alloy_name": "Copper-Nickel",
+              "alloy": {
+                "copper": 0.75,
+                "nickel": 0.25
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "LHN-1883-P-NC",
+              "year": 1883,
+              "mint": "P",
+              "business_strikes": 5479519,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "LHN-1883-P-NC-01",
+                  "name": "No CENTS",
+                  "description": "Used in 'Racketeer' frauds",
+                  "estimated_mintage": 5479519
+                }
+              ]
+            },
+            {
+              "coin_id": "LHN-1885-P",
+              "year": 1885,
+              "mint": "P",
+              "business_strikes": 1476490,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Primary key date",
+              "varieties": []
+            },
+            {
+              "coin_id": "LHN-1912-S",
+              "year": 1912,
+              "mint": "S",
+              "business_strikes": 238000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest regular mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "LHN-1913-P",
+              "year": 1913,
+              "mint": "P",
+              "business_strikes": 5,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Clandestinely struck, worth millions",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Charles E. Barber",
+            "reverse": "Charles E. Barber"
+          }
+        },
+        {
+          "series_id": "buffalo_nickel",
+          "series_name": "Buffalo Nickel",
+          "official_name": "Buffalo Nickel",
+          "years": {
+            "start": 1913,
+            "end": 1938
+          },
+          "specifications": {
+            "diameter_mm": 21.2,
+            "thickness_mm": 1.95,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1913,
+                "end": 1938
+              },
+              "alloy_name": "Copper-Nickel",
+              "alloy": {
+                "copper": 0.75,
+                "nickel": 0.25
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "BN-1913-S",
+              "year": 1913,
+              "mint": "S",
+              "business_strikes": 1209000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Type 2, lowest regular mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "BN-1916-P-DDO",
+              "year": 1916,
+              "mint": "P",
+              "business_strikes": 63498066,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "BN-1916-P-DDO-01",
+                  "name": "Doubled Die Obverse",
+                  "description": "Dramatic doubling",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "BN-1918-D-87",
+              "year": 1918,
+              "mint": "D",
+              "business_strikes": 8362000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "BN-1918-D-87-01",
+                  "name": "8 over 7",
+                  "description": "1918/7-D Overdate - 8 stamped over 7",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "BN-1926-S",
+              "year": 1926,
+              "mint": "S",
+              "business_strikes": 970000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Absolute lowest mintage",
+              "varieties": []
+            },
+            {
+              "coin_id": "BN-1937-D-3L",
+              "year": 1937,
+              "mint": "D",
+              "business_strikes": 17826000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "BN-1937-D-3L-01",
+                  "name": "3-Legged Buffalo",
+                  "description": "Famous variety with missing front leg",
+                  "estimated_mintage": null
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "James Earle Fraser",
+            "reverse": "James Earle Fraser"
+          }
+        },
+        {
+          "series_id": "jefferson_nickel",
+          "series_name": "Jefferson Nickel",
+          "official_name": "Jefferson Nickel",
+          "years": {
+            "start": 1938,
+            "end": 2024
+          },
+          "specifications": {
+            "diameter_mm": 21.2,
+            "thickness_mm": 1.95,
+            "edge": "plain"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1938,
+                "end": 1942
+              },
+              "alloy_name": "Copper-Nickel",
+              "alloy": {
+                "copper": 0.75,
+                "nickel": 0.25
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            },
+            {
+              "date_range": {
+                "start": 1942,
+                "end": 1945
+              },
+              "alloy_name": "Wartime Silver",
+              "alloy": {
+                "silver": 0.35,
+                "copper": 0.56,
+                "manganese": 0.09
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            },
+            {
+              "date_range": {
+                "start": 1946,
+                "end": 2024
+              },
+              "alloy_name": "Copper-Nickel",
+              "alloy": {
+                "copper": 0.75,
+                "nickel": 0.25
+              },
+              "weight": {
+                "grams": 5.0
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "JN-1950-D",
+              "year": 1950,
+              "mint": "D",
+              "business_strikes": 2630030,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage Jefferson nickel",
+              "varieties": []
+            },
+            {
+              "coin_id": "JN-1971-S-NoS",
+              "year": 1971,
+              "mint": "S",
+              "business_strikes": 0,
+              "proof_strikes": 3220733,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "JN-1971-S-NoS-01",
+                  "name": "No S Proof",
+                  "description": "Error proof without S mintmark",
+                  "estimated_mintage": 200
+                }
+              ]
+            }
+          ],
+          "designers": {
+            "obverse": "Felix Schlag",
+            "reverse": "Felix Schlag"
+          }
+        }
+      ]
+    },
+    "Quarters": {
+      "face_value": 0.25,
+      "series": [
+        {
+          "series_id": "barber_quarter",
+          "series_name": "Barber Quarter",
+          "official_name": "Barber Quarter",
+          "years": {
+            "start": 1892,
+            "end": 1916
+          },
+          "specifications": {
+            "diameter_mm": 24.3,
+            "thickness_mm": 1.75,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1892,
+                "end": 1916
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 6.25
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "BQ-1892-P-T1",
+              "year": 1892,
+              "mint": "P",
+              "business_strikes": 8237245,
+              "proof_strikes": null,
+              "source_citation": "Red Book",
+              "varieties": [
+                {
+                  "variety_id": "BQ-1892-P-T1-01",
+                  "name": "Type I",
+                  "description": "Eagle wing coverage differs from Type II",
+                  "estimated_mintage": null
+                },
+                {
+                  "variety_id": "BQ-1892-P-T1-02",
+                  "name": "Type II",
+                  "description": "Modified eagle wing coverage",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "BQ-1896-S",
+              "year": 1896,
+              "mint": "S",
+              "business_strikes": 188039,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Major key date",
+              "varieties": []
+            },
+            {
+              "coin_id": "BQ-1901-S",
+              "year": 1901,
+              "mint": "S",
+              "business_strikes": 72664,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Rarest in circulated grades",
+              "varieties": []
+            },
+            {
+              "coin_id": "BQ-1913-S",
+              "year": 1913,
+              "mint": "S",
+              "business_strikes": 40000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage in series",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Charles E. Barber",
+            "reverse": "Charles E. Barber"
+          }
+        },
+        {
+          "series_id": "standing_liberty_quarter",
+          "series_name": "Standing Liberty Quarter",
+          "official_name": "Standing Liberty Quarter",
+          "years": {
+            "start": 1916,
+            "end": 1930
+          },
+          "specifications": {
+            "diameter_mm": 24.3,
+            "thickness_mm": 1.75,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1916,
+                "end": 1930
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 6.25
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "SLQ-1916-P-T1",
+              "year": 1916,
+              "mint": "P",
+              "business_strikes": 52000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Lowest mintage 20th century coin",
+              "varieties": [
+                {
+                  "variety_id": "SLQ-1916-P-T1-01",
+                  "name": "Type I",
+                  "description": "Bare-breasted Liberty",
+                  "estimated_mintage": 52000
+                }
+              ]
+            },
+            {
+              "coin_id": "SLQ-1917-P-T1",
+              "year": 1917,
+              "mint": "P",
+              "business_strikes": 8792000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "varieties": [
+                {
+                  "variety_id": "SLQ-1917-P-T1-01",
+                  "name": "Type I",
+                  "description": "Bare-breasted Liberty",
+                  "estimated_mintage": 8792000
+                },
+                {
+                  "variety_id": "SLQ-1917-P-T1-02",
+                  "name": "Type II",
+                  "description": "Chain mail added",
+                  "estimated_mintage": null
+                }
+              ]
+            },
+            {
+              "coin_id": "SLQ-1918-S-87",
+              "year": 1918,
+              "mint": "S",
+              "business_strikes": 11072000,
+              "proof_strikes": null,
+              "source_citation": "PCGS CoinFacts",
+              "notes": "~3,000 survivors of overdate",
+              "varieties": [
+                {
+                  "variety_id": "SLQ-1918-S-87-01",
+                  "name": "1918/7-S Overdate",
+                  "description": "8 over 7 overdate",
+                  "estimated_mintage": 3000
+                }
+              ]
+            },
+            {
+              "coin_id": "SLQ-1921-P",
+              "year": 1921,
+              "mint": "P",
+              "business_strikes": 1916000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Post-WWI recession",
+              "varieties": []
+            },
+            {
+              "coin_id": "SLQ-1927-S",
+              "year": 1927,
+              "mint": "S",
+              "business_strikes": 396000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second lowest mintage",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "Hermon Atkins MacNeil",
+            "reverse": "Hermon Atkins MacNeil"
+          }
+        },
+        {
+          "series_id": "washington_quarter",
+          "series_name": "Washington Quarter",
+          "official_name": "Washington Quarter",
+          "years": {
+            "start": 1932,
+            "end": 2024
+          },
+          "specifications": {
+            "diameter_mm": 24.3,
+            "thickness_mm": 1.75,
+            "edge": "reeded"
+          },
+          "composition_periods": [
+            {
+              "date_range": {
+                "start": 1932,
+                "end": 1964
+              },
+              "alloy_name": "90% Silver",
+              "alloy": {
+                "silver": 0.9,
+                "copper": 0.1
+              },
+              "weight": {
+                "grams": 6.25
+              }
+            },
+            {
+              "date_range": {
+                "start": 1965,
+                "end": 2024
+              },
+              "alloy_name": "Copper-Nickel Clad",
+              "alloy": {
+                "copper_core": 0.917,
+                "cupronickel_cladding": 0.083
+              },
+              "weight": {
+                "grams": 5.67
+              }
+            }
+          ],
+          "coins": [
+            {
+              "coin_id": "WQ-1932-D",
+              "year": 1932,
+              "mint": "D",
+              "business_strikes": 436800,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Rarest Washington quarter",
+              "varieties": []
+            },
+            {
+              "coin_id": "WQ-1932-S",
+              "year": 1932,
+              "mint": "S",
+              "business_strikes": 408000,
+              "proof_strikes": null,
+              "rarity": "key",
+              "source_citation": "PCGS CoinFacts",
+              "notes": "Second rarest",
+              "varieties": []
+            },
+            {
+              "coin_id": "WQ-1999-P-DE",
+              "year": 1999,
+              "mint": "P",
+              "business_strikes": 373400000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "State Quarters program begins - Delaware",
+              "varieties": [
+                {
+                  "variety_id": "WQ-1999-P-DE-01",
+                  "name": "Delaware",
+                  "description": "First state quarter - Delaware reverse",
+                  "estimated_mintage": 373400000
+                }
+              ]
+            },
+            {
+              "coin_id": "WQ-2019-W",
+              "year": 2019,
+              "mint": "W",
+              "business_strikes": 2000000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "First W mint quarters - various designs, 2 million each",
+              "varieties": []
+            },
+            {
+              "coin_id": "WQ-2020-W",
+              "year": 2020,
+              "mint": "W",
+              "business_strikes": 2000000,
+              "proof_strikes": null,
+              "source_citation": "US Mint records",
+              "notes": "W mint quarters continue - various designs, 2 million each",
+              "varieties": []
+            }
+          ],
+          "designers": {
+            "obverse": "John Flanagan",
+            "reverse": "John Flanagan"
+          }
+        }
+      ]
+    }
+  },
+  "references": {
+    "compositions": {
+      "common_alloys": {
+        "silver_90": {
+          "name": "90% Silver",
+          "composition": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
+          "period": "1792-1964",
+          "notes": "Standard US silver composition until 1964"
+        },
+        "silver_40": {
+          "name": "40% Silver",
+          "composition": {
+            "silver": 0.4,
+            "copper": 0.6
+          },
+          "period": "1965-1976",
+          "notes": "Half dollars and some Eisenhower dollars - transitional composition"
+        },
+        "silver_wartime": {
+          "name": "Wartime Silver",
+          "composition": {
+            "silver": 0.35,
+            "copper": 0.56,
+            "manganese": 0.09
+          },
+          "period": "1942-1945",
+          "notes": "Jefferson nickels during WWII to conserve nickel for war effort"
+        },
+        "copper_nickel": {
+          "name": "Copper-Nickel",
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "period": "1866-present",
+          "notes": "Standard composition for nickels and clad coin outer layers"
+        },
+        "copper_nickel_indian": {
+          "name": "Copper-Nickel (Indian Head)",
+          "composition": {
+            "copper": 0.88,
+            "nickel": 0.12
+          },
+          "period": "1859-1864",
+          "notes": "Early Indian Head cent composition before bronze adoption"
+        },
+        "bronze_95_4_1": {
+          "name": "Bronze",
+          "composition": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
+          "period": "1864-1962",
+          "notes": "Standard bronze composition for cents"
+        },
+        "brass_95_5": {
+          "name": "Brass",
+          "composition": {
+            "copper": 0.95,
+            "zinc": 0.05
+          },
+          "period": "1944-1982",
+          "notes": "Post-WWII cent composition without tin"
+        },
+        "zinc_copper_plated": {
+          "name": "Copper-Plated Zinc",
+          "composition": {
+            "zinc": 0.975,
+            "copper": 0.025
+          },
+          "period": "1982-present",
+          "notes": "Modern penny composition - zinc core with copper plating"
+        },
+        "steel_zinc_coated": {
+          "name": "Steel with Zinc Coating",
+          "composition": {
+            "steel": 0.99,
+            "zinc_coating": 0.01
+          },
+          "period": "1943",
+          "notes": "Wartime steel cent composition to conserve copper"
+        },
+        "clad_cupronickel": {
+          "name": "Copper-Nickel Clad",
+          "composition": {
+            "copper_core": 0.917,
+            "cupronickel_cladding": 0.083
+          },
+          "period": "1965-present",
+          "notes": "Modern dimes, quarters, and some dollars composition"
+        },
+        "manganese_brass": {
+          "name": "Manganese Brass",
+          "composition": {
+            "copper": 0.885,
+            "zinc": 0.06,
+            "manganese": 0.035,
+            "nickel": 0.02
+          },
+          "period": "2000-2008",
+          "notes": "Sacagawea dollar composition"
+        }
+      },
+      "metal_properties": {
+        "silver": {
+          "symbol": "Ag",
+          "density_g_cm3": 10.49,
+          "melting_point_c": 961.8
+        },
+        "copper": {
+          "symbol": "Cu",
+          "density_g_cm3": 8.96,
+          "melting_point_c": 1084.6
+        },
+        "nickel": {
+          "symbol": "Ni",
+          "density_g_cm3": 8.91,
+          "melting_point_c": 1455
+        },
+        "zinc": {
+          "symbol": "Zn",
+          "density_g_cm3": 7.14,
+          "melting_point_c": 419.5
+        },
+        "steel": {
+          "symbol": "Fe",
+          "density_g_cm3": 7.87,
+          "melting_point_c": 1538
+        },
+        "tin": {
+          "symbol": "Sn",
+          "density_g_cm3": 7.31,
+          "melting_point_c": 231.9
+        },
+        "manganese": {
+          "symbol": "Mn",
+          "density_g_cm3": 7.44,
+          "melting_point_c": 1246
+        }
+      }
+    },
+    "mints": {
+      "us_mints": {
+        "P": {
+          "name": "Philadelphia Mint",
+          "location": "Philadelphia, Pennsylvania",
+          "years_active": {
+            "start": 1792,
+            "end": "present"
+          },
+          "mark_used": {
+            "start": 1979,
+            "end": "present"
+          },
+          "notes": "Original US Mint facility. No mint mark used on most coins until 1979."
+        },
+        "D": {
+          "name": "Denver Mint",
+          "location": "Denver, Colorado",
+          "years_active": {
+            "start": 1906,
+            "end": "present"
+          },
+          "mark_used": {
+            "start": 1906,
+            "end": "present"
+          },
+          "notes": "Primary mint for circulation coins"
+        },
+        "S": {
+          "name": "San Francisco Mint",
+          "location": "San Francisco, California",
+          "years_active": {
+            "start": 1854,
+            "end": "present"
+          },
+          "mark_used": {
+            "start": 1854,
+            "end": "present"
+          },
+          "notes": "Currently produces primarily proof coins"
+        },
+        "O": {
+          "name": "New Orleans Mint",
+          "location": "New Orleans, Louisiana",
+          "years_active": {
+            "start": 1838,
+            "end": 1909
+          },
+          "mark_used": {
+            "start": 1838,
+            "end": 1909
+          },
+          "notes": "Closed 1861-1879 during Civil War and Reconstruction"
+        },
+        "CC": {
+          "name": "Carson City Mint",
+          "location": "Carson City, Nevada",
+          "years_active": {
+            "start": 1870,
+            "end": 1893
+          },
+          "mark_used": {
+            "start": 1870,
+            "end": 1893
+          },
+          "notes": "Specialized in silver coins from local mines"
+        },
+        "C": {
+          "name": "Charlotte Mint",
+          "location": "Charlotte, North Carolina",
+          "years_active": {
+            "start": 1838,
+            "end": 1861
+          },
+          "mark_used": {
+            "start": 1838,
+            "end": 1861
+          },
+          "notes": "Gold coins only"
+        },
+        "W": {
+          "name": "West Point Mint",
+          "location": "West Point, New York",
+          "years_active": {
+            "start": 1984,
+            "end": "present"
+          },
+          "mark_used": {
+            "start": 1984,
+            "end": "present"
+          },
+          "notes": "Precious metals and commemorative coins"
+        }
+      }
+    },
+    "grades": {
+      "grades": {
+        "Poor": {
+          "abbreviation": "P",
+          "description": "Barely identifiable, most details worn smooth",
+          "numeric_equivalent": "1"
+        },
+        "Fair": {
+          "abbreviation": "FR",
+          "description": "Some details visible but heavily worn",
+          "numeric_equivalent": "2"
+        },
+        "Good": {
+          "abbreviation": "G",
+          "description": "Major design visible but faint, rims worn",
+          "numeric_equivalent": "4-6"
+        },
+        "Very Good": {
+          "abbreviation": "VG",
+          "description": "Design clear but flat, some detail visible",
+          "numeric_equivalent": "8-10"
+        },
+        "Fine": {
+          "abbreviation": "F",
+          "description": "Moderate even wear, all major details visible",
+          "numeric_equivalent": "12-15"
+        },
+        "Very Fine": {
+          "abbreviation": "VF",
+          "description": "Light even wear on high points, sharp details",
+          "numeric_equivalent": "20-35"
+        },
+        "Extremely Fine": {
+          "abbreviation": "XF/EF",
+          "description": "Slight wear on highest points only",
+          "numeric_equivalent": "40-45"
+        },
+        "About Uncirculated": {
+          "abbreviation": "AU",
+          "description": "Traces of wear on highest points",
+          "numeric_equivalent": "50-58"
+        },
+        "Uncirculated": {
+          "abbreviation": "UNC/MS",
+          "description": "No wear, but may have bag marks",
+          "numeric_equivalent": "60-70"
+        },
+        "Proof": {
+          "abbreviation": "PR/PF",
+          "description": "Special striking for collectors",
+          "numeric_equivalent": "60-70"
+        }
+      }
+    }
+  },
+  "statistics": {
+    "denominations": 5,
+    "total_series": 20,
+    "total_coins": 99,
+    "generation_date": "2025-07-27T00:16:41.195813",
+    "file_sources": [
+      "cents.json",
+      "dimes.json",
+      "dollars.json",
+      "nickels.json",
+      "quarters.json"
+    ]
+  }
+}

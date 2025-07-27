@@ -31,6 +31,7 @@ coin-taxonomy/
           schema/          # JSON Schema validation
           coins/           # Coin series data files
           references/      # Supporting reference data
+          us_coins_complete.json  # Complete taxonomy (convenience file)
    scripts/                 # Database and utility scripts
    docs/                    # Documentation and research
    examples/                # Sample usage files
@@ -109,11 +110,21 @@ uv run python scripts/import_listing.py
 # Calculate metal melt values
 uv run python scripts/calculate_melt.py
 
-# Export complete taxonomy (testing only)
-uv run python scripts/export_complete.py
+# Export complete US taxonomy to single file
+uv run python scripts/export_us_complete.py
 ```
 
 ## Data Structure
+
+### Complete Taxonomy File
+
+For convenience, a complete US coin taxonomy is available in a single file:
+- **Location**: `data/us/us_coins_complete.json`
+- **Content**: All denominations, series, and coins in one unified structure
+- **References**: Includes resolved composition data and all reference files
+- **Generation**: Updated via `scripts/export_us_complete.py`
+
+This file combines all individual denomination files with resolved composition references, making it easy to access the entire taxonomy without loading multiple files.
 
 ### Series Information
 
@@ -158,7 +169,7 @@ Each coin entry contains:
 - **`build_db.py`**: Builds SQLite database from JSON sources
 - **`migrate_db.py`**: Safely updates database schema
 - **`export_db.py`**: Exports database back to JSON files
-- **`export_complete.py`**: Generates single comprehensive JSON file
+- **`export_us_complete.py`**: Generates single comprehensive US taxonomy file
 
 ### Analysis Tools
 
