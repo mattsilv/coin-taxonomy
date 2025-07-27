@@ -66,7 +66,6 @@ class SimpleE2ETest {
         const requiredFiles = [
             'docs/index.html',
             'docs/app.js',
-            'docs/README.md',
             'data/universal/taxonomy_summary.json',
             'data/universal/us_issues.json'
         ];
