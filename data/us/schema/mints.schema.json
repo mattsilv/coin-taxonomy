@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["us_mints"],
+  "properties": {
+    "us_mints": {
+      "type": "object",
+      "patternProperties": {
+        "^[A-Z]{1,2}$": {
+          "type": "object",
+          "required": ["name", "location", "years_active", "mark_used"],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "location": {
+              "type": "string"
+            },
+            "years_active": {
+              "type": "object",
+              "required": ["start"],
+              "properties": {
+                "start": {
+                  "type": "integer",
+                  "minimum": 1792
+                },
+                "end": {
+                  "oneOf": [
+                    {"type": "integer", "minimum": 1792},
+                    {"type": "string", "const": "present"}
+                  ]
+                }
+              },
+              "additionalProperties": false
+            },
+            "mark_used": {
+              "type": "object",
+              "required": ["start"],
+              "properties": {
+                "start": {
+                  "type": "integer",
+                  "minimum": 1792
+                },
+                "end": {
+                  "oneOf": [
+                    {"type": "integer", "minimum": 1792},
+                    {"type": "string", "const": "present"}
+                  ]
+                }
+              },
+              "additionalProperties": false
+            },
+            "notes": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

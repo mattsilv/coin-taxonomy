@@ -1,0 +1,504 @@
+{
+  "country": "US",
+  "denomination": "Cents",
+  "face_value": 0.01,
+  "series": [
+    {
+      "series_id": "indian_head_cent",
+      "series_name": "Indian Head Cent",
+      "official_name": "Indian Head Cent",
+      "years": {
+        "start": 1859,
+        "end": 1909
+      },
+      "specifications": {
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.52,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1859,
+            "end": 1864
+          },
+          "weight": {
+            "grams": 4.67
+          },
+          "composition_key": "copper_nickel_indian"
+        },
+        {
+          "date_range": {
+            "start": 1864,
+            "end": 1909
+          },
+          "weight": {
+            "grams": 3.11
+          },
+          "composition_key": "bronze_95_4_1"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "IHC-1864-P-L",
+          "year": 1864,
+          "mint": "P",
+          "business_strikes": 39233714,
+          "proof_strikes": null,
+          "source_citation": "Red Book",
+          "varieties": [
+            {
+              "variety_id": "IHC-1864-P-L-01",
+              "name": "L on Ribbon",
+              "description": "Designer's initial L on ribbon",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "IHC-1869-P-99",
+          "year": 1869,
+          "mint": "P",
+          "business_strikes": 6420000,
+          "proof_strikes": null,
+          "source_citation": "Red Book",
+          "varieties": [
+            {
+              "variety_id": "IHC-1869-P-99-01",
+              "name": "9 over 9",
+              "description": "1869/1869 9 over 9 overdate",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "IHC-1877-P",
+          "year": 1877,
+          "mint": "P",
+          "business_strikes": 852500,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Ultimate key date, extremely low mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "IHC-1888-P-87",
+          "year": 1888,
+          "mint": "P",
+          "business_strikes": 37494414,
+          "proof_strikes": null,
+          "source_citation": "Red Book",
+          "varieties": [
+            {
+              "variety_id": "IHC-1888-P-87-01",
+              "name": "8 over 7",
+              "description": "1888/1887 8 over 7 overdate",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "IHC-1908-S",
+          "year": 1908,
+          "mint": "S",
+          "business_strikes": 1115000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Third lowest mintage, first San Francisco Indian cent",
+          "varieties": []
+        },
+        {
+          "coin_id": "IHC-1909-S",
+          "year": 1909,
+          "mint": "S",
+          "business_strikes": 309000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage of series, final year",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "James B. Longacre",
+        "reverse": "James B. Longacre"
+      }
+    },
+    {
+      "series_id": "lincoln_wheat_cent",
+      "series_name": "Lincoln Wheat Cent",
+      "official_name": "Lincoln Wheat Cent",
+      "years": {
+        "start": 1909,
+        "end": 1958
+      },
+      "specifications": {
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.55,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1909,
+            "end": 1942
+          },
+          "weight": {
+            "grams": 3.11
+          },
+          "composition_key": "bronze_95_4_1"
+        },
+        {
+          "date_range": {
+            "start": 1943,
+            "end": 1943
+          },
+          "weight": {
+            "grams": 2.7
+          },
+          "composition_key": "steel_zinc_coated"
+        },
+        {
+          "date_range": {
+            "start": 1944,
+            "end": 1958
+          },
+          "weight": {
+            "grams": 3.11
+          },
+          "composition_key": "brass_95_5"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "LWC-1909-S-VDB",
+          "year": 1909,
+          "mint": "S",
+          "business_strikes": 484000,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Holy Grail of Lincoln cents",
+          "varieties": [
+            {
+              "variety_id": "LWC-1909-S-VDB-01",
+              "name": "VDB",
+              "description": "With designer initials VDB",
+              "estimated_mintage": 484000
+            }
+          ]
+        },
+        {
+          "coin_id": "LWC-1914-D",
+          "year": 1914,
+          "mint": "D",
+          "business_strikes": 1193000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Second most valuable regular issue",
+          "varieties": []
+        },
+        {
+          "coin_id": "LWC-1922-D-NoD",
+          "year": 1922,
+          "mint": "D",
+          "business_strikes": 7160000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LWC-1922-D-NoD-01",
+              "name": "No D",
+              "description": "Error without mintmark",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "LWC-1931-S",
+          "year": 1931,
+          "mint": "S",
+          "business_strikes": 866000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Great Depression era rarity",
+          "varieties": []
+        },
+        {
+          "coin_id": "LWC-1943-P-Bronze",
+          "year": 1943,
+          "mint": "P",
+          "business_strikes": 684628670,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Bronze variety values $300,000-$2,000,000",
+          "varieties": [
+            {
+              "variety_id": "LWC-1943-P-Bronze-01",
+              "name": "Bronze",
+              "description": "Error struck in bronze instead of steel",
+              "estimated_mintage": 40
+            }
+          ]
+        },
+        {
+          "coin_id": "LWC-1944-P-Steel",
+          "year": 1944,
+          "mint": "P",
+          "business_strikes": 1435400000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LWC-1944-P-Steel-01",
+              "name": "Steel",
+              "description": "Error struck in steel instead of bronze",
+              "estimated_mintage": 27
+            }
+          ]
+        },
+        {
+          "coin_id": "LWC-1955-P-DDO",
+          "year": 1955,
+          "mint": "P",
+          "business_strikes": 330958200,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LWC-1955-P-DDO-01",
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling on obverse",
+              "estimated_mintage": 22000
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Victor David Brenner",
+        "reverse": "Victor David Brenner"
+      }
+    },
+    {
+      "series_id": "lincoln_memorial_cent",
+      "series_name": "Lincoln Memorial Cent",
+      "official_name": "Lincoln Memorial Cent",
+      "years": {
+        "start": 1959,
+        "end": 2008
+      },
+      "specifications": {
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.55,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1959,
+            "end": 1962
+          },
+          "weight": {
+            "grams": 3.11
+          },
+          "composition_key": "bronze_95_4_1"
+        },
+        {
+          "date_range": {
+            "start": 1962,
+            "end": 1982
+          },
+          "weight": {
+            "grams": 3.11
+          },
+          "composition_key": "brass_95_5"
+        },
+        {
+          "date_range": {
+            "start": 1982,
+            "end": 2008
+          },
+          "weight": {
+            "grams": 2.5
+          },
+          "composition_key": "zinc_copper_plated"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "LMC-1969-S-DDO",
+          "year": 1969,
+          "mint": "S",
+          "business_strikes": 547309631,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "$126,500 record sale in 2005",
+          "varieties": [
+            {
+              "variety_id": "LMC-1969-S-DDO-01",
+              "name": "Doubled Die Obverse",
+              "description": "Most valuable Memorial cent variety",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "LMC-1972-P-DDO",
+          "year": 1972,
+          "mint": "P",
+          "business_strikes": 2933255000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LMC-1972-P-DDO-01",
+              "name": "Doubled Die Obverse",
+              "description": "Strong doubling, MS65 examples reach $14,000+",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "LMC-1983-P-DDR",
+          "year": 1983,
+          "mint": "P",
+          "business_strikes": 7752355000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LMC-1983-P-DDR-01",
+              "name": "Doubled Die Reverse",
+              "description": "Doubling on reverse inscriptions",
+              "estimated_mintage": null
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Victor David Brenner",
+        "reverse": "Frank Gasparro"
+      }
+    },
+    {
+      "series_id": "lincoln_bicentennial_cent",
+      "series_name": "Lincoln Bicentennial Cent",
+      "official_name": "Lincoln Bicentennial Cent",
+      "years": {
+        "start": 2009,
+        "end": 2009
+      },
+      "specifications": {
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.55,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 2009,
+            "end": 2009
+          },
+          "weight": {
+            "grams": 2.5
+          },
+          "composition_key": "zinc_copper_plated"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "LBC-2009-D-Birth",
+          "year": 2009,
+          "mint": "D",
+          "business_strikes": 350400000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "varieties": [
+            {
+              "variety_id": "LBC-2009-D-Birth-01",
+              "name": "Birth and Early Childhood",
+              "description": "2009 Bicentennial - Birth and Early Childhood reverse",
+              "estimated_mintage": 350400000
+            }
+          ]
+        },
+        {
+          "coin_id": "LBC-2009-P-Birth",
+          "year": 2009,
+          "mint": "P",
+          "business_strikes": 284800000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "varieties": [
+            {
+              "variety_id": "LBC-2009-P-Birth-01",
+              "name": "Birth and Early Childhood",
+              "description": "2009 Bicentennial - Birth and Early Childhood reverse",
+              "estimated_mintage": 284800000
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Victor David Brenner",
+        "reverse": "Various (4 designers)"
+      }
+    },
+    {
+      "series_id": "lincoln_shield_cent",
+      "series_name": "Lincoln Shield Cent",
+      "official_name": "Lincoln Shield Cent",
+      "years": {
+        "start": 2010,
+        "end": 2024
+      },
+      "specifications": {
+        "diameter_mm": 19.05,
+        "thickness_mm": 1.55,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 2010,
+            "end": 2024
+          },
+          "weight": {
+            "grams": 2.5
+          },
+          "composition_key": "zinc_copper_plated"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "LSC-2017-P",
+          "year": 2017,
+          "mint": "P",
+          "business_strikes": 4040000000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "First P mintmark on cents since wartime",
+          "varieties": []
+        },
+        {
+          "coin_id": "LSC-2019-W",
+          "year": 2019,
+          "mint": "W",
+          "business_strikes": 2000000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "First W mintmark on cents",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Victor David Brenner",
+        "reverse": "Lyndall Bass"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# Database files
+database/
+backups/
+*.db
+*.sqlite
+*.sqlite3
+
+# Local configuration
+config.local.json
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# uv lock file
+uv.lock
+
+# Generated comprehensive files (for testing only)
+coin_taxonomy_complete.json
+*_complete.json
+
+# Private documentation (not for public release)
+docs/private/
+docs/internal/

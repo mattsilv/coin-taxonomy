@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["common_alloys", "metal_properties"],
+  "properties": {
+    "common_alloys": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-z_0-9]+$": {
+          "type": "object",
+          "required": ["name", "composition", "period"],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "composition": {
+              "type": "object",
+              "patternProperties": {
+                "^[a-z_]+$": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "period": {
+              "type": "string",
+              "pattern": "^\\d{4}(-\\d{4}|-present)?$"
+            },
+            "notes": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "metal_properties": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-z_]+$": {
+          "type": "object",
+          "required": ["symbol", "density_g_cm3", "melting_point_c"],
+          "properties": {
+            "symbol": {
+              "type": "string",
+              "pattern": "^[A-Z][a-z]?$"
+            },
+            "density_g_cm3": {
+              "type": "number",
+              "minimum": 0
+            },
+            "melting_point_c": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

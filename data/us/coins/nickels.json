@@ -1,0 +1,345 @@
+{
+  "country": "US",
+  "denomination": "Nickels",
+  "face_value": 0.05,
+  "series": [
+    {
+      "series_id": "shield_nickel",
+      "series_name": "Shield Nickel",
+      "official_name": "Shield Nickel",
+      "years": {
+        "start": 1866,
+        "end": 1883
+      },
+      "specifications": {
+        "diameter_mm": 20.5,
+        "thickness_mm": 1.95,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1866,
+            "end": 1883
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "copper_nickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "SN-1867-P",
+          "year": 1867,
+          "mint": "P",
+          "business_strikes": 2019000,
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "With Rays variety",
+          "varieties": []
+        },
+        {
+          "coin_id": "SN-1877-P",
+          "year": 1877,
+          "mint": "P",
+          "business_strikes": 0,
+          "proof_strikes": 510,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Proof-only issue",
+          "varieties": []
+        },
+        {
+          "coin_id": "SN-1878-P",
+          "year": 1878,
+          "mint": "P",
+          "business_strikes": 0,
+          "proof_strikes": 2350,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Proof-only issue",
+          "varieties": []
+        },
+        {
+          "coin_id": "SN-1880-P",
+          "year": 1880,
+          "mint": "P",
+          "business_strikes": 19995,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest circulation mintage",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "James B. Longacre",
+        "reverse": "James B. Longacre"
+      }
+    },
+    {
+      "series_id": "liberty_head_nickel",
+      "series_name": "Liberty Head Nickel",
+      "official_name": "Liberty Head Nickel",
+      "years": {
+        "start": 1883,
+        "end": 1913
+      },
+      "specifications": {
+        "diameter_mm": 21.2,
+        "thickness_mm": 1.95,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1883,
+            "end": 1913
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "copper_nickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "LHN-1883-P-NC",
+          "year": 1883,
+          "mint": "P",
+          "business_strikes": 5479519,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "LHN-1883-P-NC-01",
+              "name": "No CENTS",
+              "description": "Used in 'Racketeer' frauds",
+              "estimated_mintage": 5479519
+            }
+          ]
+        },
+        {
+          "coin_id": "LHN-1885-P",
+          "year": 1885,
+          "mint": "P",
+          "business_strikes": 1476490,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Primary key date",
+          "varieties": []
+        },
+        {
+          "coin_id": "LHN-1912-S",
+          "year": 1912,
+          "mint": "S",
+          "business_strikes": 238000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest regular mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "LHN-1913-P",
+          "year": 1913,
+          "mint": "P",
+          "business_strikes": 5,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Clandestinely struck, worth millions",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Charles E. Barber",
+        "reverse": "Charles E. Barber"
+      }
+    },
+    {
+      "series_id": "buffalo_nickel",
+      "series_name": "Buffalo Nickel",
+      "official_name": "Buffalo Nickel",
+      "years": {
+        "start": 1913,
+        "end": 1938
+      },
+      "specifications": {
+        "diameter_mm": 21.2,
+        "thickness_mm": 1.95,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1913,
+            "end": 1938
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "copper_nickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "BN-1913-S",
+          "year": 1913,
+          "mint": "S",
+          "business_strikes": 1209000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Type 2, lowest regular mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "BN-1916-P-DDO",
+          "year": 1916,
+          "mint": "P",
+          "business_strikes": 63498066,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "BN-1916-P-DDO-01",
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "BN-1918-D-87",
+          "year": 1918,
+          "mint": "D",
+          "business_strikes": 8362000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "BN-1918-D-87-01",
+              "name": "8 over 7",
+              "description": "1918/7-D Overdate - 8 stamped over 7",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "BN-1926-S",
+          "year": 1926,
+          "mint": "S",
+          "business_strikes": 970000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Absolute lowest mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "BN-1937-D-3L",
+          "year": 1937,
+          "mint": "D",
+          "business_strikes": 17826000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "BN-1937-D-3L-01",
+              "name": "3-Legged Buffalo",
+              "description": "Famous variety with missing front leg",
+              "estimated_mintage": null
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "James Earle Fraser",
+        "reverse": "James Earle Fraser"
+      }
+    },
+    {
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "official_name": "Jefferson Nickel",
+      "years": {
+        "start": 1938,
+        "end": 2024
+      },
+      "specifications": {
+        "diameter_mm": 21.2,
+        "thickness_mm": 1.95,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1938,
+            "end": 1942
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "copper_nickel"
+        },
+        {
+          "date_range": {
+            "start": 1942,
+            "end": 1945
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "silver_wartime"
+        },
+        {
+          "date_range": {
+            "start": 1946,
+            "end": 2024
+          },
+          "weight": {
+            "grams": 5.0
+          },
+          "composition_key": "copper_nickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "JN-1950-D",
+          "year": 1950,
+          "mint": "D",
+          "business_strikes": 2630030,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage Jefferson nickel",
+          "varieties": []
+        },
+        {
+          "coin_id": "JN-1971-S-NoS",
+          "year": 1971,
+          "mint": "S",
+          "business_strikes": 0,
+          "proof_strikes": 3220733,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "JN-1971-S-NoS-01",
+              "name": "No S Proof",
+              "description": "Error proof without S mintmark",
+              "estimated_mintage": 200
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Felix Schlag",
+        "reverse": "Felix Schlag"
+      }
+    }
+  ]
+}

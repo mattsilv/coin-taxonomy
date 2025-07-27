@@ -1,0 +1,95 @@
+{
+  "us_mints": {
+    "P": {
+      "name": "Philadelphia Mint",
+      "location": "Philadelphia, Pennsylvania",
+      "years_active": {
+        "start": 1792,
+        "end": "present"
+      },
+      "mark_used": {
+        "start": 1979,
+        "end": "present"
+      },
+      "notes": "Original US Mint facility. No mint mark used on most coins until 1979."
+    },
+    "D": {
+      "name": "Denver Mint",
+      "location": "Denver, Colorado",
+      "years_active": {
+        "start": 1906,
+        "end": "present"
+      },
+      "mark_used": {
+        "start": 1906,
+        "end": "present"
+      },
+      "notes": "Primary mint for circulation coins"
+    },
+    "S": {
+      "name": "San Francisco Mint",
+      "location": "San Francisco, California",
+      "years_active": {
+        "start": 1854,
+        "end": "present"
+      },
+      "mark_used": {
+        "start": 1854,
+        "end": "present"
+      },
+      "notes": "Currently produces primarily proof coins"
+    },
+    "O": {
+      "name": "New Orleans Mint",
+      "location": "New Orleans, Louisiana",
+      "years_active": {
+        "start": 1838,
+        "end": 1909
+      },
+      "mark_used": {
+        "start": 1838,
+        "end": 1909
+      },
+      "notes": "Closed 1861-1879 during Civil War and Reconstruction"
+    },
+    "CC": {
+      "name": "Carson City Mint",
+      "location": "Carson City, Nevada",
+      "years_active": {
+        "start": 1870,
+        "end": 1893
+      },
+      "mark_used": {
+        "start": 1870,
+        "end": 1893
+      },
+      "notes": "Specialized in silver coins from local mines"
+    },
+    "C": {
+      "name": "Charlotte Mint",
+      "location": "Charlotte, North Carolina",
+      "years_active": {
+        "start": 1838,
+        "end": 1861
+      },
+      "mark_used": {
+        "start": 1838,
+        "end": 1861
+      },
+      "notes": "Gold coins only"
+    },
+    "W": {
+      "name": "West Point Mint",
+      "location": "West Point, New York",
+      "years_active": {
+        "start": 1984,
+        "end": "present"
+      },
+      "mark_used": {
+        "start": 1984,
+        "end": "present"
+      },
+      "notes": "Precious metals and commemorative coins"
+    }
+  }
+}

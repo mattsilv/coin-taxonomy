@@ -1,0 +1,306 @@
+{
+  "country": "US",
+  "denomination": "Quarters",
+  "face_value": 0.25,
+  "series": [
+    {
+      "series_id": "barber_quarter",
+      "series_name": "Barber Quarter",
+      "official_name": "Barber Quarter",
+      "years": {
+        "start": 1892,
+        "end": 1916
+      },
+      "specifications": {
+        "diameter_mm": 24.3,
+        "thickness_mm": 1.75,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1892,
+            "end": 1916
+          },
+          "weight": {
+            "grams": 6.25
+          },
+          "composition_key": "silver_90"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "BQ-1892-P-T1",
+          "year": 1892,
+          "mint": "P",
+          "business_strikes": 8237245,
+          "proof_strikes": null,
+          "source_citation": "Red Book",
+          "varieties": [
+            {
+              "variety_id": "BQ-1892-P-T1-01",
+              "name": "Type I",
+              "description": "Eagle wing coverage differs from Type II",
+              "estimated_mintage": null
+            },
+            {
+              "variety_id": "BQ-1892-P-T1-02",
+              "name": "Type II",
+              "description": "Modified eagle wing coverage",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "BQ-1896-S",
+          "year": 1896,
+          "mint": "S",
+          "business_strikes": 188039,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Major key date",
+          "varieties": []
+        },
+        {
+          "coin_id": "BQ-1901-S",
+          "year": 1901,
+          "mint": "S",
+          "business_strikes": 72664,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Rarest in circulated grades",
+          "varieties": []
+        },
+        {
+          "coin_id": "BQ-1913-S",
+          "year": 1913,
+          "mint": "S",
+          "business_strikes": 40000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage in series",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Charles E. Barber",
+        "reverse": "Charles E. Barber"
+      }
+    },
+    {
+      "series_id": "standing_liberty_quarter",
+      "series_name": "Standing Liberty Quarter",
+      "official_name": "Standing Liberty Quarter",
+      "years": {
+        "start": 1916,
+        "end": 1930
+      },
+      "specifications": {
+        "diameter_mm": 24.3,
+        "thickness_mm": 1.75,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1916,
+            "end": 1930
+          },
+          "weight": {
+            "grams": 6.25
+          },
+          "composition_key": "silver_90"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "SLQ-1916-P-T1",
+          "year": 1916,
+          "mint": "P",
+          "business_strikes": 52000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage 20th century coin",
+          "varieties": [
+            {
+              "variety_id": "SLQ-1916-P-T1-01",
+              "name": "Type I",
+              "description": "Bare-breasted Liberty",
+              "estimated_mintage": 52000
+            }
+          ]
+        },
+        {
+          "coin_id": "SLQ-1917-P-T1",
+          "year": 1917,
+          "mint": "P",
+          "business_strikes": 8792000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "SLQ-1917-P-T1-01",
+              "name": "Type I",
+              "description": "Bare-breasted Liberty",
+              "estimated_mintage": 8792000
+            },
+            {
+              "variety_id": "SLQ-1917-P-T1-02",
+              "name": "Type II",
+              "description": "Chain mail added",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "SLQ-1918-S-87",
+          "year": 1918,
+          "mint": "S",
+          "business_strikes": 11072000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "~3,000 survivors of overdate",
+          "varieties": [
+            {
+              "variety_id": "SLQ-1918-S-87-01",
+              "name": "1918/7-S Overdate",
+              "description": "8 over 7 overdate",
+              "estimated_mintage": 3000
+            }
+          ]
+        },
+        {
+          "coin_id": "SLQ-1921-P",
+          "year": 1921,
+          "mint": "P",
+          "business_strikes": 1916000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Post-WWI recession",
+          "varieties": []
+        },
+        {
+          "coin_id": "SLQ-1927-S",
+          "year": 1927,
+          "mint": "S",
+          "business_strikes": 396000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Second lowest mintage",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Hermon Atkins MacNeil",
+        "reverse": "Hermon Atkins MacNeil"
+      }
+    },
+    {
+      "series_id": "washington_quarter",
+      "series_name": "Washington Quarter",
+      "official_name": "Washington Quarter",
+      "years": {
+        "start": 1932,
+        "end": 2024
+      },
+      "specifications": {
+        "diameter_mm": 24.3,
+        "thickness_mm": 1.75,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1932,
+            "end": 1964
+          },
+          "weight": {
+            "grams": 6.25
+          },
+          "composition_key": "silver_90"
+        },
+        {
+          "date_range": {
+            "start": 1965,
+            "end": 2024
+          },
+          "weight": {
+            "grams": 5.67
+          },
+          "composition_key": "clad_cupronickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "WQ-1932-D",
+          "year": 1932,
+          "mint": "D",
+          "business_strikes": 436800,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Rarest Washington quarter",
+          "varieties": []
+        },
+        {
+          "coin_id": "WQ-1932-S",
+          "year": 1932,
+          "mint": "S",
+          "business_strikes": 408000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Second rarest",
+          "varieties": []
+        },
+        {
+          "coin_id": "WQ-1999-P-DE",
+          "year": 1999,
+          "mint": "P",
+          "business_strikes": 373400000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "State Quarters program begins - Delaware",
+          "varieties": [
+            {
+              "variety_id": "WQ-1999-P-DE-01",
+              "name": "Delaware",
+              "description": "First state quarter - Delaware reverse",
+              "estimated_mintage": 373400000
+            }
+          ]
+        },
+        {
+          "coin_id": "WQ-2019-W",
+          "year": 2019,
+          "mint": "W",
+          "business_strikes": 2000000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "First W mint quarters - various designs, 2 million each",
+          "varieties": []
+        },
+        {
+          "coin_id": "WQ-2020-W",
+          "year": 2020,
+          "mint": "W",
+          "business_strikes": 2000000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "W mint quarters continue - various designs, 2 million each",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "John Flanagan",
+        "reverse": "John Flanagan"
+      }
+    }
+  ]
+}

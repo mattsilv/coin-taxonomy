@@ -1,0 +1,430 @@
+{
+  "country": "US",
+  "denomination": "Dollars",
+  "face_value": 1.0,
+  "series": [
+    {
+      "series_id": "morgan_dollar",
+      "series_name": "Morgan Dollar",
+      "official_name": "Morgan Dollar",
+      "years": {
+        "start": 1878,
+        "end": 1921
+      },
+      "specifications": {
+        "diameter_mm": 38.1,
+        "thickness_mm": 2.4,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1878,
+            "end": 1921
+          },
+          "weight": {
+            "grams": 26.73
+          },
+          "composition_key": "silver_90"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "MD-1879-CC",
+          "year": 1879,
+          "mint": "CC",
+          "business_strikes": 756000,
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Important Carson City issue",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1889-CC",
+          "year": 1889,
+          "mint": "CC",
+          "business_strikes": 350000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Second key date Carson City issue",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1893-S",
+          "year": 1893,
+          "mint": "S",
+          "business_strikes": 100000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Absolute key date",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1894-P",
+          "year": 1894,
+          "mint": "P",
+          "business_strikes": 110000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Philadelphia key",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1895-O",
+          "year": 1895,
+          "mint": "O",
+          "business_strikes": 450000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1895-P",
+          "year": 1895,
+          "mint": "P",
+          "business_strikes": 0,
+          "proof_strikes": 880,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Proofs only - No business strikes",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1895-S",
+          "year": 1895,
+          "mint": "S",
+          "business_strikes": 400000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": []
+        },
+        {
+          "coin_id": "MD-1903-O",
+          "year": 1903,
+          "mint": "O",
+          "business_strikes": 4450000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Treasury Release coin",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "George T. Morgan",
+        "reverse": "George T. Morgan"
+      }
+    },
+    {
+      "series_id": "peace_dollar",
+      "series_name": "Peace Dollar",
+      "official_name": "Peace Dollar",
+      "years": {
+        "start": 1921,
+        "end": 1935
+      },
+      "specifications": {
+        "diameter_mm": 38.1,
+        "thickness_mm": 2.4,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1921,
+            "end": 1935
+          },
+          "weight": {
+            "grams": 26.73
+          },
+          "composition_key": "silver_90"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "PD-1921-P-HR",
+          "year": 1921,
+          "mint": "P",
+          "business_strikes": 1006473,
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "High Relief - Most artistic",
+          "varieties": [
+            {
+              "variety_id": "PD-1921-P-HR-01",
+              "name": "High Relief",
+              "description": "First year high relief design",
+              "estimated_mintage": 1006473
+            }
+          ]
+        },
+        {
+          "coin_id": "PD-1927-D",
+          "year": 1927,
+          "mint": "D",
+          "business_strikes": 1268900,
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Scarce despite higher mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "PD-1928-P",
+          "year": 1928,
+          "mint": "P",
+          "business_strikes": 360649,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Undisputed key date",
+          "varieties": []
+        },
+        {
+          "coin_id": "PD-1934-S",
+          "year": 1934,
+          "mint": "S",
+          "business_strikes": 1011000,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Second key date",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Anthony de Francisci",
+        "reverse": "Anthony de Francisci"
+      }
+    },
+    {
+      "series_id": "eisenhower_dollar",
+      "series_name": "Eisenhower Dollar",
+      "official_name": "Eisenhower Dollar",
+      "years": {
+        "start": 1971,
+        "end": 1978
+      },
+      "specifications": {
+        "diameter_mm": 38.1,
+        "thickness_mm": 2.58,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1971,
+            "end": 1978
+          },
+          "weight": {
+            "grams": 22.68
+          },
+          "composition_key": "clad_cupronickel"
+        },
+        {
+          "date_range": {
+            "start": 1971,
+            "end": 1976
+          },
+          "weight": {
+            "grams": 24.59
+          },
+          "composition_key": "silver_40"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "ED-1973-D",
+          "year": 1973,
+          "mint": "D",
+          "business_strikes": 1769258,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "ED-1973-P",
+          "year": 1973,
+          "mint": "P",
+          "business_strikes": 1769258,
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage",
+          "varieties": []
+        },
+        {
+          "coin_id": "ED-1976-P-T1",
+          "year": 1976,
+          "mint": "P",
+          "business_strikes": 117337000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "ED-1976-P-T1-01",
+              "name": "Type 1",
+              "description": "Bicentennial design Type 1",
+              "estimated_mintage": null
+            },
+            {
+              "variety_id": "ED-1976-P-T1-02",
+              "name": "Type 2",
+              "description": "Bicentennial design Type 2",
+              "estimated_mintage": null
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Frank Gasparro",
+        "reverse": "Frank Gasparro"
+      }
+    },
+    {
+      "series_id": "susan_b_anthony_dollar",
+      "series_name": "Susan B. Anthony Dollar",
+      "official_name": "Susan B. Anthony Dollar",
+      "years": {
+        "start": 1979,
+        "end": 1999
+      },
+      "specifications": {
+        "diameter_mm": 26.5,
+        "thickness_mm": 2.0,
+        "edge": "reeded"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1979,
+            "end": 1999
+          },
+          "weight": {
+            "grams": 8.1
+          },
+          "composition_key": "clad_cupronickel"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "SBA-1979-P-WR",
+          "year": 1979,
+          "mint": "P",
+          "business_strikes": 360222000,
+          "proof_strikes": null,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "SBA-1979-P-WR-01",
+              "name": "Wide Rim",
+              "description": "Scarce variety worth premium",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "SBA-1979-S-T2",
+          "year": 1979,
+          "mint": "S",
+          "business_strikes": 0,
+          "proof_strikes": 3677175,
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "variety_id": "SBA-1979-S-T2-01",
+              "name": "Type 2 Proof",
+              "description": "Clear S, 15-20% of proofs",
+              "estimated_mintage": null
+            }
+          ]
+        },
+        {
+          "coin_id": "SBA-1999-P",
+          "year": 1999,
+          "mint": "P",
+          "business_strikes": 29592000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "notes": "Stopgap before Sacagawea",
+          "varieties": []
+        }
+      ],
+      "designers": {
+        "obverse": "Frank Gasparro",
+        "reverse": "Frank Gasparro"
+      }
+    },
+    {
+      "series_id": "sacagawea_dollar",
+      "series_name": "Sacagawea Dollar",
+      "official_name": "Sacagawea Dollar",
+      "years": {
+        "start": 2000,
+        "end": 2008
+      },
+      "specifications": {
+        "diameter_mm": 26.5,
+        "thickness_mm": 2.0,
+        "edge": "plain"
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 2000,
+            "end": 2008
+          },
+          "weight": {
+            "grams": 8.1
+          },
+          "composition_key": "manganese_brass"
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "SAC-2000-D",
+          "year": 2000,
+          "mint": "D",
+          "business_strikes": 518916000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "varieties": []
+        },
+        {
+          "coin_id": "SAC-2000-P-Cheerios",
+          "year": 2000,
+          "mint": "P",
+          "business_strikes": 767140000,
+          "proof_strikes": null,
+          "source_citation": "US Mint records",
+          "varieties": [
+            {
+              "variety_id": "SAC-2000-P-Cheerios-01",
+              "name": "Cheerios Dollars",
+              "description": "~5,500 with detailed tail feathers",
+              "estimated_mintage": 5500
+            },
+            {
+              "variety_id": "SAC-2000-P-Cheerios-02",
+              "name": "Goodacre Presentation",
+              "description": "5,000 special pieces",
+              "estimated_mintage": 5000
+            }
+          ]
+        }
+      ],
+      "designers": {
+        "obverse": "Glenna Goodacre",
+        "reverse": "Thomas D. Rogers Sr."
+      }
+    }
+  ]
+}

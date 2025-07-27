@@ -1,0 +1,144 @@
+{
+  "common_alloys": {
+    "silver_90": {
+      "name": "90% Silver",
+      "composition": {
+        "silver": 0.9,
+        "copper": 0.1
+      },
+      "period": "1792-1964",
+      "notes": "Standard US silver composition until 1964"
+    },
+    "silver_40": {
+      "name": "40% Silver",
+      "composition": {
+        "silver": 0.4,
+        "copper": 0.6
+      },
+      "period": "1965-1976",
+      "notes": "Half dollars and some Eisenhower dollars - transitional composition"
+    },
+    "silver_wartime": {
+      "name": "Wartime Silver",
+      "composition": {
+        "silver": 0.35,
+        "copper": 0.56,
+        "manganese": 0.09
+      },
+      "period": "1942-1945",
+      "notes": "Jefferson nickels during WWII to conserve nickel for war effort"
+    },
+    "copper_nickel": {
+      "name": "Copper-Nickel",
+      "composition": {
+        "copper": 0.75,
+        "nickel": 0.25
+      },
+      "period": "1866-present",
+      "notes": "Standard composition for nickels and clad coin outer layers"
+    },
+    "copper_nickel_indian": {
+      "name": "Copper-Nickel (Indian Head)",
+      "composition": {
+        "copper": 0.88,
+        "nickel": 0.12
+      },
+      "period": "1859-1864",
+      "notes": "Early Indian Head cent composition before bronze adoption"
+    },
+    "bronze_95_4_1": {
+      "name": "Bronze",
+      "composition": {
+        "copper": 0.95,
+        "tin": 0.04,
+        "zinc": 0.01
+      },
+      "period": "1864-1962",
+      "notes": "Standard bronze composition for cents"
+    },
+    "brass_95_5": {
+      "name": "Brass",
+      "composition": {
+        "copper": 0.95,
+        "zinc": 0.05
+      },
+      "period": "1944-1982",
+      "notes": "Post-WWII cent composition without tin"
+    },
+    "zinc_copper_plated": {
+      "name": "Copper-Plated Zinc",
+      "composition": {
+        "zinc": 0.975,
+        "copper": 0.025
+      },
+      "period": "1982-present",
+      "notes": "Modern penny composition - zinc core with copper plating"
+    },
+    "steel_zinc_coated": {
+      "name": "Steel with Zinc Coating",
+      "composition": {
+        "steel": 0.99,
+        "zinc_coating": 0.01
+      },
+      "period": "1943",
+      "notes": "Wartime steel cent composition to conserve copper"
+    },
+    "clad_cupronickel": {
+      "name": "Copper-Nickel Clad",
+      "composition": {
+        "copper_core": 0.917,
+        "cupronickel_cladding": 0.083
+      },
+      "period": "1965-present",
+      "notes": "Modern dimes, quarters, and some dollars composition"
+    },
+    "manganese_brass": {
+      "name": "Manganese Brass",
+      "composition": {
+        "copper": 0.885,
+        "zinc": 0.06,
+        "manganese": 0.035,
+        "nickel": 0.02
+      },
+      "period": "2000-2008",
+      "notes": "Sacagawea dollar composition"
+    }
+  },
+  "metal_properties": {
+    "silver": {
+      "symbol": "Ag",
+      "density_g_cm3": 10.49,
+      "melting_point_c": 961.8
+    },
+    "copper": {
+      "symbol": "Cu",
+      "density_g_cm3": 8.96,
+      "melting_point_c": 1084.6
+    },
+    "nickel": {
+      "symbol": "Ni",
+      "density_g_cm3": 8.91,
+      "melting_point_c": 1455
+    },
+    "zinc": {
+      "symbol": "Zn",
+      "density_g_cm3": 7.14,
+      "melting_point_c": 419.5
+    },
+    "steel": {
+      "symbol": "Fe",
+      "density_g_cm3": 7.87,
+      "melting_point_c": 1538
+    },
+    "tin": {
+      "symbol": "Sn",
+      "density_g_cm3": 7.31,
+      "melting_point_c": 231.9
+    },
+    "manganese": {
+      "symbol": "Mn",
+      "density_g_cm3": 7.44,
+      "melting_point_c": 1246
+    }
+  }
+}

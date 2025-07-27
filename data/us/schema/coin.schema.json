@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["country", "denomination", "face_value", "series"],
+  "properties": {
+    "country": {
+      "type": "string",
+      "const": "US"
+    },
+    "denomination": {
+      "type": "string",
+      "enum": ["Cents", "Nickels", "Dimes", "Quarters", "Half Dollars", "Dollars"]
+    },
+    "face_value": {
+      "type": "number",
+      "minimum": 0
+    },
+    "series": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["series_id", "series_name", "years", "composition_periods"],
+        "properties": {
+          "series_id": {
+            "type": "string",
+            "pattern": "^[a-z_]+$"
+          },
+          "series_name": {
+            "type": "string"
+          },
+          "official_name": {
+            "type": "string"
+          },
+          "years": {
+            "type": "object",
+            "required": ["start"],
+            "properties": {
+              "start": {
+                "type": "integer",
+                "minimum": 1792
+              },
+              "end": {
+                "oneOf": [
+                  {"type": "integer", "minimum": 1792},
+                  {"type": "string", "const": "present"}
+                ]
+              }
+            }
+          },
+          "designers": {
+            "type": "object",
+            "properties": {
+              "obverse": {"type": "string"},
+              "reverse": {"type": "string"}
+            }
+          },
+          "specifications": {
+            "type": "object",
+            "properties": {
+              "diameter_mm": {"type": "number", "minimum": 0},
+              "thickness_mm": {"type": "number", "minimum": 0},
+              "edge": {"type": "string"},
+              "edge_reeds": {"type": "integer", "minimum": 0}
+            }
+          },
+          "composition_periods": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["date_range", "weight"],
+              "properties": {
+                "date_range": {
+                  "type": "object",
+                  "required": ["start"],
+                  "properties": {
+                    "start": {"type": "integer", "minimum": 1792},
+                    "end": {
+                      "oneOf": [
+                        {"type": "integer", "minimum": 1792},
+                        {"type": "string", "const": "present"}
+                      ]
+                    }
+                  }
+                },
+                "composition_key": {
+                  "type": "string",
+                  "pattern": "^[a-z_0-9]+$"
+                },
+                "alloy_name": {
+                  "type": "string"
+                },
+                "alloy": {
+                  "type": "object",
+                  "patternProperties": {
+                    "^[a-z_]+$": {"type": "number", "minimum": 0, "maximum": 1}
+                  }
+                },
+                "weight": {
+                  "type": "object",
+                  "required": ["grams"],
+                  "properties": {
+                    "grams": {"type": "number", "minimum": 0},
+                    "troy_oz": {"type": "number", "minimum": 0}
+                  }
+                }
+              },
+              "oneOf": [
+                {"required": ["composition_key"]},
+                {"required": ["alloy_name", "alloy"]}
+              ]
+            }
+          },
+          "coins": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["coin_id", "year", "mint"],
+              "properties": {
+                "coin_id": {
+                  "type": "string",
+                  "pattern": "^[A-Z]+-\\d{4}-[A-Z]+(-[A-Za-z0-9]+)*$"
+                },
+                "year": {"type": "integer", "minimum": 1792},
+                "mint": {"type": "string", "pattern": "^[A-Z]+$"},
+                "business_strikes": {"type": ["integer", "null"], "minimum": 0},
+                "proof_strikes": {"type": ["integer", "null"], "minimum": 0},
+                "rarity": {
+                  "type": "string",
+                  "enum": ["key", "semi-key", "common", "scarce"]
+                },
+                "varieties": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["variety_id", "name", "description"],
+                    "properties": {
+                      "variety_id": {"type": "string"},
+                      "name": {"type": "string"},
+                      "description": {"type": "string"},
+                      "estimated_mintage": {"type": ["integer", "null"]}
+                    }
+                  }
+                },
+                "source_citation": {"type": ["string", "null"]},
+                "notes": {"type": ["string", "null"]}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
