@@ -38,6 +38,9 @@ coin_taxonomy_complete.json
 # Allow our official complete taxonomy file in source control
 !data/us/us_coins_complete.json
 
+# Documentation folder
+docs/
+
 # Private documentation (not for public release)
 docs/private/
 docs/internal/
