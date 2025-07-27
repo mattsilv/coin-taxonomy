@@ -1,0 +1,19 @@
+{
+  "taxonomy_version": "1.1",
+  "format": "universal_flat_structure",
+  "total_issues": 97,
+  "countries": 1,
+  "object_types": 1,
+  "year_range": {
+    "earliest": 1864,
+    "latest": 2020
+  },
+  "registries": {
+    "subjects": "subject_registry.json",
+    "compositions": "composition_registry.json",
+    "series": "series_registry.json"
+  },
+  "issue_files": [
+    "us_issues.json"
+  ]
+}

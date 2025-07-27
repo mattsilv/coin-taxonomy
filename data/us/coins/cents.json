@@ -22,20 +22,29 @@
             "start": 1859,
             "end": 1864
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.88,
+            "nickel": 0.12
+          },
           "weight": {
             "grams": 4.67
-          },
-          "composition_key": "copper_nickel_indian"
+          }
         },
         {
           "date_range": {
             "start": 1864,
             "end": 1909
           },
+          "alloy_name": "Bronze",
+          "alloy": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
           "weight": {
             "grams": 3.11
-          },
-          "composition_key": "bronze_95_4_1"
+          }
         }
       ],
       "coins": [
@@ -145,30 +154,43 @@
             "start": 1909,
             "end": 1942
           },
+          "alloy_name": "Bronze",
+          "alloy": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
           "weight": {
             "grams": 3.11
-          },
-          "composition_key": "bronze_95_4_1"
+          }
         },
         {
           "date_range": {
             "start": 1943,
             "end": 1943
           },
+          "alloy_name": "Steel",
+          "alloy": {
+            "steel": 0.99,
+            "zinc_coating": 0.01
+          },
           "weight": {
             "grams": 2.7
-          },
-          "composition_key": "steel_zinc_coated"
+          }
         },
         {
           "date_range": {
             "start": 1944,
             "end": 1958
           },
+          "alloy_name": "Brass",
+          "alloy": {
+            "copper": 0.95,
+            "zinc": 0.05
+          },
           "weight": {
             "grams": 3.11
-          },
-          "composition_key": "brass_95_5"
+          }
         }
       ],
       "coins": [
@@ -302,30 +324,43 @@
             "start": 1959,
             "end": 1962
           },
+          "alloy_name": "Bronze",
+          "alloy": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
           "weight": {
             "grams": 3.11
-          },
-          "composition_key": "bronze_95_4_1"
+          }
         },
         {
           "date_range": {
             "start": 1962,
             "end": 1982
           },
+          "alloy_name": "Brass",
+          "alloy": {
+            "copper": 0.95,
+            "zinc": 0.05
+          },
           "weight": {
             "grams": 3.11
-          },
-          "composition_key": "brass_95_5"
+          }
         },
         {
           "date_range": {
             "start": 1982,
             "end": 2008
           },
+          "alloy_name": "Copper-Plated Zinc",
+          "alloy": {
+            "zinc": 0.975,
+            "copper": 0.025
+          },
           "weight": {
             "grams": 2.5
-          },
-          "composition_key": "zinc_copper_plated"
+          }
         }
       ],
       "coins": [
@@ -403,10 +438,14 @@
             "start": 2009,
             "end": 2009
           },
+          "alloy_name": "Copper-Plated Zinc",
+          "alloy": {
+            "zinc": 0.975,
+            "copper": 0.025
+          },
           "weight": {
             "grams": 2.5
-          },
-          "composition_key": "zinc_copper_plated"
+          }
         }
       ],
       "coins": [
@@ -467,10 +506,14 @@
             "start": 2010,
             "end": 2024
           },
+          "alloy_name": "Copper-Plated Zinc",
+          "alloy": {
+            "zinc": 0.975,
+            "copper": 0.025
+          },
           "weight": {
             "grams": 2.5
-          },
-          "composition_key": "zinc_copper_plated"
+          }
         }
       ],
       "coins": [

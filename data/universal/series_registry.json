@@ -1,0 +1,13 @@
+{
+  "series": [
+    {
+      "series_id": "washington_quarter",
+      "series_name": "Washington Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1864,
+      "end_year": 2020,
+      "type": "coin"
+    }
+  ]
+}

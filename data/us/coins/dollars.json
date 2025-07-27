@@ -22,10 +22,14 @@
             "start": 1878,
             "end": 1921
           },
+          "alloy_name": "Silver",
+          "alloy": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
           "weight": {
             "grams": 26.73
-          },
-          "composition_key": "silver_90"
+          }
         }
       ],
       "coins": [
@@ -139,10 +143,14 @@
             "start": 1921,
             "end": 1935
           },
+          "alloy_name": "Silver",
+          "alloy": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
           "weight": {
             "grams": 26.73
-          },
-          "composition_key": "silver_90"
+          }
         }
       ],
       "coins": [
@@ -222,20 +230,28 @@
             "start": 1971,
             "end": 1978
           },
+          "alloy_name": "Clad",
+          "alloy": {
+            "copper_core": 0.917,
+            "cupronickel_cladding": 0.083
+          },
           "weight": {
             "grams": 22.68
-          },
-          "composition_key": "clad_cupronickel"
+          }
         },
         {
           "date_range": {
             "start": 1971,
             "end": 1976
           },
+          "alloy_name": "40% Silver",
+          "alloy": {
+            "silver": 0.4,
+            "copper": 0.6
+          },
           "weight": {
             "grams": 24.59
-          },
-          "composition_key": "silver_40"
+          }
         }
       ],
       "coins": [
@@ -308,10 +324,14 @@
             "start": 1979,
             "end": 1999
           },
+          "alloy_name": "Clad",
+          "alloy": {
+            "copper_core": 0.917,
+            "cupronickel_cladding": 0.083
+          },
           "weight": {
             "grams": 8.1
-          },
-          "composition_key": "clad_cupronickel"
+          }
         }
       ],
       "coins": [
@@ -382,10 +402,16 @@
             "start": 2000,
             "end": 2008
           },
+          "alloy_name": "Manganese Brass",
+          "alloy": {
+            "copper": 0.885,
+            "zinc": 0.06,
+            "manganese": 0.035,
+            "nickel": 0.02
+          },
           "weight": {
             "grams": 8.1
-          },
-          "composition_key": "manganese_brass"
+          }
         }
       ],
       "coins": [

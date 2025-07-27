@@ -22,10 +22,14 @@
             "start": 1892,
             "end": 1916
           },
+          "alloy_name": "Silver",
+          "alloy": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
           "weight": {
             "grams": 6.25
-          },
-          "composition_key": "silver_90"
+          }
         }
       ],
       "coins": [
@@ -109,10 +113,14 @@
             "start": 1916,
             "end": 1930
           },
+          "alloy_name": "Silver",
+          "alloy": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
           "weight": {
             "grams": 6.25
-          },
-          "composition_key": "silver_90"
+          }
         }
       ],
       "coins": [
@@ -220,20 +228,28 @@
             "start": 1932,
             "end": 1964
           },
+          "alloy_name": "Silver",
+          "alloy": {
+            "silver": 0.9,
+            "copper": 0.1
+          },
           "weight": {
             "grams": 6.25
-          },
-          "composition_key": "silver_90"
+          }
         },
         {
           "date_range": {
             "start": 1965,
             "end": 2024
           },
+          "alloy_name": "Clad",
+          "alloy": {
+            "copper_core": 0.917,
+            "cupronickel_cladding": 0.083
+          },
           "weight": {
             "grams": 5.67
-          },
-          "composition_key": "clad_cupronickel"
+          }
         }
       ],
       "coins": [

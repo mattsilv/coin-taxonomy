@@ -22,10 +22,14 @@
             "start": 1866,
             "end": 1883
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "copper_nickel"
+          }
         }
       ],
       "coins": [
@@ -98,10 +102,14 @@
             "start": 1883,
             "end": 1913
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "copper_nickel"
+          }
         }
       ],
       "coins": [
@@ -179,10 +187,14 @@
             "start": 1913,
             "end": 1938
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "copper_nickel"
+          }
         }
       ],
       "coins": [
@@ -281,30 +293,43 @@
             "start": 1938,
             "end": 1942
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "copper_nickel"
+          }
         },
         {
           "date_range": {
             "start": 1942,
             "end": 1945
           },
+          "alloy_name": "Wartime Silver",
+          "alloy": {
+            "silver": 0.35,
+            "copper": 0.56,
+            "manganese": 0.09
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "silver_wartime"
+          }
         },
         {
           "date_range": {
             "start": 1946,
             "end": 2024
           },
+          "alloy_name": "Copper-Nickel",
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
           "weight": {
             "grams": 5.0
-          },
-          "composition_key": "copper_nickel"
+          }
         }
       ],
       "coins": [
