@@ -118,7 +118,7 @@
               "properties": {
                 "coin_id": {
                   "type": "string",
-                  "pattern": "^[A-Z]+-\\d{4}-[A-Z]+(-[A-Za-z0-9]+)*$"
+                  "pattern": "^[A-Z]{2,3}-[A-Z]{4}-\\d{4}-[A-Z]{1,2}$"
                 },
                 "year": {"type": "integer", "minimum": 1792},
                 "mint": {"type": "string", "pattern": "^[A-Z]+$"},

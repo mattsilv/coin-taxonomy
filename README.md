@@ -6,7 +6,9 @@ A comprehensive, structured database of US coin series, mintages, varieties, and
 
 ## Project Goals
 
-The goal of this project is to create a **unified taxonomy structure** that enables AI systems to accurately classify coins and better connect buyers and sellers in the age of artificial intelligence. By providing standardized, machine-readable coin data with consistent identifiers and comprehensive metadata, this database serves as a foundation for:
+The goal of this project is to create a **unified taxonomy structure** that enables AI systems to accurately classify coins and better connect buyers and sellers in the age of artificial intelligence. 
+
+**The core innovation is standardized coin IDs** - consistent, parseable identifiers that make machine learning and database operations reliable. By providing these stable identifiers along with comprehensive metadata, this database serves as a foundation for:
 
 - **AI-powered coin identification** and classification systems
 - **Automated marketplace matching** between buyer needs and seller inventory
@@ -17,10 +19,11 @@ The goal of this project is to create a **unified taxonomy structure** that enab
 
 This project provides a machine-readable taxonomy of United States coins with:
 
+- **Standardized coin IDs**: Every coin has a consistent `COUNTRY-TYPE-YEAR-MINT` identifier (e.g., `US-IHC-1877-P`, `US-LWC-1909-S`) that can be reliably parsed by software systems
 - **Complete series coverage**: All major US coin denominations from cents to dollars
 - **Detailed mintage data**: Business strikes and proof mintages from authoritative sources
 - **Key date identification**: Coins marked by rarity status (key, semi-key, scarce, common)
-- **Variety tracking**: Major overdates, doubled dies, and mint errors
+- **Variety tracking**: Major overdates, doubled dies, and mint errors properly separated from main coin IDs
 - **Composition periods**: Accurate metal content through time
 - **Source attribution**: Citations from PCGS CoinFacts, NGC, Red Book, US Mint records
 
@@ -45,7 +48,7 @@ coin-taxonomy/
 ### Comprehensive Data Coverage
 
 - **20 major series** across 5 denominations
-- **105 individual coin entries** with full attribution
+- **99 individual coin entries** with full attribution and standardized IDs
 - **39 key dates** identified with rarity status
 - **33 major varieties** documented with descriptions
 
@@ -131,6 +134,130 @@ uv run python scripts/export_db_v1_1.py
 
 # Run comprehensive data integrity check
 uv run python scripts/data_integrity_check.py
+```
+
+## Development Workflow
+
+⚠️ **CRITICAL**: Never edit JSON files directly! They are generated artifacts.
+
+### Data Flow
+```
+Migration Scripts  →  Database  →  JSON Files
+   (source)           (build)      (exports)
+```
+
+### Making Changes
+1. **Backup database**: `cp database/coins.db backups/coins_backup_$(date +%Y%m%d_%H%M%S).db`
+2. **Update data**: Modify the `coins` table in the database for data changes, or update migration scripts for schema changes
+3. **Verify changes**: `uv run python scripts/data_integrity_check.py`
+4. **Export JSON**: `uv run python scripts/export_db_v1_1.py`
+5. **Commit**: Only commit migration scripts and JSON files (never the database)
+
+### Coin ID Format: The Foundation of Everything
+
+The **coin ID** is the most critical identifier in this database. It serves as the primary key that connects all data across systems and makes AI-powered coin identification possible.
+
+#### Why Coin IDs Matter
+
+In the age of AI and automated marketplaces, **consistent, parseable identifiers** are essential for:
+
+- **AI coin identification**: Computer vision systems need reliable IDs to match photos to database entries
+- **Marketplace integration**: E-commerce platforms require predictable formats to connect buyers and sellers
+- **Price analysis**: Historical tracking and valuation requires stable, unique identifiers across time
+- **Database reliability**: SQL queries and joins depend on consistent ID structures
+
+#### Standard Format: `COUNTRY-TYPE-YEAR-MINT`
+
+**Component Definitions:**
+
+1. **COUNTRY** (2-3 letters): ISO-style country code
+   - `US` = United States
+   - `CA` = Canada  
+   - `GB` = Great Britain
+   - Future: `FR`, `DE`, `JP`, etc.
+
+2. **TYPE** (2-4 letters): Series abbreviation identifying the coin design/series
+   
+   **Cents:**
+   - `IHC` = Indian Head Cent
+   - `LWC` = Lincoln Wheat Cent  
+   - `LMC` = Lincoln Memorial Cent
+   - `LBC` = Lincoln Bicentennial Cent
+   - `LSC` = Lincoln Shield Cent
+   
+   **Nickels:**
+   - `SN` = Shield Nickel
+   - `LHN` = Liberty Head Nickel
+   - `BN` = Buffalo Nickel
+   - `JN` = Jefferson Nickel
+   
+   **Dimes:**
+   - `BD` = Barber Dime
+   - `WHD` = Winged Liberty Head Dime (Mercury Dime)
+   - `RD` = Roosevelt Dime
+   
+   **Quarters:**
+   - `BQ` = Barber Quarter
+   - `SLQ` = Standing Liberty Quarter
+   - `WQ` = Washington Quarter
+   
+   **Dollars:**
+   - `MD` = Morgan Dollar
+   - `PD` = Peace Dollar
+   - `ED` = Eisenhower Dollar
+   - `SBA` = Susan B. Anthony Dollar
+   - `SAC` = Sacagawea Dollar
+
+3. **YEAR** (4 digits): The year the coin was minted
+   - `1877`, `1909`, `1942`, `2024`
+
+4. **MINT** (1-2 letters): US Mint facility where coin was produced
+   - `P` = Philadelphia
+   - `D` = Denver
+   - `S` = San Francisco
+   - `CC` = Carson City (historical)
+   - `W` = West Point
+   - `O` = New Orleans (historical)
+
+**Examples:**
+- `US-IHC-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
+- `US-LWC-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint  
+- `US-WHD-1942-D` = US Winged Liberty Head Dime (Mercury Dime), 1942, Denver mint
+
+**Validation Rules:**
+- **Exactly 4 parts** separated by **exactly 3 dashes**
+- **All uppercase letters** (no lowercase allowed)
+- **No variety information** in the coin_id (goes in `varieties` array instead)
+- **Consistent abbreviations** across all series
+
+#### What This Enables
+
+With standardized coin IDs, developers can:
+- **Parse components**: `coin_id.split('-')` reliably returns `[country, type, year, mint]`
+- **Query predictably**: `WHERE coin_id LIKE 'US-IHC-%'` finds all US Indian Head Cents
+- **Filter by country**: `WHERE coin_id LIKE 'US-%'` finds all US coins
+- **Join tables safely**: Foreign key relationships work consistently across systems
+- **Build integrations**: APIs and services can depend on the format
+
+#### Common Mistakes (Now Prevented)
+
+❌ **Invalid formats** that break parsing:
+- `IHC-1864-P-L` (missing country prefix, variety in main ID)
+- `US-LWC-1909-S-VDB` (5 parts - VDB goes in `varieties`)
+- `US-MD-1942-P-21` (5 parts - overdate info goes in `varieties`)
+
+✅ **Correct format** with variety data properly separated:
+```json
+{
+  "coin_id": "US-IHC-1864-P",
+  "varieties": [
+    {
+      "variety_id": "IHC-1864-P-L-01", 
+      "name": "L on Ribbon",
+      "description": "Designer's initial L on ribbon"
+    }
+  ]
+}
 ```
 
 ## Data Structure
@@ -247,7 +374,7 @@ Each coin entry contains:
 
 ```json
 {
-  "coin_id": "MD-1916-D",
+  "coin_id": "US-WHD-1916-D",
   "year": 1916,
   "mint": "D",
   "business_strikes": 264000,

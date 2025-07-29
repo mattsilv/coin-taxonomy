@@ -49,7 +49,7 @@
       ],
       "coins": [
         {
-          "coin_id": "IHC-1864-P-L",
+          "coin_id": "US-INCH-1864-P",
           "year": 1864,
           "mint": "P",
           "business_strikes": 39233714,
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "coin_id": "IHC-1869-P-99",
+          "coin_id": "US-INCH-1869-P",
           "year": 1869,
           "mint": "P",
           "business_strikes": 6420000,
@@ -81,7 +81,7 @@
           ]
         },
         {
-          "coin_id": "IHC-1877-P",
+          "coin_id": "US-INCH-1877-P",
           "year": 1877,
           "mint": "P",
           "business_strikes": 852500,
@@ -92,7 +92,7 @@
           "varieties": []
         },
         {
-          "coin_id": "IHC-1888-P-87",
+          "coin_id": "US-INCH-1888-P",
           "year": 1888,
           "mint": "P",
           "business_strikes": 37494414,
@@ -108,7 +108,7 @@
           ]
         },
         {
-          "coin_id": "IHC-1908-S",
+          "coin_id": "US-INCH-1908-S",
           "year": 1908,
           "mint": "S",
           "business_strikes": 1115000,
@@ -119,7 +119,7 @@
           "varieties": []
         },
         {
-          "coin_id": "IHC-1909-S",
+          "coin_id": "US-INCH-1909-S",
           "year": 1909,
           "mint": "S",
           "business_strikes": 309000,
@@ -195,7 +195,7 @@
       ],
       "coins": [
         {
-          "coin_id": "LWC-1909-S-VDB",
+          "coin_id": "US-LWCT-1909-S",
           "year": 1909,
           "mint": "S",
           "business_strikes": 484000,
@@ -213,7 +213,7 @@
           ]
         },
         {
-          "coin_id": "LWC-1914-D",
+          "coin_id": "US-LWCT-1914-D",
           "year": 1914,
           "mint": "D",
           "business_strikes": 1193000,
@@ -224,7 +224,7 @@
           "varieties": []
         },
         {
-          "coin_id": "LWC-1922-D-NoD",
+          "coin_id": "US-LWCT-1922-D",
           "year": 1922,
           "mint": "D",
           "business_strikes": 7160000,
@@ -240,7 +240,7 @@
           ]
         },
         {
-          "coin_id": "LWC-1931-S",
+          "coin_id": "US-LWCT-1931-S",
           "year": 1931,
           "mint": "S",
           "business_strikes": 866000,
@@ -251,7 +251,7 @@
           "varieties": []
         },
         {
-          "coin_id": "LWC-1943-P-Bronze",
+          "coin_id": "US-LWCT-1943-P",
           "year": 1943,
           "mint": "P",
           "business_strikes": 684628670,
@@ -268,7 +268,7 @@
           ]
         },
         {
-          "coin_id": "LWC-1944-P-Steel",
+          "coin_id": "US-LWCT-1944-P",
           "year": 1944,
           "mint": "P",
           "business_strikes": 1435400000,
@@ -284,7 +284,7 @@
           ]
         },
         {
-          "coin_id": "LWC-1955-P-DDO",
+          "coin_id": "US-LWCT-1955-P",
           "year": 1955,
           "mint": "P",
           "business_strikes": 330958200,
@@ -365,7 +365,7 @@
       ],
       "coins": [
         {
-          "coin_id": "LMC-1969-S-DDO",
+          "coin_id": "US-LMCT-1969-S",
           "year": 1969,
           "mint": "S",
           "business_strikes": 547309631,
@@ -382,7 +382,7 @@
           ]
         },
         {
-          "coin_id": "LMC-1972-P-DDO",
+          "coin_id": "US-LMCT-1972-P",
           "year": 1972,
           "mint": "P",
           "business_strikes": 2933255000,
@@ -398,7 +398,7 @@
           ]
         },
         {
-          "coin_id": "LMC-1983-P-DDR",
+          "coin_id": "US-LMCT-1983-P",
           "year": 1983,
           "mint": "P",
           "business_strikes": 7752355000,
@@ -450,7 +450,7 @@
       ],
       "coins": [
         {
-          "coin_id": "LBC-2009-D-Birth",
+          "coin_id": "US-LBCT-2009-D",
           "year": 2009,
           "mint": "D",
           "business_strikes": 350400000,
@@ -466,7 +466,7 @@
           ]
         },
         {
-          "coin_id": "LBC-2009-P-Birth",
+          "coin_id": "US-LBCT-2009-P",
           "year": 2009,
           "mint": "P",
           "business_strikes": 284800000,
@@ -518,7 +518,7 @@
       ],
       "coins": [
         {
-          "coin_id": "LSC-2017-P",
+          "coin_id": "US-LSCT-2017-P",
           "year": 2017,
           "mint": "P",
           "business_strikes": 4040000000,
@@ -528,7 +528,7 @@
           "varieties": []
         },
         {
-          "coin_id": "LSC-2019-W",
+          "coin_id": "US-LSCT-2019-W",
           "year": 2019,
           "mint": "W",
           "business_strikes": 2000000,

@@ -34,7 +34,7 @@
       ],
       "coins": [
         {
-          "coin_id": "SN-1867-P",
+          "coin_id": "US-SHLD-1867-P",
           "year": 1867,
           "mint": "P",
           "business_strikes": 2019000,
@@ -45,7 +45,7 @@
           "varieties": []
         },
         {
-          "coin_id": "SN-1877-P",
+          "coin_id": "US-SHLD-1877-P",
           "year": 1877,
           "mint": "P",
           "business_strikes": 0,
@@ -56,7 +56,7 @@
           "varieties": []
         },
         {
-          "coin_id": "SN-1878-P",
+          "coin_id": "US-SHLD-1878-P",
           "year": 1878,
           "mint": "P",
           "business_strikes": 0,
@@ -67,7 +67,7 @@
           "varieties": []
         },
         {
-          "coin_id": "SN-1880-P",
+          "coin_id": "US-SHLD-1880-P",
           "year": 1880,
           "mint": "P",
           "business_strikes": 19995,
@@ -114,7 +114,7 @@
       ],
       "coins": [
         {
-          "coin_id": "LHN-1883-P-NC",
+          "coin_id": "US-LHNI-1883-P",
           "year": 1883,
           "mint": "P",
           "business_strikes": 5479519,
@@ -130,7 +130,7 @@
           ]
         },
         {
-          "coin_id": "LHN-1885-P",
+          "coin_id": "US-LHNI-1885-P",
           "year": 1885,
           "mint": "P",
           "business_strikes": 1476490,
@@ -141,7 +141,7 @@
           "varieties": []
         },
         {
-          "coin_id": "LHN-1912-S",
+          "coin_id": "US-LHNI-1912-S",
           "year": 1912,
           "mint": "S",
           "business_strikes": 238000,
@@ -152,7 +152,7 @@
           "varieties": []
         },
         {
-          "coin_id": "LHN-1913-P",
+          "coin_id": "US-LHNI-1913-P",
           "year": 1913,
           "mint": "P",
           "business_strikes": 5,
@@ -199,7 +199,7 @@
       ],
       "coins": [
         {
-          "coin_id": "BN-1913-S",
+          "coin_id": "US-BUFF-1913-S",
           "year": 1913,
           "mint": "S",
           "business_strikes": 1209000,
@@ -210,7 +210,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BN-1916-P-DDO",
+          "coin_id": "US-BUFF-1916-P",
           "year": 1916,
           "mint": "P",
           "business_strikes": 63498066,
@@ -226,7 +226,7 @@
           ]
         },
         {
-          "coin_id": "BN-1918-D-87",
+          "coin_id": "US-BUFF-1918-D",
           "year": 1918,
           "mint": "D",
           "business_strikes": 8362000,
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "coin_id": "BN-1926-S",
+          "coin_id": "US-BUFF-1926-S",
           "year": 1926,
           "mint": "S",
           "business_strikes": 970000,
@@ -253,7 +253,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BN-1937-D-3L",
+          "coin_id": "US-BUFF-1937-D",
           "year": 1937,
           "mint": "D",
           "business_strikes": 17826000,
@@ -334,7 +334,7 @@
       ],
       "coins": [
         {
-          "coin_id": "JN-1950-D",
+          "coin_id": "US-JEFF-1950-D",
           "year": 1950,
           "mint": "D",
           "business_strikes": 2630030,
@@ -345,7 +345,7 @@
           "varieties": []
         },
         {
-          "coin_id": "JN-1971-S-NoS",
+          "coin_id": "US-JEFF-1971-S",
           "year": 1971,
           "mint": "S",
           "business_strikes": 0,

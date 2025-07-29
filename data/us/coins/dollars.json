@@ -34,7 +34,7 @@
       ],
       "coins": [
         {
-          "coin_id": "MD-1879-CC",
+          "coin_id": "US-MORG-1879-CC",
           "year": 1879,
           "mint": "CC",
           "business_strikes": 756000,
@@ -45,7 +45,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1889-CC",
+          "coin_id": "US-MORG-1889-CC",
           "year": 1889,
           "mint": "CC",
           "business_strikes": 350000,
@@ -56,7 +56,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1893-S",
+          "coin_id": "US-MORG-1893-S",
           "year": 1893,
           "mint": "S",
           "business_strikes": 100000,
@@ -67,7 +67,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1894-P",
+          "coin_id": "US-MORG-1894-P",
           "year": 1894,
           "mint": "P",
           "business_strikes": 110000,
@@ -78,7 +78,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1895-O",
+          "coin_id": "US-MORG-1895-O",
           "year": 1895,
           "mint": "O",
           "business_strikes": 450000,
@@ -88,7 +88,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1895-P",
+          "coin_id": "US-MORG-1895-P",
           "year": 1895,
           "mint": "P",
           "business_strikes": 0,
@@ -99,7 +99,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1895-S",
+          "coin_id": "US-MORG-1895-S",
           "year": 1895,
           "mint": "S",
           "business_strikes": 400000,
@@ -109,7 +109,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1903-O",
+          "coin_id": "US-MORG-1903-O",
           "year": 1903,
           "mint": "O",
           "business_strikes": 4450000,
@@ -155,7 +155,7 @@
       ],
       "coins": [
         {
-          "coin_id": "PD-1921-P-HR",
+          "coin_id": "US-PEAC-1921-P",
           "year": 1921,
           "mint": "P",
           "business_strikes": 1006473,
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "coin_id": "PD-1927-D",
+          "coin_id": "US-PEAC-1927-D",
           "year": 1927,
           "mint": "D",
           "business_strikes": 1268900,
@@ -184,7 +184,7 @@
           "varieties": []
         },
         {
-          "coin_id": "PD-1928-P",
+          "coin_id": "US-PEAC-1928-P",
           "year": 1928,
           "mint": "P",
           "business_strikes": 360649,
@@ -195,7 +195,7 @@
           "varieties": []
         },
         {
-          "coin_id": "PD-1934-S",
+          "coin_id": "US-PEAC-1934-S",
           "year": 1934,
           "mint": "S",
           "business_strikes": 1011000,
@@ -256,7 +256,7 @@
       ],
       "coins": [
         {
-          "coin_id": "ED-1973-D",
+          "coin_id": "US-EISE-1973-D",
           "year": 1973,
           "mint": "D",
           "business_strikes": 1769258,
@@ -267,7 +267,7 @@
           "varieties": []
         },
         {
-          "coin_id": "ED-1973-P",
+          "coin_id": "US-EISE-1973-P",
           "year": 1973,
           "mint": "P",
           "business_strikes": 1769258,
@@ -278,7 +278,7 @@
           "varieties": []
         },
         {
-          "coin_id": "ED-1976-P-T1",
+          "coin_id": "US-EISE-1976-P",
           "year": 1976,
           "mint": "P",
           "business_strikes": 117337000,
@@ -336,7 +336,7 @@
       ],
       "coins": [
         {
-          "coin_id": "SBA-1979-P-WR",
+          "coin_id": "US-SANT-1979-P",
           "year": 1979,
           "mint": "P",
           "business_strikes": 360222000,
@@ -352,7 +352,7 @@
           ]
         },
         {
-          "coin_id": "SBA-1979-S-T2",
+          "coin_id": "US-SANT-1979-S",
           "year": 1979,
           "mint": "S",
           "business_strikes": 0,
@@ -368,7 +368,7 @@
           ]
         },
         {
-          "coin_id": "SBA-1999-P",
+          "coin_id": "US-SANT-1999-P",
           "year": 1999,
           "mint": "P",
           "business_strikes": 29592000,
@@ -416,7 +416,7 @@
       ],
       "coins": [
         {
-          "coin_id": "SAC-2000-D",
+          "coin_id": "US-SACA-2000-D",
           "year": 2000,
           "mint": "D",
           "business_strikes": 518916000,
@@ -425,7 +425,7 @@
           "varieties": []
         },
         {
-          "coin_id": "SAC-2000-P-Cheerios",
+          "coin_id": "US-SACA-2000-P",
           "year": 2000,
           "mint": "P",
           "business_strikes": 767140000,

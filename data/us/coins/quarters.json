@@ -34,7 +34,7 @@
       ],
       "coins": [
         {
-          "coin_id": "BQ-1892-P-T1",
+          "coin_id": "US-BARQ-1892-P",
           "year": 1892,
           "mint": "P",
           "business_strikes": 8237245,
@@ -56,7 +56,7 @@
           ]
         },
         {
-          "coin_id": "BQ-1896-S",
+          "coin_id": "US-BARQ-1896-S",
           "year": 1896,
           "mint": "S",
           "business_strikes": 188039,
@@ -67,7 +67,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BQ-1901-S",
+          "coin_id": "US-BARQ-1901-S",
           "year": 1901,
           "mint": "S",
           "business_strikes": 72664,
@@ -78,7 +78,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BQ-1913-S",
+          "coin_id": "US-BARQ-1913-S",
           "year": 1913,
           "mint": "S",
           "business_strikes": 40000,
@@ -125,7 +125,7 @@
       ],
       "coins": [
         {
-          "coin_id": "SLQ-1916-P-T1",
+          "coin_id": "US-SLIQ-1916-P",
           "year": 1916,
           "mint": "P",
           "business_strikes": 52000,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "coin_id": "SLQ-1917-P-T1",
+          "coin_id": "US-SLIQ-1917-P",
           "year": 1917,
           "mint": "P",
           "business_strikes": 8792000,
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "coin_id": "SLQ-1918-S-87",
+          "coin_id": "US-SLIQ-1918-S",
           "year": 1918,
           "mint": "S",
           "business_strikes": 11072000,
@@ -182,7 +182,7 @@
           ]
         },
         {
-          "coin_id": "SLQ-1921-P",
+          "coin_id": "US-SLIQ-1921-P",
           "year": 1921,
           "mint": "P",
           "business_strikes": 1916000,
@@ -193,7 +193,7 @@
           "varieties": []
         },
         {
-          "coin_id": "SLQ-1927-S",
+          "coin_id": "US-SLIQ-1927-S",
           "year": 1927,
           "mint": "S",
           "business_strikes": 396000,
@@ -254,7 +254,7 @@
       ],
       "coins": [
         {
-          "coin_id": "WQ-1932-D",
+          "coin_id": "US-WASH-1932-D",
           "year": 1932,
           "mint": "D",
           "business_strikes": 436800,
@@ -265,7 +265,7 @@
           "varieties": []
         },
         {
-          "coin_id": "WQ-1932-S",
+          "coin_id": "US-WASH-1932-S",
           "year": 1932,
           "mint": "S",
           "business_strikes": 408000,
@@ -276,7 +276,7 @@
           "varieties": []
         },
         {
-          "coin_id": "WQ-1999-P-DE",
+          "coin_id": "US-WASH-1999-P",
           "year": 1999,
           "mint": "P",
           "business_strikes": 373400000,
@@ -293,7 +293,7 @@
           ]
         },
         {
-          "coin_id": "WQ-2019-W",
+          "coin_id": "US-WASH-2019-W",
           "year": 2019,
           "mint": "W",
           "business_strikes": 2000000,
@@ -303,7 +303,7 @@
           "varieties": []
         },
         {
-          "coin_id": "WQ-2020-W",
+          "coin_id": "US-WASH-2020-W",
           "year": 2020,
           "mint": "W",
           "business_strikes": 2000000,

@@ -34,7 +34,7 @@
       ],
       "coins": [
         {
-          "coin_id": "BD-1894-S",
+          "coin_id": "US-BARD-1894-S",
           "year": 1894,
           "mint": "S",
           "business_strikes": 0,
@@ -45,7 +45,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BD-1895-O",
+          "coin_id": "US-BARD-1895-O",
           "year": 1895,
           "mint": "O",
           "business_strikes": 440000,
@@ -56,7 +56,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BD-1896-S",
+          "coin_id": "US-BARD-1896-S",
           "year": 1896,
           "mint": "S",
           "business_strikes": 575056,
@@ -67,7 +67,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BD-1901-S",
+          "coin_id": "US-BARD-1901-S",
           "year": 1901,
           "mint": "S",
           "business_strikes": 593022,
@@ -77,7 +77,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BD-1903-S",
+          "coin_id": "US-BARD-1903-S",
           "year": 1903,
           "mint": "S",
           "business_strikes": 613300,
@@ -87,7 +87,7 @@
           "varieties": []
         },
         {
-          "coin_id": "BD-1904-S",
+          "coin_id": "US-BARD-1904-S",
           "year": 1904,
           "mint": "S",
           "business_strikes": 800000,
@@ -133,7 +133,7 @@
       ],
       "coins": [
         {
-          "coin_id": "MD-1916-D",
+          "coin_id": "US-MERC-1916-D",
           "year": 1916,
           "mint": "D",
           "business_strikes": 264000,
@@ -144,7 +144,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1916-P",
+          "coin_id": "US-MERC-1916-P",
           "year": 1916,
           "mint": "P",
           "business_strikes": 22180080,
@@ -153,7 +153,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1916-S",
+          "coin_id": "US-MERC-1916-S",
           "year": 1916,
           "mint": "S",
           "business_strikes": 10450000,
@@ -162,7 +162,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1921-D",
+          "coin_id": "US-MERC-1921-D",
           "year": 1921,
           "mint": "D",
           "business_strikes": 1080000,
@@ -173,7 +173,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1921-P",
+          "coin_id": "US-MERC-1921-P",
           "year": 1921,
           "mint": "P",
           "business_strikes": 1230000,
@@ -183,7 +183,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1926-S",
+          "coin_id": "US-MERC-1926-S",
           "year": 1926,
           "mint": "S",
           "business_strikes": 1520000,
@@ -194,7 +194,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1931-D",
+          "coin_id": "US-MERC-1931-D",
           "year": 1931,
           "mint": "D",
           "business_strikes": 1260000,
@@ -204,7 +204,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1931-S",
+          "coin_id": "US-MERC-1931-S",
           "year": 1931,
           "mint": "S",
           "business_strikes": 1800000,
@@ -214,7 +214,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1942-D-21",
+          "coin_id": "US-MERC-1942-D",
           "year": 1942,
           "mint": "D",
           "business_strikes": 60740000,
@@ -230,7 +230,7 @@
           ]
         },
         {
-          "coin_id": "MD-1942-P-21",
+          "coin_id": "US-MERC-1942-P",
           "year": 1942,
           "mint": "P",
           "business_strikes": 205432329,
@@ -246,7 +246,7 @@
           ]
         },
         {
-          "coin_id": "MD-1945-D",
+          "coin_id": "US-MERC-1945-D",
           "year": 1945,
           "mint": "D",
           "business_strikes": 40245000,
@@ -255,7 +255,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1945-P",
+          "coin_id": "US-MERC-1945-P",
           "year": 1945,
           "mint": "P",
           "business_strikes": 159130000,
@@ -265,7 +265,7 @@
           "varieties": []
         },
         {
-          "coin_id": "MD-1945-S-Micro",
+          "coin_id": "US-MERC-1945-S",
           "year": 1945,
           "mint": "S",
           "business_strikes": 41920000,
@@ -332,7 +332,7 @@
       ],
       "coins": [
         {
-          "coin_id": "RD-1946-D",
+          "coin_id": "US-ROOS-1946-D",
           "year": 1946,
           "mint": "D",
           "business_strikes": 61043500,
@@ -341,7 +341,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1946-P",
+          "coin_id": "US-ROOS-1946-P",
           "year": 1946,
           "mint": "P",
           "business_strikes": 255250000,
@@ -351,7 +351,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1946-S",
+          "coin_id": "US-ROOS-1946-S",
           "year": 1946,
           "mint": "S",
           "business_strikes": 27900000,
@@ -360,7 +360,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1949-S",
+          "coin_id": "US-ROOS-1949-S",
           "year": 1949,
           "mint": "S",
           "business_strikes": 13510000,
@@ -371,7 +371,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1964-D",
+          "coin_id": "US-ROOS-1964-D",
           "year": 1964,
           "mint": "D",
           "business_strikes": 1357517180,
@@ -381,7 +381,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1964-P",
+          "coin_id": "US-ROOS-1964-P",
           "year": 1964,
           "mint": "P",
           "business_strikes": 933310762,
@@ -391,7 +391,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1965-P",
+          "coin_id": "US-ROOS-1965-P",
           "year": 1965,
           "mint": "P",
           "business_strikes": 1652140570,
@@ -401,7 +401,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-1968-S-NoS",
+          "coin_id": "US-ROOS-1968-S",
           "year": 1968,
           "mint": "S",
           "business_strikes": 0,
@@ -418,7 +418,7 @@
           ]
         },
         {
-          "coin_id": "RD-1975-S-NoS",
+          "coin_id": "US-ROOS-1975-S",
           "year": 1975,
           "mint": "S",
           "business_strikes": 0,
@@ -435,7 +435,7 @@
           ]
         },
         {
-          "coin_id": "RD-1996-W",
+          "coin_id": "US-ROOS-1996-W",
           "year": 1996,
           "mint": "W",
           "business_strikes": 1457000,
@@ -445,7 +445,7 @@
           "varieties": []
         },
         {
-          "coin_id": "RD-2009-D",
+          "coin_id": "US-ROOS-2009-D",
           "year": 2009,
           "mint": "D",
           "business_strikes": 49500000,
