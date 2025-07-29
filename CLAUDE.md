@@ -44,32 +44,46 @@ ALWAYS use uv for Python dependency management:
 - Never use pip directly
 
 ## Data Source of Truth - CRITICAL WORKFLOW
-⚠️ **CRITICAL**: Migration scripts and database are the SINGLE SOURCE OF TRUTH for schema and data definitions.
+⚠️ **CRITICAL**: JSON source files are the SINGLE SOURCE OF TRUTH for all coin data.
 
-⚠️ **NEVER EDIT JSON FILES DIRECTLY** - They are generated artifacts!
+⚠️ **NEVER EDIT JSON EXPORT FILES DIRECTLY** - They are generated artifacts!
 
 ### Data Flow (READ THIS CAREFULLY):
 ```
-Migration Script → Database → JSON Export Files
+JSON Source Files → Database → JSON Export Files
      ↑              ↑              ↑
 SOURCE OF TRUTH    BUILD ARTIFACT  GENERATED FILES
 (version controlled) (not in git)   (version controlled)
 ```
 
 ### Workflow Rules:
-1. **Database is a build artifact** - not committed to git, generated from migration scripts
-2. **Migration scripts define everything** - schema, data, relationships (version controlled)
-3. **JSON exports are generated** from database using `scripts/export_db_v1_1.py`
-4. **NEVER edit JSON files manually** - they will be overwritten on next export
-5. **Always run data integrity check** before/after changes: `uv run python scripts/data_integrity_check.py`
+1. **Database is a build artifact** - not committed to git, generated from JSON source files
+2. **JSON source files in data/us/coins/*.json define everything** - data, schema, relationships
+3. **JSON exports are generated** from database using complete rebuild process
+4. **NEVER edit JSON export files manually** - they will be overwritten on next rebuild
+5. **Always use complete rebuild** for any changes: `uv run python scripts/rebuild_and_export.py`
+
+### Complete Rebuild Process (ALWAYS USE THIS):
+```bash
+# The canonical command for any changes
+uv run python scripts/rebuild_and_export.py
+```
+
+This script performs the complete rebuild:
+1. 🗑️ Removes existing database (`database/coins.db`)
+2. 📖 Initializes database from JSON source files (`scripts/init_database_from_json.py`)
+3. 🔄 Runs universal migration (`scripts/migrate_to_universal_v1_1.py`)
+4. ✅ Validates data integrity (`scripts/data_integrity_check.py`)
+5. 📁 Exports JSON files (`scripts/export_db_v1_1.py`)
+6. 🧪 Validates exports (`scripts/validate.py`)
+7. 🌐 Copies universal data to docs folder
 
 ### Safe Change Process:
-1. Backup database: `cp database/coins.db backups/coins_backup_$(date +%Y%m%d_%H%M%S).db`
-2. **Update migration scripts** for schema/data changes (never edit database directly)
-3. **Regenerate database**: `uv run python scripts/migrate_to_universal_v1_1.py`
-4. Run integrity check to verify
-5. Generate JSON files: `uv run python scripts/export_db_v1_1.py`
-6. **Commit migration scripts and JSON files** (never commit database)
+1. **Edit JSON source files** in `data/us/coins/*.json` for any changes
+2. **Run complete rebuild**: `uv run python scripts/rebuild_and_export.py`
+3. **Verify rebuild succeeded** - check that all steps pass
+4. **Commit JSON files**: `git add data/ docs/data/ && git commit`
+5. **NEVER commit the database file** - it's a build artifact
 
 ### Emergency Restore:
 - JSON backups: `backups/json_files_*/`

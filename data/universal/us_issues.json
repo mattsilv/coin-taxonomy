@@ -3,7 +3,7 @@
   "total_issues": 86,
   "issues": [
     {
-      "issue_id": "US-INCH-1864-P",
+      "issue_id": "US-UNK-1864-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -61,7 +61,7 @@
       "source_citation": "Red Book"
     },
     {
-      "issue_id": "US-SHLD-1867-P",
+      "issue_id": "US-UNK-1867-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -113,7 +113,7 @@
       "notes": "With Rays variety"
     },
     {
-      "issue_id": "US-INCH-1869-P",
+      "issue_id": "US-UNK-1869-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -171,7 +171,7 @@
       "source_citation": "Red Book"
     },
     {
-      "issue_id": "US-SHLD-1877-P",
+      "issue_id": "US-UNK-1877-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -223,7 +223,7 @@
       "notes": "Proof-only issue"
     },
     {
-      "issue_id": "US-SHLD-1878-P",
+      "issue_id": "US-UNK-1878-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -275,7 +275,7 @@
       "notes": "Proof-only issue"
     },
     {
-      "issue_id": "US-MORG-1879-CC",
+      "issue_id": "US-UNK-1879-CC",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -327,7 +327,7 @@
       "notes": "Important Carson City issue"
     },
     {
-      "issue_id": "US-SHLD-1880-P",
+      "issue_id": "US-UNK-1880-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
       "issuing_entity": {
@@ -379,7 +379,7 @@
       "notes": "Lowest circulation mintage"
     },
     {
-      "issue_id": "US-LHNI-1883-P",
+      "issue_id": "US-UNK-1883-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -437,7 +437,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LHNI-1885-P",
+      "issue_id": "US-UNK-1885-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -489,7 +489,7 @@
       "notes": "Primary key date"
     },
     {
-      "issue_id": "US-INCH-1888-P",
+      "issue_id": "US-UNK-1888-P",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -547,7 +547,7 @@
       "source_citation": "Red Book"
     },
     {
-      "issue_id": "US-MORG-1889-CC",
+      "issue_id": "US-UNK-1889-CC",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -599,7 +599,7 @@
       "notes": "Second key date Carson City issue"
     },
     {
-      "issue_id": "US-BARQ-1892-P",
+      "issue_id": "US-UNK-1892-P",
       "object_type": "coin",
       "series_id": "barber_quarter",
       "issuing_entity": {
@@ -663,7 +663,7 @@
       "source_citation": "Red Book"
     },
     {
-      "issue_id": "US-MORG-1893-S",
+      "issue_id": "US-UNK-1893-S",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -715,7 +715,7 @@
       "notes": "Absolute key date"
     },
     {
-      "issue_id": "US-MORG-1894-P",
+      "issue_id": "US-UNK-1894-P",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -767,7 +767,7 @@
       "notes": "Philadelphia key"
     },
     {
-      "issue_id": "US-BARD-1894-S",
+      "issue_id": "US-UNK-1894-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -819,7 +819,7 @@
       "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million"
     },
     {
-      "issue_id": "US-BARD-1895-O",
+      "issue_id": "US-UNK-1895-O",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -871,7 +871,7 @@
       "notes": "Lowest regular mintage"
     },
     {
-      "issue_id": "US-MORG-1895-P",
+      "issue_id": "US-UNK-1895-P",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -923,7 +923,7 @@
       "notes": "Proofs only - No business strikes"
     },
     {
-      "issue_id": "US-MORG-1895-S",
+      "issue_id": "US-UNK-1895-S",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -974,7 +974,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BARD-1896-S",
+      "issue_id": "US-UNK-1896-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1026,7 +1026,7 @@
       "notes": "Scarce in high grades"
     },
     {
-      "issue_id": "US-BARD-1901-S",
+      "issue_id": "US-UNK-1901-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1077,7 +1077,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MORG-1903-O",
+      "issue_id": "US-UNK-1903-O",
       "object_type": "coin",
       "series_id": "morgan_dollar",
       "issuing_entity": {
@@ -1129,7 +1129,7 @@
       "notes": "Treasury Release coin"
     },
     {
-      "issue_id": "US-BARD-1903-S",
+      "issue_id": "US-UNK-1903-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1180,7 +1180,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BARD-1904-S",
+      "issue_id": "US-UNK-1904-S",
       "object_type": "coin",
       "series_id": "barber_dime",
       "issuing_entity": {
@@ -1231,7 +1231,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-INCH-1908-S",
+      "issue_id": "US-UNK-1908-S",
       "object_type": "coin",
       "series_id": "indian_head_cent",
       "issuing_entity": {
@@ -1283,7 +1283,7 @@
       "notes": "Third lowest mintage, first San Francisco Indian cent"
     },
     {
-      "issue_id": "US-LWCT-1909-S",
+      "issue_id": "US-UNK-1909-S",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -1342,7 +1342,7 @@
       "notes": "Holy Grail of Lincoln cents"
     },
     {
-      "issue_id": "US-LHNI-1912-S",
+      "issue_id": "US-UNK-1912-S",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -1394,7 +1394,7 @@
       "notes": "Lowest regular mintage"
     },
     {
-      "issue_id": "US-LHNI-1913-P",
+      "issue_id": "US-UNK-1913-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
       "issuing_entity": {
@@ -1446,7 +1446,7 @@
       "notes": "Clandestinely struck, worth millions"
     },
     {
-      "issue_id": "US-BUFF-1913-S",
+      "issue_id": "US-UNK-1913-S",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -1498,7 +1498,7 @@
       "notes": "Type 2, lowest regular mintage"
     },
     {
-      "issue_id": "US-LWCT-1914-D",
+      "issue_id": "US-UNK-1914-D",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -1550,7 +1550,7 @@
       "notes": "Second most valuable regular issue"
     },
     {
-      "issue_id": "US-MERC-1916-D",
+      "issue_id": "US-UNK-1916-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1602,7 +1602,7 @@
       "notes": "King of Mercury dimes"
     },
     {
-      "issue_id": "US-MERC-1916-P",
+      "issue_id": "US-UNK-1916-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1653,7 +1653,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-MERC-1916-S",
+      "issue_id": "US-UNK-1916-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1704,7 +1704,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-SLIQ-1917-P",
+      "issue_id": "US-UNK-1917-P",
       "object_type": "coin",
       "series_id": "standing_liberty_quarter",
       "issuing_entity": {
@@ -1768,7 +1768,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-BUFF-1918-D",
+      "issue_id": "US-UNK-1918-D",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -1826,7 +1826,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SLIQ-1918-S",
+      "issue_id": "US-UNK-1918-S",
       "object_type": "coin",
       "series_id": "standing_liberty_quarter",
       "issuing_entity": {
@@ -1885,7 +1885,7 @@
       "notes": "~3,000 survivors of overdate"
     },
     {
-      "issue_id": "US-MERC-1921-D",
+      "issue_id": "US-UNK-1921-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1937,7 +1937,7 @@
       "notes": "Second-lowest mintage"
     },
     {
-      "issue_id": "US-MERC-1921-P",
+      "issue_id": "US-UNK-1921-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -1988,7 +1988,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LWCT-1922-D",
+      "issue_id": "US-UNK-1922-D",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -2046,7 +2046,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MERC-1926-S",
+      "issue_id": "US-UNK-1926-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2098,7 +2098,7 @@
       "notes": "Notorious for weak strikes"
     },
     {
-      "issue_id": "US-PEAC-1927-D",
+      "issue_id": "US-UNK-1927-D",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2150,7 +2150,7 @@
       "notes": "Scarce despite higher mintage"
     },
     {
-      "issue_id": "US-SLIQ-1927-S",
+      "issue_id": "US-UNK-1927-S",
       "object_type": "coin",
       "series_id": "standing_liberty_quarter",
       "issuing_entity": {
@@ -2202,7 +2202,7 @@
       "notes": "Second lowest mintage"
     },
     {
-      "issue_id": "US-PEAC-1928-P",
+      "issue_id": "US-UNK-1928-P",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2254,7 +2254,7 @@
       "notes": "Undisputed key date"
     },
     {
-      "issue_id": "US-MERC-1931-D",
+      "issue_id": "US-UNK-1931-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2305,7 +2305,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MERC-1931-S",
+      "issue_id": "US-UNK-1931-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2356,7 +2356,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-WASH-1932-D",
+      "issue_id": "US-WAS-1932-D",
       "object_type": "coin",
       "series_id": "washington_quarter",
       "issuing_entity": {
@@ -2408,7 +2408,7 @@
       "notes": "Rarest Washington quarter"
     },
     {
-      "issue_id": "US-WASH-1932-S",
+      "issue_id": "US-WAS-1932-S",
       "object_type": "coin",
       "series_id": "washington_quarter",
       "issuing_entity": {
@@ -2460,7 +2460,7 @@
       "notes": "Second rarest"
     },
     {
-      "issue_id": "US-PEAC-1934-S",
+      "issue_id": "US-UNK-1934-S",
       "object_type": "coin",
       "series_id": "peace_dollar",
       "issuing_entity": {
@@ -2512,7 +2512,7 @@
       "notes": "Second key date"
     },
     {
-      "issue_id": "US-BUFF-1937-D",
+      "issue_id": "US-UNK-1937-D",
       "object_type": "coin",
       "series_id": "buffalo_nickel",
       "issuing_entity": {
@@ -2570,7 +2570,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MERC-1942-D",
+      "issue_id": "US-UNK-1942-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2628,7 +2628,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MERC-1942-P",
+      "issue_id": "US-UNK-1942-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2686,7 +2686,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LWCT-1943-P",
+      "issue_id": "US-UNK-1943-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -2745,7 +2745,7 @@
       "notes": "Bronze variety values $300,000-$2,000,000"
     },
     {
-      "issue_id": "US-LWCT-1944-P",
+      "issue_id": "US-UNK-1944-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -2803,7 +2803,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-MERC-1945-D",
+      "issue_id": "US-UNK-1945-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2854,7 +2854,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-MERC-1945-P",
+      "issue_id": "US-UNK-1945-P",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2906,7 +2906,7 @@
       "notes": "Final year of Mercury dime"
     },
     {
-      "issue_id": "US-MERC-1945-S",
+      "issue_id": "US-UNK-1945-S",
       "object_type": "coin",
       "series_id": "mercury_dime",
       "issuing_entity": {
@@ -2965,7 +2965,7 @@
       "notes": "Final year micro S variety exists"
     },
     {
-      "issue_id": "US-ROOS-1946-D",
+      "issue_id": "US-UNK-1946-D",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3016,7 +3016,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-ROOS-1946-P",
+      "issue_id": "US-UNK-1946-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3068,7 +3068,7 @@
       "notes": "First year Roosevelt dime"
     },
     {
-      "issue_id": "US-ROOS-1946-S",
+      "issue_id": "US-UNK-1946-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3119,7 +3119,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-ROOS-1949-S",
+      "issue_id": "US-UNK-1949-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3171,7 +3171,7 @@
       "notes": "Lowest silver mintage"
     },
     {
-      "issue_id": "US-JEFF-1950-D",
+      "issue_id": "US-UNK-1950-D",
       "object_type": "coin",
       "series_id": "jefferson_nickel",
       "issuing_entity": {
@@ -3223,7 +3223,7 @@
       "notes": "Lowest mintage Jefferson nickel"
     },
     {
-      "issue_id": "US-LWCT-1955-P",
+      "issue_id": "US-UNK-1955-P",
       "object_type": "coin",
       "series_id": "lincoln_wheat_cent",
       "issuing_entity": {
@@ -3281,7 +3281,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-ROOS-1964-D",
+      "issue_id": "US-UNK-1964-D",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3333,7 +3333,7 @@
       "notes": "Last silver dime, highest mintage dime ever"
     },
     {
-      "issue_id": "US-ROOS-1964-P",
+      "issue_id": "US-UNK-1964-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3385,7 +3385,7 @@
       "notes": "Final year of silver Roosevelt dime"
     },
     {
-      "issue_id": "US-ROOS-1965-P",
+      "issue_id": "US-UNK-1965-P",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3405,7 +3405,7 @@
       "issue_year": 1965,
       "mint_id": "P",
       "specifications": {
-        "weight_grams": 2.268,
+        "weight_grams": 2.27,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
@@ -3437,7 +3437,7 @@
       "notes": "First clad dime"
     },
     {
-      "issue_id": "US-ROOS-1968-S",
+      "issue_id": "US-UNK-1968-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3457,7 +3457,7 @@
       "issue_year": 1968,
       "mint_id": "S",
       "specifications": {
-        "weight_grams": 2.268,
+        "weight_grams": 2.27,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
@@ -3496,7 +3496,7 @@
       "notes": "Values over $45,000"
     },
     {
-      "issue_id": "US-LMCT-1969-S",
+      "issue_id": "US-UNK-1969-S",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -3555,7 +3555,7 @@
       "notes": "$126,500 record sale in 2005"
     },
     {
-      "issue_id": "US-JEFF-1971-S",
+      "issue_id": "US-UNK-1971-S",
       "object_type": "coin",
       "series_id": "jefferson_nickel",
       "issuing_entity": {
@@ -3613,7 +3613,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LMCT-1972-P",
+      "issue_id": "US-UNK-1972-P",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -3671,7 +3671,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-EISE-1973-D",
+      "issue_id": "US-UNK-1973-D",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3723,7 +3723,7 @@
       "notes": "Lowest mintage"
     },
     {
-      "issue_id": "US-EISE-1973-P",
+      "issue_id": "US-UNK-1973-P",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3775,7 +3775,7 @@
       "notes": "Lowest mintage"
     },
     {
-      "issue_id": "US-ROOS-1975-S",
+      "issue_id": "US-UNK-1975-S",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -3795,7 +3795,7 @@
       "issue_year": 1975,
       "mint_id": "S",
       "specifications": {
-        "weight_grams": 2.268,
+        "weight_grams": 2.27,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
@@ -3834,7 +3834,7 @@
       "notes": "$456,000 record sale"
     },
     {
-      "issue_id": "US-EISE-1976-P",
+      "issue_id": "US-UNK-1976-P",
       "object_type": "coin",
       "series_id": "eisenhower_dollar",
       "issuing_entity": {
@@ -3898,7 +3898,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SANT-1979-P",
+      "issue_id": "US-UNK-1979-P",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -3956,7 +3956,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-SANT-1979-S",
+      "issue_id": "US-UNK-1979-S",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -4014,7 +4014,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-LMCT-1983-P",
+      "issue_id": "US-UNK-1983-P",
       "object_type": "coin",
       "series_id": "lincoln_memorial_cent",
       "issuing_entity": {
@@ -4072,7 +4072,7 @@
       "source_citation": "PCGS CoinFacts"
     },
     {
-      "issue_id": "US-ROOS-1996-W",
+      "issue_id": "US-UNK-1996-W",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -4092,7 +4092,7 @@
       "issue_year": 1996,
       "mint_id": "W",
       "specifications": {
-        "weight_grams": 2.268,
+        "weight_grams": 2.27,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
@@ -4124,7 +4124,7 @@
       "notes": "50th anniversary issue"
     },
     {
-      "issue_id": "US-SANT-1999-P",
+      "issue_id": "US-UNK-1999-P",
       "object_type": "coin",
       "series_id": "susan_b_anthony_dollar",
       "issuing_entity": {
@@ -4176,7 +4176,7 @@
       "notes": "Stopgap before Sacagawea"
     },
     {
-      "issue_id": "US-WASH-1999-P",
+      "issue_id": "US-WAS-1999-P",
       "object_type": "coin",
       "series_id": "washington_quarter",
       "issuing_entity": {
@@ -4235,7 +4235,7 @@
       "notes": "State Quarters program begins - Delaware"
     },
     {
-      "issue_id": "US-SACA-2000-D",
+      "issue_id": "US-UNK-2000-D",
       "object_type": "coin",
       "series_id": "sacagawea_dollar",
       "issuing_entity": {
@@ -4286,7 +4286,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-SACA-2000-P",
+      "issue_id": "US-UNK-2000-P",
       "object_type": "coin",
       "series_id": "sacagawea_dollar",
       "issuing_entity": {
@@ -4350,7 +4350,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-ROOS-2009-D",
+      "issue_id": "US-UNK-2009-D",
       "object_type": "coin",
       "series_id": "roosevelt_dime",
       "issuing_entity": {
@@ -4370,7 +4370,7 @@
       "issue_year": 2009,
       "mint_id": "D",
       "specifications": {
-        "weight_grams": 2.268,
+        "weight_grams": 2.27,
         "diameter_mm": 17.9,
         "edge": "plain"
       },
@@ -4402,7 +4402,7 @@
       "notes": "Lowest clad mintage"
     },
     {
-      "issue_id": "US-LBCT-2009-P",
+      "issue_id": "US-UNK-2009-P",
       "object_type": "coin",
       "series_id": "lincoln_bicentennial_cent",
       "issuing_entity": {
@@ -4460,7 +4460,7 @@
       "source_citation": "US Mint records"
     },
     {
-      "issue_id": "US-LSCT-2017-P",
+      "issue_id": "US-UNK-2017-P",
       "object_type": "coin",
       "series_id": "lincoln_shield_cent",
       "issuing_entity": {
@@ -4512,7 +4512,7 @@
       "notes": "First P mintmark on cents since wartime"
     },
     {
-      "issue_id": "US-LSCT-2019-W",
+      "issue_id": "US-UNK-2019-W",
       "object_type": "coin",
       "series_id": "lincoln_shield_cent",
       "issuing_entity": {
@@ -4564,7 +4564,7 @@
       "notes": "First W mintmark on cents"
     },
     {
-      "issue_id": "US-WASH-2019-W",
+      "issue_id": "US-WAS-2019-W",
       "object_type": "coin",
       "series_id": "washington_quarter",
       "issuing_entity": {
@@ -4616,7 +4616,7 @@
       "notes": "First W mint quarters - various designs, 2 million each"
     },
     {
-      "issue_id": "US-WASH-2020-W",
+      "issue_id": "US-WAS-2020-W",
       "object_type": "coin",
       "series_id": "washington_quarter",
       "issuing_entity": {

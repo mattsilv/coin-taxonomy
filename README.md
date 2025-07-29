@@ -142,16 +142,37 @@ uv run python scripts/data_integrity_check.py
 
 ### Data Flow
 ```
-Migration Scripts  →  Database  →  JSON Files
-   (source)           (build)      (exports)
+JSON Files  →  Database  →  JSON Exports
+ (source)     (build)       (generated)
 ```
 
+**IMPORTANT**: The database is a **build artifact** - it's generated from the JSON source files and should not be committed to git.
+
+### Complete Database Rebuild Process
+
+The canonical way to rebuild the entire system from source:
+
+```bash
+# Full rebuild - use this for clean deployment
+uv run python scripts/rebuild_and_export.py
+```
+
+This comprehensive script:
+1. 🗑️ **Removes existing database** (`database/coins.db`)
+2. 📖 **Initializes database from JSON data** (`scripts/init_database_from_json.py`)
+3. 🔄 **Runs universal migration** (`scripts/migrate_to_universal_v1_1.py`)
+4. ✅ **Validates data integrity** (`scripts/data_integrity_check.py`)
+5. 📁 **Exports JSON files** (`scripts/export_db_v1_1.py`)
+6. 🧪 **Validates exports** (`scripts/validate.py`)
+7. 🌐 **Copies universal data to docs folder** for GitHub Pages
+
 ### Making Changes
-1. **Backup database**: `cp database/coins.db backups/coins_backup_$(date +%Y%m%d_%H%M%S).db`
-2. **Update data**: Modify the `coins` table in the database for data changes, or update migration scripts for schema changes
-3. **Verify changes**: `uv run python scripts/data_integrity_check.py`
-4. **Export JSON**: `uv run python scripts/export_db_v1_1.py`
-5. **Commit**: Only commit migration scripts and JSON files (never the database)
+1. **Update JSON source files**: Edit denomination files in `data/us/coins/*.json`
+2. **Rebuild everything**: `uv run python scripts/rebuild_and_export.py`
+3. **Verify changes**: Check that data integrity passes
+4. **Commit JSON files**: `git add data/ docs/data/ && git commit`
+   - ✅ **DO commit**: JSON source files and exports
+   - ❌ **DON'T commit**: The database file (`database/coins.db`)
 
 ### Coin ID Format: The Foundation of Everything
 
