@@ -19,7 +19,7 @@ The goal of this project is to create a **unified taxonomy structure** that enab
 
 This project provides a machine-readable taxonomy of United States coins with:
 
-- **Standardized coin IDs**: Every coin has a consistent `COUNTRY-TYPE-YEAR-MINT` identifier (e.g., `US-IHC-1877-P`, `US-LWC-1909-S`) that can be reliably parsed by software systems
+- **Standardized coin IDs**: Every coin has a consistent `COUNTRY-TYPE-YEAR-MINT` identifier (e.g., `US-INCH-1877-P`, `US-LWCT-1909-S`) that can be reliably parsed by software systems
 - **Complete series coverage**: All major US coin denominations from cents to dollars
 - **Detailed mintage data**: Business strikes and proof mintages from authoritative sources
 - **Key date identification**: Coins marked by rarity status (key, semi-key, scarce, common)
@@ -176,37 +176,37 @@ In the age of AI and automated marketplaces, **consistent, parseable identifiers
    - `GB` = Great Britain
    - Future: `FR`, `DE`, `JP`, etc.
 
-2. **TYPE** (2-4 letters): Series abbreviation identifying the coin design/series
+2. **TYPE** (4 letters): Standardized 4-letter series abbreviation identifying the coin design/series
    
    **Cents:**
-   - `IHC` = Indian Head Cent
-   - `LWC` = Lincoln Wheat Cent  
-   - `LMC` = Lincoln Memorial Cent
-   - `LBC` = Lincoln Bicentennial Cent
-   - `LSC` = Lincoln Shield Cent
+   - `INCH` = Indian Head Cent
+   - `LWCT` = Lincoln Wheat Cent  
+   - `LMCT` = Lincoln Memorial Cent
+   - `LBCT` = Lincoln Bicentennial Cent
+   - `LSCT` = Lincoln Shield Cent
    
    **Nickels:**
-   - `SN` = Shield Nickel
-   - `LHN` = Liberty Head Nickel
-   - `BN` = Buffalo Nickel
-   - `JN` = Jefferson Nickel
+   - `SHLD` = Shield Nickel
+   - `LHNI` = Liberty Head Nickel
+   - `BUFF` = Buffalo Nickel
+   - `JEFF` = Jefferson Nickel
    
    **Dimes:**
-   - `BD` = Barber Dime
-   - `WHD` = Winged Liberty Head Dime (Mercury Dime)
-   - `RD` = Roosevelt Dime
+   - `BARD` = Barber Dime
+   - `MERC` = Mercury Dime (Winged Liberty Head)
+   - `ROOS` = Roosevelt Dime
    
    **Quarters:**
-   - `BQ` = Barber Quarter
-   - `SLQ` = Standing Liberty Quarter
-   - `WQ` = Washington Quarter
+   - `BARQ` = Barber Quarter
+   - `SLIQ` = Standing Liberty Quarter
+   - `WASH` = Washington Quarter
    
    **Dollars:**
-   - `MD` = Morgan Dollar
-   - `PD` = Peace Dollar
-   - `ED` = Eisenhower Dollar
-   - `SBA` = Susan B. Anthony Dollar
-   - `SAC` = Sacagawea Dollar
+   - `MORG` = Morgan Dollar
+   - `PEAC` = Peace Dollar
+   - `EISE` = Eisenhower Dollar
+   - `SANT` = Susan B. Anthony Dollar
+   - `SACA` = Sacagawea Dollar
 
 3. **YEAR** (4 digits): The year the coin was minted
    - `1877`, `1909`, `1942`, `2024`
@@ -220,9 +220,9 @@ In the age of AI and automated marketplaces, **consistent, parseable identifiers
    - `O` = New Orleans (historical)
 
 **Examples:**
-- `US-IHC-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
-- `US-LWC-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint  
-- `US-WHD-1942-D` = US Winged Liberty Head Dime (Mercury Dime), 1942, Denver mint
+- `US-INCH-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
+- `US-LWCT-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint  
+- `US-MERC-1942-D` = US Mercury Dime (Winged Liberty Head), 1942, Denver mint
 
 **Validation Rules:**
 - **Exactly 4 parts** separated by **exactly 3 dashes**
@@ -234,7 +234,7 @@ In the age of AI and automated marketplaces, **consistent, parseable identifiers
 
 With standardized coin IDs, developers can:
 - **Parse components**: `coin_id.split('-')` reliably returns `[country, type, year, mint]`
-- **Query predictably**: `WHERE coin_id LIKE 'US-IHC-%'` finds all US Indian Head Cents
+- **Query predictably**: `WHERE coin_id LIKE 'US-INCH-%'` finds all US Indian Head Cents
 - **Filter by country**: `WHERE coin_id LIKE 'US-%'` finds all US coins
 - **Join tables safely**: Foreign key relationships work consistently across systems
 - **Build integrations**: APIs and services can depend on the format
@@ -242,17 +242,17 @@ With standardized coin IDs, developers can:
 #### Common Mistakes (Now Prevented)
 
 ❌ **Invalid formats** that break parsing:
-- `IHC-1864-P-L` (missing country prefix, variety in main ID)
-- `US-LWC-1909-S-VDB` (5 parts - VDB goes in `varieties`)
-- `US-MD-1942-P-21` (5 parts - overdate info goes in `varieties`)
+- `INCH-1864-P-L` (missing country prefix, variety in main ID)
+- `US-LWCT-1909-S-VDB` (5 parts - VDB goes in `varieties`)
+- `US-MERC-1942-P-21` (5 parts - overdate info goes in `varieties`)
 
 ✅ **Correct format** with variety data properly separated:
 ```json
 {
-  "coin_id": "US-IHC-1864-P",
+  "coin_id": "US-INCH-1864-P",
   "varieties": [
     {
-      "variety_id": "IHC-1864-P-L-01", 
+      "variety_id": "INCH-1864-P-L-01", 
       "name": "L on Ribbon",
       "description": "Designer's initial L on ribbon"
     }
@@ -282,7 +282,7 @@ data/universal/*.json (new universal format)
 The new v1.1 schema includes these core tables:
 
 **`issues` table**: Flat structure for all currency items
-- Universal issue IDs (e.g., `US-LWC-1909-S-VDB`)
+- Universal issue IDs (e.g., `US-LWCT-1909-S`)
 - Country-agnostic denomination and authority data
 - JSON fields for specifications, design details, mintage data
 
@@ -314,7 +314,7 @@ The new v1.1 schema includes these core tables:
   "total_issues": 97,
   "issues": [
     {
-      "issue_id": "US-LWC-1909-S-VDB",
+      "issue_id": "US-LWCT-1909-S",
       "object_type": "coin",
       "issuing_entity": {...},
       "denomination": {...},
@@ -331,9 +331,9 @@ The universal system uses human-readable, standardized issue IDs:
 **Format**: `{COUNTRY}-{SERIES_ABBREV}-{YEAR}-{MINT}[-{VARIETY}]`
 
 **Examples**:
-- `US-LWC-1909-S-VDB` - 1909-S VDB Lincoln Wheat Cent
-- `US-MD-1916-D` - 1916-D Mercury Dime  
-- `US-WQ-1932-D` - 1932-D Washington Quarter
+- `US-LWCT-1909-S` - 1909-S Lincoln Wheat Cent
+- `US-MERC-1916-D` - 1916-D Mercury Dime  
+- `US-WASH-1932-D` - 1932-D Washington Quarter
 
 **Generation Logic**: 
 - Country code (ISO-style)
@@ -374,7 +374,7 @@ Each coin entry contains:
 
 ```json
 {
-  "coin_id": "US-WHD-1916-D",
+  "coin_id": "US-MERC-1916-D",
   "year": 1916,
   "mint": "D",
   "business_strikes": 264000,
