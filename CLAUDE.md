@@ -78,12 +78,14 @@ This script performs the complete rebuild:
 6. 🧪 Validates exports (`scripts/validate.py`)
 7. 🌐 Copies universal data to docs folder
 
+⚠️ **IMPORTANT**: After running rebuild, ALWAYS commit ALL generated files with `git add . && git commit`. The rebuild process updates multiple files (JSON exports, universal data, docs folder) and ALL must be committed together to maintain consistency.
+
 ### Safe Change Process:
 1. **Edit JSON source files** in `data/us/coins/*.json` for any changes
 2. **Run complete rebuild**: `uv run python scripts/rebuild_and_export.py`
 3. **Verify rebuild succeeded** - check that all steps pass
-4. **Commit JSON files**: `git add data/ docs/data/ && git commit`
-5. **NEVER commit the database file** - it's a build artifact
+4. **Commit ALL changes**: `git add . && git commit` (NEVER pick and choose files)
+5. **NEVER commit the database file** - it's a build artifact (already in .gitignore)
 
 ### Emergency Restore:
 - JSON backups: `backups/json_files_*/`
