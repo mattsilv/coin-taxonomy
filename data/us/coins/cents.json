@@ -49,7 +49,7 @@
       ],
       "coins": [
         {
-          "coin_id": "IHC-1864-P-L",
+          "coin_id": "IHC-1864-P",
           "year": 1864,
           "mint": "P",
           "business_strikes": 39233714,
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "coin_id": "IHC-1869-P-99",
+          "coin_id": "IHC-1869-P",
           "year": 1869,
           "mint": "P",
           "business_strikes": 6420000,
@@ -92,7 +92,7 @@
           "varieties": []
         },
         {
-          "coin_id": "IHC-1888-P-87",
+          "coin_id": "IHC-1888-P",
           "year": 1888,
           "mint": "P",
           "business_strikes": 37494414,
