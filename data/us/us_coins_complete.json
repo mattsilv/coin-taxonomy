@@ -3,7 +3,7 @@
     "title": "United States Coin Taxonomy Database - Complete Edition",
     "description": "Comprehensive database of US coin series, mintages, varieties, and key dates",
     "version": "1.0",
-    "generated": "2025-07-27T00:19:34.494576",
+    "generated": "2025-07-29T17:02:25.138217",
     "source": "Compiled from PCGS CoinFacts, NGC, Red Book, US Mint records",
     "note": "This file combines all individual denomination files for convenience"
   },
@@ -31,7 +31,7 @@
                 "start": 1859,
                 "end": 1864
               },
-              "alloy_name": "Copper-Nickel (Indian Head)",
+              "alloy_name": "Copper-Nickel",
               "alloy": {
                 "copper": 0.88,
                 "nickel": 0.12
@@ -58,7 +58,7 @@
           ],
           "coins": [
             {
-              "coin_id": "IHC-1864-P-L",
+              "coin_id": "US-INCH-1864-P",
               "year": 1864,
               "mint": "P",
               "business_strikes": 39233714,
@@ -74,7 +74,7 @@
               ]
             },
             {
-              "coin_id": "IHC-1869-P-99",
+              "coin_id": "US-INCH-1869-P",
               "year": 1869,
               "mint": "P",
               "business_strikes": 6420000,
@@ -90,7 +90,7 @@
               ]
             },
             {
-              "coin_id": "IHC-1877-P",
+              "coin_id": "US-INCH-1877-P",
               "year": 1877,
               "mint": "P",
               "business_strikes": 852500,
@@ -101,7 +101,7 @@
               "varieties": []
             },
             {
-              "coin_id": "IHC-1888-P-87",
+              "coin_id": "US-INCH-1888-P",
               "year": 1888,
               "mint": "P",
               "business_strikes": 37494414,
@@ -117,7 +117,7 @@
               ]
             },
             {
-              "coin_id": "IHC-1908-S",
+              "coin_id": "US-INCH-1908-S",
               "year": 1908,
               "mint": "S",
               "business_strikes": 1115000,
@@ -128,7 +128,7 @@
               "varieties": []
             },
             {
-              "coin_id": "IHC-1909-S",
+              "coin_id": "US-INCH-1909-S",
               "year": 1909,
               "mint": "S",
               "business_strikes": 309000,
@@ -178,7 +178,7 @@
                 "start": 1943,
                 "end": 1943
               },
-              "alloy_name": "Steel with Zinc Coating",
+              "alloy_name": "Steel",
               "alloy": {
                 "steel": 0.99,
                 "zinc_coating": 0.01
@@ -204,7 +204,7 @@
           ],
           "coins": [
             {
-              "coin_id": "LWC-1909-S-VDB",
+              "coin_id": "US-LWCT-1909-S",
               "year": 1909,
               "mint": "S",
               "business_strikes": 484000,
@@ -222,7 +222,7 @@
               ]
             },
             {
-              "coin_id": "LWC-1914-D",
+              "coin_id": "US-LWCT-1914-D",
               "year": 1914,
               "mint": "D",
               "business_strikes": 1193000,
@@ -233,7 +233,7 @@
               "varieties": []
             },
             {
-              "coin_id": "LWC-1922-D-NoD",
+              "coin_id": "US-LWCT-1922-D",
               "year": 1922,
               "mint": "D",
               "business_strikes": 7160000,
@@ -249,7 +249,7 @@
               ]
             },
             {
-              "coin_id": "LWC-1931-S",
+              "coin_id": "US-LWCT-1931-S",
               "year": 1931,
               "mint": "S",
               "business_strikes": 866000,
@@ -260,7 +260,7 @@
               "varieties": []
             },
             {
-              "coin_id": "LWC-1943-P-Bronze",
+              "coin_id": "US-LWCT-1943-P",
               "year": 1943,
               "mint": "P",
               "business_strikes": 684628670,
@@ -277,7 +277,7 @@
               ]
             },
             {
-              "coin_id": "LWC-1944-P-Steel",
+              "coin_id": "US-LWCT-1944-P",
               "year": 1944,
               "mint": "P",
               "business_strikes": 1435400000,
@@ -293,7 +293,7 @@
               ]
             },
             {
-              "coin_id": "LWC-1955-P-DDO",
+              "coin_id": "US-LWCT-1955-P",
               "year": 1955,
               "mint": "P",
               "business_strikes": 330958200,
@@ -374,7 +374,7 @@
           ],
           "coins": [
             {
-              "coin_id": "LMC-1969-S-DDO",
+              "coin_id": "US-LMCT-1969-S",
               "year": 1969,
               "mint": "S",
               "business_strikes": 547309631,
@@ -391,7 +391,7 @@
               ]
             },
             {
-              "coin_id": "LMC-1972-P-DDO",
+              "coin_id": "US-LMCT-1972-P",
               "year": 1972,
               "mint": "P",
               "business_strikes": 2933255000,
@@ -407,7 +407,7 @@
               ]
             },
             {
-              "coin_id": "LMC-1983-P-DDR",
+              "coin_id": "US-LMCT-1983-P",
               "year": 1983,
               "mint": "P",
               "business_strikes": 7752355000,
@@ -459,7 +459,7 @@
           ],
           "coins": [
             {
-              "coin_id": "LBC-2009-D-Birth",
+              "coin_id": "US-LBCT-2009-D",
               "year": 2009,
               "mint": "D",
               "business_strikes": 350400000,
@@ -475,7 +475,7 @@
               ]
             },
             {
-              "coin_id": "LBC-2009-P-Birth",
+              "coin_id": "US-LBCT-2009-P",
               "year": 2009,
               "mint": "P",
               "business_strikes": 284800000,
@@ -527,7 +527,7 @@
           ],
           "coins": [
             {
-              "coin_id": "LSC-2017-P",
+              "coin_id": "US-LSCT-2017-P",
               "year": 2017,
               "mint": "P",
               "business_strikes": 4040000000,
@@ -537,7 +537,7 @@
               "varieties": []
             },
             {
-              "coin_id": "LSC-2019-W",
+              "coin_id": "US-LSCT-2019-W",
               "year": 2019,
               "mint": "W",
               "business_strikes": 2000000,
@@ -576,7 +576,7 @@
                 "start": 1892,
                 "end": 1916
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -588,7 +588,7 @@
           ],
           "coins": [
             {
-              "coin_id": "BD-1894-S",
+              "coin_id": "US-BARD-1894-S",
               "year": 1894,
               "mint": "S",
               "business_strikes": 0,
@@ -599,7 +599,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BD-1895-O",
+              "coin_id": "US-BARD-1895-O",
               "year": 1895,
               "mint": "O",
               "business_strikes": 440000,
@@ -610,7 +610,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BD-1896-S",
+              "coin_id": "US-BARD-1896-S",
               "year": 1896,
               "mint": "S",
               "business_strikes": 575056,
@@ -621,7 +621,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BD-1901-S",
+              "coin_id": "US-BARD-1901-S",
               "year": 1901,
               "mint": "S",
               "business_strikes": 593022,
@@ -631,7 +631,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BD-1903-S",
+              "coin_id": "US-BARD-1903-S",
               "year": 1903,
               "mint": "S",
               "business_strikes": 613300,
@@ -641,7 +641,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BD-1904-S",
+              "coin_id": "US-BARD-1904-S",
               "year": 1904,
               "mint": "S",
               "business_strikes": 800000,
@@ -675,7 +675,7 @@
                 "start": 1916,
                 "end": 1945
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -687,7 +687,7 @@
           ],
           "coins": [
             {
-              "coin_id": "MD-1916-D",
+              "coin_id": "US-MERC-1916-D",
               "year": 1916,
               "mint": "D",
               "business_strikes": 264000,
@@ -698,7 +698,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1916-P",
+              "coin_id": "US-MERC-1916-P",
               "year": 1916,
               "mint": "P",
               "business_strikes": 22180080,
@@ -707,7 +707,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1916-S",
+              "coin_id": "US-MERC-1916-S",
               "year": 1916,
               "mint": "S",
               "business_strikes": 10450000,
@@ -716,7 +716,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1921-D",
+              "coin_id": "US-MERC-1921-D",
               "year": 1921,
               "mint": "D",
               "business_strikes": 1080000,
@@ -727,7 +727,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1921-P",
+              "coin_id": "US-MERC-1921-P",
               "year": 1921,
               "mint": "P",
               "business_strikes": 1230000,
@@ -737,7 +737,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1926-S",
+              "coin_id": "US-MERC-1926-S",
               "year": 1926,
               "mint": "S",
               "business_strikes": 1520000,
@@ -748,7 +748,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1931-D",
+              "coin_id": "US-MERC-1931-D",
               "year": 1931,
               "mint": "D",
               "business_strikes": 1260000,
@@ -758,7 +758,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1931-S",
+              "coin_id": "US-MERC-1931-S",
               "year": 1931,
               "mint": "S",
               "business_strikes": 1800000,
@@ -768,7 +768,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1942-D-21",
+              "coin_id": "US-MERC-1942-D",
               "year": 1942,
               "mint": "D",
               "business_strikes": 60740000,
@@ -784,7 +784,7 @@
               ]
             },
             {
-              "coin_id": "MD-1942-P-21",
+              "coin_id": "US-MERC-1942-P",
               "year": 1942,
               "mint": "P",
               "business_strikes": 205432329,
@@ -800,7 +800,7 @@
               ]
             },
             {
-              "coin_id": "MD-1945-D",
+              "coin_id": "US-MERC-1945-D",
               "year": 1945,
               "mint": "D",
               "business_strikes": 40245000,
@@ -809,7 +809,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1945-P",
+              "coin_id": "US-MERC-1945-P",
               "year": 1945,
               "mint": "P",
               "business_strikes": 159130000,
@@ -819,7 +819,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1945-S-Micro",
+              "coin_id": "US-MERC-1945-S",
               "year": 1945,
               "mint": "S",
               "business_strikes": 41920000,
@@ -860,7 +860,7 @@
                 "start": 1946,
                 "end": 1964
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -874,7 +874,7 @@
                 "start": 1965,
                 "end": 2024
               },
-              "alloy_name": "Copper-Nickel Clad",
+              "alloy_name": "Clad",
               "alloy": {
                 "copper_core": 0.917,
                 "cupronickel_cladding": 0.083
@@ -886,7 +886,7 @@
           ],
           "coins": [
             {
-              "coin_id": "RD-1946-D",
+              "coin_id": "US-ROOS-1946-D",
               "year": 1946,
               "mint": "D",
               "business_strikes": 61043500,
@@ -895,7 +895,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1946-P",
+              "coin_id": "US-ROOS-1946-P",
               "year": 1946,
               "mint": "P",
               "business_strikes": 255250000,
@@ -905,7 +905,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1946-S",
+              "coin_id": "US-ROOS-1946-S",
               "year": 1946,
               "mint": "S",
               "business_strikes": 27900000,
@@ -914,7 +914,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1949-S",
+              "coin_id": "US-ROOS-1949-S",
               "year": 1949,
               "mint": "S",
               "business_strikes": 13510000,
@@ -925,7 +925,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1964-D",
+              "coin_id": "US-ROOS-1964-D",
               "year": 1964,
               "mint": "D",
               "business_strikes": 1357517180,
@@ -935,7 +935,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1964-P",
+              "coin_id": "US-ROOS-1964-P",
               "year": 1964,
               "mint": "P",
               "business_strikes": 933310762,
@@ -945,7 +945,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1965-P",
+              "coin_id": "US-ROOS-1965-P",
               "year": 1965,
               "mint": "P",
               "business_strikes": 1652140570,
@@ -955,7 +955,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-1968-S-NoS",
+              "coin_id": "US-ROOS-1968-S",
               "year": 1968,
               "mint": "S",
               "business_strikes": 0,
@@ -972,7 +972,7 @@
               ]
             },
             {
-              "coin_id": "RD-1975-S-NoS",
+              "coin_id": "US-ROOS-1975-S",
               "year": 1975,
               "mint": "S",
               "business_strikes": 0,
@@ -989,7 +989,7 @@
               ]
             },
             {
-              "coin_id": "RD-1996-W",
+              "coin_id": "US-ROOS-1996-W",
               "year": 1996,
               "mint": "W",
               "business_strikes": 1457000,
@@ -999,7 +999,7 @@
               "varieties": []
             },
             {
-              "coin_id": "RD-2009-D",
+              "coin_id": "US-ROOS-2009-D",
               "year": 2009,
               "mint": "D",
               "business_strikes": 49500000,
@@ -1039,7 +1039,7 @@
                 "start": 1878,
                 "end": 1921
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -1051,7 +1051,7 @@
           ],
           "coins": [
             {
-              "coin_id": "MD-1879-CC",
+              "coin_id": "US-MORG-1879-CC",
               "year": 1879,
               "mint": "CC",
               "business_strikes": 756000,
@@ -1062,7 +1062,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1889-CC",
+              "coin_id": "US-MORG-1889-CC",
               "year": 1889,
               "mint": "CC",
               "business_strikes": 350000,
@@ -1073,7 +1073,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1893-S",
+              "coin_id": "US-MORG-1893-S",
               "year": 1893,
               "mint": "S",
               "business_strikes": 100000,
@@ -1084,7 +1084,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1894-P",
+              "coin_id": "US-MORG-1894-P",
               "year": 1894,
               "mint": "P",
               "business_strikes": 110000,
@@ -1095,7 +1095,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1895-O",
+              "coin_id": "US-MORG-1895-O",
               "year": 1895,
               "mint": "O",
               "business_strikes": 450000,
@@ -1105,7 +1105,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1895-P",
+              "coin_id": "US-MORG-1895-P",
               "year": 1895,
               "mint": "P",
               "business_strikes": 0,
@@ -1116,7 +1116,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1895-S",
+              "coin_id": "US-MORG-1895-S",
               "year": 1895,
               "mint": "S",
               "business_strikes": 400000,
@@ -1126,7 +1126,7 @@
               "varieties": []
             },
             {
-              "coin_id": "MD-1903-O",
+              "coin_id": "US-MORG-1903-O",
               "year": 1903,
               "mint": "O",
               "business_strikes": 4450000,
@@ -1160,7 +1160,7 @@
                 "start": 1921,
                 "end": 1935
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -1172,7 +1172,7 @@
           ],
           "coins": [
             {
-              "coin_id": "PD-1921-P-HR",
+              "coin_id": "US-PEAC-1921-P",
               "year": 1921,
               "mint": "P",
               "business_strikes": 1006473,
@@ -1190,7 +1190,7 @@
               ]
             },
             {
-              "coin_id": "PD-1927-D",
+              "coin_id": "US-PEAC-1927-D",
               "year": 1927,
               "mint": "D",
               "business_strikes": 1268900,
@@ -1201,7 +1201,7 @@
               "varieties": []
             },
             {
-              "coin_id": "PD-1928-P",
+              "coin_id": "US-PEAC-1928-P",
               "year": 1928,
               "mint": "P",
               "business_strikes": 360649,
@@ -1212,7 +1212,7 @@
               "varieties": []
             },
             {
-              "coin_id": "PD-1934-S",
+              "coin_id": "US-PEAC-1934-S",
               "year": 1934,
               "mint": "S",
               "business_strikes": 1011000,
@@ -1247,7 +1247,7 @@
                 "start": 1971,
                 "end": 1978
               },
-              "alloy_name": "Copper-Nickel Clad",
+              "alloy_name": "Clad",
               "alloy": {
                 "copper_core": 0.917,
                 "cupronickel_cladding": 0.083
@@ -1273,7 +1273,7 @@
           ],
           "coins": [
             {
-              "coin_id": "ED-1973-D",
+              "coin_id": "US-EISE-1973-D",
               "year": 1973,
               "mint": "D",
               "business_strikes": 1769258,
@@ -1284,7 +1284,7 @@
               "varieties": []
             },
             {
-              "coin_id": "ED-1973-P",
+              "coin_id": "US-EISE-1973-P",
               "year": 1973,
               "mint": "P",
               "business_strikes": 1769258,
@@ -1295,7 +1295,7 @@
               "varieties": []
             },
             {
-              "coin_id": "ED-1976-P-T1",
+              "coin_id": "US-EISE-1976-P",
               "year": 1976,
               "mint": "P",
               "business_strikes": 117337000,
@@ -1341,7 +1341,7 @@
                 "start": 1979,
                 "end": 1999
               },
-              "alloy_name": "Copper-Nickel Clad",
+              "alloy_name": "Clad",
               "alloy": {
                 "copper_core": 0.917,
                 "cupronickel_cladding": 0.083
@@ -1353,7 +1353,7 @@
           ],
           "coins": [
             {
-              "coin_id": "SBA-1979-P-WR",
+              "coin_id": "US-SANT-1979-P",
               "year": 1979,
               "mint": "P",
               "business_strikes": 360222000,
@@ -1369,7 +1369,7 @@
               ]
             },
             {
-              "coin_id": "SBA-1979-S-T2",
+              "coin_id": "US-SANT-1979-S",
               "year": 1979,
               "mint": "S",
               "business_strikes": 0,
@@ -1385,7 +1385,7 @@
               ]
             },
             {
-              "coin_id": "SBA-1999-P",
+              "coin_id": "US-SANT-1999-P",
               "year": 1999,
               "mint": "P",
               "business_strikes": 29592000,
@@ -1433,7 +1433,7 @@
           ],
           "coins": [
             {
-              "coin_id": "SAC-2000-D",
+              "coin_id": "US-SACA-2000-D",
               "year": 2000,
               "mint": "D",
               "business_strikes": 518916000,
@@ -1442,7 +1442,7 @@
               "varieties": []
             },
             {
-              "coin_id": "SAC-2000-P-Cheerios",
+              "coin_id": "US-SACA-2000-P",
               "year": 2000,
               "mint": "P",
               "business_strikes": 767140000,
@@ -1505,7 +1505,7 @@
           ],
           "coins": [
             {
-              "coin_id": "SN-1867-P",
+              "coin_id": "US-SHLD-1867-P",
               "year": 1867,
               "mint": "P",
               "business_strikes": 2019000,
@@ -1516,7 +1516,7 @@
               "varieties": []
             },
             {
-              "coin_id": "SN-1877-P",
+              "coin_id": "US-SHLD-1877-P",
               "year": 1877,
               "mint": "P",
               "business_strikes": 0,
@@ -1527,7 +1527,7 @@
               "varieties": []
             },
             {
-              "coin_id": "SN-1878-P",
+              "coin_id": "US-SHLD-1878-P",
               "year": 1878,
               "mint": "P",
               "business_strikes": 0,
@@ -1538,7 +1538,7 @@
               "varieties": []
             },
             {
-              "coin_id": "SN-1880-P",
+              "coin_id": "US-SHLD-1880-P",
               "year": 1880,
               "mint": "P",
               "business_strikes": 19995,
@@ -1585,7 +1585,7 @@
           ],
           "coins": [
             {
-              "coin_id": "LHN-1883-P-NC",
+              "coin_id": "US-LHNI-1883-P",
               "year": 1883,
               "mint": "P",
               "business_strikes": 5479519,
@@ -1601,7 +1601,7 @@
               ]
             },
             {
-              "coin_id": "LHN-1885-P",
+              "coin_id": "US-LHNI-1885-P",
               "year": 1885,
               "mint": "P",
               "business_strikes": 1476490,
@@ -1612,7 +1612,7 @@
               "varieties": []
             },
             {
-              "coin_id": "LHN-1912-S",
+              "coin_id": "US-LHNI-1912-S",
               "year": 1912,
               "mint": "S",
               "business_strikes": 238000,
@@ -1623,7 +1623,7 @@
               "varieties": []
             },
             {
-              "coin_id": "LHN-1913-P",
+              "coin_id": "US-LHNI-1913-P",
               "year": 1913,
               "mint": "P",
               "business_strikes": 5,
@@ -1670,7 +1670,7 @@
           ],
           "coins": [
             {
-              "coin_id": "BN-1913-S",
+              "coin_id": "US-BUFF-1913-S",
               "year": 1913,
               "mint": "S",
               "business_strikes": 1209000,
@@ -1681,7 +1681,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BN-1916-P-DDO",
+              "coin_id": "US-BUFF-1916-P",
               "year": 1916,
               "mint": "P",
               "business_strikes": 63498066,
@@ -1697,7 +1697,7 @@
               ]
             },
             {
-              "coin_id": "BN-1918-D-87",
+              "coin_id": "US-BUFF-1918-D",
               "year": 1918,
               "mint": "D",
               "business_strikes": 8362000,
@@ -1713,7 +1713,7 @@
               ]
             },
             {
-              "coin_id": "BN-1926-S",
+              "coin_id": "US-BUFF-1926-S",
               "year": 1926,
               "mint": "S",
               "business_strikes": 970000,
@@ -1724,7 +1724,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BN-1937-D-3L",
+              "coin_id": "US-BUFF-1937-D",
               "year": 1937,
               "mint": "D",
               "business_strikes": 17826000,
@@ -1805,7 +1805,7 @@
           ],
           "coins": [
             {
-              "coin_id": "JN-1950-D",
+              "coin_id": "US-JEFF-1950-D",
               "year": 1950,
               "mint": "D",
               "business_strikes": 2630030,
@@ -1816,7 +1816,7 @@
               "varieties": []
             },
             {
-              "coin_id": "JN-1971-S-NoS",
+              "coin_id": "US-JEFF-1971-S",
               "year": 1971,
               "mint": "S",
               "business_strikes": 0,
@@ -1861,7 +1861,7 @@
                 "start": 1892,
                 "end": 1916
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -1873,7 +1873,7 @@
           ],
           "coins": [
             {
-              "coin_id": "BQ-1892-P-T1",
+              "coin_id": "US-BARQ-1892-P",
               "year": 1892,
               "mint": "P",
               "business_strikes": 8237245,
@@ -1895,7 +1895,7 @@
               ]
             },
             {
-              "coin_id": "BQ-1896-S",
+              "coin_id": "US-BARQ-1896-S",
               "year": 1896,
               "mint": "S",
               "business_strikes": 188039,
@@ -1906,7 +1906,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BQ-1901-S",
+              "coin_id": "US-BARQ-1901-S",
               "year": 1901,
               "mint": "S",
               "business_strikes": 72664,
@@ -1917,7 +1917,7 @@
               "varieties": []
             },
             {
-              "coin_id": "BQ-1913-S",
+              "coin_id": "US-BARQ-1913-S",
               "year": 1913,
               "mint": "S",
               "business_strikes": 40000,
@@ -1952,7 +1952,7 @@
                 "start": 1916,
                 "end": 1930
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -1964,7 +1964,7 @@
           ],
           "coins": [
             {
-              "coin_id": "SLQ-1916-P-T1",
+              "coin_id": "US-SLIQ-1916-P",
               "year": 1916,
               "mint": "P",
               "business_strikes": 52000,
@@ -1982,7 +1982,7 @@
               ]
             },
             {
-              "coin_id": "SLQ-1917-P-T1",
+              "coin_id": "US-SLIQ-1917-P",
               "year": 1917,
               "mint": "P",
               "business_strikes": 8792000,
@@ -2004,7 +2004,7 @@
               ]
             },
             {
-              "coin_id": "SLQ-1918-S-87",
+              "coin_id": "US-SLIQ-1918-S",
               "year": 1918,
               "mint": "S",
               "business_strikes": 11072000,
@@ -2021,7 +2021,7 @@
               ]
             },
             {
-              "coin_id": "SLQ-1921-P",
+              "coin_id": "US-SLIQ-1921-P",
               "year": 1921,
               "mint": "P",
               "business_strikes": 1916000,
@@ -2032,7 +2032,7 @@
               "varieties": []
             },
             {
-              "coin_id": "SLQ-1927-S",
+              "coin_id": "US-SLIQ-1927-S",
               "year": 1927,
               "mint": "S",
               "business_strikes": 396000,
@@ -2067,7 +2067,7 @@
                 "start": 1932,
                 "end": 1964
               },
-              "alloy_name": "90% Silver",
+              "alloy_name": "Silver",
               "alloy": {
                 "silver": 0.9,
                 "copper": 0.1
@@ -2081,7 +2081,7 @@
                 "start": 1965,
                 "end": 2024
               },
-              "alloy_name": "Copper-Nickel Clad",
+              "alloy_name": "Clad",
               "alloy": {
                 "copper_core": 0.917,
                 "cupronickel_cladding": 0.083
@@ -2093,7 +2093,7 @@
           ],
           "coins": [
             {
-              "coin_id": "WQ-1932-D",
+              "coin_id": "US-WASH-1932-D",
               "year": 1932,
               "mint": "D",
               "business_strikes": 436800,
@@ -2104,7 +2104,7 @@
               "varieties": []
             },
             {
-              "coin_id": "WQ-1932-S",
+              "coin_id": "US-WASH-1932-S",
               "year": 1932,
               "mint": "S",
               "business_strikes": 408000,
@@ -2115,7 +2115,7 @@
               "varieties": []
             },
             {
-              "coin_id": "WQ-1999-P-DE",
+              "coin_id": "US-WASH-1999-P",
               "year": 1999,
               "mint": "P",
               "business_strikes": 373400000,
@@ -2132,7 +2132,7 @@
               ]
             },
             {
-              "coin_id": "WQ-2019-W",
+              "coin_id": "US-WASH-2019-W",
               "year": 2019,
               "mint": "W",
               "business_strikes": 2000000,
@@ -2142,7 +2142,7 @@
               "varieties": []
             },
             {
-              "coin_id": "WQ-2020-W",
+              "coin_id": "US-WASH-2020-W",
               "year": 2020,
               "mint": "W",
               "business_strikes": 2000000,
@@ -2459,7 +2459,7 @@
     "denominations": 5,
     "total_series": 20,
     "total_coins": 99,
-    "generation_date": "2025-07-27T00:19:34.494931",
+    "generation_date": "2025-07-29T17:02:25.138955",
     "file_sources": [
       "cents.json",
       "dimes.json",
