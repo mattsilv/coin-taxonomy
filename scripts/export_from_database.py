@@ -53,14 +53,15 @@ class DatabaseExporter:
             for denom_name, count in denominations:
                 print(f"📄 Exporting {denom_name}: {count} coins")
                 
-                # Get all coins for this denomination with series grouping
+                # Get all coins for this denomination with series grouping (including visual descriptions)
                 cursor.execute('''
                     SELECT 
                         coin_id, series_id, series_name, year, mint,
                         business_strikes, proof_strikes, rarity,
                         composition, weight_grams, diameter_mm,
                         varieties, source_citation, notes,
-                        country
+                        country, obverse_description, reverse_description,
+                        distinguishing_features, identification_keywords, common_names
                     FROM coins
                     WHERE denomination = ?
                     ORDER BY year, series_name, mint
@@ -86,6 +87,9 @@ class DatabaseExporter:
                     # Parse JSON fields
                     composition = json.loads(row[8]) if row[8] else {}
                     varieties = json.loads(row[11]) if row[11] else []
+                    distinguishing_features = json.loads(row[17]) if row[17] else []
+                    identification_keywords = json.loads(row[18]) if row[18] else []
+                    common_names = json.loads(row[19]) if row[19] else []
                     
                     coin = {
                         "coin_id": row[0],
@@ -97,6 +101,18 @@ class DatabaseExporter:
                         "composition": composition,
                         "varieties": varieties
                     }
+                    
+                    # Add visual description fields
+                    if row[15]:  # obverse_description
+                        coin["obverse_description"] = row[15]
+                    if row[16]:  # reverse_description
+                        coin["reverse_description"] = row[16]
+                    if distinguishing_features:
+                        coin["distinguishing_features"] = distinguishing_features
+                    if identification_keywords:
+                        coin["identification_keywords"] = identification_keywords
+                    if common_names:
+                        coin["common_names"] = common_names
                     
                     # Only include non-null values
                     if row[9] is not None:  # weight_grams
@@ -278,13 +294,15 @@ class DatabaseExporter:
             
             stats = cursor.fetchone()
             
-            # Get all coins
+            # Get all coins (including visual descriptions)
             cursor.execute('''
                 SELECT 
                     coin_id, series_id, series_name, denomination,
                     year, mint, business_strikes, proof_strikes, rarity,
                     composition, weight_grams, diameter_mm,
-                    varieties, source_citation, notes, country
+                    varieties, source_citation, notes, country,
+                    obverse_description, reverse_description,
+                    distinguishing_features, identification_keywords, common_names
                 FROM coins
                 ORDER BY year, denomination, series_name, mint
             ''')
@@ -309,6 +327,25 @@ class DatabaseExporter:
                     "notes": row[14],
                     "country": row[15]
                 }
+                
+                # Add visual description fields
+                if row[16]:  # obverse_description
+                    coin["obverse_description"] = row[16]
+                if row[17]:  # reverse_description
+                    coin["reverse_description"] = row[17]
+                if row[18]:  # distinguishing_features
+                    features = json.loads(row[18])
+                    if features:
+                        coin["distinguishing_features"] = features
+                if row[19]:  # identification_keywords
+                    keywords = json.loads(row[19])
+                    if keywords:
+                        coin["identification_keywords"] = keywords
+                if row[20]:  # common_names
+                    names = json.loads(row[20])
+                    if names:
+                        coin["common_names"] = names
+                
                 coins.append(coin)
             
             complete_data = {

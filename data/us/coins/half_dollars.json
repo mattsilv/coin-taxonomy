@@ -35,6 +35,29 @@
           "rarity": "scarce",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty bust facing right wearing draped cap, 'LIBERTY' above, date below, stars around rim",
+          "reverse_description": "Heraldic eagle with shield on chest, 'UNITED STATES OF AMERICA' around rim, 'HALF DOL.' or '50 CENTS' below",
+          "distinguishing_features": [
+            "89.2% silver composition (early) or 90% silver (later)",
+            "32.5mm diameter (large size)",
+            "Lettered edge with decorative text",
+            "High relief design",
+            "Liberty wearing distinctive cap"
+          ],
+          "identification_keywords": [
+            "capped bust half dollar",
+            "early half dollar",
+            "silver half dollar",
+            "liberty cap",
+            "lettered edge",
+            "fifty cents",
+            "john reich"
+          ],
+          "common_names": [
+            "Capped Bust Half Dollar",
+            "Early Half Dollar",
+            "Liberty Cap Half"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024"
         },
@@ -47,6 +70,29 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty bust facing right wearing draped cap, 'LIBERTY' above, date below, stars around rim",
+          "reverse_description": "Heraldic eagle with shield on chest, 'UNITED STATES OF AMERICA' around rim, 'HALF DOL.' or '50 CENTS' below",
+          "distinguishing_features": [
+            "89.2% silver composition (early) or 90% silver (later)",
+            "32.5mm diameter (large size)",
+            "Lettered edge with decorative text",
+            "High relief design",
+            "Liberty wearing distinctive cap"
+          ],
+          "identification_keywords": [
+            "capped bust half dollar",
+            "early half dollar",
+            "silver half dollar",
+            "liberty cap",
+            "lettered edge",
+            "fifty cents",
+            "john reich"
+          ],
+          "common_names": [
+            "Capped Bust Half Dollar",
+            "Early Half Dollar",
+            "Liberty Cap Half"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "PCGS CoinFacts"
         }

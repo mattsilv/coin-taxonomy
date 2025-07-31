@@ -35,6 +35,30 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, date '1793' below",
+          "reverse_description": "15-link chain enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERI.' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "26-27mm diameter (large size)",
+            "First official U.S. cent for circulation",
+            "Vine and bars edge design",
+            "Chain symbolizing union of states"
+          ],
+          "identification_keywords": [
+            "chain cent",
+            "1793 cent",
+            "first cent",
+            "large cent",
+            "flowing hair cent",
+            "copper cent",
+            "chain reverse",
+            "early american coin"
+          ],
+          "common_names": [
+            "Chain Cent",
+            "1793 Large Cent",
+            "First U.S. Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024"
         }
@@ -72,6 +96,29 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, date '1793' below",
+          "reverse_description": "Wreath enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "26-27mm diameter (large size)",
+            "High relief striking",
+            "Wreath replaced controversial chain design",
+            "Vine and bars edge"
+          ],
+          "identification_keywords": [
+            "wreath cent",
+            "1793 cent",
+            "large cent",
+            "flowing hair cent",
+            "copper cent",
+            "wreath reverse",
+            "early american coin"
+          ],
+          "common_names": [
+            "Wreath Cent",
+            "1793 Wreath Large Cent",
+            "Liberty Cap Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024"
         }
@@ -109,6 +156,29 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+          "reverse_description": "Wreath enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "28-29mm diameter",
+            "Draped clothing detail on Liberty",
+            "Based on Gilbert Stuart's Liberty design",
+            "Plain edge"
+          ],
+          "identification_keywords": [
+            "draped bust cent",
+            "large cent",
+            "1799 cent",
+            "copper cent",
+            "draped bust",
+            "stuart liberty",
+            "early cent"
+          ],
+          "common_names": [
+            "Draped Bust Large Cent",
+            "1799 Large Cent",
+            "Stuart Liberty Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "PCGS CoinFacts"
         }
@@ -146,6 +216,29 @@
           "rarity": "common",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty head with coronet inscribed 'LIBERTY', date below, 13 stars around rim",
+          "reverse_description": "Wreath enclosing 'ONE CENT', 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "27.5mm diameter",
+            "Matron Head design style",
+            "Liberty wearing coronet/headband",
+            "Final year before small cents"
+          ],
+          "identification_keywords": [
+            "coronet cent",
+            "matron head cent",
+            "large cent",
+            "1856 cent",
+            "copper cent",
+            "liberty coronet",
+            "pre-civil war cent"
+          ],
+          "common_names": [
+            "Coronet Large Cent",
+            "Matron Head Cent",
+            "1856 Large Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024"
         }
@@ -183,6 +276,30 @@
           "rarity": "common",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Eagle in flight facing left, 'UNITED STATES OF AMERICA' above, date below",
+          "reverse_description": "Agricultural wreath of wheat, corn, cotton, tobacco enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "88% copper, 12% nickel composition",
+            "19.05mm diameter (first small cent)",
+            "White/bright appearance from nickel",
+            "Striking problems with eagle's head and tail",
+            "Short-lived series (1857-1858)"
+          ],
+          "identification_keywords": [
+            "flying eagle cent",
+            "small cent",
+            "eagle cent",
+            "white cent",
+            "nickel cent",
+            "1857 cent",
+            "1858 cent",
+            "agricultural wreath"
+          ],
+          "common_names": [
+            "Flying Eagle Cent",
+            "Flying Eagle Penny",
+            "Eagle Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint official records, PCGS CoinFacts",
           "notes": "First small cent design, 1856 were patterns only"
@@ -196,6 +313,30 @@
           "rarity": "common",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Eagle in flight facing left, 'UNITED STATES OF AMERICA' above, date below",
+          "reverse_description": "Agricultural wreath of wheat, corn, cotton, tobacco enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "88% copper, 12% nickel composition",
+            "19.05mm diameter (first small cent)",
+            "White/bright appearance from nickel",
+            "Striking problems with eagle's head and tail",
+            "Short-lived series (1857-1858)"
+          ],
+          "identification_keywords": [
+            "flying eagle cent",
+            "small cent",
+            "eagle cent",
+            "white cent",
+            "nickel cent",
+            "1857 cent",
+            "1858 cent",
+            "agricultural wreath"
+          ],
+          "common_names": [
+            "Flying Eagle Cent",
+            "Flying Eagle Penny",
+            "Eagle Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint official records, PCGS CoinFacts"
         }
@@ -267,6 +408,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 4.67,
           "diameter_mm": 19.05,
           "source_citation": "Red Book"
@@ -294,6 +459,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "Red Book"
@@ -314,6 +503,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -342,6 +555,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "Red Book"
@@ -362,6 +599,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -383,6 +644,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+          "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "distinguishing_features": [
+            "Bronze composition (95% copper)",
+            "19.05mm diameter",
+            "Caucasian Liberty in Native headdress",
+            "Oak and laurel wreath with shield",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "indian head cent",
+            "indian penny",
+            "bronze cent",
+            "headdress cent",
+            "liberty headdress",
+            "oak wreath",
+            "shield cent",
+            "longacre cent"
+          ],
+          "common_names": [
+            "Indian Head Cent",
+            "Indian Head Penny",
+            "Indian Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -471,6 +756,30 @@
               "estimated_mintage": 484000
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -492,6 +801,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -520,6 +853,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts"
@@ -540,6 +897,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -566,6 +947,30 @@
               "description": "Error struck in bronze instead of steel",
               "estimated_mintage": 40
             }
+          ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
           ],
           "weight_grams": 2.7,
           "diameter_mm": 19.05,
@@ -594,6 +999,30 @@
               "estimated_mintage": 27
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts"
@@ -619,6 +1048,30 @@
               "description": "Dramatic doubling on obverse",
               "estimated_mintage": 22000
             }
+          ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
           ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
@@ -691,6 +1144,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+          "distinguishing_features": [
+            "95% copper (1959-1982) then zinc core with copper plating",
+            "19.05mm diameter",
+            "Memorial building with visible columns",
+            "Frank Gasparro reverse design",
+            "Tiny Lincoln statue visible inside memorial"
+          ],
+          "identification_keywords": [
+            "lincoln memorial cent",
+            "memorial penny",
+            "lincoln cent",
+            "memorial cent",
+            "lincoln penny",
+            "copper cent",
+            "zinc cent",
+            "frank gasparro"
+          ],
+          "common_names": [
+            "Lincoln Memorial Cent",
+            "Memorial Penny",
+            "Lincoln Cent"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
@@ -718,6 +1195,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+          "distinguishing_features": [
+            "95% copper (1959-1982) then zinc core with copper plating",
+            "19.05mm diameter",
+            "Memorial building with visible columns",
+            "Frank Gasparro reverse design",
+            "Tiny Lincoln statue visible inside memorial"
+          ],
+          "identification_keywords": [
+            "lincoln memorial cent",
+            "memorial penny",
+            "lincoln cent",
+            "memorial cent",
+            "lincoln penny",
+            "copper cent",
+            "zinc cent",
+            "frank gasparro"
+          ],
+          "common_names": [
+            "Lincoln Memorial Cent",
+            "Memorial Penny",
+            "Lincoln Cent"
+          ],
           "weight_grams": 3.11,
           "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts"
@@ -743,6 +1244,30 @@
               "description": "Doubling on reverse inscriptions",
               "estimated_mintage": null
             }
+          ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+          "distinguishing_features": [
+            "95% copper (1959-1982) then zinc core with copper plating",
+            "19.05mm diameter",
+            "Memorial building with visible columns",
+            "Frank Gasparro reverse design",
+            "Tiny Lincoln statue visible inside memorial"
+          ],
+          "identification_keywords": [
+            "lincoln memorial cent",
+            "memorial penny",
+            "lincoln cent",
+            "memorial cent",
+            "lincoln penny",
+            "copper cent",
+            "zinc cent",
+            "frank gasparro"
+          ],
+          "common_names": [
+            "Lincoln Memorial Cent",
+            "Memorial Penny",
+            "Lincoln Cent"
           ],
           "weight_grams": 2.5,
           "diameter_mm": 19.05,
@@ -801,6 +1326,30 @@
               "estimated_mintage": 350400000
             }
           ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Four different designs depicting Lincoln's life stages - birth/childhood, formative years, professional life, presidency",
+          "distinguishing_features": [
+            "Zinc core with copper plating",
+            "19.05mm diameter",
+            "Four different reverse designs in 2009",
+            "Commemorates Lincoln's 200th birthday",
+            "One-year special issue"
+          ],
+          "identification_keywords": [
+            "lincoln bicentennial cent",
+            "2009 cent",
+            "lincoln birth cent",
+            "bicentennial penny",
+            "four designs",
+            "lincoln life",
+            "200th anniversary",
+            "log cabin cent"
+          ],
+          "common_names": [
+            "Lincoln Bicentennial Cent",
+            "2009 Lincoln Cent",
+            "Bicentennial Penny"
+          ],
           "weight_grams": 2.5,
           "diameter_mm": 19.05,
           "source_citation": "US Mint records"
@@ -826,6 +1375,30 @@
               "description": "2009 Bicentennial - Birth and Early Childhood reverse",
               "estimated_mintage": 284800000
             }
+          ],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Four different designs depicting Lincoln's life stages - birth/childhood, formative years, professional life, presidency",
+          "distinguishing_features": [
+            "Zinc core with copper plating",
+            "19.05mm diameter",
+            "Four different reverse designs in 2009",
+            "Commemorates Lincoln's 200th birthday",
+            "One-year special issue"
+          ],
+          "identification_keywords": [
+            "lincoln bicentennial cent",
+            "2009 cent",
+            "lincoln birth cent",
+            "bicentennial penny",
+            "four designs",
+            "lincoln life",
+            "200th anniversary",
+            "log cabin cent"
+          ],
+          "common_names": [
+            "Lincoln Bicentennial Cent",
+            "2009 Lincoln Cent",
+            "Bicentennial Penny"
           ],
           "weight_grams": 2.5,
           "diameter_mm": 19.05,
@@ -877,6 +1450,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
+          "distinguishing_features": [
+            "Zinc core with copper plating",
+            "19.05mm diameter",
+            "Shield represents Lincoln's preservation of Union",
+            "Lyndall Bass reverse design",
+            "Current design since 2010"
+          ],
+          "identification_keywords": [
+            "lincoln shield cent",
+            "shield penny",
+            "union shield cent",
+            "lincoln cent",
+            "modern penny",
+            "copper plated zinc",
+            "lyndall bass",
+            "current penny"
+          ],
+          "common_names": [
+            "Lincoln Shield Cent",
+            "Shield Penny",
+            "Union Shield Cent"
+          ],
           "weight_grams": 2.5,
           "diameter_mm": 19.05,
           "source_citation": "US Mint records",
@@ -897,6 +1494,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
+          "distinguishing_features": [
+            "Zinc core with copper plating",
+            "19.05mm diameter",
+            "Shield represents Lincoln's preservation of Union",
+            "Lyndall Bass reverse design",
+            "Current design since 2010"
+          ],
+          "identification_keywords": [
+            "lincoln shield cent",
+            "shield penny",
+            "union shield cent",
+            "lincoln cent",
+            "modern penny",
+            "copper plated zinc",
+            "lyndall bass",
+            "current penny"
+          ],
+          "common_names": [
+            "Lincoln Shield Cent",
+            "Shield Penny",
+            "Union Shield Cent"
+          ],
           "weight_grams": 2.5,
           "diameter_mm": 19.05,
           "source_citation": "US Mint records",

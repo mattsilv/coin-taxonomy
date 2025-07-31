@@ -35,6 +35,29 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
+          "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "22mm diameter",
+            "First U.S. half cent",
+            "Liberty cap design",
+            "Lettered edge"
+          ],
+          "identification_keywords": [
+            "liberty cap half cent",
+            "half cent",
+            "1793 half cent",
+            "copper half cent",
+            "liberty cap",
+            "first half cent",
+            "early american coin"
+          ],
+          "common_names": [
+            "Liberty Cap Half Cent",
+            "1793 Half Cent",
+            "First Half Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024"
         }
@@ -72,6 +95,29 @@
           "rarity": "scarce",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+          "reverse_description": "Wreath enclosing 'HALF CENT', 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "100% copper composition",
+            "23.5mm diameter",
+            "Draped clothing on Liberty",
+            "Gilbert Stuart and Robert Scot design",
+            "Plain edge"
+          ],
+          "identification_keywords": [
+            "draped bust half cent",
+            "half cent",
+            "1800 half cent",
+            "copper half cent",
+            "draped bust",
+            "stuart liberty",
+            "early half cent"
+          ],
+          "common_names": [
+            "Draped Bust Half Cent",
+            "1800 Half Cent",
+            "Stuart Liberty Half Cent"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024",
           "notes": "Designed by Gilbert Stuart and Robert Scot"

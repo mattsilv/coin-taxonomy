@@ -1,6 +1,6 @@
 {
   "taxonomy_version": "1.1",
-  "generated_at": "2025-07-31T14:15:32.100968",
+  "generated_at": "2025-07-31T14:35:14.175225",
   "total_coins": 118,
   "year_range": {
     "earliest": 1793,
@@ -23,7 +23,31 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, date '1793' below",
+      "reverse_description": "15-link chain enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERI.' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "26-27mm diameter (large size)",
+        "First official U.S. cent for circulation",
+        "Vine and bars edge design",
+        "Chain symbolizing union of states"
+      ],
+      "identification_keywords": [
+        "chain cent",
+        "1793 cent",
+        "first cent",
+        "large cent",
+        "flowing hair cent",
+        "copper cent",
+        "chain reverse",
+        "early american coin"
+      ],
+      "common_names": [
+        "Chain Cent",
+        "1793 Large Cent",
+        "First U.S. Cent"
+      ]
     },
     {
       "coin_id": "US-LWRE-1793-P",
@@ -41,7 +65,30 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, date '1793' below",
+      "reverse_description": "Wreath enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "26-27mm diameter (large size)",
+        "High relief striking",
+        "Wreath replaced controversial chain design",
+        "Vine and bars edge"
+      ],
+      "identification_keywords": [
+        "wreath cent",
+        "1793 cent",
+        "large cent",
+        "flowing hair cent",
+        "copper cent",
+        "wreath reverse",
+        "early american coin"
+      ],
+      "common_names": [
+        "Wreath Cent",
+        "1793 Wreath Large Cent",
+        "Liberty Cap Cent"
+      ]
     },
     {
       "coin_id": "US-HCLC-1793-P",
@@ -59,7 +106,30 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
+      "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "22mm diameter",
+        "First U.S. half cent",
+        "Liberty cap design",
+        "Lettered edge"
+      ],
+      "identification_keywords": [
+        "liberty cap half cent",
+        "half cent",
+        "1793 half cent",
+        "copper half cent",
+        "liberty cap",
+        "first half cent",
+        "early american coin"
+      ],
+      "common_names": [
+        "Liberty Cap Half Cent",
+        "1793 Half Cent",
+        "First Half Cent"
+      ]
     },
     {
       "coin_id": "US-FHDO-1794-P",
@@ -77,7 +147,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, 15 stars around rim, date below",
+      "reverse_description": "Small eagle perched on rock within wreath, 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "89.2% silver composition",
+        "39-40mm diameter (large)",
+        "First silver dollar",
+        "Flowing hair design",
+        "Small eagle reverse"
+      ],
+      "identification_keywords": [
+        "flowing hair dollar",
+        "1794 dollar",
+        "first silver dollar",
+        "large silver dollar",
+        "flowing hair",
+        "small eagle",
+        "early dollar",
+        "silver dollar"
+      ],
+      "common_names": [
+        "Flowing Hair Dollar",
+        "1794 Silver Dollar",
+        "First Silver Dollar"
+      ]
     },
     {
       "coin_id": "US-DRPB-1799-P",
@@ -95,7 +189,30 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+      "reverse_description": "Wreath enclosing 'ONE CENT' and fraction '1/100', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "28-29mm diameter",
+        "Draped clothing detail on Liberty",
+        "Based on Gilbert Stuart's Liberty design",
+        "Plain edge"
+      ],
+      "identification_keywords": [
+        "draped bust cent",
+        "large cent",
+        "1799 cent",
+        "copper cent",
+        "draped bust",
+        "stuart liberty",
+        "early cent"
+      ],
+      "common_names": [
+        "Draped Bust Large Cent",
+        "1799 Large Cent",
+        "Stuart Liberty Cent"
+      ]
     },
     {
       "coin_id": "US-HCDB-1800-P",
@@ -113,7 +230,30 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": "Designed by Gilbert Stuart and Robert Scot",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+      "reverse_description": "Wreath enclosing 'HALF CENT', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "23.5mm diameter",
+        "Draped clothing on Liberty",
+        "Gilbert Stuart and Robert Scot design",
+        "Plain edge"
+      ],
+      "identification_keywords": [
+        "draped bust half cent",
+        "half cent",
+        "1800 half cent",
+        "copper half cent",
+        "draped bust",
+        "stuart liberty",
+        "early half cent"
+      ],
+      "common_names": [
+        "Draped Bust Half Cent",
+        "1800 Half Cent",
+        "Stuart Liberty Half Cent"
+      ]
     },
     {
       "coin_id": "US-CBHD-1807-P",
@@ -131,7 +271,30 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty bust facing right wearing draped cap, 'LIBERTY' above, date below, stars around rim",
+      "reverse_description": "Heraldic eagle with shield on chest, 'UNITED STATES OF AMERICA' around rim, 'HALF DOL.' or '50 CENTS' below",
+      "distinguishing_features": [
+        "89.2% silver composition (early) or 90% silver (later)",
+        "32.5mm diameter (large size)",
+        "Lettered edge with decorative text",
+        "High relief design",
+        "Liberty wearing distinctive cap"
+      ],
+      "identification_keywords": [
+        "capped bust half dollar",
+        "early half dollar",
+        "silver half dollar",
+        "liberty cap",
+        "lettered edge",
+        "fifty cents",
+        "john reich"
+      ],
+      "common_names": [
+        "Capped Bust Half Dollar",
+        "Early Half Dollar",
+        "Liberty Cap Half"
+      ]
     },
     {
       "coin_id": "US-CBHD-1815-P",
@@ -149,7 +312,30 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty bust facing right wearing draped cap, 'LIBERTY' above, date below, stars around rim",
+      "reverse_description": "Heraldic eagle with shield on chest, 'UNITED STATES OF AMERICA' around rim, 'HALF DOL.' or '50 CENTS' below",
+      "distinguishing_features": [
+        "89.2% silver composition (early) or 90% silver (later)",
+        "32.5mm diameter (large size)",
+        "Lettered edge with decorative text",
+        "High relief design",
+        "Liberty wearing distinctive cap"
+      ],
+      "identification_keywords": [
+        "capped bust half dollar",
+        "early half dollar",
+        "silver half dollar",
+        "liberty cap",
+        "lettered edge",
+        "fifty cents",
+        "john reich"
+      ],
+      "common_names": [
+        "Capped Bust Half Dollar",
+        "Early Half Dollar",
+        "Liberty Cap Half"
+      ]
     },
     {
       "coin_id": "US-GBDO-1836-P",
@@ -167,7 +353,31 @@
       "varieties": [],
       "source_citation": "U.S. Mint records, PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
+      "reverse_description": "Eagle flying left among stars, 'UNITED STATES OF AMERICA' and 'ONE DOLLAR' around rim",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Transitional pattern design",
+        "Flying eagle reverse",
+        "Christian Gobrecht designer"
+      ],
+      "identification_keywords": [
+        "gobrecht dollar",
+        "seated liberty dollar",
+        "flying eagle dollar",
+        "pattern dollar",
+        "1836 dollar",
+        "silver dollar",
+        "christian gobrecht",
+        "transitional dollar"
+      ],
+      "common_names": [
+        "Gobrecht Dollar",
+        "Seated Liberty Dollar",
+        "1836 Pattern Dollar"
+      ]
     },
     {
       "coin_id": "US-SLDI-1837-P",
@@ -185,7 +395,32 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on rock facing left, holding liberty pole with Phrygian cap, shield with 'LIBERTY' banner at side, stars around (if present), date below",
+      "reverse_description": "Wreath enclosing 'ONE DIME', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "90% silver composition (later issues) or 89.2% (early)",
+        "17.9mm diameter",
+        "Seated figure of Liberty",
+        "Liberty pole with freedom cap",
+        "Christian Gobrecht design"
+      ],
+      "identification_keywords": [
+        "seated liberty dime",
+        "liberty seated dime",
+        "seated dime",
+        "silver dime",
+        "liberty pole",
+        "phrygian cap",
+        "christian gobrecht",
+        "1840s dime",
+        "1850s dime"
+      ],
+      "common_names": [
+        "Seated Liberty Dime",
+        "Liberty Seated Dime",
+        "Seated Dime"
+      ]
     },
     {
       "coin_id": "US-GBDO-1838-P",
@@ -203,7 +438,30 @@
       "varieties": [],
       "source_citation": "U.S. Mint records, PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
+      "reverse_description": "Eagle flying left among stars, 'UNITED STATES OF AMERICA' and 'ONE DOLLAR' around rim",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Limited business strike production",
+        "Flying eagle reverse",
+        "Gobrecht signature varieties"
+      ],
+      "identification_keywords": [
+        "gobrecht dollar",
+        "seated liberty dollar",
+        "flying eagle dollar",
+        "1838 dollar",
+        "silver dollar",
+        "christian gobrecht",
+        "business strike"
+      ],
+      "common_names": [
+        "Gobrecht Dollar",
+        "1838 Seated Liberty Dollar",
+        "Gobrecht Pattern Dollar"
+      ]
     },
     {
       "coin_id": "US-SLQU-1838-P",
@@ -221,7 +479,31 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on rock facing left, holding liberty pole with Phrygian cap, shield with 'LIBERTY' banner, stars around, date below",
+      "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'QUAR. DOL.' or 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Seated Liberty with eagle reverse",
+        "Arrows at date (weight change years)",
+        "Christian Gobrecht design"
+      ],
+      "identification_keywords": [
+        "seated liberty quarter",
+        "liberty seated quarter",
+        "seated quarter",
+        "silver quarter",
+        "liberty pole quarter",
+        "eagle quarter",
+        "christian gobrecht",
+        "arrows at date"
+      ],
+      "common_names": [
+        "Seated Liberty Quarter",
+        "Liberty Seated Quarter",
+        "Seated Quarter"
+      ]
     },
     {
       "coin_id": "US-SLDI-1844-P",
@@ -239,7 +521,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on rock facing left, holding liberty pole with Phrygian cap, shield with 'LIBERTY' banner at side, stars around (if present), date below",
+      "reverse_description": "Wreath enclosing 'ONE DIME', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "90% silver composition (later issues) or 89.2% (early)",
+        "17.9mm diameter",
+        "Seated figure of Liberty",
+        "Liberty pole with freedom cap",
+        "Christian Gobrecht design"
+      ],
+      "identification_keywords": [
+        "seated liberty dime",
+        "liberty seated dime",
+        "seated dime",
+        "silver dime",
+        "liberty pole",
+        "phrygian cap",
+        "christian gobrecht",
+        "1840s dime",
+        "1850s dime"
+      ],
+      "common_names": [
+        "Seated Liberty Dime",
+        "Liberty Seated Dime",
+        "Seated Dime"
+      ]
     },
     {
       "coin_id": "US-CORL-1856-P",
@@ -257,7 +564,30 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head with coronet inscribed 'LIBERTY', date below, 13 stars around rim",
+      "reverse_description": "Wreath enclosing 'ONE CENT', 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "100% copper composition",
+        "27.5mm diameter",
+        "Matron Head design style",
+        "Liberty wearing coronet/headband",
+        "Final year before small cents"
+      ],
+      "identification_keywords": [
+        "coronet cent",
+        "matron head cent",
+        "large cent",
+        "1856 cent",
+        "copper cent",
+        "liberty coronet",
+        "pre-civil war cent"
+      ],
+      "common_names": [
+        "Coronet Large Cent",
+        "Matron Head Cent",
+        "1856 Large Cent"
+      ]
     },
     {
       "coin_id": "US-FECN-1857-P",
@@ -275,7 +605,31 @@
       "varieties": [],
       "source_citation": "U.S. Mint official records, PCGS CoinFacts",
       "notes": "First small cent design, 1856 were patterns only",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Eagle in flight facing left, 'UNITED STATES OF AMERICA' above, date below",
+      "reverse_description": "Agricultural wreath of wheat, corn, cotton, tobacco enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "88% copper, 12% nickel composition",
+        "19.05mm diameter (first small cent)",
+        "White/bright appearance from nickel",
+        "Striking problems with eagle's head and tail",
+        "Short-lived series (1857-1858)"
+      ],
+      "identification_keywords": [
+        "flying eagle cent",
+        "small cent",
+        "eagle cent",
+        "white cent",
+        "nickel cent",
+        "1857 cent",
+        "1858 cent",
+        "agricultural wreath"
+      ],
+      "common_names": [
+        "Flying Eagle Cent",
+        "Flying Eagle Penny",
+        "Eagle Cent"
+      ]
     },
     {
       "coin_id": "US-FECN-1858-P",
@@ -293,7 +647,31 @@
       "varieties": [],
       "source_citation": "U.S. Mint official records, PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Eagle in flight facing left, 'UNITED STATES OF AMERICA' above, date below",
+      "reverse_description": "Agricultural wreath of wheat, corn, cotton, tobacco enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "88% copper, 12% nickel composition",
+        "19.05mm diameter (first small cent)",
+        "White/bright appearance from nickel",
+        "Striking problems with eagle's head and tail",
+        "Short-lived series (1857-1858)"
+      ],
+      "identification_keywords": [
+        "flying eagle cent",
+        "small cent",
+        "eagle cent",
+        "white cent",
+        "nickel cent",
+        "1857 cent",
+        "1858 cent",
+        "agricultural wreath"
+      ],
+      "common_names": [
+        "Flying Eagle Cent",
+        "Flying Eagle Penny",
+        "Eagle Cent"
+      ]
     },
     {
       "coin_id": "US-INCH-1864-P",
@@ -324,7 +702,31 @@
       ],
       "source_citation": "Red Book",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-SHLD-1867-P",
@@ -348,7 +750,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "With Rays variety",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "20.5mm diameter",
+        "First U.S. nickel (5-cent) coin",
+        "Rays between stars (1866-1867) or no rays (1867-1883)",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "shield nickel",
+        "first nickel",
+        "union shield",
+        "rays nickel",
+        "no rays nickel",
+        "five cents",
+        "1860s nickel",
+        "1870s nickel",
+        "longacre nickel"
+      ],
+      "common_names": [
+        "Shield Nickel",
+        "First Nickel",
+        "Union Shield Nickel"
+      ]
     },
     {
       "coin_id": "US-INCH-1869-P",
@@ -380,7 +807,31 @@
       ],
       "source_citation": "Red Book",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-TRDO-1873-P",
@@ -398,7 +849,31 @@
       "varieties": [],
       "source_citation": "U.S. Mint official records, Stack's Bowers",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
+      "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+      "distinguishing_features": [
+        "90% silver composition at 420 grains",
+        "38.1mm diameter",
+        "Heavier than regular dollar for overseas trade",
+        "Eagle with weight specifications",
+        "William Barber design"
+      ],
+      "identification_keywords": [
+        "trade dollar",
+        "export dollar",
+        "420 grains",
+        "seated liberty trade",
+        "china trade dollar",
+        "silver trade dollar",
+        "william barber",
+        "overseas trade"
+      ],
+      "common_names": [
+        "Trade Dollar",
+        "Export Dollar",
+        "China Trade Dollar"
+      ]
     },
     {
       "coin_id": "US-TWCT-1875-P",
@@ -416,7 +891,31 @@
       "varieties": [],
       "source_citation": "Red Book 2024",
       "notes": "Designed by William Barber (obverse after Christian Gobrecht)",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on rock facing left, holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",
+      "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'TWENTY CENTS' below",
+      "distinguishing_features": [
+        "90% silver composition",
+        "22mm diameter",
+        "Short-lived denomination (1875-1878)",
+        "Similar to quarter but smaller",
+        "William Barber design after Gobrecht"
+      ],
+      "identification_keywords": [
+        "twenty cent piece",
+        "twenty cents",
+        "seated liberty twenty",
+        "short lived coin",
+        "silver twenty",
+        "william barber",
+        "1875 coin",
+        "confused with quarter"
+      ],
+      "common_names": [
+        "Twenty Cent Piece",
+        "Twenty Cents",
+        "Seated Twenty"
+      ]
     },
     {
       "coin_id": "US-INCH-1877-P",
@@ -441,7 +940,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Ultimate key date, extremely low mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-SHLD-1877-P",
@@ -465,7 +988,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Proof-only issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "20.5mm diameter",
+        "First U.S. nickel (5-cent) coin",
+        "Rays between stars (1866-1867) or no rays (1867-1883)",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "shield nickel",
+        "first nickel",
+        "union shield",
+        "rays nickel",
+        "no rays nickel",
+        "five cents",
+        "1860s nickel",
+        "1870s nickel",
+        "longacre nickel"
+      ],
+      "common_names": [
+        "Shield Nickel",
+        "First Nickel",
+        "Union Shield Nickel"
+      ]
     },
     {
       "coin_id": "US-SHLD-1878-P",
@@ -489,7 +1037,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Proof-only issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "20.5mm diameter",
+        "First U.S. nickel (5-cent) coin",
+        "Rays between stars (1866-1867) or no rays (1867-1883)",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "shield nickel",
+        "first nickel",
+        "union shield",
+        "rays nickel",
+        "no rays nickel",
+        "five cents",
+        "1860s nickel",
+        "1870s nickel",
+        "longacre nickel"
+      ],
+      "common_names": [
+        "Shield Nickel",
+        "First Nickel",
+        "Union Shield Nickel"
+      ]
     },
     {
       "coin_id": "US-TRDO-1878-CC",
@@ -507,7 +1080,31 @@
       "varieties": [],
       "source_citation": "U.S. Mint official records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
+      "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+      "distinguishing_features": [
+        "90% silver composition at 420 grains",
+        "38.1mm diameter",
+        "Heavier than regular dollar for overseas trade",
+        "Eagle with weight specifications",
+        "William Barber design"
+      ],
+      "identification_keywords": [
+        "trade dollar",
+        "export dollar",
+        "420 grains",
+        "seated liberty trade",
+        "china trade dollar",
+        "silver trade dollar",
+        "william barber",
+        "overseas trade"
+      ],
+      "common_names": [
+        "Trade Dollar",
+        "Export Dollar",
+        "China Trade Dollar"
+      ]
     },
     {
       "coin_id": "US-MORG-1879-CC",
@@ -531,7 +1128,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Important Carson City issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-SHLD-1880-P",
@@ -555,7 +1176,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest circulation mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "20.5mm diameter",
+        "First U.S. nickel (5-cent) coin",
+        "Rays between stars (1866-1867) or no rays (1867-1883)",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "shield nickel",
+        "first nickel",
+        "union shield",
+        "rays nickel",
+        "no rays nickel",
+        "five cents",
+        "1860s nickel",
+        "1870s nickel",
+        "longacre nickel"
+      ],
+      "common_names": [
+        "Shield Nickel",
+        "First Nickel",
+        "Union Shield Nickel"
+      ]
     },
     {
       "coin_id": "US-LHNI-1883-P",
@@ -586,7 +1232,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+      "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Large 'V' for value",
+        "Charles Barber design",
+        "1883 'No CENTS' variety exists"
+      ],
+      "identification_keywords": [
+        "liberty head nickel",
+        "v nickel",
+        "liberty nickel",
+        "barber nickel",
+        "five cents",
+        "roman numeral v",
+        "1883 no cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Liberty Head Nickel",
+        "V Nickel",
+        "Liberty Nickel"
+      ]
     },
     {
       "coin_id": "US-LHNI-1885-P",
@@ -610,7 +1280,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Primary key date",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+      "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Large 'V' for value",
+        "Charles Barber design",
+        "1883 'No CENTS' variety exists"
+      ],
+      "identification_keywords": [
+        "liberty head nickel",
+        "v nickel",
+        "liberty nickel",
+        "barber nickel",
+        "five cents",
+        "roman numeral v",
+        "1883 no cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Liberty Head Nickel",
+        "V Nickel",
+        "Liberty Nickel"
+      ]
     },
     {
       "coin_id": "US-INCH-1888-P",
@@ -642,7 +1336,31 @@
       ],
       "source_citation": "Red Book",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-MORG-1889-CC",
@@ -666,7 +1384,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second key date Carson City issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-BARQ-1892-P",
@@ -703,7 +1445,31 @@
       ],
       "source_citation": "Red Book",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+      "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Stars around obverse (unlike Barber dime)",
+        "Heraldic eagle on reverse",
+        "Larger than dime with different reverse design"
+      ],
+      "identification_keywords": [
+        "barber quarter",
+        "liberty head quarter",
+        "silver quarter",
+        "heraldic eagle",
+        "1890s quarter",
+        "1900s quarter",
+        "twenty five cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Quarter",
+        "Liberty Head Quarter",
+        "Barber Twenty-Five Cent"
+      ]
     },
     {
       "coin_id": "US-MORG-1893-S",
@@ -727,7 +1493,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Absolute key date",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-BARD-1894-S",
@@ -751,7 +1541,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-MORG-1894-P",
@@ -775,7 +1591,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Philadelphia key",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-BARD-1895-O",
@@ -799,7 +1639,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest regular mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-MORG-1895-O",
@@ -823,7 +1689,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-MORG-1895-P",
@@ -847,7 +1737,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Proofs only - No business strikes",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-MORG-1895-S",
@@ -871,7 +1785,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-BARD-1896-S",
@@ -895,7 +1833,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Scarce in high grades",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-BARQ-1896-S",
@@ -919,7 +1883,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Major key date",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+      "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Stars around obverse (unlike Barber dime)",
+        "Heraldic eagle on reverse",
+        "Larger than dime with different reverse design"
+      ],
+      "identification_keywords": [
+        "barber quarter",
+        "liberty head quarter",
+        "silver quarter",
+        "heraldic eagle",
+        "1890s quarter",
+        "1900s quarter",
+        "twenty five cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Quarter",
+        "Liberty Head Quarter",
+        "Barber Twenty-Five Cent"
+      ]
     },
     {
       "coin_id": "US-BARD-1901-S",
@@ -943,7 +1931,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-BARQ-1901-S",
@@ -967,7 +1981,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Rarest in circulated grades",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+      "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Stars around obverse (unlike Barber dime)",
+        "Heraldic eagle on reverse",
+        "Larger than dime with different reverse design"
+      ],
+      "identification_keywords": [
+        "barber quarter",
+        "liberty head quarter",
+        "silver quarter",
+        "heraldic eagle",
+        "1890s quarter",
+        "1900s quarter",
+        "twenty five cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Quarter",
+        "Liberty Head Quarter",
+        "Barber Twenty-Five Cent"
+      ]
     },
     {
       "coin_id": "US-BARD-1903-S",
@@ -991,7 +2029,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-MORG-1903-O",
@@ -1015,7 +2079,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Treasury Release coin",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+      "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "Anna Williams model for Liberty",
+        "Detailed eagle with spread wings",
+        "Heavy at 26.73 grams"
+      ],
+      "identification_keywords": [
+        "morgan dollar",
+        "silver dollar",
+        "liberty head dollar",
+        "eagle dollar",
+        "morgan silver dollar",
+        "george morgan",
+        "90% silver",
+        "large dollar"
+      ],
+      "common_names": [
+        "Morgan Dollar",
+        "Morgan Silver Dollar",
+        "Liberty Head Dollar"
+      ]
     },
     {
       "coin_id": "US-BARD-1904-S",
@@ -1039,7 +2127,33 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' inscribed on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Large wreath of wheat, corn, cotton, tobacco enclosing 'ONE DIME', no room for 'IN GOD WE TRUST' motto",
+      "distinguishing_features": [
+        "90% silver composition gives bright metallic appearance",
+        "17.9mm diameter (same as modern dime)",
+        "Liberty wearing cap and laurel wreath",
+        "Agricultural wreath on reverse",
+        "Mint mark below wreath on reverse"
+      ],
+      "identification_keywords": [
+        "barber dime",
+        "liberty head dime",
+        "silver dime",
+        "1890s dime",
+        "1900s dime",
+        "phrygian cap",
+        "laurel wreath",
+        "agricultural wreath",
+        "one dime",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Dime",
+        "Liberty Head Dime",
+        "Barber Ten Cent"
+      ]
     },
     {
       "coin_id": "US-INCH-1908-S",
@@ -1064,7 +2178,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Third lowest mintage, first San Francisco Indian cent",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-INCH-1909-S",
@@ -1089,7 +2227,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage of series, final year",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
+      "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+      "distinguishing_features": [
+        "Bronze composition (95% copper)",
+        "19.05mm diameter",
+        "Caucasian Liberty in Native headdress",
+        "Oak and laurel wreath with shield",
+        "James Longacre design"
+      ],
+      "identification_keywords": [
+        "indian head cent",
+        "indian penny",
+        "bronze cent",
+        "headdress cent",
+        "liberty headdress",
+        "oak wreath",
+        "shield cent",
+        "longacre cent"
+      ],
+      "common_names": [
+        "Indian Head Cent",
+        "Indian Head Penny",
+        "Indian Penny"
+      ]
     },
     {
       "coin_id": "US-LWCT-1909-S",
@@ -1121,7 +2283,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "Holy Grail of Lincoln cents",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-LHNI-1912-S",
@@ -1145,7 +2331,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest regular mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+      "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Large 'V' for value",
+        "Charles Barber design",
+        "1883 'No CENTS' variety exists"
+      ],
+      "identification_keywords": [
+        "liberty head nickel",
+        "v nickel",
+        "liberty nickel",
+        "barber nickel",
+        "five cents",
+        "roman numeral v",
+        "1883 no cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Liberty Head Nickel",
+        "V Nickel",
+        "Liberty Nickel"
+      ]
     },
     {
       "coin_id": "US-BUFF-1913-S",
@@ -1169,7 +2379,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Type 2, lowest regular mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+      "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Raised mound under buffalo (Type I) or flat ground (Type II)",
+        "Authentic Native American portrait",
+        "Date and denomination prone to wear"
+      ],
+      "identification_keywords": [
+        "buffalo nickel",
+        "indian head nickel",
+        "indian nickel",
+        "bison nickel",
+        "native american nickel",
+        "five cents",
+        "james earle fraser",
+        "copper nickel"
+      ],
+      "common_names": [
+        "Buffalo Nickel",
+        "Indian Head Nickel",
+        "Bison Nickel"
+      ]
     },
     {
       "coin_id": "US-LHNI-1913-P",
@@ -1193,7 +2427,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Clandestinely struck, worth millions",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+      "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Large 'V' for value",
+        "Charles Barber design",
+        "1883 'No CENTS' variety exists"
+      ],
+      "identification_keywords": [
+        "liberty head nickel",
+        "v nickel",
+        "liberty nickel",
+        "barber nickel",
+        "five cents",
+        "roman numeral v",
+        "1883 no cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Liberty Head Nickel",
+        "V Nickel",
+        "Liberty Nickel"
+      ]
     },
     {
       "coin_id": "US-BARQ-1913-S",
@@ -1217,7 +2475,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage in series",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+      "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Stars around obverse (unlike Barber dime)",
+        "Heraldic eagle on reverse",
+        "Larger than dime with different reverse design"
+      ],
+      "identification_keywords": [
+        "barber quarter",
+        "liberty head quarter",
+        "silver quarter",
+        "heraldic eagle",
+        "1890s quarter",
+        "1900s quarter",
+        "twenty five cents",
+        "charles barber"
+      ],
+      "common_names": [
+        "Barber Quarter",
+        "Liberty Head Quarter",
+        "Barber Twenty-Five Cent"
+      ]
     },
     {
       "coin_id": "US-LWCT-1914-D",
@@ -1242,7 +2524,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second most valuable regular issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-MERC-1916-D",
@@ -1266,7 +2572,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "King of Mercury dimes",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1916-P",
@@ -1290,7 +2620,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1916-S",
@@ -1314,7 +2668,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-BUFF-1916-P",
@@ -1345,7 +2723,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+      "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Raised mound under buffalo (Type I) or flat ground (Type II)",
+        "Authentic Native American portrait",
+        "Date and denomination prone to wear"
+      ],
+      "identification_keywords": [
+        "buffalo nickel",
+        "indian head nickel",
+        "indian nickel",
+        "bison nickel",
+        "native american nickel",
+        "five cents",
+        "james earle fraser",
+        "copper nickel"
+      ],
+      "common_names": [
+        "Buffalo Nickel",
+        "Indian Head Nickel",
+        "Bison Nickel"
+      ]
     },
     {
       "coin_id": "US-SLIQ-1916-P",
@@ -1376,7 +2778,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage 20th century coin",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Liberty standing (not seated)",
+        "Type I (bare breast) or Type II (covered)",
+        "Hermon MacNeil design"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
+      ]
     },
     {
       "coin_id": "US-SLIQ-1917-P",
@@ -1413,7 +2839,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Liberty standing (not seated)",
+        "Type I (bare breast) or Type II (covered)",
+        "Hermon MacNeil design"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
+      ]
     },
     {
       "coin_id": "US-BUFF-1918-D",
@@ -1444,7 +2894,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+      "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Raised mound under buffalo (Type I) or flat ground (Type II)",
+        "Authentic Native American portrait",
+        "Date and denomination prone to wear"
+      ],
+      "identification_keywords": [
+        "buffalo nickel",
+        "indian head nickel",
+        "indian nickel",
+        "bison nickel",
+        "native american nickel",
+        "five cents",
+        "james earle fraser",
+        "copper nickel"
+      ],
+      "common_names": [
+        "Buffalo Nickel",
+        "Indian Head Nickel",
+        "Bison Nickel"
+      ]
     },
     {
       "coin_id": "US-SLIQ-1918-S",
@@ -1475,7 +2949,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "~3,000 survivors of overdate",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Liberty standing (not seated)",
+        "Type I (bare breast) or Type II (covered)",
+        "Hermon MacNeil design"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
+      ]
     },
     {
       "coin_id": "US-MERC-1921-D",
@@ -1499,7 +2997,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second-lowest mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1921-P",
@@ -1523,7 +3045,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-PEAC-1921-P",
@@ -1554,7 +3100,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "High Relief - Most artistic",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+      "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "High-relief design (1921 only)",
+        "Teresa de Francisci model for Liberty",
+        "Word 'PEACE' on reverse rock"
+      ],
+      "identification_keywords": [
+        "peace dollar",
+        "silver dollar",
+        "liberty crown dollar",
+        "eagle rock dollar",
+        "peace silver dollar",
+        "anthony de francisci",
+        "1920s dollar",
+        "post-war dollar"
+      ],
+      "common_names": [
+        "Peace Dollar",
+        "Peace Silver Dollar",
+        "Liberty Crown Dollar"
+      ]
     },
     {
       "coin_id": "US-SLIQ-1921-P",
@@ -1578,7 +3148,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Post-WWI recession",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Liberty standing (not seated)",
+        "Type I (bare breast) or Type II (covered)",
+        "Hermon MacNeil design"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
+      ]
     },
     {
       "coin_id": "US-LWCT-1922-D",
@@ -1610,7 +3204,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-MERC-1926-S",
@@ -1634,7 +3252,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Notorious for weak strikes",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-BUFF-1926-S",
@@ -1658,7 +3300,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Absolute lowest mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+      "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Raised mound under buffalo (Type I) or flat ground (Type II)",
+        "Authentic Native American portrait",
+        "Date and denomination prone to wear"
+      ],
+      "identification_keywords": [
+        "buffalo nickel",
+        "indian head nickel",
+        "indian nickel",
+        "bison nickel",
+        "native american nickel",
+        "five cents",
+        "james earle fraser",
+        "copper nickel"
+      ],
+      "common_names": [
+        "Buffalo Nickel",
+        "Indian Head Nickel",
+        "Bison Nickel"
+      ]
     },
     {
       "coin_id": "US-PEAC-1927-D",
@@ -1682,7 +3348,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Scarce despite higher mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+      "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "High-relief design (1921 only)",
+        "Teresa de Francisci model for Liberty",
+        "Word 'PEACE' on reverse rock"
+      ],
+      "identification_keywords": [
+        "peace dollar",
+        "silver dollar",
+        "liberty crown dollar",
+        "eagle rock dollar",
+        "peace silver dollar",
+        "anthony de francisci",
+        "1920s dollar",
+        "post-war dollar"
+      ],
+      "common_names": [
+        "Peace Dollar",
+        "Peace Silver Dollar",
+        "Liberty Crown Dollar"
+      ]
     },
     {
       "coin_id": "US-SLIQ-1927-S",
@@ -1706,7 +3396,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second lowest mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "distinguishing_features": [
+        "90% silver composition",
+        "24.3mm diameter",
+        "Liberty standing (not seated)",
+        "Type I (bare breast) or Type II (covered)",
+        "Hermon MacNeil design"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
+      ]
     },
     {
       "coin_id": "US-PEAC-1928-P",
@@ -1730,7 +3444,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Undisputed key date",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+      "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "High-relief design (1921 only)",
+        "Teresa de Francisci model for Liberty",
+        "Word 'PEACE' on reverse rock"
+      ],
+      "identification_keywords": [
+        "peace dollar",
+        "silver dollar",
+        "liberty crown dollar",
+        "eagle rock dollar",
+        "peace silver dollar",
+        "anthony de francisci",
+        "1920s dollar",
+        "post-war dollar"
+      ],
+      "common_names": [
+        "Peace Dollar",
+        "Peace Silver Dollar",
+        "Liberty Crown Dollar"
+      ]
     },
     {
       "coin_id": "US-LWCT-1931-S",
@@ -1755,7 +3493,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Great Depression era rarity",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-MERC-1931-D",
@@ -1779,7 +3541,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1931-S",
@@ -1803,7 +3589,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-WASH-1932-D",
@@ -1827,7 +3637,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Rarest Washington quarter",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ]
     },
     {
       "coin_id": "US-WASH-1932-S",
@@ -1851,7 +3685,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second rarest",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ]
     },
     {
       "coin_id": "US-PEAC-1934-S",
@@ -1875,7 +3733,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Second key date",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+      "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+      "distinguishing_features": [
+        "90% silver composition",
+        "38.1mm diameter",
+        "High-relief design (1921 only)",
+        "Teresa de Francisci model for Liberty",
+        "Word 'PEACE' on reverse rock"
+      ],
+      "identification_keywords": [
+        "peace dollar",
+        "silver dollar",
+        "liberty crown dollar",
+        "eagle rock dollar",
+        "peace silver dollar",
+        "anthony de francisci",
+        "1920s dollar",
+        "post-war dollar"
+      ],
+      "common_names": [
+        "Peace Dollar",
+        "Peace Silver Dollar",
+        "Liberty Crown Dollar"
+      ]
     },
     {
       "coin_id": "US-BUFF-1937-D",
@@ -1906,7 +3788,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+      "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Raised mound under buffalo (Type I) or flat ground (Type II)",
+        "Authentic Native American portrait",
+        "Date and denomination prone to wear"
+      ],
+      "identification_keywords": [
+        "buffalo nickel",
+        "indian head nickel",
+        "indian nickel",
+        "bison nickel",
+        "native american nickel",
+        "five cents",
+        "james earle fraser",
+        "copper nickel"
+      ],
+      "common_names": [
+        "Buffalo Nickel",
+        "Indian Head Nickel",
+        "Bison Nickel"
+      ]
     },
     {
       "coin_id": "US-MERC-1942-D",
@@ -1937,7 +3843,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1942-P",
@@ -1968,7 +3898,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-LWCT-1943-P",
@@ -1999,7 +3953,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "Bronze variety values $300,000-$2,000,000",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-LWCT-1944-P",
@@ -2030,7 +4008,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-MERC-1945-D",
@@ -2054,7 +4056,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1945-P",
@@ -2078,7 +4104,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "Final year of Mercury dime",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-MERC-1945-S",
@@ -2109,7 +4159,31 @@
       ],
       "source_citation": "Red Book",
       "notes": "Final year micro S variety exists",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "distinguishing_features": [
+        "90% silver composition",
+        "17.9mm diameter",
+        "Winged cap symbolizes freedom of thought",
+        "Fasces represents strength and unity",
+        "Adolph Weinman design"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ]
     },
     {
       "coin_id": "US-ROOS-1946-D",
@@ -2133,7 +4207,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1946-P",
@@ -2157,7 +4256,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "First year Roosevelt dime",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1946-S",
@@ -2181,7 +4305,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1949-S",
@@ -2205,7 +4354,32 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest silver mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-JEFF-1950-D",
@@ -2229,7 +4403,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage Jefferson nickel",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
+      "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Architectural detail of Monticello",
+        "Felix Schlag design",
+        "Steps on Monticello important for grading"
+      ],
+      "identification_keywords": [
+        "jefferson nickel",
+        "monticello nickel",
+        "thomas jefferson nickel",
+        "five cents",
+        "nickel",
+        "monticello",
+        "presidential nickel",
+        "felix schlag"
+      ],
+      "common_names": [
+        "Jefferson Nickel",
+        "Monticello Nickel",
+        "Jefferson Five Cent"
+      ]
     },
     {
       "coin_id": "US-LWCT-1955-P",
@@ -2260,7 +4458,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
+      ]
     },
     {
       "coin_id": "US-ROOS-1964-D",
@@ -2284,7 +4506,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "Last silver dime, highest mintage dime ever",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1964-P",
@@ -2308,7 +4555,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "Final year of silver Roosevelt dime",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1965-P",
@@ -2332,7 +4604,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "First clad dime",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1968-S",
@@ -2363,7 +4660,32 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "Values over $45,000",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-LMCT-1969-S",
@@ -2394,7 +4716,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "$126,500 record sale in 2005",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+      "distinguishing_features": [
+        "95% copper (1959-1982) then zinc core with copper plating",
+        "19.05mm diameter",
+        "Memorial building with visible columns",
+        "Frank Gasparro reverse design",
+        "Tiny Lincoln statue visible inside memorial"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "memorial penny",
+        "lincoln cent",
+        "memorial cent",
+        "lincoln penny",
+        "copper cent",
+        "zinc cent",
+        "frank gasparro"
+      ],
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Memorial Penny",
+        "Lincoln Cent"
+      ]
     },
     {
       "coin_id": "US-JEFF-1971-S",
@@ -2425,7 +4771,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
+      "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
+      "distinguishing_features": [
+        "75% copper, 25% nickel composition",
+        "21.2mm diameter",
+        "Architectural detail of Monticello",
+        "Felix Schlag design",
+        "Steps on Monticello important for grading"
+      ],
+      "identification_keywords": [
+        "jefferson nickel",
+        "monticello nickel",
+        "thomas jefferson nickel",
+        "five cents",
+        "nickel",
+        "monticello",
+        "presidential nickel",
+        "felix schlag"
+      ],
+      "common_names": [
+        "Jefferson Nickel",
+        "Monticello Nickel",
+        "Jefferson Five Cent"
+      ]
     },
     {
       "coin_id": "US-LMCT-1972-P",
@@ -2456,7 +4826,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+      "distinguishing_features": [
+        "95% copper (1959-1982) then zinc core with copper plating",
+        "19.05mm diameter",
+        "Memorial building with visible columns",
+        "Frank Gasparro reverse design",
+        "Tiny Lincoln statue visible inside memorial"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "memorial penny",
+        "lincoln cent",
+        "memorial cent",
+        "lincoln penny",
+        "copper cent",
+        "zinc cent",
+        "frank gasparro"
+      ],
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Memorial Penny",
+        "Lincoln Cent"
+      ]
     },
     {
       "coin_id": "US-EISE-1973-D",
@@ -2480,7 +4874,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition (most dates)",
+        "38.1mm diameter (large)",
+        "Space theme design",
+        "Heavy weight at 22.68 grams",
+        "Commemorates moon landing"
+      ],
+      "identification_keywords": [
+        "eisenhower dollar",
+        "ike dollar",
+        "moon dollar",
+        "large dollar",
+        "eagle moon dollar",
+        "apollo dollar",
+        "clad dollar",
+        "1970s dollar"
+      ],
+      "common_names": [
+        "Eisenhower Dollar",
+        "Ike Dollar",
+        "Moon Dollar"
+      ]
     },
     {
       "coin_id": "US-EISE-1973-P",
@@ -2504,7 +4922,31 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Lowest mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition (most dates)",
+        "38.1mm diameter (large)",
+        "Space theme design",
+        "Heavy weight at 22.68 grams",
+        "Commemorates moon landing"
+      ],
+      "identification_keywords": [
+        "eisenhower dollar",
+        "ike dollar",
+        "moon dollar",
+        "large dollar",
+        "eagle moon dollar",
+        "apollo dollar",
+        "clad dollar",
+        "1970s dollar"
+      ],
+      "common_names": [
+        "Eisenhower Dollar",
+        "Ike Dollar",
+        "Moon Dollar"
+      ]
     },
     {
       "coin_id": "US-ROOS-1975-S",
@@ -2535,7 +4977,32 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": "$456,000 record sale",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-EISE-1976-P",
@@ -2572,7 +5039,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition (most dates)",
+        "38.1mm diameter (large)",
+        "Space theme design",
+        "Heavy weight at 22.68 grams",
+        "Commemorates moon landing"
+      ],
+      "identification_keywords": [
+        "eisenhower dollar",
+        "ike dollar",
+        "moon dollar",
+        "large dollar",
+        "eagle moon dollar",
+        "apollo dollar",
+        "clad dollar",
+        "1970s dollar"
+      ],
+      "common_names": [
+        "Eisenhower Dollar",
+        "Ike Dollar",
+        "Moon Dollar"
+      ]
     },
     {
       "coin_id": "US-SANT-1979-P",
@@ -2603,7 +5094,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+      "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition",
+        "26.5mm diameter (similar to quarter)",
+        "11-sided polygonal inner border",
+        "First non-allegorical woman on circulating coin",
+        "Often confused with quarter due to size"
+      ],
+      "identification_keywords": [
+        "susan b anthony dollar",
+        "sba dollar",
+        "anthony dollar",
+        "small dollar",
+        "women's rights dollar",
+        "suffrage dollar",
+        "eagle moon dollar",
+        "confused with quarter"
+      ],
+      "common_names": [
+        "Susan B. Anthony Dollar",
+        "SBA Dollar",
+        "Anthony Dollar"
+      ]
     },
     {
       "coin_id": "US-SANT-1979-S",
@@ -2634,7 +5149,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+      "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition",
+        "26.5mm diameter (similar to quarter)",
+        "11-sided polygonal inner border",
+        "First non-allegorical woman on circulating coin",
+        "Often confused with quarter due to size"
+      ],
+      "identification_keywords": [
+        "susan b anthony dollar",
+        "sba dollar",
+        "anthony dollar",
+        "small dollar",
+        "women's rights dollar",
+        "suffrage dollar",
+        "eagle moon dollar",
+        "confused with quarter"
+      ],
+      "common_names": [
+        "Susan B. Anthony Dollar",
+        "SBA Dollar",
+        "Anthony Dollar"
+      ]
     },
     {
       "coin_id": "US-LMCT-1983-P",
@@ -2665,7 +5204,31 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around",
+      "distinguishing_features": [
+        "95% copper (1959-1982) then zinc core with copper plating",
+        "19.05mm diameter",
+        "Memorial building with visible columns",
+        "Frank Gasparro reverse design",
+        "Tiny Lincoln statue visible inside memorial"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "memorial penny",
+        "lincoln cent",
+        "memorial cent",
+        "lincoln penny",
+        "copper cent",
+        "zinc cent",
+        "frank gasparro"
+      ],
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Memorial Penny",
+        "Lincoln Cent"
+      ]
     },
     {
       "coin_id": "US-ROOS-1996-W",
@@ -2689,7 +5252,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "50th anniversary issue",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-SANT-1999-P",
@@ -2713,7 +5301,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "Stopgap before Sacagawea",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+      "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+      "distinguishing_features": [
+        "Copper-nickel clad composition",
+        "26.5mm diameter (similar to quarter)",
+        "11-sided polygonal inner border",
+        "First non-allegorical woman on circulating coin",
+        "Often confused with quarter due to size"
+      ],
+      "identification_keywords": [
+        "susan b anthony dollar",
+        "sba dollar",
+        "anthony dollar",
+        "small dollar",
+        "women's rights dollar",
+        "suffrage dollar",
+        "eagle moon dollar",
+        "confused with quarter"
+      ],
+      "common_names": [
+        "Susan B. Anthony Dollar",
+        "SBA Dollar",
+        "Anthony Dollar"
+      ]
     },
     {
       "coin_id": "US-WASH-1999-P",
@@ -2744,7 +5356,31 @@
       ],
       "source_citation": "US Mint records",
       "notes": "State Quarters program begins - Delaware",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ]
     },
     {
       "coin_id": "US-SACA-2000-D",
@@ -2770,7 +5406,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, designed by Thomas Cleveland",
+      "distinguishing_features": [
+        "Manganese brass composition (golden color)",
+        "26.5mm diameter",
+        "Smooth edge with lettering",
+        "Native American guide theme",
+        "Golden appearance"
+      ],
+      "identification_keywords": [
+        "sacagawea dollar",
+        "golden dollar",
+        "native american dollar",
+        "lewis clark dollar",
+        "brass dollar",
+        "guide dollar",
+        "golden colored",
+        "smooth edge"
+      ],
+      "common_names": [
+        "Sacagawea Dollar",
+        "Golden Dollar",
+        "Native American Dollar"
+      ]
     },
     {
       "coin_id": "US-SACA-2000-P",
@@ -2809,7 +5469,31 @@
       ],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, designed by Thomas Cleveland",
+      "distinguishing_features": [
+        "Manganese brass composition (golden color)",
+        "26.5mm diameter",
+        "Smooth edge with lettering",
+        "Native American guide theme",
+        "Golden appearance"
+      ],
+      "identification_keywords": [
+        "sacagawea dollar",
+        "golden dollar",
+        "native american dollar",
+        "lewis clark dollar",
+        "brass dollar",
+        "guide dollar",
+        "golden colored",
+        "smooth edge"
+      ],
+      "common_names": [
+        "Sacagawea Dollar",
+        "Golden Dollar",
+        "Native American Dollar"
+      ]
     },
     {
       "coin_id": "US-LBCT-2009-D",
@@ -2840,7 +5524,31 @@
       ],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Four different designs depicting Lincoln's life stages - birth/childhood, formative years, professional life, presidency",
+      "distinguishing_features": [
+        "Zinc core with copper plating",
+        "19.05mm diameter",
+        "Four different reverse designs in 2009",
+        "Commemorates Lincoln's 200th birthday",
+        "One-year special issue"
+      ],
+      "identification_keywords": [
+        "lincoln bicentennial cent",
+        "2009 cent",
+        "lincoln birth cent",
+        "bicentennial penny",
+        "four designs",
+        "lincoln life",
+        "200th anniversary",
+        "log cabin cent"
+      ],
+      "common_names": [
+        "Lincoln Bicentennial Cent",
+        "2009 Lincoln Cent",
+        "Bicentennial Penny"
+      ]
     },
     {
       "coin_id": "US-LBCT-2009-P",
@@ -2871,7 +5579,31 @@
       ],
       "source_citation": "US Mint records",
       "notes": null,
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Four different designs depicting Lincoln's life stages - birth/childhood, formative years, professional life, presidency",
+      "distinguishing_features": [
+        "Zinc core with copper plating",
+        "19.05mm diameter",
+        "Four different reverse designs in 2009",
+        "Commemorates Lincoln's 200th birthday",
+        "One-year special issue"
+      ],
+      "identification_keywords": [
+        "lincoln bicentennial cent",
+        "2009 cent",
+        "lincoln birth cent",
+        "bicentennial penny",
+        "four designs",
+        "lincoln life",
+        "200th anniversary",
+        "log cabin cent"
+      ],
+      "common_names": [
+        "Lincoln Bicentennial Cent",
+        "2009 Lincoln Cent",
+        "Bicentennial Penny"
+      ]
     },
     {
       "coin_id": "US-ROOS-2009-D",
@@ -2895,7 +5627,32 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "Lowest clad mintage",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Franklin D. Roosevelt profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
+      "distinguishing_features": [
+        "90% silver (1946-1964) then copper-nickel clad",
+        "17.9mm diameter",
+        "Torch represents liberty",
+        "Olive and oak branches flank torch",
+        "John Sinnock design"
+      ],
+      "identification_keywords": [
+        "roosevelt dime",
+        "fdr dime",
+        "torch dime",
+        "silver dime",
+        "clad dime",
+        "roosevelt ten cents",
+        "john sinnock",
+        "torch liberty",
+        "march of dimes"
+      ],
+      "common_names": [
+        "Roosevelt Dime",
+        "FDR Dime",
+        "Roosevelt Ten Cent"
+      ]
     },
     {
       "coin_id": "US-LSCT-2017-P",
@@ -2919,7 +5676,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "First P mintmark on cents since wartime",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
+      "distinguishing_features": [
+        "Zinc core with copper plating",
+        "19.05mm diameter",
+        "Shield represents Lincoln's preservation of Union",
+        "Lyndall Bass reverse design",
+        "Current design since 2010"
+      ],
+      "identification_keywords": [
+        "lincoln shield cent",
+        "shield penny",
+        "union shield cent",
+        "lincoln cent",
+        "modern penny",
+        "copper plated zinc",
+        "lyndall bass",
+        "current penny"
+      ],
+      "common_names": [
+        "Lincoln Shield Cent",
+        "Shield Penny",
+        "Union Shield Cent"
+      ]
     },
     {
       "coin_id": "US-LSCT-2019-W",
@@ -2943,7 +5724,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "First W mintmark on cents",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
+      "distinguishing_features": [
+        "Zinc core with copper plating",
+        "19.05mm diameter",
+        "Shield represents Lincoln's preservation of Union",
+        "Lyndall Bass reverse design",
+        "Current design since 2010"
+      ],
+      "identification_keywords": [
+        "lincoln shield cent",
+        "shield penny",
+        "union shield cent",
+        "lincoln cent",
+        "modern penny",
+        "copper plated zinc",
+        "lyndall bass",
+        "current penny"
+      ],
+      "common_names": [
+        "Lincoln Shield Cent",
+        "Shield Penny",
+        "Union Shield Cent"
+      ]
     },
     {
       "coin_id": "US-WASH-2019-W",
@@ -2967,7 +5772,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "First W mint quarters - various designs, 2 million each",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ]
     },
     {
       "coin_id": "US-WASH-2020-W",
@@ -2991,7 +5820,31 @@
       "varieties": [],
       "source_citation": "US Mint records",
       "notes": "W mint quarters continue - various designs, 2 million each",
-      "country": "US"
+      "country": "US",
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ]
     }
   ]
 }

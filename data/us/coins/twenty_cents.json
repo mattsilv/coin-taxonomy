@@ -35,6 +35,30 @@
           "rarity": "scarce",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty seated on rock facing left, holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",
+          "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'TWENTY CENTS' below",
+          "distinguishing_features": [
+            "90% silver composition",
+            "22mm diameter",
+            "Short-lived denomination (1875-1878)",
+            "Similar to quarter but smaller",
+            "William Barber design after Gobrecht"
+          ],
+          "identification_keywords": [
+            "twenty cent piece",
+            "twenty cents",
+            "seated liberty twenty",
+            "short lived coin",
+            "silver twenty",
+            "william barber",
+            "1875 coin",
+            "confused with quarter"
+          ],
+          "common_names": [
+            "Twenty Cent Piece",
+            "Twenty Cents",
+            "Seated Twenty"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "Red Book 2024",
           "notes": "Designed by William Barber (obverse after Christian Gobrecht)"

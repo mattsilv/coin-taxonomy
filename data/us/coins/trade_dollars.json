@@ -35,6 +35,30 @@
           "rarity": "scarce",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
+          "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+          "distinguishing_features": [
+            "90% silver composition at 420 grains",
+            "38.1mm diameter",
+            "Heavier than regular dollar for overseas trade",
+            "Eagle with weight specifications",
+            "William Barber design"
+          ],
+          "identification_keywords": [
+            "trade dollar",
+            "export dollar",
+            "420 grains",
+            "seated liberty trade",
+            "china trade dollar",
+            "silver trade dollar",
+            "william barber",
+            "overseas trade"
+          ],
+          "common_names": [
+            "Trade Dollar",
+            "Export Dollar",
+            "China Trade Dollar"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint official records, Stack's Bowers"
         },
@@ -47,6 +71,30 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
+          "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+          "distinguishing_features": [
+            "90% silver composition at 420 grains",
+            "38.1mm diameter",
+            "Heavier than regular dollar for overseas trade",
+            "Eagle with weight specifications",
+            "William Barber design"
+          ],
+          "identification_keywords": [
+            "trade dollar",
+            "export dollar",
+            "420 grains",
+            "seated liberty trade",
+            "china trade dollar",
+            "silver trade dollar",
+            "william barber",
+            "overseas trade"
+          ],
+          "common_names": [
+            "Trade Dollar",
+            "Export Dollar",
+            "China Trade Dollar"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint official records"
         }

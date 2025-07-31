@@ -35,6 +35,30 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, 15 stars around rim, date below",
+          "reverse_description": "Small eagle perched on rock within wreath, 'UNITED STATES OF AMERICA' around rim",
+          "distinguishing_features": [
+            "89.2% silver composition",
+            "39-40mm diameter (large)",
+            "First silver dollar",
+            "Flowing hair design",
+            "Small eagle reverse"
+          ],
+          "identification_keywords": [
+            "flowing hair dollar",
+            "1794 dollar",
+            "first silver dollar",
+            "large silver dollar",
+            "flowing hair",
+            "small eagle",
+            "early dollar",
+            "silver dollar"
+          ],
+          "common_names": [
+            "Flowing Hair Dollar",
+            "1794 Silver Dollar",
+            "First Silver Dollar"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "PCGS CoinFacts"
         }
@@ -72,6 +96,30 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
+          "reverse_description": "Eagle flying left among stars, 'UNITED STATES OF AMERICA' and 'ONE DOLLAR' around rim",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Transitional pattern design",
+            "Flying eagle reverse",
+            "Christian Gobrecht designer"
+          ],
+          "identification_keywords": [
+            "gobrecht dollar",
+            "seated liberty dollar",
+            "flying eagle dollar",
+            "pattern dollar",
+            "1836 dollar",
+            "silver dollar",
+            "christian gobrecht",
+            "transitional dollar"
+          ],
+          "common_names": [
+            "Gobrecht Dollar",
+            "Seated Liberty Dollar",
+            "1836 Pattern Dollar"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint records, PCGS CoinFacts"
         },
@@ -84,6 +132,29 @@
           "rarity": "key",
           "composition": {},
           "varieties": [],
+          "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
+          "reverse_description": "Eagle flying left among stars, 'UNITED STATES OF AMERICA' and 'ONE DOLLAR' around rim",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Limited business strike production",
+            "Flying eagle reverse",
+            "Gobrecht signature varieties"
+          ],
+          "identification_keywords": [
+            "gobrecht dollar",
+            "seated liberty dollar",
+            "flying eagle dollar",
+            "1838 dollar",
+            "silver dollar",
+            "christian gobrecht",
+            "business strike"
+          ],
+          "common_names": [
+            "Gobrecht Dollar",
+            "1838 Seated Liberty Dollar",
+            "Gobrecht Pattern Dollar"
+          ],
           "diameter_mm": 23.5,
           "source_citation": "U.S. Mint records, PCGS CoinFacts"
         }
@@ -133,6 +204,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -153,6 +248,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -173,6 +292,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -193,6 +336,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -213,6 +380,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts"
@@ -232,6 +423,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -252,6 +467,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts"
@@ -271,6 +510,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
+          "reverse_description": "Heraldic eagle with outstretched wings clutching arrows and olive branch, 'UNITED STATES OF AMERICA' around top, 'ONE DOLLAR' below, mint mark above DO in DOLLAR",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "Anna Williams model for Liberty",
+            "Detailed eagle with spread wings",
+            "Heavy at 26.73 grams"
+          ],
+          "identification_keywords": [
+            "morgan dollar",
+            "silver dollar",
+            "liberty head dollar",
+            "eagle dollar",
+            "morgan silver dollar",
+            "george morgan",
+            "90% silver",
+            "large dollar"
+          ],
+          "common_names": [
+            "Morgan Dollar",
+            "Morgan Silver Dollar",
+            "Liberty Head Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -329,6 +592,30 @@
               "estimated_mintage": 1006473
             }
           ],
+          "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+          "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "High-relief design (1921 only)",
+            "Teresa de Francisci model for Liberty",
+            "Word 'PEACE' on reverse rock"
+          ],
+          "identification_keywords": [
+            "peace dollar",
+            "silver dollar",
+            "liberty crown dollar",
+            "eagle rock dollar",
+            "peace silver dollar",
+            "anthony de francisci",
+            "1920s dollar",
+            "post-war dollar"
+          ],
+          "common_names": [
+            "Peace Dollar",
+            "Peace Silver Dollar",
+            "Liberty Crown Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -349,6 +636,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+          "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "High-relief design (1921 only)",
+            "Teresa de Francisci model for Liberty",
+            "Word 'PEACE' on reverse rock"
+          ],
+          "identification_keywords": [
+            "peace dollar",
+            "silver dollar",
+            "liberty crown dollar",
+            "eagle rock dollar",
+            "peace silver dollar",
+            "anthony de francisci",
+            "1920s dollar",
+            "post-war dollar"
+          ],
+          "common_names": [
+            "Peace Dollar",
+            "Peace Silver Dollar",
+            "Liberty Crown Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -369,6 +680,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+          "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "High-relief design (1921 only)",
+            "Teresa de Francisci model for Liberty",
+            "Word 'PEACE' on reverse rock"
+          ],
+          "identification_keywords": [
+            "peace dollar",
+            "silver dollar",
+            "liberty crown dollar",
+            "eagle rock dollar",
+            "peace silver dollar",
+            "anthony de francisci",
+            "1920s dollar",
+            "post-war dollar"
+          ],
+          "common_names": [
+            "Peace Dollar",
+            "Peace Silver Dollar",
+            "Liberty Crown Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -389,6 +724,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
+          "reverse_description": "Eagle perched on rock facing right, clutching olive branch, rays of sunlight from lower right, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'PEACE' on rock",
+          "distinguishing_features": [
+            "90% silver composition",
+            "38.1mm diameter",
+            "High-relief design (1921 only)",
+            "Teresa de Francisci model for Liberty",
+            "Word 'PEACE' on reverse rock"
+          ],
+          "identification_keywords": [
+            "peace dollar",
+            "silver dollar",
+            "liberty crown dollar",
+            "eagle rock dollar",
+            "peace silver dollar",
+            "anthony de francisci",
+            "1920s dollar",
+            "post-war dollar"
+          ],
+          "common_names": [
+            "Peace Dollar",
+            "Peace Silver Dollar",
+            "Liberty Crown Dollar"
+          ],
           "weight_grams": 26.73,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -440,6 +799,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition (most dates)",
+            "38.1mm diameter (large)",
+            "Space theme design",
+            "Heavy weight at 22.68 grams",
+            "Commemorates moon landing"
+          ],
+          "identification_keywords": [
+            "eisenhower dollar",
+            "ike dollar",
+            "moon dollar",
+            "large dollar",
+            "eagle moon dollar",
+            "apollo dollar",
+            "clad dollar",
+            "1970s dollar"
+          ],
+          "common_names": [
+            "Eisenhower Dollar",
+            "Ike Dollar",
+            "Moon Dollar"
+          ],
           "weight_grams": 22.68,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -460,6 +843,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition (most dates)",
+            "38.1mm diameter (large)",
+            "Space theme design",
+            "Heavy weight at 22.68 grams",
+            "Commemorates moon landing"
+          ],
+          "identification_keywords": [
+            "eisenhower dollar",
+            "ike dollar",
+            "moon dollar",
+            "large dollar",
+            "eagle moon dollar",
+            "apollo dollar",
+            "clad dollar",
+            "1970s dollar"
+          ],
+          "common_names": [
+            "Eisenhower Dollar",
+            "Ike Dollar",
+            "Moon Dollar"
+          ],
           "weight_grams": 22.68,
           "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
@@ -492,6 +899,30 @@
               "description": "Bicentennial design Type 2",
               "estimated_mintage": null
             }
+          ],
+          "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "reverse_description": "Eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adaptation of Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition (most dates)",
+            "38.1mm diameter (large)",
+            "Space theme design",
+            "Heavy weight at 22.68 grams",
+            "Commemorates moon landing"
+          ],
+          "identification_keywords": [
+            "eisenhower dollar",
+            "ike dollar",
+            "moon dollar",
+            "large dollar",
+            "eagle moon dollar",
+            "apollo dollar",
+            "clad dollar",
+            "1970s dollar"
+          ],
+          "common_names": [
+            "Eisenhower Dollar",
+            "Ike Dollar",
+            "Moon Dollar"
           ],
           "weight_grams": 22.68,
           "diameter_mm": 38.1,
@@ -550,6 +981,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+          "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition",
+            "26.5mm diameter (similar to quarter)",
+            "11-sided polygonal inner border",
+            "First non-allegorical woman on circulating coin",
+            "Often confused with quarter due to size"
+          ],
+          "identification_keywords": [
+            "susan b anthony dollar",
+            "sba dollar",
+            "anthony dollar",
+            "small dollar",
+            "women's rights dollar",
+            "suffrage dollar",
+            "eagle moon dollar",
+            "confused with quarter"
+          ],
+          "common_names": [
+            "Susan B. Anthony Dollar",
+            "SBA Dollar",
+            "Anthony Dollar"
+          ],
           "weight_grams": 8.1,
           "diameter_mm": 26.5,
           "source_citation": "PCGS CoinFacts"
@@ -576,6 +1031,30 @@
               "estimated_mintage": null
             }
           ],
+          "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+          "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition",
+            "26.5mm diameter (similar to quarter)",
+            "11-sided polygonal inner border",
+            "First non-allegorical woman on circulating coin",
+            "Often confused with quarter due to size"
+          ],
+          "identification_keywords": [
+            "susan b anthony dollar",
+            "sba dollar",
+            "anthony dollar",
+            "small dollar",
+            "women's rights dollar",
+            "suffrage dollar",
+            "eagle moon dollar",
+            "confused with quarter"
+          ],
+          "common_names": [
+            "Susan B. Anthony Dollar",
+            "SBA Dollar",
+            "Anthony Dollar"
+          ],
           "weight_grams": 8.1,
           "diameter_mm": 26.5,
           "source_citation": "PCGS CoinFacts"
@@ -595,6 +1074,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
+          "reverse_description": "Eagle landing on moon surface with Earth above, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, adapted from Apollo 11 insignia",
+          "distinguishing_features": [
+            "Copper-nickel clad composition",
+            "26.5mm diameter (similar to quarter)",
+            "11-sided polygonal inner border",
+            "First non-allegorical woman on circulating coin",
+            "Often confused with quarter due to size"
+          ],
+          "identification_keywords": [
+            "susan b anthony dollar",
+            "sba dollar",
+            "anthony dollar",
+            "small dollar",
+            "women's rights dollar",
+            "suffrage dollar",
+            "eagle moon dollar",
+            "confused with quarter"
+          ],
+          "common_names": [
+            "Susan B. Anthony Dollar",
+            "SBA Dollar",
+            "Anthony Dollar"
+          ],
           "weight_grams": 8.1,
           "diameter_mm": 26.5,
           "source_citation": "US Mint records",
@@ -650,6 +1153,30 @@
             }
           },
           "varieties": [],
+          "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, designed by Thomas Cleveland",
+          "distinguishing_features": [
+            "Manganese brass composition (golden color)",
+            "26.5mm diameter",
+            "Smooth edge with lettering",
+            "Native American guide theme",
+            "Golden appearance"
+          ],
+          "identification_keywords": [
+            "sacagawea dollar",
+            "golden dollar",
+            "native american dollar",
+            "lewis clark dollar",
+            "brass dollar",
+            "guide dollar",
+            "golden colored",
+            "smooth edge"
+          ],
+          "common_names": [
+            "Sacagawea Dollar",
+            "Golden Dollar",
+            "Native American Dollar"
+          ],
           "weight_grams": 8.1,
           "diameter_mm": 26.5,
           "source_citation": "US Mint records"
@@ -683,6 +1210,30 @@
               "description": "5,000 special pieces",
               "estimated_mintage": 5000
             }
+          ],
+          "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, designed by Thomas Cleveland",
+          "distinguishing_features": [
+            "Manganese brass composition (golden color)",
+            "26.5mm diameter",
+            "Smooth edge with lettering",
+            "Native American guide theme",
+            "Golden appearance"
+          ],
+          "identification_keywords": [
+            "sacagawea dollar",
+            "golden dollar",
+            "native american dollar",
+            "lewis clark dollar",
+            "brass dollar",
+            "guide dollar",
+            "golden colored",
+            "smooth edge"
+          ],
+          "common_names": [
+            "Sacagawea Dollar",
+            "Golden Dollar",
+            "Native American Dollar"
           ],
           "weight_grams": 8.1,
           "diameter_mm": 26.5,
