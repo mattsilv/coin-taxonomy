@@ -150,25 +150,13 @@ class AITaxonomyExporter:
             
             coins.append(coin)
         
-        # Create AI-optimized taxonomy structure
+        # Create AI-optimized taxonomy structure with embedded metadata
         taxonomy = {
             "format": "ai-taxonomy-v1",
             "country": "US",
             "generated": datetime.now(timezone.utc).isoformat(),
             "total_coins": len(coins),
-            "coins": coins
-        }
-        
-        # Write main taxonomy file
-        output_file = self.output_dir / "us_taxonomy.json"
-        with open(output_file, 'w') as f:
-            # Compact JSON - no indentation to minimize size
-            json.dump(taxonomy, f, separators=(',', ':'))
-        
-        # Create metadata documentation
-        metadata = {
-            "format_specification": {
-                "version": "ai-taxonomy-v1",
+            "metadata": {
                 "purpose": "Token-optimized taxonomy for AI/ML coin classification",
                 "field_abbreviations": {
                     "id": "coin_id (primary classification target)",
@@ -186,20 +174,23 @@ class AITaxonomyExporter:
                     "cn": "common_names (array of popular names for this coin)"
                 },
                 "optimization_strategies": [
-                    "Abbreviated field names (40% reduction)",
-                    "Omit null/empty values",
+                    "Abbreviated field names to reduce token usage",
+                    "Omit null/empty values for compactness",
                     "Exclude verbose metadata and specifications",
-                    "Compress variety info to names only",
+                    "Compress variety info to names only", 
                     "Skip 'common' rarity to save tokens",
+                    "Include comprehensive visual descriptions for AI identification",
                     "Compact JSON formatting (no indentation)"
                 ]
             },
-            "generated": datetime.now(timezone.utc).isoformat()
+            "coins": coins
         }
         
-        metadata_file = self.output_dir / "metadata.json"
-        with open(metadata_file, 'w') as f:
-            json.dump(metadata, f, indent=2)
+        # Write main taxonomy file with embedded metadata
+        output_file = self.output_dir / "us_taxonomy.json"
+        with open(output_file, 'w') as f:
+            # Compact JSON - no indentation to minimize size
+            json.dump(taxonomy, f, separators=(',', ':'))
         
         # Calculate size stats
         file_size = output_file.stat().st_size
