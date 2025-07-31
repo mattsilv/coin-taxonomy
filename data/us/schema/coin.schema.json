@@ -19,7 +19,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["series_id", "series_name", "years", "composition_periods"],
+        "required": ["series_id", "series_name", "years"],
         "properties": {
           "series_id": {
             "type": "string",
@@ -57,16 +57,16 @@
           "specifications": {
             "type": "object",
             "properties": {
-              "diameter_mm": {"type": "number", "minimum": 0},
-              "edge": {"type": "string"},
-              "edge_reeds": {"type": "integer", "minimum": 0}
+              "diameter_mm": {"type": ["number", "null"], "minimum": 0},
+              "edge": {"type": ["string", "null"]},
+              "edge_reeds": {"type": ["integer", "null"], "minimum": 0}
             }
           },
           "composition_periods": {
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["date_range", "weight"],
+              "required": ["date_range"],
               "properties": {
                 "date_range": {
                   "type": "object",
@@ -96,10 +96,9 @@
                 },
                 "weight": {
                   "type": "object",
-                  "required": ["grams"],
                   "properties": {
-                    "grams": {"type": "number", "minimum": 0},
-                    "troy_oz": {"type": "number", "minimum": 0}
+                    "grams": {"type": ["number", "null"], "minimum": 0},
+                    "troy_oz": {"type": ["number", "null"], "minimum": 0}
                   }
                 }
               },
@@ -121,21 +120,21 @@
                 },
                 "year": {"type": "integer", "minimum": 1792},
                 "mint": {"type": "string", "pattern": "^[A-Z]+$"},
-                "business_strikes": {"type": ["integer", "null"], "minimum": 0},
-                "proof_strikes": {"type": ["integer", "null"], "minimum": 0},
+                "business_strikes": {"type": ["integer", "null"]},
+                "proof_strikes": {"type": ["integer", "null"]},
                 "rarity": {
-                  "type": "string",
-                  "enum": ["key", "semi-key", "common", "scarce"]
+                  "type": ["string", "null"],
+                  "enum": ["key", "semi-key", "common", "scarce", null]
                 },
                 "varieties": {
                   "type": "array",
                   "items": {
                     "type": "object",
-                    "required": ["variety_id", "name", "description"],
+                    "required": ["variety_id", "name"],
                     "properties": {
                       "variety_id": {"type": "string"},
                       "name": {"type": "string"},
-                      "description": {"type": "string"},
+                      "description": {"type": ["string", "null"]},
                       "estimated_mintage": {"type": ["integer", "null"]}
                     }
                   }
