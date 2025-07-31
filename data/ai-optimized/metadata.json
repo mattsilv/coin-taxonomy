@@ -10,7 +10,12 @@
       "t": "type_code (4-letter abbreviation)",
       "r": "rarity (key/semi-key/scarce only, omits 'common')",
       "v": "varieties (array of major variety names only)",
-      "n": "notes (critical identifying info only, max 100 chars)"
+      "n": "notes (critical identifying info only, max 100 chars)",
+      "ob": "obverse_description (visual description of front/heads side)",
+      "rv": "reverse_description (visual description of back/tails side)",
+      "df": "distinguishing_features (array of key identifying characteristics)",
+      "kw": "identification_keywords (array of search terms and descriptors)",
+      "cn": "common_names (array of popular names for this coin)"
     },
     "optimization_strategies": [
       "Abbreviated field names (40% reduction)",
@@ -21,5 +26,5 @@
       "Compact JSON formatting (no indentation)"
     ]
   },
-  "generated": "2025-07-31T17:25:50.785013+00:00"
+  "generated": "2025-07-31T18:15:32.106777+00:00"
 }

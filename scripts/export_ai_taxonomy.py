@@ -62,7 +62,7 @@ class AITaxonomyExporter:
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
         
-        # Query essential fields only - no physical specs, citations, etc.
+        # Query essential fields including visual descriptions
         query = """
         SELECT 
             coin_id,
@@ -71,7 +71,12 @@ class AITaxonomyExporter:
             series_name,
             rarity,
             varieties,
-            notes
+            notes,
+            obverse_description,
+            reverse_description,
+            distinguishing_features,
+            identification_keywords,
+            common_names
         FROM coins
         ORDER BY coin_id
         """
@@ -82,7 +87,7 @@ class AITaxonomyExporter:
         # Process coins with token optimization
         coins = []
         for row in rows:
-            coin_id, year, mint, series_name, rarity, varieties, notes = row
+            coin_id, year, mint, series_name, rarity, varieties, notes, obverse_desc, reverse_desc, features, keywords, names = row
             
             # Create optimized coin record
             coin = {"id": coin_id, "y": year, "m": mint, "s": series_name}
@@ -108,6 +113,40 @@ class AITaxonomyExporter:
                 if len(clean_notes) > 100:
                     clean_notes = clean_notes[:97] + "..."
                 coin["n"] = clean_notes
+            
+            # Add visual descriptions (compact format)
+            if obverse_desc and len(obverse_desc.strip()) > 0:
+                coin["ob"] = obverse_desc.strip()
+            
+            if reverse_desc and len(reverse_desc.strip()) > 0:
+                coin["rv"] = reverse_desc.strip()
+            
+            # Add distinguishing features as array
+            if features:
+                try:
+                    features_list = json.loads(features) if isinstance(features, str) else features
+                    if features_list and len(features_list) > 0:
+                        coin["df"] = features_list
+                except:
+                    pass
+            
+            # Add identification keywords as array
+            if keywords:
+                try:
+                    keywords_list = json.loads(keywords) if isinstance(keywords, str) else keywords
+                    if keywords_list and len(keywords_list) > 0:
+                        coin["kw"] = keywords_list
+                except:
+                    pass
+            
+            # Add common names as array
+            if names:
+                try:
+                    names_list = json.loads(names) if isinstance(names, str) else names
+                    if names_list and len(names_list) > 0:
+                        coin["cn"] = names_list
+                except:
+                    pass
             
             coins.append(coin)
         
@@ -139,7 +178,12 @@ class AITaxonomyExporter:
                     "t": "type_code (4-letter abbreviation)", 
                     "r": "rarity (key/semi-key/scarce only, omits 'common')",
                     "v": "varieties (array of major variety names only)",
-                    "n": "notes (critical identifying info only, max 100 chars)"
+                    "n": "notes (critical identifying info only, max 100 chars)",
+                    "ob": "obverse_description (visual description of front/heads side)",
+                    "rv": "reverse_description (visual description of back/tails side)",
+                    "df": "distinguishing_features (array of key identifying characteristics)",
+                    "kw": "identification_keywords (array of search terms and descriptors)",
+                    "cn": "common_names (array of popular names for this coin)"
                 },
                 "optimization_strategies": [
                     "Abbreviated field names (40% reduction)",

@@ -10,7 +10,7 @@ The goal of this project is to create a **unified taxonomy structure** that enab
 
 **The core innovation is standardized coin IDs** - consistent, parseable identifiers that make machine learning and database operations reliable. By providing these stable identifiers along with comprehensive metadata, this database serves as a foundation for:
 
-- **AI-powered coin identification** and classification systems (includes [token-optimized format](data/ai-optimized/us_taxonomy.json) with 83% size reduction)
+- **AI-powered coin identification** and classification systems (includes [token-optimized format](data/ai-optimized/us_taxonomy.json) with comprehensive visual descriptions)
 - **Automated marketplace matching** between buyer needs and seller inventory
 - **Price analysis and market research** with reliable historical data
 - **Numismatic education** through structured, validated information
@@ -38,7 +38,7 @@ coin-taxonomy/
           references/      # Supporting reference data
           us_coins_complete.json  # Complete taxonomy (convenience file)
       ai-optimized/        # Token-optimized format for AI/ML systems
-          us_taxonomy.json # 83% smaller format for classification (12KB vs 78KB)
+          us_taxonomy.json # Enhanced format with visual descriptions (85KB)
    scripts/                 # Database and utility scripts
    docs/                    # Documentation and research
    examples/                # Sample usage files
@@ -353,7 +353,7 @@ The new v1.1 schema includes these core tables:
 {
   "format": "ai-taxonomy-v1",
   "country": "US",
-  "generated": "2025-07-31T17:25:50.784538+00:00",
+  "generated": "2025-07-31T18:15:32.106777+00:00",
   "total_coins": 118,
   "coins": [
     {
@@ -363,15 +363,20 @@ The new v1.1 schema includes these core tables:
       "s": "Indian Head Cent",
       "t": "INCH",
       "r": "key",
-      "n": "Ultimate key date, extremely low mintage"
+      "n": "Ultimate key date, extremely low mintage",
+      "ob": "Indian head profile facing left, wearing feathered headdress...",
+      "rv": "Oak wreath surrounding 'ONE CENT', shield at top of wreath",
+      "df": ["Bronze composition", "19.05mm diameter", "Plain edge"],
+      "kw": ["indian head cent", "indian penny", "bronze cent"],
+      "cn": ["Indian Head Cent", "Indian Penny"]
     }
   ]
 }
 ```
 
 This format is specifically designed for AI applications and provides:
-- **83.6% size reduction** (vs complete format) - from 78KB to 12.4KB
-- **Abbreviated field names** (`id`, `y`, `m`, `s`, `t`, `r`, `v`, `n`) to minimize token usage
+- **Comprehensive visual descriptions** for accurate coin identification
+- **Abbreviated field names** (`id`, `y`, `m`, `s`, `t`, `r`, `v`, `n`, `ob`, `rv`, `df`, `kw`, `cn`) to minimize token usage
 - **Essential data only** - focuses on coin identification and classification features
 - **Automatic generation** - updated automatically as part of the standard export pipeline
 - **AI-optimized structure** - flat array format ideal for machine learning applications
