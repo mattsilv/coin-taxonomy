@@ -10,7 +10,7 @@ The goal of this project is to create a **unified taxonomy structure** that enab
 
 **The core innovation is standardized coin IDs** - consistent, parseable identifiers that make machine learning and database operations reliable. By providing these stable identifiers along with comprehensive metadata, this database serves as a foundation for:
 
-- **AI-powered coin identification** and classification systems
+- **AI-powered coin identification** and classification systems (includes [token-optimized format](data/ai-optimized/us_taxonomy.json) with 83% size reduction)
 - **Automated marketplace matching** between buyer needs and seller inventory
 - **Price analysis and market research** with reliable historical data
 - **Numismatic education** through structured, validated information
@@ -37,6 +37,8 @@ coin-taxonomy/
           coins/           # Coin series data files
           references/      # Supporting reference data
           us_coins_complete.json  # Complete taxonomy (convenience file)
+      ai-optimized/        # Token-optimized format for AI/ML systems
+          us_taxonomy.json # 83% smaller format for classification (12KB vs 78KB)
    scripts/                 # Database and utility scripts
    docs/                    # Documentation and research
    examples/                # Sample usage files
@@ -296,6 +298,7 @@ database/coins.db (source of truth)
     ↓ (export via scripts)
 data/us/coins/*.json (legacy format - backward compatibility)
 data/universal/*.json (new universal format)
+data/ai-optimized/us_taxonomy.json (AI-optimized format)
 ```
 
 #### Universal Tables
@@ -312,7 +315,7 @@ The new v1.1 schema includes these core tables:
 - `composition_registry`: Alloy definitions (8 standard compositions)  
 - `series_registry`: Series metadata across all countries
 
-#### Dual Export Formats
+#### Export Formats
 
 **Legacy Format** (`data/us/coins/*.json`): Preserves existing nested structure
 ```json
@@ -344,6 +347,34 @@ The new v1.1 schema includes these core tables:
   ]
 }
 ```
+
+**AI-Optimized Format** (`data/ai-optimized/us_taxonomy.json`): Token-optimized for AI/ML systems
+```json
+{
+  "format": "ai-taxonomy-v1",
+  "country": "US",
+  "generated": "2025-07-31T17:25:50.784538+00:00",
+  "total_coins": 118,
+  "coins": [
+    {
+      "id": "US-INCH-1877-P",
+      "y": 1877,
+      "m": "P", 
+      "s": "Indian Head Cent",
+      "t": "INCH",
+      "r": "key",
+      "n": "Ultimate key date, extremely low mintage"
+    }
+  ]
+}
+```
+
+This format is specifically designed for AI applications and provides:
+- **83.6% size reduction** (vs complete format) - from 78KB to 12.4KB
+- **Abbreviated field names** (`id`, `y`, `m`, `s`, `t`, `r`, `v`, `n`) to minimize token usage
+- **Essential data only** - focuses on coin identification and classification features
+- **Automatic generation** - updated automatically as part of the standard export pipeline
+- **AI-optimized structure** - flat array format ideal for machine learning applications
 
 #### Issue ID Generation
 

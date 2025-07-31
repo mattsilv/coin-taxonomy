@@ -20,6 +20,7 @@ import json
 import os
 from datetime import datetime
 from typing import Dict, List, Any
+from pathlib import Path
 
 class DatabaseExporter:
     def __init__(self, db_path='database/coins.db'):
@@ -332,6 +333,25 @@ class DatabaseExporter:
         finally:
             conn.close()
     
+    def export_ai_taxonomy(self):
+        """Export AI-optimized taxonomy with minimal token usage."""
+        print("🤖 Exporting AI-optimized taxonomy...")
+        
+        # Import and use the AI taxonomy exporter
+        try:
+            from export_ai_taxonomy import AITaxonomyExporter
+            ai_exporter = AITaxonomyExporter(db_path=self.db_path)
+            output_file, coin_count = ai_exporter.export_ai_taxonomy()
+            
+            # Calculate file size
+            file_size = output_file.stat().st_size
+            print(f"   ✅ data/ai-optimized/us_taxonomy.json ({file_size:,} bytes)")
+            
+        except ImportError:
+            print("   ⚠️  AI taxonomy exporter not found, skipping...")
+        except Exception as e:
+            print(f"   ❌ Error exporting AI taxonomy: {e}")
+    
     def run_export(self):
         """Run complete export from database."""
         print("🚀 Starting database-first export...")
@@ -362,6 +382,9 @@ class DatabaseExporter:
         
         # Export complete file
         self.export_complete_file()
+        
+        # Export AI-optimized taxonomy
+        self.export_ai_taxonomy()
         
         print(f"\n✅ Database-first export completed!")
         print(f"📁 {count} coins exported to JSON files")
