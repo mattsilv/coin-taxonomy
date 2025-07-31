@@ -1,6 +1,6 @@
 # United States Coin Taxonomy Database
 
-A comprehensive, structured database of US coin series, mintages, varieties, and key dates from 1859 to present.
+A comprehensive, structured database of US coin series, mintages, varieties, and key dates from 1793 to present.
 
 **🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface for collectors
 
@@ -98,8 +98,8 @@ The SQLite database serves as the source of truth, with JSON files for version c
 
 3. **Generate the database:**
    ```bash
-   # Generate local database from migration scripts
-   uv run python scripts/migrate_to_universal_v1_1.py
+   # Complete rebuild pipeline (runs all migration scripts)
+   uv run python scripts/rebuild_and_export.py
    ```
 
 4. **Verify installation:**

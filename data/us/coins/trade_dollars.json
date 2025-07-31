@@ -1,0 +1,56 @@
+{
+  "country": "US",
+  "denomination": "Trade Dollars",
+  "face_value": 1.0,
+  "series": [
+    {
+      "series_id": "trade_dollar",
+      "series_name": "Trade Dollar",
+      "official_name": "Trade Dollar",
+      "years": {
+        "start": 1873,
+        "end": 1878
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1873,
+            "end": 1878
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-TRDO-1873-P",
+          "year": 1873,
+          "mint": "P",
+          "business_strikes": 396635,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint official records, Stack's Bowers"
+        },
+        {
+          "coin_id": "US-TRDO-1878-CC",
+          "year": 1878,
+          "mint": "CC",
+          "business_strikes": 97000,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint official records"
+        }
+      ]
+    }
+  ]
+}

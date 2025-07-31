@@ -9,7 +9,7 @@
     },
     "denomination": {
       "type": "string",
-      "enum": ["Cents", "Nickels", "Dimes", "Quarters", "Half Dollars", "Dollars"]
+      "enum": ["Cents", "Nickels", "Dimes", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars", "Twenty Cents"]
     },
     "face_value": {
       "type": "number",
@@ -58,7 +58,6 @@
             "type": "object",
             "properties": {
               "diameter_mm": {"type": "number", "minimum": 0},
-              "thickness_mm": {"type": "number", "minimum": 0},
               "edge": {"type": "string"},
               "edge_reeds": {"type": "integer", "minimum": 0}
             }

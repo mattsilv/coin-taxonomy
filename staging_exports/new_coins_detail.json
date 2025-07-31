@@ -1,0 +1,440 @@
+{
+  "export_timestamp": "2025-07-31T13:01:36.836271",
+  "total_new_coins": 19,
+  "new_coins_by_decade": {
+    "1790s": [
+      {
+        "coin_id": "US-LCHN-1793-P",
+        "series_name": "Chain Cent",
+        "year": 1793,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 36103,
+        "rarity": "key",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      },
+      {
+        "coin_id": "US-HCLC-1793-P",
+        "series_name": "Liberty Cap Half Cent",
+        "year": 1793,
+        "mint": "P",
+        "denomination": "Half Cents",
+        "business_strikes": 35334,
+        "rarity": "key",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      },
+      {
+        "coin_id": "US-LWRE-1793-P",
+        "series_name": "Wreath Cent",
+        "year": 1793,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 63353,
+        "rarity": "key",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      },
+      {
+        "coin_id": "US-FHDO-1794-P",
+        "series_name": "Flowing Hair Dollar",
+        "year": 1794,
+        "mint": "P",
+        "denomination": "Dollars",
+        "business_strikes": 1758,
+        "rarity": "key",
+        "source_citation": "PCGS CoinFacts",
+        "notes": null
+      },
+      {
+        "coin_id": "US-DRPB-1799-P",
+        "series_name": "Draped Bust Large Cent",
+        "year": 1799,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 904585,
+        "rarity": "key",
+        "source_citation": "PCGS CoinFacts",
+        "notes": null
+      }
+    ],
+    "1800s": [
+      {
+        "coin_id": "US-HCDB-1800-P",
+        "series_name": "Draped Bust Half Cent",
+        "year": 1800,
+        "mint": "P",
+        "denomination": "Half Cents",
+        "business_strikes": 202908,
+        "rarity": "scarce",
+        "source_citation": "Red Book 2024",
+        "notes": "Designed by Gilbert Stuart and Robert Scot"
+      },
+      {
+        "coin_id": "US-CBHD-1807-P",
+        "series_name": "Capped Bust Half Dollar",
+        "year": 1807,
+        "mint": "P",
+        "denomination": "Half Dollars",
+        "business_strikes": 301076,
+        "rarity": "scarce",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      }
+    ],
+    "1810s": [
+      {
+        "coin_id": "US-CBHD-1815-P",
+        "series_name": "Capped Bust Half Dollar",
+        "year": 1815,
+        "mint": "P",
+        "denomination": "Half Dollars",
+        "business_strikes": 47150,
+        "rarity": "key",
+        "source_citation": "PCGS CoinFacts",
+        "notes": null
+      }
+    ],
+    "1830s": [
+      {
+        "coin_id": "US-GBDO-1836-P",
+        "series_name": "Gobrecht Dollar",
+        "year": 1836,
+        "mint": "P",
+        "denomination": "Dollars",
+        "business_strikes": 0,
+        "rarity": "key",
+        "source_citation": "U.S. Mint records, PCGS CoinFacts",
+        "notes": null
+      },
+      {
+        "coin_id": "US-SLDI-1837-P",
+        "series_name": "Seated Liberty Dime",
+        "year": 1837,
+        "mint": "P",
+        "denomination": "Dimes",
+        "business_strikes": 682500,
+        "rarity": "scarce",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      },
+      {
+        "coin_id": "US-GBDO-1838-P",
+        "series_name": "Gobrecht Dollar",
+        "year": 1838,
+        "mint": "P",
+        "denomination": "Dollars",
+        "business_strikes": 300,
+        "rarity": "key",
+        "source_citation": "U.S. Mint records, PCGS CoinFacts",
+        "notes": null
+      },
+      {
+        "coin_id": "US-SLQU-1838-P",
+        "series_name": "Seated Liberty Quarter",
+        "year": 1838,
+        "mint": "P",
+        "denomination": "Quarters",
+        "business_strikes": 466000,
+        "rarity": "scarce",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      }
+    ],
+    "1840s": [
+      {
+        "coin_id": "US-SLDI-1844-P",
+        "series_name": "Seated Liberty Dime",
+        "year": 1844,
+        "mint": "P",
+        "denomination": "Dimes",
+        "business_strikes": 72500,
+        "rarity": "key",
+        "source_citation": "PCGS CoinFacts",
+        "notes": null
+      }
+    ],
+    "1850s": [
+      {
+        "coin_id": "US-CORL-1856-P",
+        "series_name": "Coronet Large Cent",
+        "year": 1856,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 2690463,
+        "rarity": "common",
+        "source_citation": "Red Book 2024",
+        "notes": null
+      },
+      {
+        "coin_id": "US-FECN-1857-P",
+        "series_name": "Flying Eagle Cent",
+        "year": 1857,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 17450000,
+        "rarity": "common",
+        "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+        "notes": "First small cent design, 1856 were patterns only"
+      },
+      {
+        "coin_id": "US-FECN-1858-P",
+        "series_name": "Flying Eagle Cent",
+        "year": 1858,
+        "mint": "P",
+        "denomination": "Cents",
+        "business_strikes": 24600000,
+        "rarity": "common",
+        "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+        "notes": null
+      }
+    ],
+    "1870s": [
+      {
+        "coin_id": "US-TRDO-1873-P",
+        "series_name": "Trade Dollar",
+        "year": 1873,
+        "mint": "P",
+        "denomination": "Trade Dollars",
+        "business_strikes": 396635,
+        "rarity": "scarce",
+        "source_citation": "U.S. Mint official records, Stack's Bowers",
+        "notes": null
+      },
+      {
+        "coin_id": "US-TWCT-1875-P",
+        "series_name": "Twenty Cent Piece",
+        "year": 1875,
+        "mint": "P",
+        "denomination": "Twenty Cents",
+        "business_strikes": 38500,
+        "rarity": "scarce",
+        "source_citation": "Red Book 2024",
+        "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+      },
+      {
+        "coin_id": "US-TRDO-1878-CC",
+        "series_name": "Trade Dollar",
+        "year": 1878,
+        "mint": "CC",
+        "denomination": "Trade Dollars",
+        "business_strikes": 97000,
+        "rarity": "key",
+        "source_citation": "U.S. Mint official records",
+        "notes": null
+      }
+    ]
+  },
+  "all_new_coins": [
+    {
+      "coin_id": "US-LCHN-1793-P",
+      "series_name": "Chain Cent",
+      "year": 1793,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 36103,
+      "rarity": "key",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-HCLC-1793-P",
+      "series_name": "Liberty Cap Half Cent",
+      "year": 1793,
+      "mint": "P",
+      "denomination": "Half Cents",
+      "business_strikes": 35334,
+      "rarity": "key",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-LWRE-1793-P",
+      "series_name": "Wreath Cent",
+      "year": 1793,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 63353,
+      "rarity": "key",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-FHDO-1794-P",
+      "series_name": "Flowing Hair Dollar",
+      "year": 1794,
+      "mint": "P",
+      "denomination": "Dollars",
+      "business_strikes": 1758,
+      "rarity": "key",
+      "source_citation": "PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-DRPB-1799-P",
+      "series_name": "Draped Bust Large Cent",
+      "year": 1799,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 904585,
+      "rarity": "key",
+      "source_citation": "PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-HCDB-1800-P",
+      "series_name": "Draped Bust Half Cent",
+      "year": 1800,
+      "mint": "P",
+      "denomination": "Half Cents",
+      "business_strikes": 202908,
+      "rarity": "scarce",
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by Gilbert Stuart and Robert Scot"
+    },
+    {
+      "coin_id": "US-CBHD-1807-P",
+      "series_name": "Capped Bust Half Dollar",
+      "year": 1807,
+      "mint": "P",
+      "denomination": "Half Dollars",
+      "business_strikes": 301076,
+      "rarity": "scarce",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-CBHD-1815-P",
+      "series_name": "Capped Bust Half Dollar",
+      "year": 1815,
+      "mint": "P",
+      "denomination": "Half Dollars",
+      "business_strikes": 47150,
+      "rarity": "key",
+      "source_citation": "PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-GBDO-1836-P",
+      "series_name": "Gobrecht Dollar",
+      "year": 1836,
+      "mint": "P",
+      "denomination": "Dollars",
+      "business_strikes": 0,
+      "rarity": "key",
+      "source_citation": "U.S. Mint records, PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-SLDI-1837-P",
+      "series_name": "Seated Liberty Dime",
+      "year": 1837,
+      "mint": "P",
+      "denomination": "Dimes",
+      "business_strikes": 682500,
+      "rarity": "scarce",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-GBDO-1838-P",
+      "series_name": "Gobrecht Dollar",
+      "year": 1838,
+      "mint": "P",
+      "denomination": "Dollars",
+      "business_strikes": 300,
+      "rarity": "key",
+      "source_citation": "U.S. Mint records, PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-SLQU-1838-P",
+      "series_name": "Seated Liberty Quarter",
+      "year": 1838,
+      "mint": "P",
+      "denomination": "Quarters",
+      "business_strikes": 466000,
+      "rarity": "scarce",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-SLDI-1844-P",
+      "series_name": "Seated Liberty Dime",
+      "year": 1844,
+      "mint": "P",
+      "denomination": "Dimes",
+      "business_strikes": 72500,
+      "rarity": "key",
+      "source_citation": "PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-CORL-1856-P",
+      "series_name": "Coronet Large Cent",
+      "year": 1856,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 2690463,
+      "rarity": "common",
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-FECN-1857-P",
+      "series_name": "Flying Eagle Cent",
+      "year": 1857,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 17450000,
+      "rarity": "common",
+      "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+      "notes": "First small cent design, 1856 were patterns only"
+    },
+    {
+      "coin_id": "US-FECN-1858-P",
+      "series_name": "Flying Eagle Cent",
+      "year": 1858,
+      "mint": "P",
+      "denomination": "Cents",
+      "business_strikes": 24600000,
+      "rarity": "common",
+      "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+      "notes": null
+    },
+    {
+      "coin_id": "US-TRDO-1873-P",
+      "series_name": "Trade Dollar",
+      "year": 1873,
+      "mint": "P",
+      "denomination": "Trade Dollars",
+      "business_strikes": 396635,
+      "rarity": "scarce",
+      "source_citation": "U.S. Mint official records, Stack's Bowers",
+      "notes": null
+    },
+    {
+      "coin_id": "US-TWCT-1875-P",
+      "series_name": "Twenty Cent Piece",
+      "year": 1875,
+      "mint": "P",
+      "denomination": "Twenty Cents",
+      "business_strikes": 38500,
+      "rarity": "scarce",
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+    },
+    {
+      "coin_id": "US-TRDO-1878-CC",
+      "series_name": "Trade Dollar",
+      "year": 1878,
+      "mint": "CC",
+      "denomination": "Trade Dollars",
+      "business_strikes": 97000,
+      "rarity": "key",
+      "source_citation": "U.S. Mint official records",
+      "notes": null
+    }
+  ]
+}

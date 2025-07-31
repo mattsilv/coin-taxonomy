@@ -4,23 +4,59 @@
   "face_value": 0.25,
   "series": [
     {
+      "series_id": "seated_liberty_quarter",
+      "series_name": "Seated Liberty Quarter",
+      "official_name": "Seated Liberty Quarter",
+      "years": {
+        "start": 1838,
+        "end": 1838
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1838,
+            "end": 1838
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-SLQU-1838-P",
+          "year": 1838,
+          "mint": "P",
+          "business_strikes": 466000,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        }
+      ]
+    },
+    {
       "series_id": "barber_quarter",
       "series_name": "Barber Quarter",
       "official_name": "Barber Quarter",
       "years": {
         "start": 1892,
-        "end": 1916
+        "end": 1913
       },
       "specifications": {
-        "diameter_mm": 24.3,
-        "thickness_mm": 1.75,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 24.3
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1892,
-            "end": 1916
+            "end": 1913
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -39,7 +75,14 @@
           "mint": "P",
           "business_strikes": 8237245,
           "proof_strikes": null,
-          "source_citation": "Red Book",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "BQ-1892-P-T1-01",
@@ -53,7 +96,10 @@
               "description": "Modified eagle wing coverage",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
+          "source_citation": "Red Book"
         },
         {
           "coin_id": "US-BARQ-1896-S",
@@ -62,9 +108,18 @@
           "business_strikes": 188039,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Major key date",
-          "varieties": []
+          "notes": "Major key date"
         },
         {
           "coin_id": "US-BARQ-1901-S",
@@ -73,9 +128,18 @@
           "business_strikes": 72664,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Rarest in circulated grades",
-          "varieties": []
+          "notes": "Rarest in circulated grades"
         },
         {
           "coin_id": "US-BARQ-1913-S",
@@ -84,15 +148,20 @@
           "business_strikes": 40000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage in series",
-          "varieties": []
+          "notes": "Lowest mintage in series"
         }
-      ],
-      "designers": {
-        "obverse": "Charles E. Barber",
-        "reverse": "Charles E. Barber"
-      }
+      ]
     },
     {
       "series_id": "standing_liberty_quarter",
@@ -100,18 +169,17 @@
       "official_name": "Standing Liberty Quarter",
       "years": {
         "start": 1916,
-        "end": 1930
+        "end": 1927
       },
       "specifications": {
-        "diameter_mm": 24.3,
-        "thickness_mm": 1.75,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 24.3
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1916,
-            "end": 1930
+            "end": 1927
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -131,8 +199,13 @@
           "business_strikes": 52000,
           "proof_strikes": null,
           "rarity": "key",
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage 20th century coin",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "SLQ-1916-P-T1-01",
@@ -140,7 +213,11 @@
               "description": "Bare-breasted Liberty",
               "estimated_mintage": 52000
             }
-          ]
+          ],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Lowest mintage 20th century coin"
         },
         {
           "coin_id": "US-SLIQ-1917-P",
@@ -148,7 +225,14 @@
           "mint": "P",
           "business_strikes": 8792000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "SLQ-1917-P-T1-01",
@@ -162,7 +246,10 @@
               "description": "Chain mail added",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-SLIQ-1918-S",
@@ -170,8 +257,14 @@
           "mint": "S",
           "business_strikes": 11072000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "~3,000 survivors of overdate",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "SLQ-1918-S-87-01",
@@ -179,7 +272,11 @@
               "description": "8 over 7 overdate",
               "estimated_mintage": 3000
             }
-          ]
+          ],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "~3,000 survivors of overdate"
         },
         {
           "coin_id": "US-SLIQ-1921-P",
@@ -188,9 +285,18 @@
           "business_strikes": 1916000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Post-WWI recession",
-          "varieties": []
+          "notes": "Post-WWI recession"
         },
         {
           "coin_id": "US-SLIQ-1927-S",
@@ -199,15 +305,20 @@
           "business_strikes": 396000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second lowest mintage",
-          "varieties": []
+          "notes": "Second lowest mintage"
         }
-      ],
-      "designers": {
-        "obverse": "Hermon Atkins MacNeil",
-        "reverse": "Hermon Atkins MacNeil"
-      }
+      ]
     },
     {
       "series_id": "washington_quarter",
@@ -215,18 +326,17 @@
       "official_name": "Washington Quarter",
       "years": {
         "start": 1932,
-        "end": 2024
+        "end": 2020
       },
       "specifications": {
-        "diameter_mm": 24.3,
-        "thickness_mm": 1.75,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 24.3
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1932,
-            "end": 1964
+            "end": 1932
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -239,8 +349,8 @@
         },
         {
           "date_range": {
-            "start": 1965,
-            "end": 2024
+            "start": 1999,
+            "end": 2020
           },
           "alloy_name": "Clad",
           "alloy": {
@@ -260,9 +370,18 @@
           "business_strikes": 436800,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Rarest Washington quarter",
-          "varieties": []
+          "notes": "Rarest Washington quarter"
         },
         {
           "coin_id": "US-WASH-1932-S",
@@ -271,9 +390,18 @@
           "business_strikes": 408000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 6.25,
+          "diameter_mm": 24.3,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second rarest",
-          "varieties": []
+          "notes": "Second rarest"
         },
         {
           "coin_id": "US-WASH-1999-P",
@@ -281,8 +409,14 @@
           "mint": "P",
           "business_strikes": 373400000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "notes": "State Quarters program begins - Delaware",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "WQ-1999-P-DE-01",
@@ -290,7 +424,11 @@
               "description": "First state quarter - Delaware reverse",
               "estimated_mintage": 373400000
             }
-          ]
+          ],
+          "weight_grams": 5.67,
+          "diameter_mm": 24.3,
+          "source_citation": "US Mint records",
+          "notes": "State Quarters program begins - Delaware"
         },
         {
           "coin_id": "US-WASH-2019-W",
@@ -298,9 +436,19 @@
           "mint": "W",
           "business_strikes": 2000000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.67,
+          "diameter_mm": 24.3,
           "source_citation": "US Mint records",
-          "notes": "First W mint quarters - various designs, 2 million each",
-          "varieties": []
+          "notes": "First W mint quarters - various designs, 2 million each"
         },
         {
           "coin_id": "US-WASH-2020-W",
@@ -308,15 +456,21 @@
           "mint": "W",
           "business_strikes": 2000000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.67,
+          "diameter_mm": 24.3,
           "source_citation": "US Mint records",
-          "notes": "W mint quarters continue - various designs, 2 million each",
-          "varieties": []
+          "notes": "W mint quarters continue - various designs, 2 million each"
         }
-      ],
-      "designers": {
-        "obverse": "John Flanagan",
-        "reverse": "John Flanagan"
-      }
+      ]
     }
   ]
 }

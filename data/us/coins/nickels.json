@@ -8,19 +8,18 @@
       "series_name": "Shield Nickel",
       "official_name": "Shield Nickel",
       "years": {
-        "start": 1866,
-        "end": 1883
+        "start": 1867,
+        "end": 1880
       },
       "specifications": {
-        "diameter_mm": 20.5,
-        "thickness_mm": 1.95,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 20.5
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1866,
-            "end": 1883
+            "start": 1867,
+            "end": 1880
           },
           "alloy_name": "Copper-Nickel",
           "alloy": {
@@ -40,9 +39,18 @@
           "business_strikes": 2019000,
           "proof_strikes": null,
           "rarity": "scarce",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 20.5,
           "source_citation": "PCGS CoinFacts",
-          "notes": "With Rays variety",
-          "varieties": []
+          "notes": "With Rays variety"
         },
         {
           "coin_id": "US-SHLD-1877-P",
@@ -51,9 +59,18 @@
           "business_strikes": 0,
           "proof_strikes": 510,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 20.5,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Proof-only issue",
-          "varieties": []
+          "notes": "Proof-only issue"
         },
         {
           "coin_id": "US-SHLD-1878-P",
@@ -62,9 +79,18 @@
           "business_strikes": 0,
           "proof_strikes": 2350,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 20.5,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Proof-only issue",
-          "varieties": []
+          "notes": "Proof-only issue"
         },
         {
           "coin_id": "US-SHLD-1880-P",
@@ -73,15 +99,20 @@
           "business_strikes": 19995,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 20.5,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest circulation mintage",
-          "varieties": []
+          "notes": "Lowest circulation mintage"
         }
-      ],
-      "designers": {
-        "obverse": "James B. Longacre",
-        "reverse": "James B. Longacre"
-      }
+      ]
     },
     {
       "series_id": "liberty_head_nickel",
@@ -92,9 +123,8 @@
         "end": 1913
       },
       "specifications": {
-        "diameter_mm": 21.2,
-        "thickness_mm": 1.95,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 21.2
       },
       "composition_periods": [
         {
@@ -119,7 +149,14 @@
           "mint": "P",
           "business_strikes": 5479519,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
           "varieties": [
             {
               "variety_id": "LHN-1883-P-NC-01",
@@ -127,7 +164,10 @@
               "description": "Used in 'Racketeer' frauds",
               "estimated_mintage": 5479519
             }
-          ]
+          ],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-LHNI-1885-P",
@@ -136,9 +176,18 @@
           "business_strikes": 1476490,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Primary key date",
-          "varieties": []
+          "notes": "Primary key date"
         },
         {
           "coin_id": "US-LHNI-1912-S",
@@ -147,9 +196,18 @@
           "business_strikes": 238000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest regular mintage",
-          "varieties": []
+          "notes": "Lowest regular mintage"
         },
         {
           "coin_id": "US-LHNI-1913-P",
@@ -158,15 +216,20 @@
           "business_strikes": 5,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Clandestinely struck, worth millions",
-          "varieties": []
+          "notes": "Clandestinely struck, worth millions"
         }
-      ],
-      "designers": {
-        "obverse": "Charles E. Barber",
-        "reverse": "Charles E. Barber"
-      }
+      ]
     },
     {
       "series_id": "buffalo_nickel",
@@ -174,18 +237,17 @@
       "official_name": "Buffalo Nickel",
       "years": {
         "start": 1913,
-        "end": 1938
+        "end": 1937
       },
       "specifications": {
-        "diameter_mm": 21.2,
-        "thickness_mm": 1.95,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 21.2
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1913,
-            "end": 1938
+            "end": 1937
           },
           "alloy_name": "Copper-Nickel",
           "alloy": {
@@ -205,9 +267,18 @@
           "business_strikes": 1209000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Type 2, lowest regular mintage",
-          "varieties": []
+          "notes": "Type 2, lowest regular mintage"
         },
         {
           "coin_id": "US-BUFF-1916-P",
@@ -215,7 +286,14 @@
           "mint": "P",
           "business_strikes": 63498066,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
           "varieties": [
             {
               "variety_id": "BN-1916-P-DDO-01",
@@ -223,7 +301,10 @@
               "description": "Dramatic doubling",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-BUFF-1918-D",
@@ -231,7 +312,14 @@
           "mint": "D",
           "business_strikes": 8362000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
           "varieties": [
             {
               "variety_id": "BN-1918-D-87-01",
@@ -239,7 +327,10 @@
               "description": "1918/7-D Overdate - 8 stamped over 7",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-BUFF-1926-S",
@@ -248,9 +339,18 @@
           "business_strikes": 970000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Absolute lowest mintage",
-          "varieties": []
+          "notes": "Absolute lowest mintage"
         },
         {
           "coin_id": "US-BUFF-1937-D",
@@ -258,7 +358,14 @@
           "mint": "D",
           "business_strikes": 17826000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
           "varieties": [
             {
               "variety_id": "BN-1937-D-3L-01",
@@ -266,61 +373,30 @@
               "description": "Famous variety with missing front leg",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "James Earle Fraser",
-        "reverse": "James Earle Fraser"
-      }
+      ]
     },
     {
       "series_id": "jefferson_nickel",
       "series_name": "Jefferson Nickel",
       "official_name": "Jefferson Nickel",
       "years": {
-        "start": 1938,
-        "end": 2024
+        "start": 1950,
+        "end": 1971
       },
       "specifications": {
-        "diameter_mm": 21.2,
-        "thickness_mm": 1.95,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 21.2
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1938,
-            "end": 1942
-          },
-          "alloy_name": "Copper-Nickel",
-          "alloy": {
-            "copper": 0.75,
-            "nickel": 0.25
-          },
-          "weight": {
-            "grams": 5.0
-          }
-        },
-        {
-          "date_range": {
-            "start": 1942,
-            "end": 1945
-          },
-          "alloy_name": "Wartime Silver",
-          "alloy": {
-            "silver": 0.35,
-            "copper": 0.56,
-            "manganese": 0.09
-          },
-          "weight": {
-            "grams": 5.0
-          }
-        },
-        {
-          "date_range": {
-            "start": 1946,
-            "end": 2024
+            "start": 1950,
+            "end": 1971
           },
           "alloy_name": "Copper-Nickel",
           "alloy": {
@@ -340,9 +416,18 @@
           "business_strikes": 2630030,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
+          "varieties": [],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage Jefferson nickel",
-          "varieties": []
+          "notes": "Lowest mintage Jefferson nickel"
         },
         {
           "coin_id": "US-JEFF-1971-S",
@@ -350,7 +435,14 @@
           "mint": "S",
           "business_strikes": 0,
           "proof_strikes": 3220733,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            }
+          },
           "varieties": [
             {
               "variety_id": "JN-1971-S-NoS-01",
@@ -358,13 +450,12 @@
               "description": "Error proof without S mintmark",
               "estimated_mintage": 200
             }
-          ]
+          ],
+          "weight_grams": 5.0,
+          "diameter_mm": 21.2,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "Felix Schlag",
-        "reverse": "Felix Schlag"
-      }
+      ]
     }
   ]
 }

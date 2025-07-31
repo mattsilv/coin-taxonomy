@@ -4,23 +4,71 @@
   "face_value": 0.1,
   "series": [
     {
-      "series_id": "barber_dime",
-      "series_name": "Barber Dime",
-      "official_name": "Barber Dime",
+      "series_id": "seated_liberty_dime",
+      "series_name": "Seated Liberty Dime",
+      "official_name": "Seated Liberty Dime",
       "years": {
-        "start": 1892,
-        "end": 1916
+        "start": 1837,
+        "end": 1844
       },
       "specifications": {
-        "diameter_mm": 17.9,
-        "thickness_mm": 1.35,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 23.5
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1892,
-            "end": 1916
+            "start": 1837,
+            "end": 1844
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-SLDI-1837-P",
+          "year": 1837,
+          "mint": "P",
+          "business_strikes": 682500,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        },
+        {
+          "coin_id": "US-SLDI-1844-P",
+          "year": 1844,
+          "mint": "P",
+          "business_strikes": 72500,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "PCGS CoinFacts"
+        }
+      ]
+    },
+    {
+      "series_id": "barber_dime",
+      "series_name": "Barber Dime",
+      "official_name": "Barber Dime",
+      "years": {
+        "start": 1894,
+        "end": 1904
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 17.9
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1894,
+            "end": 1904
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -40,9 +88,18 @@
           "business_strikes": 0,
           "proof_strikes": 24,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million",
-          "varieties": []
+          "notes": "24 minted (all proofs), 9 known, values exceed $1.5 million"
         },
         {
           "coin_id": "US-BARD-1895-O",
@@ -51,9 +108,18 @@
           "business_strikes": 440000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest regular mintage",
-          "varieties": []
+          "notes": "Lowest regular mintage"
         },
         {
           "coin_id": "US-BARD-1896-S",
@@ -62,9 +128,18 @@
           "business_strikes": 575056,
           "proof_strikes": null,
           "rarity": "semi-key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Scarce in high grades",
-          "varieties": []
+          "notes": "Scarce in high grades"
         },
         {
           "coin_id": "US-BARD-1901-S",
@@ -73,8 +148,17 @@
           "business_strikes": 593022,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-BARD-1903-S",
@@ -83,8 +167,17 @@
           "business_strikes": 613300,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-BARD-1904-S",
@@ -93,27 +186,31 @@
           "business_strikes": 800000,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "Charles E. Barber",
-        "reverse": "Charles E. Barber"
-      }
+      ]
     },
     {
       "series_id": "mercury_dime",
       "series_name": "Mercury Dime",
-      "official_name": "Winged Liberty Head Dime",
+      "official_name": "Mercury Dime",
       "years": {
         "start": 1916,
         "end": 1945
       },
       "specifications": {
-        "diameter_mm": 17.9,
-        "thickness_mm": 1.35,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 17.9
       },
       "composition_periods": [
         {
@@ -139,9 +236,18 @@
           "business_strikes": 264000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "King of Mercury dimes",
-          "varieties": []
+          "notes": "King of Mercury dimes"
         },
         {
           "coin_id": "US-MERC-1916-P",
@@ -149,8 +255,18 @@
           "mint": "P",
           "business_strikes": 22180080,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-MERC-1916-S",
@@ -158,8 +274,18 @@
           "mint": "S",
           "business_strikes": 10450000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-MERC-1921-D",
@@ -168,9 +294,18 @@
           "business_strikes": 1080000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second-lowest mintage",
-          "varieties": []
+          "notes": "Second-lowest mintage"
         },
         {
           "coin_id": "US-MERC-1921-P",
@@ -179,8 +314,17 @@
           "business_strikes": 1230000,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MERC-1926-S",
@@ -189,9 +333,18 @@
           "business_strikes": 1520000,
           "proof_strikes": null,
           "rarity": "semi-key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Notorious for weak strikes",
-          "varieties": []
+          "notes": "Notorious for weak strikes"
         },
         {
           "coin_id": "US-MERC-1931-D",
@@ -200,8 +353,17 @@
           "business_strikes": 1260000,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MERC-1931-S",
@@ -210,8 +372,17 @@
           "business_strikes": 1800000,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MERC-1942-D",
@@ -219,7 +390,14 @@
           "mint": "D",
           "business_strikes": 60740000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "MD-1942-D-21-01",
@@ -227,7 +405,10 @@
               "description": "2 over 1 overdate variety",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MERC-1942-P",
@@ -235,7 +416,14 @@
           "mint": "P",
           "business_strikes": 205432329,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "MD-1942-P-21-01",
@@ -243,7 +431,10 @@
               "description": "2 over 1 overdate variety",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MERC-1945-D",
@@ -251,8 +442,18 @@
           "mint": "D",
           "business_strikes": 40245000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-MERC-1945-P",
@@ -260,9 +461,19 @@
           "mint": "P",
           "business_strikes": 159130000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "Final year of Mercury dime",
-          "varieties": []
+          "notes": "Final year of Mercury dime"
         },
         {
           "coin_id": "US-MERC-1945-S",
@@ -270,8 +481,14 @@
           "mint": "S",
           "business_strikes": 41920000,
           "proof_strikes": null,
-          "source_citation": "Red Book",
-          "notes": "Final year micro S variety exists",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "MD-1945-S-Micro-01",
@@ -279,13 +496,13 @@
               "description": "Smaller S mintmark variety",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "Red Book",
+          "notes": "Final year micro S variety exists"
         }
-      ],
-      "designers": {
-        "obverse": "Adolph A. Weinman",
-        "reverse": "Adolph A. Weinman"
-      }
+      ]
     },
     {
       "series_id": "roosevelt_dime",
@@ -293,12 +510,11 @@
       "official_name": "Roosevelt Dime",
       "years": {
         "start": 1946,
-        "end": 2024
+        "end": 2009
       },
       "specifications": {
-        "diameter_mm": 17.9,
-        "thickness_mm": 1.35,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 17.9
       },
       "composition_periods": [
         {
@@ -318,7 +534,7 @@
         {
           "date_range": {
             "start": 1965,
-            "end": 2024
+            "end": 2009
           },
           "alloy_name": "Clad",
           "alloy": {
@@ -337,8 +553,18 @@
           "mint": "D",
           "business_strikes": 61043500,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-ROOS-1946-P",
@@ -346,9 +572,19 @@
           "mint": "P",
           "business_strikes": 255250000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "First year Roosevelt dime",
-          "varieties": []
+          "notes": "First year Roosevelt dime"
         },
         {
           "coin_id": "US-ROOS-1946-S",
@@ -356,8 +592,18 @@
           "mint": "S",
           "business_strikes": 27900000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-ROOS-1949-S",
@@ -366,9 +612,18 @@
           "business_strikes": 13510000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest silver mintage",
-          "varieties": []
+          "notes": "Lowest silver mintage"
         },
         {
           "coin_id": "US-ROOS-1964-D",
@@ -376,9 +631,19 @@
           "mint": "D",
           "business_strikes": 1357517180,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "Last silver dime, highest mintage dime ever",
-          "varieties": []
+          "notes": "Last silver dime, highest mintage dime ever"
         },
         {
           "coin_id": "US-ROOS-1964-P",
@@ -386,9 +651,19 @@
           "mint": "P",
           "business_strikes": 933310762,
           "proof_strikes": 3950762,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "Final year of silver Roosevelt dime",
-          "varieties": []
+          "notes": "Final year of silver Roosevelt dime"
         },
         {
           "coin_id": "US-ROOS-1965-P",
@@ -396,9 +671,19 @@
           "mint": "P",
           "business_strikes": 1652140570,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.27,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "First clad dime",
-          "varieties": []
+          "notes": "First clad dime"
         },
         {
           "coin_id": "US-ROOS-1968-S",
@@ -406,8 +691,14 @@
           "mint": "S",
           "business_strikes": 0,
           "proof_strikes": 3041509,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Values over $45,000",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "RD-1968-S-NoS-01",
@@ -415,7 +706,11 @@
               "description": "Error proof without S mintmark",
               "estimated_mintage": 21
             }
-          ]
+          ],
+          "weight_grams": 2.27,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Values over $45,000"
         },
         {
           "coin_id": "US-ROOS-1975-S",
@@ -423,8 +718,14 @@
           "mint": "S",
           "business_strikes": 0,
           "proof_strikes": 2845450,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "$456,000 record sale",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "RD-1975-S-NoS-01",
@@ -432,7 +733,11 @@
               "description": "Error proof without S mintmark",
               "estimated_mintage": 2
             }
-          ]
+          ],
+          "weight_grams": 2.27,
+          "diameter_mm": 17.9,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "$456,000 record sale"
         },
         {
           "coin_id": "US-ROOS-1996-W",
@@ -440,9 +745,19 @@
           "mint": "W",
           "business_strikes": 1457000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.27,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "50th anniversary issue",
-          "varieties": []
+          "notes": "50th anniversary issue"
         },
         {
           "coin_id": "US-ROOS-2009-D",
@@ -451,15 +766,20 @@
           "business_strikes": 49500000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.27,
+          "diameter_mm": 17.9,
           "source_citation": "US Mint records",
-          "notes": "Lowest clad mintage",
-          "varieties": []
+          "notes": "Lowest clad mintage"
         }
-      ],
-      "designers": {
-        "obverse": "John Sinnock",
-        "reverse": "John Sinnock"
-      }
+      ]
     }
   ]
 }

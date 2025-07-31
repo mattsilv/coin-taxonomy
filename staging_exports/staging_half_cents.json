@@ -1,0 +1,39 @@
+{
+  "denomination": "Half Cents",
+  "total_coins": 2,
+  "export_timestamp": "2025-07-31T13:01:36.839103",
+  "coins": [
+    {
+      "coin_id": "US-HCLC-1793-P",
+      "series_id": "half_cent_liberty_cap",
+      "series_name": "Liberty Cap Half Cent",
+      "year": 1793,
+      "mint": "P",
+      "business_strikes": 35334,
+      "proof_strikes": 0,
+      "rarity": "key",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-HCDB-1800-P",
+      "series_id": "half_cent_draped_bust",
+      "series_name": "Draped Bust Half Cent",
+      "year": 1800,
+      "mint": "P",
+      "business_strikes": 202908,
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by Gilbert Stuart and Robert Scot"
+    }
+  ]
+}

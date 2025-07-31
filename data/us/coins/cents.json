@@ -4,22 +4,219 @@
   "face_value": 0.01,
   "series": [
     {
-      "series_id": "indian_head_cent",
-      "series_name": "Indian Head Cent",
-      "official_name": "Indian Head Cent",
+      "series_id": "large_cent_chain",
+      "series_name": "Chain Cent",
+      "official_name": "Chain Cent",
       "years": {
-        "start": 1859,
-        "end": 1909
+        "start": 1793,
+        "end": 1793
       },
       "specifications": {
-        "diameter_mm": 19.05,
-        "thickness_mm": 1.52,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 23.5
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1859,
+            "start": 1793,
+            "end": 1793
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-LCHN-1793-P",
+          "year": 1793,
+          "mint": "P",
+          "business_strikes": 36103,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        }
+      ]
+    },
+    {
+      "series_id": "large_cent_wreath",
+      "series_name": "Wreath Cent",
+      "official_name": "Wreath Cent",
+      "years": {
+        "start": 1793,
+        "end": 1793
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1793,
+            "end": 1793
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-LWRE-1793-P",
+          "year": 1793,
+          "mint": "P",
+          "business_strikes": 63353,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        }
+      ]
+    },
+    {
+      "series_id": "large_cent_draped_bust",
+      "series_name": "Draped Bust Large Cent",
+      "official_name": "Draped Bust Large Cent",
+      "years": {
+        "start": 1799,
+        "end": 1799
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1799,
+            "end": 1799
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-DRPB-1799-P",
+          "year": 1799,
+          "mint": "P",
+          "business_strikes": 904585,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "PCGS CoinFacts"
+        }
+      ]
+    },
+    {
+      "series_id": "large_cent_coronet",
+      "series_name": "Coronet Large Cent",
+      "official_name": "Coronet Large Cent",
+      "years": {
+        "start": 1856,
+        "end": 1856
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1856,
+            "end": 1856
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-CORL-1856-P",
+          "year": 1856,
+          "mint": "P",
+          "business_strikes": 2690463,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        }
+      ]
+    },
+    {
+      "series_id": "flying_eagle_cent",
+      "series_name": "Flying Eagle Cent",
+      "official_name": "Flying Eagle Cent",
+      "years": {
+        "start": 1857,
+        "end": 1858
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1857,
+            "end": 1858
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-FECN-1857-P",
+          "year": 1857,
+          "mint": "P",
+          "business_strikes": 17450000,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+          "notes": "First small cent design, 1856 were patterns only"
+        },
+        {
+          "coin_id": "US-FECN-1858-P",
+          "year": 1858,
+          "mint": "P",
+          "business_strikes": 24600000,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint official records, PCGS CoinFacts"
+        }
+      ]
+    },
+    {
+      "series_id": "indian_head_cent",
+      "series_name": "Indian Head Cent",
+      "official_name": "Indian Head Cent",
+      "years": {
+        "start": 1864,
+        "end": 1909
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 19.05
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1864,
             "end": 1864
           },
           "alloy_name": "Copper-Nickel",
@@ -33,7 +230,7 @@
         },
         {
           "date_range": {
-            "start": 1864,
+            "start": 1869,
             "end": 1909
           },
           "alloy_name": "Bronze",
@@ -54,7 +251,14 @@
           "mint": "P",
           "business_strikes": 39233714,
           "proof_strikes": null,
-          "source_citation": "Red Book",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Nickel",
+            "alloy": {
+              "copper": 0.88,
+              "nickel": 0.12
+            }
+          },
           "varieties": [
             {
               "variety_id": "IHC-1864-P-L-01",
@@ -62,7 +266,10 @@
               "description": "Designer's initial L on ribbon",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 4.67,
+          "diameter_mm": 19.05,
+          "source_citation": "Red Book"
         },
         {
           "coin_id": "US-INCH-1869-P",
@@ -70,7 +277,15 @@
           "mint": "P",
           "business_strikes": 6420000,
           "proof_strikes": null,
-          "source_citation": "Red Book",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
           "varieties": [
             {
               "variety_id": "IHC-1869-P-99-01",
@@ -78,7 +293,10 @@
               "description": "1869/1869 9 over 9 overdate",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "Red Book"
         },
         {
           "coin_id": "US-INCH-1877-P",
@@ -87,9 +305,19 @@
           "business_strikes": 852500,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
+          "varieties": [],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Ultimate key date, extremely low mintage",
-          "varieties": []
+          "notes": "Ultimate key date, extremely low mintage"
         },
         {
           "coin_id": "US-INCH-1888-P",
@@ -97,7 +325,15 @@
           "mint": "P",
           "business_strikes": 37494414,
           "proof_strikes": null,
-          "source_citation": "Red Book",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
           "varieties": [
             {
               "variety_id": "IHC-1888-P-87-01",
@@ -105,7 +341,10 @@
               "description": "1888/1887 8 over 7 overdate",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "Red Book"
         },
         {
           "coin_id": "US-INCH-1908-S",
@@ -114,9 +353,19 @@
           "business_strikes": 1115000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
+          "varieties": [],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Third lowest mintage, first San Francisco Indian cent",
-          "varieties": []
+          "notes": "Third lowest mintage, first San Francisco Indian cent"
         },
         {
           "coin_id": "US-INCH-1909-S",
@@ -125,15 +374,21 @@
           "business_strikes": 309000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
+          "varieties": [],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage of series, final year",
-          "varieties": []
+          "notes": "Lowest mintage of series, final year"
         }
-      ],
-      "designers": {
-        "obverse": "James B. Longacre",
-        "reverse": "James B. Longacre"
-      }
+      ]
     },
     {
       "series_id": "lincoln_wheat_cent",
@@ -141,18 +396,17 @@
       "official_name": "Lincoln Wheat Cent",
       "years": {
         "start": 1909,
-        "end": 1958
+        "end": 1955
       },
       "specifications": {
-        "diameter_mm": 19.05,
-        "thickness_mm": 1.55,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 19.05
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1909,
-            "end": 1942
+            "end": 1931
           },
           "alloy_name": "Bronze",
           "alloy": {
@@ -181,7 +435,7 @@
         {
           "date_range": {
             "start": 1944,
-            "end": 1958
+            "end": 1955
           },
           "alloy_name": "Brass",
           "alloy": {
@@ -201,8 +455,14 @@
           "business_strikes": 484000,
           "proof_strikes": 0,
           "rarity": "key",
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Holy Grail of Lincoln cents",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
           "varieties": [
             {
               "variety_id": "LWC-1909-S-VDB-01",
@@ -210,7 +470,11 @@
               "description": "With designer initials VDB",
               "estimated_mintage": 484000
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Holy Grail of Lincoln cents"
         },
         {
           "coin_id": "US-LWCT-1914-D",
@@ -219,9 +483,19 @@
           "business_strikes": 1193000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
+          "varieties": [],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second most valuable regular issue",
-          "varieties": []
+          "notes": "Second most valuable regular issue"
         },
         {
           "coin_id": "US-LWCT-1922-D",
@@ -229,7 +503,15 @@
           "mint": "D",
           "business_strikes": 7160000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
           "varieties": [
             {
               "variety_id": "LWC-1922-D-NoD-01",
@@ -237,7 +519,10 @@
               "description": "Error without mintmark",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-LWCT-1931-S",
@@ -246,9 +531,19 @@
           "business_strikes": 866000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Bronze",
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            }
+          },
+          "varieties": [],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Great Depression era rarity",
-          "varieties": []
+          "notes": "Great Depression era rarity"
         },
         {
           "coin_id": "US-LWCT-1943-P",
@@ -256,8 +551,14 @@
           "mint": "P",
           "business_strikes": 684628670,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Bronze variety values $300,000-$2,000,000",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Steel",
+            "alloy": {
+              "steel": 0.99,
+              "zinc_coating": 0.01
+            }
+          },
           "varieties": [
             {
               "variety_id": "LWC-1943-P-Bronze-01",
@@ -265,7 +566,11 @@
               "description": "Error struck in bronze instead of steel",
               "estimated_mintage": 40
             }
-          ]
+          ],
+          "weight_grams": 2.7,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "Bronze variety values $300,000-$2,000,000"
         },
         {
           "coin_id": "US-LWCT-1944-P",
@@ -273,7 +578,14 @@
           "mint": "P",
           "business_strikes": 1435400000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Brass",
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            }
+          },
           "varieties": [
             {
               "variety_id": "LWC-1944-P-Steel-01",
@@ -281,7 +593,10 @@
               "description": "Error struck in steel instead of bronze",
               "estimated_mintage": 27
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-LWCT-1955-P",
@@ -289,7 +604,14 @@
           "mint": "P",
           "business_strikes": 330958200,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Brass",
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            }
+          },
           "varieties": [
             {
               "variety_id": "LWC-1955-P-DDO-01",
@@ -297,47 +619,30 @@
               "description": "Dramatic doubling on obverse",
               "estimated_mintage": 22000
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "Victor David Brenner",
-        "reverse": "Victor David Brenner"
-      }
+      ]
     },
     {
       "series_id": "lincoln_memorial_cent",
       "series_name": "Lincoln Memorial Cent",
       "official_name": "Lincoln Memorial Cent",
       "years": {
-        "start": 1959,
-        "end": 2008
+        "start": 1969,
+        "end": 1983
       },
       "specifications": {
-        "diameter_mm": 19.05,
-        "thickness_mm": 1.55,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 19.05
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1959,
-            "end": 1962
-          },
-          "alloy_name": "Bronze",
-          "alloy": {
-            "copper": 0.95,
-            "tin": 0.04,
-            "zinc": 0.01
-          },
-          "weight": {
-            "grams": 3.11
-          }
-        },
-        {
-          "date_range": {
-            "start": 1962,
-            "end": 1982
+            "start": 1969,
+            "end": 1972
           },
           "alloy_name": "Brass",
           "alloy": {
@@ -350,8 +655,8 @@
         },
         {
           "date_range": {
-            "start": 1982,
-            "end": 2008
+            "start": 1983,
+            "end": 1983
           },
           "alloy_name": "Copper-Plated Zinc",
           "alloy": {
@@ -370,8 +675,14 @@
           "mint": "S",
           "business_strikes": 547309631,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "$126,500 record sale in 2005",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Brass",
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            }
+          },
           "varieties": [
             {
               "variety_id": "LMC-1969-S-DDO-01",
@@ -379,7 +690,11 @@
               "description": "Most valuable Memorial cent variety",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "$126,500 record sale in 2005"
         },
         {
           "coin_id": "US-LMCT-1972-P",
@@ -387,7 +702,14 @@
           "mint": "P",
           "business_strikes": 2933255000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Brass",
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            }
+          },
           "varieties": [
             {
               "variety_id": "LMC-1972-P-DDO-01",
@@ -395,7 +717,10 @@
               "description": "Strong doubling, MS65 examples reach $14,000+",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 3.11,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-LMCT-1983-P",
@@ -403,7 +728,14 @@
           "mint": "P",
           "business_strikes": 7752355000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Plated Zinc",
+            "alloy": {
+              "zinc": 0.975,
+              "copper": 0.025
+            }
+          },
           "varieties": [
             {
               "variety_id": "LMC-1983-P-DDR-01",
@@ -411,13 +743,12 @@
               "description": "Doubling on reverse inscriptions",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 19.05,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "Victor David Brenner",
-        "reverse": "Frank Gasparro"
-      }
+      ]
     },
     {
       "series_id": "lincoln_bicentennial_cent",
@@ -428,9 +759,8 @@
         "end": 2009
       },
       "specifications": {
-        "diameter_mm": 19.05,
-        "thickness_mm": 1.55,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 19.05
       },
       "composition_periods": [
         {
@@ -455,7 +785,14 @@
           "mint": "D",
           "business_strikes": 350400000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Plated Zinc",
+            "alloy": {
+              "zinc": 0.975,
+              "copper": 0.025
+            }
+          },
           "varieties": [
             {
               "variety_id": "LBC-2009-D-Birth-01",
@@ -463,7 +800,10 @@
               "description": "2009 Bicentennial - Birth and Early Childhood reverse",
               "estimated_mintage": 350400000
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 19.05,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-LBCT-2009-P",
@@ -471,7 +811,14 @@
           "mint": "P",
           "business_strikes": 284800000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Plated Zinc",
+            "alloy": {
+              "zinc": 0.975,
+              "copper": 0.025
+            }
+          },
           "varieties": [
             {
               "variety_id": "LBC-2009-P-Birth-01",
@@ -479,32 +826,30 @@
               "description": "2009 Bicentennial - Birth and Early Childhood reverse",
               "estimated_mintage": 284800000
             }
-          ]
+          ],
+          "weight_grams": 2.5,
+          "diameter_mm": 19.05,
+          "source_citation": "US Mint records"
         }
-      ],
-      "designers": {
-        "obverse": "Victor David Brenner",
-        "reverse": "Various (4 designers)"
-      }
+      ]
     },
     {
       "series_id": "lincoln_shield_cent",
       "series_name": "Lincoln Shield Cent",
       "official_name": "Lincoln Shield Cent",
       "years": {
-        "start": 2010,
-        "end": 2024
+        "start": 2017,
+        "end": 2019
       },
       "specifications": {
-        "diameter_mm": 19.05,
-        "thickness_mm": 1.55,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 19.05
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 2010,
-            "end": 2024
+            "start": 2017,
+            "end": 2019
           },
           "alloy_name": "Copper-Plated Zinc",
           "alloy": {
@@ -523,9 +868,19 @@
           "mint": "P",
           "business_strikes": 4040000000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Plated Zinc",
+            "alloy": {
+              "zinc": 0.975,
+              "copper": 0.025
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 19.05,
           "source_citation": "US Mint records",
-          "notes": "First P mintmark on cents since wartime",
-          "varieties": []
+          "notes": "First P mintmark on cents since wartime"
         },
         {
           "coin_id": "US-LSCT-2019-W",
@@ -533,15 +888,21 @@
           "mint": "W",
           "business_strikes": 2000000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Copper-Plated Zinc",
+            "alloy": {
+              "zinc": 0.975,
+              "copper": 0.025
+            }
+          },
+          "varieties": [],
+          "weight_grams": 2.5,
+          "diameter_mm": 19.05,
           "source_citation": "US Mint records",
-          "notes": "First W mintmark on cents",
-          "varieties": []
+          "notes": "First W mintmark on cents"
         }
-      ],
-      "designers": {
-        "obverse": "Victor David Brenner",
-        "reverse": "Lyndall Bass"
-      }
+      ]
     }
   ]
 }

@@ -43,49 +43,55 @@ ALWAYS use uv for Python dependency management:
 - Run scripts with: uv run <script>
 - Never use pip directly
 
-## Data Source of Truth - CRITICAL WORKFLOW
-⚠️ **CRITICAL**: JSON source files are the SINGLE SOURCE OF TRUTH for all coin data.
+## Data Source of Truth - CRITICAL WORKFLOW (DATABASE-FIRST PIPELINE)
+⚠️ **CRITICAL**: SQLite database is the SINGLE SOURCE OF TRUTH for all coin data.
 
-⚠️ **NEVER EDIT JSON EXPORT FILES DIRECTLY** - They are generated artifacts!
+⚠️ **NEVER EDIT JSON FILES DIRECTLY** - They are generated artifacts!
 
 ### Data Flow (READ THIS CAREFULLY):
 ```
-JSON Source Files → Database → JSON Export Files
-     ↑              ↑              ↑
-SOURCE OF TRUTH    BUILD ARTIFACT  GENERATED FILES
-(version controlled) (not in git)   (version controlled)
+SQLite Database → JSON Export Files  
+      ↑                    ↑
+SOURCE OF TRUTH      GENERATED FILES
+(version controlled)  (version controlled)
 ```
+
+### Pre-Commit Hook Integration:
+- **All commits trigger automatic export** from SQLite database
+- **JSON files regenerated** automatically via pre-commit hooks
+- **Database is version controlled** and committed to git
+- **Add new coins directly to database** using migration scripts
 
 ### Workflow Rules:
-1. **Database is a build artifact** - not committed to git, generated from JSON source files
-2. **JSON source files in data/us/coins/*.json define everything** - data, schema, relationships
-3. **JSON exports are generated** from database using complete rebuild process
-4. **NEVER edit JSON export files manually** - they will be overwritten on next rebuild
-5. **Always use complete rebuild** for any changes: `uv run python scripts/rebuild_and_export.py`
+1. **SQLite database is the source of truth** - version controlled and committed to git
+2. **JSON files are generated artifacts** - exported from database via pre-commit hooks
+3. **Add new coins using migration scripts** - modify database directly
+4. **NEVER edit JSON files manually** - they will be overwritten on next commit
+5. **Export JSON files from database**: `uv run python scripts/export_from_database.py`
 
-### Complete Rebuild Process (ALWAYS USE THIS):
+### Export Process (DATABASE-FIRST):
 ```bash
-# The canonical command for any changes
-uv run python scripts/rebuild_and_export.py
+# Export JSON files from database (DATABASE-FIRST PIPELINE)
+uv run python scripts/export_from_database.py
 ```
 
-This script performs the complete rebuild:
-1. 🗑️ Removes existing database (`database/coins.db`)
-2. 📖 Initializes database from JSON source files (`scripts/init_database_from_json.py`)
-3. 🔄 Runs universal migration (`scripts/migrate_to_universal_v1_1.py`)
-4. ✅ Validates data integrity (`scripts/data_integrity_check.py`)
-5. 📁 Exports JSON files (`scripts/export_db_v1_1.py`)
+This script performs the database-first export:
+1. 📊 Reads coins from SQLite database (source of truth)
+2. 📁 Generates JSON files by denomination (`data/us/coins/*.json`)
+3. 📄 Creates complete taxonomy file (`data/us/us_coins_complete.json`)
+4. 🔄 Runs universal migration (`scripts/migrate_to_universal_v1_1.py`)
+5. 📁 Exports universal format (`scripts/export_db_v1_1.py`)
 6. 🧪 Validates exports (`scripts/validate.py`)
 7. 🌐 Copies universal data to docs folder
 
-⚠️ **IMPORTANT**: After running rebuild, ALWAYS commit ALL generated files with `git add . && git commit`. The rebuild process updates multiple files (JSON exports, universal data, docs folder) and ALL must be committed together to maintain consistency.
+⚠️ **IMPORTANT**: After adding coins to database, run export and commit ALL generated files with `git add . && git commit`. The export process updates JSON files, universal data, and docs folder - ALL must be committed together.
 
-### Safe Change Process:
-1. **Edit JSON source files** in `data/us/coins/*.json` for any changes
-2. **Run complete rebuild**: `uv run python scripts/rebuild_and_export.py`
-3. **Verify rebuild succeeded** - check that all steps pass
-4. **Commit ALL changes**: `git add . && git commit` (NEVER pick and choose files)
-5. **NEVER commit the database file** - it's a build artifact (already in .gitignore)
+### Safe Change Process (DATABASE-FIRST):
+1. **Add coins to database** using migration scripts (e.g., `scripts/backfill_historical_coins.py`)
+2. **Run database export**: `uv run python scripts/export_from_database.py`
+3. **Verify export succeeded** - check that all steps pass
+4. **Commit ALL changes**: `git add . && git commit` (includes database and generated JSON files)
+5. **Database is now version controlled** - commit database changes to git
 
 ### Emergency Restore:
 - JSON backups: `backups/json_files_*/`

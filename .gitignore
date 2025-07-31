@@ -1,9 +1,11 @@
-# Database files
-database/
+# Database files (DATABASE-FIRST PIPELINE: database is now source of truth)
 backups/
-*.db
-*.sqlite
-*.sqlite3
+# *.db files are now version controlled as source of truth
+# *.sqlite
+# *.sqlite3
+
+# Allow our main database as source of truth
+!database/coins.db
 
 # Local configuration
 config.local.json

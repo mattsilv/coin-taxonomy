@@ -1,0 +1,23 @@
+{
+  "denomination": "Twenty Cents",
+  "total_coins": 1,
+  "export_timestamp": "2025-07-31T13:01:36.840232",
+  "coins": [
+    {
+      "coin_id": "US-TWCT-1875-P",
+      "series_id": "twenty_cent",
+      "series_name": "Twenty Cent Piece",
+      "year": 1875,
+      "mint": "P",
+      "business_strikes": 38500,
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+    }
+  ]
+}

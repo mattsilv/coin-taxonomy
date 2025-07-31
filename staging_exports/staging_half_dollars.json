@@ -1,0 +1,39 @@
+{
+  "denomination": "Half Dollars",
+  "total_coins": 2,
+  "export_timestamp": "2025-07-31T13:01:36.839243",
+  "coins": [
+    {
+      "coin_id": "US-CBHD-1807-P",
+      "series_id": "capped_bust_half_dollar",
+      "series_name": "Capped Bust Half Dollar",
+      "year": 1807,
+      "mint": "P",
+      "business_strikes": 301076,
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": null
+    },
+    {
+      "coin_id": "US-CBHD-1815-P",
+      "series_id": "capped_bust_half_dollar",
+      "series_name": "Capped Bust Half Dollar",
+      "year": 1815,
+      "mint": "P",
+      "business_strikes": 47150,
+      "proof_strikes": 0,
+      "rarity": "key",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts",
+      "notes": null
+    }
+  ]
+}

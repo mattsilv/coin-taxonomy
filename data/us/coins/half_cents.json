@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "denomination": "Half Cents",
+  "face_value": 0.005,
+  "series": [
+    {
+      "series_id": "half_cent_liberty_cap",
+      "series_name": "Liberty Cap Half Cent",
+      "official_name": "Liberty Cap Half Cent",
+      "years": {
+        "start": 1793,
+        "end": 1793
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1793,
+            "end": 1793
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-HCLC-1793-P",
+          "year": 1793,
+          "mint": "P",
+          "business_strikes": 35334,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        }
+      ]
+    },
+    {
+      "series_id": "half_cent_draped_bust",
+      "series_name": "Draped Bust Half Cent",
+      "official_name": "Draped Bust Half Cent",
+      "years": {
+        "start": 1800,
+        "end": 1800
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1800,
+            "end": 1800
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-HCDB-1800-P",
+          "year": 1800,
+          "mint": "P",
+          "business_strikes": 202908,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024",
+          "notes": "Designed by Gilbert Stuart and Robert Scot"
+        }
+      ]
+    }
+  ]
+}

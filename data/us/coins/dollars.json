@@ -4,23 +4,108 @@
   "face_value": 1.0,
   "series": [
     {
-      "series_id": "morgan_dollar",
-      "series_name": "Morgan Dollar",
-      "official_name": "Morgan Dollar",
+      "series_id": "flowing_hair_dollar",
+      "series_name": "Flowing Hair Dollar",
+      "official_name": "Flowing Hair Dollar",
       "years": {
-        "start": 1878,
-        "end": 1921
+        "start": 1794,
+        "end": 1794
       },
       "specifications": {
-        "diameter_mm": 38.1,
-        "thickness_mm": 2.4,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 23.5
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1878,
-            "end": 1921
+            "start": 1794,
+            "end": 1794
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-FHDO-1794-P",
+          "year": 1794,
+          "mint": "P",
+          "business_strikes": 1758,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "PCGS CoinFacts"
+        }
+      ]
+    },
+    {
+      "series_id": "gobrecht_dollar",
+      "series_name": "Gobrecht Dollar",
+      "official_name": "Gobrecht Dollar",
+      "years": {
+        "start": 1836,
+        "end": 1838
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1836,
+            "end": 1838
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-GBDO-1836-P",
+          "year": 1836,
+          "mint": "P",
+          "business_strikes": 0,
+          "proof_strikes": 1000,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint records, PCGS CoinFacts"
+        },
+        {
+          "coin_id": "US-GBDO-1838-P",
+          "year": 1838,
+          "mint": "P",
+          "business_strikes": 300,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "U.S. Mint records, PCGS CoinFacts"
+        }
+      ]
+    },
+    {
+      "series_id": "morgan_dollar",
+      "series_name": "Morgan Dollar",
+      "official_name": "Morgan Dollar",
+      "years": {
+        "start": 1879,
+        "end": 1903
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 38.1
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1879,
+            "end": 1903
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -40,9 +125,18 @@
           "business_strikes": 756000,
           "proof_strikes": null,
           "rarity": "semi-key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Important Carson City issue",
-          "varieties": []
+          "notes": "Important Carson City issue"
         },
         {
           "coin_id": "US-MORG-1889-CC",
@@ -51,9 +145,18 @@
           "business_strikes": 350000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second key date Carson City issue",
-          "varieties": []
+          "notes": "Second key date Carson City issue"
         },
         {
           "coin_id": "US-MORG-1893-S",
@@ -62,9 +165,18 @@
           "business_strikes": 100000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Absolute key date",
-          "varieties": []
+          "notes": "Absolute key date"
         },
         {
           "coin_id": "US-MORG-1894-P",
@@ -73,9 +185,18 @@
           "business_strikes": 110000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Philadelphia key",
-          "varieties": []
+          "notes": "Philadelphia key"
         },
         {
           "coin_id": "US-MORG-1895-O",
@@ -84,8 +205,17 @@
           "business_strikes": 450000,
           "proof_strikes": null,
           "rarity": "key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MORG-1895-P",
@@ -94,9 +224,18 @@
           "business_strikes": 0,
           "proof_strikes": 880,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Proofs only - No business strikes",
-          "varieties": []
+          "notes": "Proofs only - No business strikes"
         },
         {
           "coin_id": "US-MORG-1895-S",
@@ -105,8 +244,17 @@
           "business_strikes": 400000,
           "proof_strikes": null,
           "rarity": "key",
-          "source_citation": "PCGS CoinFacts",
-          "varieties": []
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-MORG-1903-O",
@@ -114,15 +262,21 @@
           "mint": "O",
           "business_strikes": 4450000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Treasury Release coin",
-          "varieties": []
+          "notes": "Treasury Release coin"
         }
-      ],
-      "designers": {
-        "obverse": "George T. Morgan",
-        "reverse": "George T. Morgan"
-      }
+      ]
     },
     {
       "series_id": "peace_dollar",
@@ -130,18 +284,17 @@
       "official_name": "Peace Dollar",
       "years": {
         "start": 1921,
-        "end": 1935
+        "end": 1934
       },
       "specifications": {
-        "diameter_mm": 38.1,
-        "thickness_mm": 2.4,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 38.1
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 1921,
-            "end": 1935
+            "end": 1934
           },
           "alloy_name": "Silver",
           "alloy": {
@@ -161,8 +314,13 @@
           "business_strikes": 1006473,
           "proof_strikes": null,
           "rarity": "semi-key",
-          "source_citation": "PCGS CoinFacts",
-          "notes": "High Relief - Most artistic",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
           "varieties": [
             {
               "variety_id": "PD-1921-P-HR-01",
@@ -170,7 +328,11 @@
               "description": "First year high relief design",
               "estimated_mintage": 1006473
             }
-          ]
+          ],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
+          "source_citation": "PCGS CoinFacts",
+          "notes": "High Relief - Most artistic"
         },
         {
           "coin_id": "US-PEAC-1927-D",
@@ -179,9 +341,18 @@
           "business_strikes": 1268900,
           "proof_strikes": null,
           "rarity": "semi-key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Scarce despite higher mintage",
-          "varieties": []
+          "notes": "Scarce despite higher mintage"
         },
         {
           "coin_id": "US-PEAC-1928-P",
@@ -190,9 +361,18 @@
           "business_strikes": 360649,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Undisputed key date",
-          "varieties": []
+          "notes": "Undisputed key date"
         },
         {
           "coin_id": "US-PEAC-1934-S",
@@ -201,34 +381,38 @@
           "business_strikes": 1011000,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Silver",
+            "alloy": {
+              "silver": 0.9,
+              "copper": 0.1
+            }
+          },
+          "varieties": [],
+          "weight_grams": 26.73,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Second key date",
-          "varieties": []
+          "notes": "Second key date"
         }
-      ],
-      "designers": {
-        "obverse": "Anthony de Francisci",
-        "reverse": "Anthony de Francisci"
-      }
+      ]
     },
     {
       "series_id": "eisenhower_dollar",
       "series_name": "Eisenhower Dollar",
       "official_name": "Eisenhower Dollar",
       "years": {
-        "start": 1971,
-        "end": 1978
+        "start": 1973,
+        "end": 1976
       },
       "specifications": {
-        "diameter_mm": 38.1,
-        "thickness_mm": 2.58,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 38.1
       },
       "composition_periods": [
         {
           "date_range": {
-            "start": 1971,
-            "end": 1978
+            "start": 1973,
+            "end": 1976
           },
           "alloy_name": "Clad",
           "alloy": {
@@ -237,20 +421,6 @@
           },
           "weight": {
             "grams": 22.68
-          }
-        },
-        {
-          "date_range": {
-            "start": 1971,
-            "end": 1976
-          },
-          "alloy_name": "40% Silver",
-          "alloy": {
-            "silver": 0.4,
-            "copper": 0.6
-          },
-          "weight": {
-            "grams": 24.59
           }
         }
       ],
@@ -262,9 +432,18 @@
           "business_strikes": 1769258,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 22.68,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage",
-          "varieties": []
+          "notes": "Lowest mintage"
         },
         {
           "coin_id": "US-EISE-1973-P",
@@ -273,9 +452,18 @@
           "business_strikes": 1769258,
           "proof_strikes": null,
           "rarity": "key",
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 22.68,
+          "diameter_mm": 38.1,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage",
-          "varieties": []
+          "notes": "Lowest mintage"
         },
         {
           "coin_id": "US-EISE-1976-P",
@@ -283,7 +471,14 @@
           "mint": "P",
           "business_strikes": 117337000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "ED-1976-P-T1-01",
@@ -297,13 +492,12 @@
               "description": "Bicentennial design Type 2",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 22.68,
+          "diameter_mm": 38.1,
+          "source_citation": "PCGS CoinFacts"
         }
-      ],
-      "designers": {
-        "obverse": "Frank Gasparro",
-        "reverse": "Frank Gasparro"
-      }
+      ]
     },
     {
       "series_id": "susan_b_anthony_dollar",
@@ -314,9 +508,8 @@
         "end": 1999
       },
       "specifications": {
-        "diameter_mm": 26.5,
-        "thickness_mm": 2.0,
-        "edge": "reeded"
+        "edge": "plain",
+        "diameter_mm": 26.5
       },
       "composition_periods": [
         {
@@ -341,7 +534,14 @@
           "mint": "P",
           "business_strikes": 360222000,
           "proof_strikes": null,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "SBA-1979-P-WR-01",
@@ -349,7 +549,10 @@
               "description": "Scarce variety worth premium",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 8.1,
+          "diameter_mm": 26.5,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-SANT-1979-S",
@@ -357,7 +560,14 @@
           "mint": "S",
           "business_strikes": 0,
           "proof_strikes": 3677175,
-          "source_citation": "PCGS CoinFacts",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
           "varieties": [
             {
               "variety_id": "SBA-1979-S-T2-01",
@@ -365,7 +575,10 @@
               "description": "Clear S, 15-20% of proofs",
               "estimated_mintage": null
             }
-          ]
+          ],
+          "weight_grams": 8.1,
+          "diameter_mm": 26.5,
+          "source_citation": "PCGS CoinFacts"
         },
         {
           "coin_id": "US-SANT-1999-P",
@@ -373,15 +586,21 @@
           "mint": "P",
           "business_strikes": 29592000,
           "proof_strikes": null,
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Clad",
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            }
+          },
+          "varieties": [],
+          "weight_grams": 8.1,
+          "diameter_mm": 26.5,
           "source_citation": "US Mint records",
-          "notes": "Stopgap before Sacagawea",
-          "varieties": []
+          "notes": "Stopgap before Sacagawea"
         }
-      ],
-      "designers": {
-        "obverse": "Frank Gasparro",
-        "reverse": "Frank Gasparro"
-      }
+      ]
     },
     {
       "series_id": "sacagawea_dollar",
@@ -389,18 +608,17 @@
       "official_name": "Sacagawea Dollar",
       "years": {
         "start": 2000,
-        "end": 2008
+        "end": 2000
       },
       "specifications": {
-        "diameter_mm": 26.5,
-        "thickness_mm": 2.0,
-        "edge": "plain"
+        "edge": "plain",
+        "diameter_mm": 26.5
       },
       "composition_periods": [
         {
           "date_range": {
             "start": 2000,
-            "end": 2008
+            "end": 2000
           },
           "alloy_name": "Manganese Brass",
           "alloy": {
@@ -421,8 +639,20 @@
           "mint": "D",
           "business_strikes": 518916000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
-          "varieties": []
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Manganese Brass",
+            "alloy": {
+              "copper": 0.885,
+              "zinc": 0.06,
+              "manganese": 0.035,
+              "nickel": 0.02
+            }
+          },
+          "varieties": [],
+          "weight_grams": 8.1,
+          "diameter_mm": 26.5,
+          "source_citation": "US Mint records"
         },
         {
           "coin_id": "US-SACA-2000-P",
@@ -430,7 +660,16 @@
           "mint": "P",
           "business_strikes": 767140000,
           "proof_strikes": null,
-          "source_citation": "US Mint records",
+          "rarity": null,
+          "composition": {
+            "alloy_name": "Manganese Brass",
+            "alloy": {
+              "copper": 0.885,
+              "zinc": 0.06,
+              "manganese": 0.035,
+              "nickel": 0.02
+            }
+          },
           "varieties": [
             {
               "variety_id": "SAC-2000-P-Cheerios-01",
@@ -444,13 +683,12 @@
               "description": "5,000 special pieces",
               "estimated_mintage": 5000
             }
-          ]
+          ],
+          "weight_grams": 8.1,
+          "diameter_mm": 26.5,
+          "source_citation": "US Mint records"
         }
-      ],
-      "designers": {
-        "obverse": "Glenna Goodacre",
-        "reverse": "Thomas D. Rogers Sr."
-      }
+      ]
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "country": "US",
+  "denomination": "Twenty Cents",
+  "face_value": 0.2,
+  "series": [
+    {
+      "series_id": "twenty_cent",
+      "series_name": "Twenty Cent Piece",
+      "official_name": "Twenty Cent Piece",
+      "years": {
+        "start": 1875,
+        "end": 1875
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1875,
+            "end": 1875
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-TWCT-1875-P",
+          "year": 1875,
+          "mint": "P",
+          "business_strikes": 38500,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024",
+          "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+        }
+      ]
+    }
+  ]
+}

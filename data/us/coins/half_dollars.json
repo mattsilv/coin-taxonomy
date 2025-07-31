@@ -1,0 +1,56 @@
+{
+  "country": "US",
+  "denomination": "Half Dollars",
+  "face_value": 0.5,
+  "series": [
+    {
+      "series_id": "capped_bust_half_dollar",
+      "series_name": "Capped Bust Half Dollar",
+      "official_name": "Capped Bust Half Dollar",
+      "years": {
+        "start": 1807,
+        "end": 1815
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 23.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1807,
+            "end": 1815
+          },
+          "alloy_name": "Historical",
+          "alloy": {}
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-CBHD-1807-P",
+          "year": 1807,
+          "mint": "P",
+          "business_strikes": 301076,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "Red Book 2024"
+        },
+        {
+          "coin_id": "US-CBHD-1815-P",
+          "year": 1815,
+          "mint": "P",
+          "business_strikes": 47150,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {},
+          "varieties": [],
+          "diameter_mm": 23.5,
+          "source_citation": "PCGS CoinFacts"
+        }
+      ]
+    }
+  ]
+}

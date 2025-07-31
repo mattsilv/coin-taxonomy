@@ -1,7 +1,672 @@
 {
   "country_code": "US",
-  "total_issues": 86,
+  "total_issues": 102,
   "issues": [
+    {
+      "issue_id": "US-UNK-1793-P",
+      "object_type": "coin",
+      "series_id": "half_cent_liberty_cap",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Half Cents",
+        "common_names": [
+          "Half Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1793,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "half_cent_liberty_cap_obverse_1793",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "half_cent_liberty_cap_reverse_1793",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 35334,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "Red Book 2024"
+    },
+    {
+      "issue_id": "US-UNK-1794-P",
+      "object_type": "coin",
+      "series_id": "flowing_hair_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Dollars",
+        "common_names": [
+          "Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1794,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "flowing_hair_dollar_obverse_1794",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "flowing_hair_dollar_reverse_1794",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 1758,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1799-P",
+      "object_type": "coin",
+      "series_id": "large_cent_draped_bust",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Cents",
+        "common_names": [
+          "Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1799,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "large_cent_draped_bust_obverse_1799",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "large_cent_draped_bust_reverse_1799",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 904585,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1800-P",
+      "object_type": "coin",
+      "series_id": "half_cent_draped_bust",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Half Cents",
+        "common_names": [
+          "Half Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1800,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "half_cent_draped_bust_obverse_1800",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "half_cent_draped_bust_reverse_1800",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 202908,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by Gilbert Stuart and Robert Scot"
+    },
+    {
+      "issue_id": "US-UNK-1807-P",
+      "object_type": "coin",
+      "series_id": "capped_bust_half_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Half Dollars",
+        "common_names": [
+          "Half Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1807,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "capped_bust_half_dollar_obverse_1807",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "capped_bust_half_dollar_reverse_1807",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 301076,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "Red Book 2024"
+    },
+    {
+      "issue_id": "US-UNK-1815-P",
+      "object_type": "coin",
+      "series_id": "capped_bust_half_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Half Dollars",
+        "common_names": [
+          "Half Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1815,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "capped_bust_half_dollar_obverse_1815",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "capped_bust_half_dollar_reverse_1815",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 47150,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1836-P",
+      "object_type": "coin",
+      "series_id": "gobrecht_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Dollars",
+        "common_names": [
+          "Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1836,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "gobrecht_dollar_obverse_1836",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "gobrecht_dollar_reverse_1836",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1000
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "U.S. Mint records, PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1837-P",
+      "object_type": "coin",
+      "series_id": "seated_liberty_dime",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Dimes",
+        "common_names": [
+          "Dimes"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1837,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "seated_liberty_dime_obverse_1837",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "seated_liberty_dime_reverse_1837",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 682500,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "Red Book 2024"
+    },
+    {
+      "issue_id": "US-UNK-1838-P",
+      "object_type": "coin",
+      "series_id": "gobrecht_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Dollars",
+        "common_names": [
+          "Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1838,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "gobrecht_dollar_obverse_1838",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "gobrecht_dollar_reverse_1838",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 300,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "U.S. Mint records, PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1844-P",
+      "object_type": "coin",
+      "series_id": "seated_liberty_dime",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Dimes",
+        "common_names": [
+          "Dimes"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1844,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "seated_liberty_dime_obverse_1844",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "seated_liberty_dime_reverse_1844",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 72500,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "PCGS CoinFacts"
+    },
+    {
+      "issue_id": "US-UNK-1856-P",
+      "object_type": "coin",
+      "series_id": "large_cent_coronet",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Cents",
+        "common_names": [
+          "Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1856,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "large_cent_coronet_obverse_1856",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "large_cent_coronet_reverse_1856",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2690463,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "Red Book 2024"
+    },
+    {
+      "issue_id": "US-UNK-1857-P",
+      "object_type": "coin",
+      "series_id": "flying_eagle_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Cents",
+        "common_names": [
+          "Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1857,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "flying_eagle_cent_obverse_1857",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "flying_eagle_cent_reverse_1857",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 17450000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "U.S. Mint official records, PCGS CoinFacts",
+      "notes": "First small cent design, 1856 were patterns only"
+    },
+    {
+      "issue_id": "US-UNK-1858-P",
+      "object_type": "coin",
+      "series_id": "flying_eagle_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Cents",
+        "common_names": [
+          "Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1858,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "flying_eagle_cent_obverse_1858",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "flying_eagle_cent_reverse_1858",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 24600000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "U.S. Mint official records, PCGS CoinFacts"
+    },
     {
       "issue_id": "US-UNK-1864-P",
       "object_type": "coin",
@@ -171,6 +836,109 @@
       "source_citation": "Red Book"
     },
     {
+      "issue_id": "US-UNK-1873-P",
+      "object_type": "coin",
+      "series_id": "trade_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Trade Dollars",
+        "common_names": [
+          "Trade Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1873,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "trade_dollar_obverse_1873",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "trade_dollar_reverse_1873",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 396635,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "U.S. Mint official records, Stack's Bowers"
+    },
+    {
+      "issue_id": "US-UNK-1875-P",
+      "object_type": "coin",
+      "series_id": "twenty_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Twenty Cents",
+        "common_names": [
+          "Twenty Cents"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1875,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "twenty_cent_obverse_1875",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "twenty_cent_reverse_1875",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 38500,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+    },
+    {
       "issue_id": "US-UNK-1877-P",
       "object_type": "coin",
       "series_id": "shield_nickel",
@@ -221,6 +989,57 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "notes": "Proof-only issue"
+    },
+    {
+      "issue_id": "US-UNK-1878-CC",
+      "object_type": "coin",
+      "series_id": "trade_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States of America",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Trade Dollars",
+        "common_names": [
+          "Trade Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": 1878,
+      "mint_id": "CC",
+      "specifications": {
+        "weight_grams": null,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "trade_dollar_obverse_1878",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "trade_dollar_reverse_1878",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 97000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "source_citation": "U.S. Mint official records"
     },
     {
       "issue_id": "US-UNK-1878-P",

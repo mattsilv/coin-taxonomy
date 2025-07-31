@@ -1,0 +1,39 @@
+{
+  "denomination": "Trade Dollars",
+  "total_coins": 2,
+  "export_timestamp": "2025-07-31T13:01:36.840120",
+  "coins": [
+    {
+      "coin_id": "US-TRDO-1873-P",
+      "series_id": "trade_dollar",
+      "series_name": "Trade Dollar",
+      "year": 1873,
+      "mint": "P",
+      "business_strikes": 396635,
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "U.S. Mint official records, Stack's Bowers",
+      "notes": null
+    },
+    {
+      "coin_id": "US-TRDO-1878-CC",
+      "series_id": "trade_dollar",
+      "series_name": "Trade Dollar",
+      "year": 1878,
+      "mint": "CC",
+      "business_strikes": 97000,
+      "proof_strikes": 0,
+      "rarity": "key",
+      "composition": {},
+      "weight_grams": null,
+      "diameter_mm": null,
+      "varieties": [],
+      "source_citation": "U.S. Mint official records",
+      "notes": null
+    }
+  ]
+}

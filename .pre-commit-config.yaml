@@ -3,13 +3,13 @@
 repos:
   - repo: local
     hooks:
-      - id: rebuild-and-export-data
-        name: Rebuild database and export JSON files
-        entry: uv run python scripts/rebuild_and_export.py
+      - id: export-from-database
+        name: Export JSON files from SQLite database (DATABASE-FIRST PIPELINE)
+        entry: uv run python scripts/export_from_database.py
         language: system
-        files: (scripts/migrate_to_universal_v1_1\.py|scripts/export_db_v1_1\.py|scripts/rebuild_and_export\.py)$
+        files: (database/coins\.db|scripts/export_from_database\.py)$
         pass_filenames: false
-        always_run: false
+        always_run: true
         
       - id: validate-json-exports
         name: Validate JSON exports

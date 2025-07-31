@@ -1,0 +1,208 @@
+{
+  "export_timestamp": "2025-07-31T13:01:36.835525",
+  "summary": {
+    "total_coins": {
+      "production": 99,
+      "staging": 118,
+      "difference": 19
+    },
+    "year_coverage": {
+      "production_range": "1864-2020",
+      "staging_range": "1793-2020"
+    },
+    "historical_coverage_1800s": {
+      "production": 22,
+      "staging": 41,
+      "improvement": 19,
+      "improvement_percentage": 86.4
+    }
+  },
+  "new_series_added": [
+    "Capped Bust Half Dollar",
+    "Chain Cent",
+    "Coronet Large Cent",
+    "Draped Bust Half Cent",
+    "Draped Bust Large Cent",
+    "Flowing Hair Dollar",
+    "Flying Eagle Cent",
+    "Gobrecht Dollar",
+    "Liberty Cap Half Cent",
+    "Seated Liberty Dime",
+    "Seated Liberty Quarter",
+    "Trade Dollar",
+    "Twenty Cent Piece",
+    "Wreath Cent"
+  ],
+  "all_series_in_staging": [
+    {
+      "series_name": "Chain Cent",
+      "coin_count": 1,
+      "year_range": "1793-1793"
+    },
+    {
+      "series_name": "Liberty Cap Half Cent",
+      "coin_count": 1,
+      "year_range": "1793-1793"
+    },
+    {
+      "series_name": "Wreath Cent",
+      "coin_count": 1,
+      "year_range": "1793-1793"
+    },
+    {
+      "series_name": "Flowing Hair Dollar",
+      "coin_count": 1,
+      "year_range": "1794-1794"
+    },
+    {
+      "series_name": "Draped Bust Large Cent",
+      "coin_count": 1,
+      "year_range": "1799-1799"
+    },
+    {
+      "series_name": "Draped Bust Half Cent",
+      "coin_count": 1,
+      "year_range": "1800-1800"
+    },
+    {
+      "series_name": "Capped Bust Half Dollar",
+      "coin_count": 2,
+      "year_range": "1807-1815"
+    },
+    {
+      "series_name": "Gobrecht Dollar",
+      "coin_count": 2,
+      "year_range": "1836-1838"
+    },
+    {
+      "series_name": "Seated Liberty Dime",
+      "coin_count": 2,
+      "year_range": "1837-1844"
+    },
+    {
+      "series_name": "Seated Liberty Quarter",
+      "coin_count": 1,
+      "year_range": "1838-1838"
+    },
+    {
+      "series_name": "Coronet Large Cent",
+      "coin_count": 1,
+      "year_range": "1856-1856"
+    },
+    {
+      "series_name": "Flying Eagle Cent",
+      "coin_count": 2,
+      "year_range": "1857-1858"
+    },
+    {
+      "series_name": "Indian Head Cent",
+      "coin_count": 6,
+      "year_range": "1864-1909"
+    },
+    {
+      "series_name": "Shield Nickel",
+      "coin_count": 4,
+      "year_range": "1867-1880"
+    },
+    {
+      "series_name": "Trade Dollar",
+      "coin_count": 2,
+      "year_range": "1873-1878"
+    },
+    {
+      "series_name": "Twenty Cent Piece",
+      "coin_count": 1,
+      "year_range": "1875-1875"
+    },
+    {
+      "series_name": "Morgan Dollar",
+      "coin_count": 8,
+      "year_range": "1879-1903"
+    },
+    {
+      "series_name": "Liberty Head Nickel",
+      "coin_count": 4,
+      "year_range": "1883-1913"
+    },
+    {
+      "series_name": "Barber Quarter",
+      "coin_count": 4,
+      "year_range": "1892-1913"
+    },
+    {
+      "series_name": "Barber Dime",
+      "coin_count": 6,
+      "year_range": "1894-1904"
+    },
+    {
+      "series_name": "Lincoln Wheat Cent",
+      "coin_count": 7,
+      "year_range": "1909-1955"
+    },
+    {
+      "series_name": "Buffalo Nickel",
+      "coin_count": 5,
+      "year_range": "1913-1937"
+    },
+    {
+      "series_name": "Mercury Dime",
+      "coin_count": 13,
+      "year_range": "1916-1945"
+    },
+    {
+      "series_name": "Standing Liberty Quarter",
+      "coin_count": 5,
+      "year_range": "1916-1927"
+    },
+    {
+      "series_name": "Peace Dollar",
+      "coin_count": 4,
+      "year_range": "1921-1934"
+    },
+    {
+      "series_name": "Washington Quarter",
+      "coin_count": 5,
+      "year_range": "1932-2020"
+    },
+    {
+      "series_name": "Roosevelt Dime",
+      "coin_count": 11,
+      "year_range": "1946-2009"
+    },
+    {
+      "series_name": "Jefferson Nickel",
+      "coin_count": 2,
+      "year_range": "1950-1971"
+    },
+    {
+      "series_name": "Lincoln Memorial Cent",
+      "coin_count": 3,
+      "year_range": "1969-1983"
+    },
+    {
+      "series_name": "Eisenhower Dollar",
+      "coin_count": 3,
+      "year_range": "1973-1976"
+    },
+    {
+      "series_name": "Susan B. Anthony Dollar",
+      "coin_count": 3,
+      "year_range": "1979-1999"
+    },
+    {
+      "series_name": "Sacagawea Dollar",
+      "coin_count": 2,
+      "year_range": "2000-2000"
+    },
+    {
+      "series_name": "Lincoln Bicentennial Cent",
+      "coin_count": 2,
+      "year_range": "2009-2009"
+    },
+    {
+      "series_name": "Lincoln Shield Cent",
+      "coin_count": 2,
+      "year_range": "2017-2019"
+    }
+  ]
+}
