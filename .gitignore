@@ -45,3 +45,4 @@ docs/private/
 docs/internal/
 
 .env
+.claude/

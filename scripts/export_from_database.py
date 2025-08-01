@@ -53,7 +53,7 @@ class DatabaseExporter:
             for denom_name, count in denominations:
                 print(f"📄 Exporting {denom_name}: {count} coins")
                 
-                # Get all coins for this denomination with series grouping (including visual descriptions)
+                # Get all coins for this denomination with series grouping (including new taxonomy fields)
                 cursor.execute('''
                     SELECT 
                         coin_id, series_id, series_name, year, mint,
@@ -61,7 +61,8 @@ class DatabaseExporter:
                         composition, weight_grams, diameter_mm,
                         varieties, source_citation, notes,
                         country, obverse_description, reverse_description,
-                        distinguishing_features, identification_keywords, common_names
+                        distinguishing_features, identification_keywords, common_names,
+                        category, issuer, series_year, calendar_type, original_date
                     FROM coins
                     WHERE denomination = ?
                     ORDER BY year, series_name, mint

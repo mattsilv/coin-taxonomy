@@ -24,7 +24,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -75,7 +75,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -177,7 +177,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -331,7 +331,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -414,7 +414,7 @@
     {
       "issue_id": "US-UNK-1838-P",
       "object_type": "coin",
-      "series_id": "gobrecht_dollar",
+      "series_id": "seated_liberty_quarter",
       "issuing_entity": {
         "country_code": "US",
         "authority_name": "United States of America",
@@ -423,9 +423,9 @@
       },
       "denomination": {
         "face_value": 0.01,
-        "unit_name": "Dollars",
+        "unit_name": "Quarters",
         "common_names": [
-          "Dollars"
+          "Quarters"
         ],
         "system_fraction": "1/100 dollar"
       },
@@ -433,12 +433,12 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
         "obverse": {
-          "design_id": "gobrecht_dollar_obverse_1838",
+          "design_id": "seated_liberty_quarter_obverse_1838",
           "primary_element": {
             "type": "portrait",
             "subject_id": "unknown",
@@ -446,7 +446,7 @@
           }
         },
         "reverse": {
-          "design_id": "gobrecht_dollar_reverse_1838",
+          "design_id": "seated_liberty_quarter_reverse_1838",
           "primary_element": {
             "type": "symbol",
             "subject_id": "unknown",
@@ -455,12 +455,12 @@
         }
       },
       "mintage": {
-        "business_strikes": 300,
+        "business_strikes": 466000,
         "proof_strikes": 0
       },
-      "rarity": "key",
+      "rarity": "scarce",
       "varieties": [],
-      "source_citation": "U.S. Mint records, PCGS CoinFacts"
+      "source_citation": "Red Book 2024"
     },
     {
       "issue_id": "US-UNK-1844-P",
@@ -586,7 +586,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -638,7 +638,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -857,7 +857,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -908,7 +908,7 @@
       "mint_id": "P",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {
@@ -1012,7 +1012,7 @@
       "mint_id": "CC",
       "specifications": {
         "weight_grams": null,
-        "diameter_mm": null,
+        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "sides": {

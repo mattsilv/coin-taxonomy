@@ -35,6 +35,11 @@ def create_coins_table(conn):
             source_citation TEXT,
             notes TEXT,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            obverse_description TEXT NOT NULL,
+            reverse_description TEXT NOT NULL,
+            distinguishing_features TEXT NOT NULL,
+            identification_keywords TEXT NOT NULL,
+            common_names TEXT NOT NULL,
             
             CONSTRAINT valid_coin_id_format CHECK (
                 coin_id GLOB 'US-[A-Z][A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9]-[A-Z]*'
@@ -104,7 +109,12 @@ def load_denomination_data(file_path):
                 'diameter_mm': diameter_mm,
                 'varieties': json.dumps(coin.get('varieties', [])),
                 'source_citation': coin.get('source_citation'),
-                'notes': coin.get('notes')
+                'notes': coin.get('notes'),
+                'obverse_description': coin.get('obverse_description', ''),
+                'reverse_description': coin.get('reverse_description', ''),
+                'distinguishing_features': json.dumps(coin.get('distinguishing_features', [])),
+                'identification_keywords': json.dumps(coin.get('identification_keywords', [])),
+                'common_names': json.dumps(coin.get('common_names', []))
             }
             
             coins.append(coin_record)
@@ -137,12 +147,14 @@ def populate_coins_table(conn):
             coin_id, series_id, country, denomination, series_name,
             year, mint, business_strikes, proof_strikes, rarity,
             composition, weight_grams, diameter_mm, varieties,
-            source_citation, notes
+            source_citation, notes, obverse_description, reverse_description,
+            distinguishing_features, identification_keywords, common_names
         ) VALUES (
             :coin_id, :series_id, :country, :denomination, :series_name,
             :year, :mint, :business_strikes, :proof_strikes, :rarity,
             :composition, :weight_grams, :diameter_mm, :varieties,
-            :source_citation, :notes
+            :source_citation, :notes, :obverse_description, :reverse_description,
+            :distinguishing_features, :identification_keywords, :common_names
         )
     '''
     

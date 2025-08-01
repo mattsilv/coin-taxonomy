@@ -47,37 +47,77 @@ class HistoricalCoinBackfill:
             # Large Cents - Critical Priority (65 years)
             {"coin_id": "US-LCHN-1793-P", "series_id": "large_cent_chain", "series_name": "Chain Cent", 
              "year": 1793, "mint": "P", "denomination": "Cents", "business_strikes": 36103, 
-             "rarity": "key", "source_citation": "Red Book 2024"},
+             "rarity": "key", "source_citation": "Red Book 2024",
+             "obverse_description": "Liberty head profile with flowing hair facing right, 'LIBERTY' above, date below",
+             "reverse_description": "Circular chain with 15 links surrounding 'ONE CENT', '1/100' below",
+             "distinguishing_features": ["First U.S. cent", "Chain design controversial", "Large copper coin 27mm", "15-link chain variant", "Henry Voigt design"],
+             "identification_keywords": ["chain cent", "flowing hair", "1793 cent", "large cent", "chain reverse", "first cent", "copper cent", "15 links"],
+             "common_names": ["Chain Cent", "1793 Chain Cent", "Flowing Hair Chain Cent"]},
             
             {"coin_id": "US-LWRE-1793-P", "series_id": "large_cent_wreath", "series_name": "Wreath Cent",
              "year": 1793, "mint": "P", "denomination": "Cents", "business_strikes": 63353,
-             "rarity": "key", "source_citation": "Red Book 2024"},
+             "rarity": "key", "source_citation": "Red Book 2024",
+             "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, date below",
+             "reverse_description": "Wreath encircling 'ONE CENT', '1/100' below",
+             "distinguishing_features": ["Replaced unpopular chain design", "Large copper coin 28-29mm", "Wreath design by Henry Voigt", "Vine and bars edge", "First year type"],
+             "identification_keywords": ["wreath cent", "1793 cent", "large cent", "wreath reverse", "flowing hair", "copper cent", "vine bars edge"],
+             "common_names": ["Wreath Cent", "1793 Wreath Cent", "Flowing Hair Wreath Cent"]},
              
             {"coin_id": "US-DRPB-1799-P", "series_id": "large_cent_draped_bust", "series_name": "Draped Bust Large Cent",
              "year": 1799, "mint": "P", "denomination": "Cents", "business_strikes": 904585,
-             "rarity": "key", "source_citation": "PCGS CoinFacts"},
+             "rarity": "key", "source_citation": "PCGS CoinFacts",
+             "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+             "reverse_description": "Wreath encircling 'ONE CENT', fraction '1/100' below, 'UNITED STATES OF AMERICA' around",
+             "distinguishing_features": ["Robert Scot design", "Large copper coin 29mm", "Key date 1799", "9 over 8 overdate variety exists", "Plain edge"],
+             "identification_keywords": ["draped bust cent", "1799 cent", "large cent", "key date", "robert scot", "copper cent", "overdate"],
+             "common_names": ["Draped Bust Cent", "1799 Large Cent", "Draped Bust Large Cent"]},
              
             {"coin_id": "US-CORL-1856-P", "series_id": "large_cent_coronet", "series_name": "Coronet Large Cent",
              "year": 1856, "mint": "P", "denomination": "Cents", "business_strikes": 2690463,
-             "rarity": "common", "source_citation": "Red Book 2024"},
+             "rarity": "common", "source_citation": "Red Book 2024",
+             "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around, date below",
+             "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+             "distinguishing_features": ["Mature Head design", "Large copper coin 27.5mm", "Christian Gobrecht design", "Slanted 5 variety", "Last large cent series"],
+             "identification_keywords": ["coronet cent", "braided hair", "1856 cent", "large cent", "mature head", "copper cent", "gobrecht"],
+             "common_names": ["Coronet Cent", "Braided Hair Cent", "Mature Head Cent"]},
              
             # Capped Bust Half Dollars - High Priority (33 years)
             {"coin_id": "US-CBHD-1807-P", "series_id": "capped_bust_half_dollar", "series_name": "Capped Bust Half Dollar",
              "year": 1807, "mint": "P", "denomination": "Half Dollars", "business_strikes": 301076,
-             "rarity": "scarce", "source_citation": "Red Book 2024"},
+             "rarity": "scarce", "source_citation": "Red Book 2024",
+             "obverse_description": "Liberty bust facing left wearing cap, 'LIBERTY' on headband, stars around, date below",
+             "reverse_description": "Eagle with spread wings holding arrows and olive branch, 'UNITED STATES OF AMERICA' above, '50 C.' below",
+             "distinguishing_features": ["John Reich design", "Silver 90%", "32.5mm diameter", "Lettered edge 'FIFTY CENTS OR HALF A DOLLAR'", "First year of type"],
+             "identification_keywords": ["capped bust half", "1807 half dollar", "john reich", "lettered edge", "silver half", "50 cents", "large eagle"],
+             "common_names": ["Capped Bust Half", "1807 Half Dollar", "Reich Half Dollar"]},
              
             {"coin_id": "US-CBHD-1815-P", "series_id": "capped_bust_half_dollar", "series_name": "Capped Bust Half Dollar", 
              "year": 1815, "mint": "P", "denomination": "Half Dollars", "business_strikes": 47150,
-             "rarity": "key", "source_citation": "PCGS CoinFacts"},
+             "rarity": "key", "source_citation": "PCGS CoinFacts",
+             "obverse_description": "Liberty bust facing left wearing cap, 'LIBERTY' on headband, stars around, date below",
+             "reverse_description": "Eagle with spread wings holding arrows and olive branch, 'UNITED STATES OF AMERICA' above, '50 C.' below",
+             "distinguishing_features": ["Key date with low mintage", "5 over 2 overdate", "Silver 90%", "32.5mm diameter", "War of 1812 era"],
+             "identification_keywords": ["capped bust half", "1815 half dollar", "key date", "overdate", "5 over 2", "silver half", "rare half"],
+             "common_names": ["1815 Capped Bust Half", "1815/2 Half Dollar", "Key Date Half"]},
              
             # Seated Liberty Dimes - Critical Priority (55 years)
             {"coin_id": "US-SLDI-1837-P", "series_id": "seated_liberty_dime", "series_name": "Seated Liberty Dime",
              "year": 1837, "mint": "P", "denomination": "Dimes", "business_strikes": 682500,
-             "rarity": "scarce", "source_citation": "Red Book 2024"},
+             "rarity": "scarce", "source_citation": "Red Book 2024",
+             "obverse_description": "Liberty seated on rock holding liberty pole, stars around, date below",
+             "reverse_description": "Wreath encircling 'ONE DIME', 'UNITED STATES OF AMERICA' around",
+             "distinguishing_features": ["Christian Gobrecht design", "First year of type", "No stars on obverse variety", "Silver 90%", "17.9mm diameter"],
+             "identification_keywords": ["seated liberty dime", "1837 dime", "no stars", "gobrecht", "silver dime", "seated dime", "first year"],
+             "common_names": ["Seated Liberty Dime", "1837 No Stars Dime", "Seated Dime"]},
              
             {"coin_id": "US-SLDI-1844-P", "series_id": "seated_liberty_dime", "series_name": "Seated Liberty Dime",
              "year": 1844, "mint": "P", "denomination": "Dimes", "business_strikes": 72500,
-             "rarity": "key", "source_citation": "PCGS CoinFacts"},
+             "rarity": "key", "source_citation": "PCGS CoinFacts",
+             "obverse_description": "Liberty seated on rock holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",
+             "reverse_description": "Wreath encircling 'ONE DIME', 'UNITED STATES OF AMERICA' around",
+             "distinguishing_features": ["Key date with low mintage", "Silver 90%", "17.9mm diameter", "Stars on obverse", "Shield added to design"],
+             "identification_keywords": ["seated liberty dime", "1844 dime", "key date", "rare dime", "silver dime", "seated dime", "scarce"],
+             "common_names": ["1844 Seated Liberty Dime", "Key Date Dime", "1844 Dime"]},
         ]
     
     def get_phase_2_coins(self) -> List[Dict]:
@@ -172,7 +212,12 @@ class HistoricalCoinBackfill:
                     'diameter_mm': coin.get('diameter_mm'),
                     'varieties': json.dumps(coin.get('varieties', [])),
                     'source_citation': coin.get('source_citation', 'Historical Research'),
-                    'notes': coin.get('notes')
+                    'notes': coin.get('notes'),
+                    'obverse_description': coin['obverse_description'],
+                    'reverse_description': coin['reverse_description'],
+                    'distinguishing_features': json.dumps(coin['distinguishing_features']),
+                    'identification_keywords': json.dumps(coin['identification_keywords']),
+                    'common_names': json.dumps(coin['common_names'])
                 }
                 
                 # Insert coin
@@ -181,12 +226,14 @@ class HistoricalCoinBackfill:
                         coin_id, series_id, country, denomination, series_name,
                         year, mint, business_strikes, proof_strikes, rarity,
                         composition, weight_grams, diameter_mm, varieties,
-                        source_citation, notes
+                        source_citation, notes, obverse_description, reverse_description,
+                        distinguishing_features, identification_keywords, common_names
                     ) VALUES (
                         :coin_id, :series_id, :country, :denomination, :series_name,
                         :year, :mint, :business_strikes, :proof_strikes, :rarity,
                         :composition, :weight_grams, :diameter_mm, :varieties,
-                        :source_citation, :notes
+                        :source_citation, :notes, :obverse_description, :reverse_description,
+                        :distinguishing_features, :identification_keywords, :common_names
                     )
                 ''', coin_data)
                 
