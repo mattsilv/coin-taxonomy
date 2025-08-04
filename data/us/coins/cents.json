@@ -4,6 +4,871 @@
   "face_value": 0.01,
   "series": [
     {
+      "series_id": "fugio_cent",
+      "series_name": "Fugio Cent",
+      "official_name": "Fugio Cent",
+      "years": {
+        "start": 1787,
+        "end": 1787
+      },
+      "specifications": {
+        "edge": "plain",
+        "diameter_mm": 28.5
+      },
+      "composition_periods": [
+        {
+          "date_range": {
+            "start": 1787,
+            "end": 1787
+          },
+          "alloy_name": "Unknown",
+          "alloy": {},
+          "weight": {
+            "grams": 10.0
+          }
+        }
+      ],
+      "coins": [
+        {
+          "coin_id": "US-FUGC-1787-A",
+          "year": 1787,
+          "mint": "A",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-887",
+              "name": "CLUB RAYS, Concave Ends, UNITED STATES",
+              "pcgs_number": "887",
+              "newman_marriages": [
+                "19-S",
+                "20-T"
+              ],
+              "characteristics": [
+                "Club-shaped rays extending from sundial",
+                "Concave (curved inward) ends on club rays",
+                "UNITED STATES legend on reverse",
+                "Contains FUCIO misspelling variety in late die state"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, club-shaped rays with concave ends, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Club-shaped rays extending from sundial",
+            "Concave (curved inward) ends on club rays",
+            "UNITED STATES legend on reverse",
+            "Contains FUCIO misspelling variety in late die state"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "club rays, concave ends, united states",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - CLUB RAYS, Concave Ends, UNITED STATES",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - CLUB RAYS, Concave Ends, UNITED STATES. Newman marriages: 19-S, 20-T. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-C",
+          "year": 1787,
+          "mint": "C",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-886",
+              "name": "CLUB RAYS, Rounded Ends",
+              "pcgs_number": "886",
+              "newman_marriages": [
+                "17-Q",
+                "18-R"
+              ],
+              "characteristics": [
+                "Club-shaped rays extending from sundial",
+                "Rounded ends on the club rays",
+                "Distinctive ray design"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, club-shaped rays with rounded ends, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Club-shaped rays extending from sundial",
+            "Rounded ends on the club rays",
+            "Distinctive ray design"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "club rays, rounded ends",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - CLUB RAYS, Rounded Ends",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - CLUB RAYS, Rounded Ends. Newman marriages: 17-Q, 18-R. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-CC",
+          "year": 1787,
+          "mint": "CC",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-877",
+              "name": "UNITED STATES, 4 Cinquefoils",
+              "pcgs_number": "877",
+              "newman_marriages": [
+                "6-G",
+                "7-H"
+              ],
+              "characteristics": [
+                "Four cinquefoils (5-petal flowers) on obverse",
+                "UNITED STATES legend on reverse"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, four cinquefoils around dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Four cinquefoils (5-petal flowers) on obverse",
+            "UNITED STATES legend on reverse"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "united states, 4 cinquefoils",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - UNITED STATES, 4 Cinquefoils",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - UNITED STATES, 4 Cinquefoils. Newman marriages: 6-G, 7-H. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-D",
+          "year": 1787,
+          "mint": "D",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-875",
+              "name": "Cross After Date, UNITED STATES",
+              "pcgs_number": "875",
+              "newman_marriages": [
+                "2-C",
+                "3-D"
+              ],
+              "characteristics": [
+                "Cross after date on obverse",
+                "UNITED STATES legend on reverse"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, date \"1787\" with cross after",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Cross after date on obverse",
+            "UNITED STATES legend on reverse"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "cross after date, united states",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - Cross After Date, UNITED STATES",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - Cross After Date, UNITED STATES. Newman marriages: 2-C, 3-D. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-H",
+          "year": 1787,
+          "mint": "H",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-881",
+              "name": "UNITED STATES, 1 over Horizontal 1",
+              "pcgs_number": "881",
+              "newman_marriages": [
+                "10-G"
+              ],
+              "characteristics": [
+                "Overdate: vertical \"1\" punched over horizontal \"1\" in date",
+                "UNITED STATES legend on reverse",
+                "Clear evidence of date correction"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, date \"1787\" with \"1\" over horizontal \"1\", pointed rays",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Overdate: vertical \"1\" punched over horizontal \"1\" in date",
+            "UNITED STATES legend on reverse",
+            "Clear evidence of date correction"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "united states, 1 over horizontal 1",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - UNITED STATES, 1 over Horizontal 1",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - UNITED STATES, 1 over Horizontal 1. Newman marriages: 10-G. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-L",
+          "year": 1787,
+          "mint": "L",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-882",
+              "name": "STATES UNITED, 1 over Horizontal 1",
+              "pcgs_number": "882",
+              "newman_marriages": [
+                "10-L"
+              ],
+              "characteristics": [
+                "Overdate: vertical \"1\" punched over horizontal \"1\" in date",
+                "STATES UNITED legend on reverse",
+                "Clear evidence of date correction"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, date \"1787\" with \"1\" over horizontal \"1\", pointed rays",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim",
+          "distinguishing_features": [
+            "Overdate: vertical \"1\" punched over horizontal \"1\" in date",
+            "STATES UNITED legend on reverse",
+            "Clear evidence of date correction"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united, 1 over horizontal 1",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED, 1 over Horizontal 1",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED, 1 over Horizontal 1. Newman marriages: 10-L. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-N",
+          "year": 1787,
+          "mint": "N",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-879",
+              "name": "UNITED STATES, Pointed Rays (common)",
+              "pcgs_number": "879",
+              "newman_marriages": [
+                "8-I",
+                "9-J",
+                "10-K"
+              ],
+              "characteristics": [
+                "Pointed rays extending from sundial",
+                "UNITED STATES legend on reverse",
+                "Most common variety type"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, pointed rays extending from dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED STATES\" around rim",
+          "distinguishing_features": [
+            "Pointed rays extending from sundial",
+            "UNITED STATES legend on reverse",
+            "Most common variety type"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "united states, pointed rays (common)",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - UNITED STATES, Pointed Rays (common)",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - UNITED STATES, Pointed Rays (common). Newman marriages: 8-I, 9-J, 10-K. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-O",
+          "year": 1787,
+          "mint": "O",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-880",
+              "name": "STATES UNITED, Pointed Rays (common)",
+              "pcgs_number": "880",
+              "newman_marriages": [
+                "11-L",
+                "12-M",
+                "13-N"
+              ],
+              "characteristics": [
+                "Pointed rays extending from sundial",
+                "STATES UNITED legend on reverse",
+                "Common variety type"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, pointed rays extending from dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim",
+          "distinguishing_features": [
+            "Pointed rays extending from sundial",
+            "STATES UNITED legend on reverse",
+            "Common variety type"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united, pointed rays (common)",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED, Pointed Rays (common)",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED, Pointed Rays (common). Newman marriages: 11-L, 12-M, 13-N. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-P",
+          "year": 1787,
+          "mint": "P",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-874",
+              "name": "No Cinq, Cross After Date, STATES UNITED",
+              "pcgs_number": "874",
+              "newman_marriages": [
+                "1-A",
+                "1-B"
+              ],
+              "characteristics": [
+                "No cinquefoils (5-petal flowers) on obverse",
+                "Cross after date on obverse",
+                "STATES UNITED legend on reverse"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, date \"1787\" with cross after, no cinquefoils",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim",
+          "distinguishing_features": [
+            "No cinquefoils (5-petal flowers) on obverse",
+            "Cross after date on obverse",
+            "STATES UNITED legend on reverse"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "no cinq, cross after date, states united",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - No Cinq, Cross After Date, STATES UNITED",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - No Cinq, Cross After Date, STATES UNITED. Newman marriages: 1-A, 1-B. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-R",
+          "year": 1787,
+          "mint": "R",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-884",
+              "name": "STATES UNITED, Raised Rims (no rays)",
+              "pcgs_number": "884",
+              "newman_marriages": [
+                "1-Y"
+              ],
+              "characteristics": [
+                "Raised rims on both sides",
+                "No rays extending from sundial",
+                "STATES UNITED legend on reverse",
+                "R-6 rarity (extremely rare)"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, no rays, raised rim, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim, raised rim",
+          "distinguishing_features": [
+            "Raised rims on both sides",
+            "No rays extending from sundial",
+            "STATES UNITED legend on reverse",
+            "R-6 rarity (extremely rare)"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united, raised rims (no rays)",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED, Raised Rims (no rays)",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED, Raised Rims (no rays). Newman marriages: 1-Y. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-S",
+          "year": 1787,
+          "mint": "S",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "common",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-876",
+              "name": "STATES UNITED, 4 Cinquefoils",
+              "pcgs_number": "876",
+              "newman_marriages": [
+                "4-E",
+                "5-F"
+              ],
+              "characteristics": [
+                "Four cinquefoils (5-petal flowers) on obverse",
+                "STATES UNITED legend on reverse"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, four cinquefoils around dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim",
+          "distinguishing_features": [
+            "Four cinquefoils (5-petal flowers) on obverse",
+            "STATES UNITED legend on reverse"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united, 4 cinquefoils",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED, 4 Cinquefoils",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED, 4 Cinquefoils. Newman marriages: 4-E, 5-F. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-T",
+          "year": 1787,
+          "mint": "T",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-885",
+              "name": "STATES UNITED at Sides (thin letters)",
+              "pcgs_number": "885",
+              "newman_marriages": [
+                "16-P"
+              ],
+              "characteristics": [
+                "STATES UNITED legend positioned at sides of reverse",
+                "Thin, narrow letter style",
+                "Distinctive reverse layout"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, pointed rays extending from dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" at sides with thin letters",
+          "distinguishing_features": [
+            "STATES UNITED legend positioned at sides of reverse",
+            "Thin, narrow letter style",
+            "Distinctive reverse layout"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united at sides (thin letters)",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED at Sides (thin letters)",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED at Sides (thin letters). Newman marriages: 16-P. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-U",
+          "year": 1787,
+          "mint": "U",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-883",
+              "name": "UNITED Above, STATES Below",
+              "pcgs_number": "883",
+              "newman_marriages": [
+                "14-O"
+              ],
+              "characteristics": [
+                "Unusual reverse legend arrangement",
+                "UNITED at top of rim, STATES at bottom",
+                "Label-top variety often omitted from short lists"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, pointed rays extending from dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"UNITED\" above, \"STATES\" below",
+          "distinguishing_features": [
+            "Unusual reverse legend arrangement",
+            "UNITED at top of rim, STATES at bottom",
+            "Label-top variety often omitted from short lists"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "united above, states below",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - UNITED Above, STATES Below",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - UNITED Above, STATES Below. Newman marriages: 14-O. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-W",
+          "year": 1787,
+          "mint": "W",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-878",
+              "name": "STATES UNITED, Eight-Pointed Stars",
+              "pcgs_number": "878",
+              "newman_marriages": [
+                "15-Y"
+              ],
+              "characteristics": [
+                "Eight-pointed stars instead of cinquefoils",
+                "STATES UNITED legend on reverse",
+                "Only die marriage with this star configuration"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, eight-pointed stars around dial, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim",
+          "distinguishing_features": [
+            "Eight-pointed stars instead of cinquefoils",
+            "STATES UNITED legend on reverse",
+            "Only die marriage with this star configuration"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "states united, eight-pointed stars",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - STATES UNITED, Eight-Pointed Stars",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - STATES UNITED, Eight-Pointed Stars. Newman marriages: 15-Y. First official U.S. cent authorized by Congress."
+        },
+        {
+          "coin_id": "US-FUGC-1787-Z",
+          "year": 1787,
+          "mint": "Z",
+          "business_strikes": 0,
+          "proof_strikes": 0,
+          "rarity": "key",
+          "composition": {
+            "copper": 1.0
+          },
+          "varieties": [
+            {
+              "variety_id": "fugio-888",
+              "name": "CLUB RAYS, Concave Ends, STATES UNITED (rarest)",
+              "pcgs_number": "888",
+              "newman_marriages": [
+                "1-Z"
+              ],
+              "characteristics": [
+                "Club-shaped rays extending from sundial",
+                "Concave (curved inward) ends on club rays",
+                "STATES UNITED legend on reverse",
+                "Contains American Congress reverse variety",
+                "Rarest of all Fugio varieties (R-6+)"
+              ]
+            }
+          ],
+          "obverse_description": "Sundial with \"FUGIO\" above, club-shaped rays with concave ends, date \"1787\"",
+          "reverse_description": "13 linked rings with \"WE ARE ONE\" in center, \"STATES UNITED\" around rim (American Congress variety)",
+          "distinguishing_features": [
+            "Club-shaped rays extending from sundial",
+            "Concave (curved inward) ends on club rays",
+            "STATES UNITED legend on reverse",
+            "Contains American Congress reverse variety",
+            "Rarest of all Fugio varieties (R-6+)"
+          ],
+          "identification_keywords": [
+            "fugio cent",
+            "1787 cent",
+            "federal contract",
+            "sundial",
+            "we are one",
+            "linked rings",
+            "club rays, concave ends, states united (rarest)",
+            "first u.s. cent",
+            "colonial coin",
+            "early american"
+          ],
+          "common_names": [
+            "Fugio Cent",
+            "1787 Fugio Cent",
+            "Fugio Cent - CLUB RAYS, Concave Ends, STATES UNITED (rarest)",
+            "Federal Contract Cent"
+          ],
+          "weight_grams": 10.0,
+          "diameter_mm": 28.5,
+          "source_citation": "PCGS Registry, Newman Die Marriage Catalog, APMEX Historical Guide",
+          "notes": "Federal Contract Coinage - CLUB RAYS, Concave Ends, STATES UNITED (rarest). Newman marriages: 1-Z. First official U.S. cent authorized by Congress."
+        }
+      ]
+    },
+    {
       "series_id": "large_cent_chain",
       "series_name": "Chain Cent",
       "official_name": "Chain Cent",
