@@ -44,5 +44,8 @@ coin_taxonomy_complete.json
 docs/private/
 docs/internal/
 
+# Private internal files (planning, research, temp work)
+.private/
+
 .env
 .claude/

@@ -348,38 +348,56 @@ The new v1.1 schema includes these core tables:
 }
 ```
 
-**AI-Optimized Format** (`data/ai-optimized/us_taxonomy.json`): Token-optimized for AI/ML systems
+**AI-Optimized Format**: Two specialized formats optimized for AI/ML systems with different efficiency profiles:
+
+**Year-List Format** (`data/ai-optimized/us_taxonomy_year_list.json`): Most efficient (10K tokens, 33KB)
 ```json
 {
-  "format": "ai-taxonomy-v1",
-  "country": "US",
-  "generated": "2025-07-31T18:15:32.106777+00:00",
-  "total_coins": 118,
-  "coins": [
+  "format": "ai-taxonomy-v2-years",
+  "approach": "comma-delimited year lists",
+  "series": [
     {
-      "id": "US-INCH-1877-P",
-      "y": 1877,
-      "m": "P", 
-      "s": "Indian Head Cent",
-      "t": "INCH",
-      "r": "key",
-      "n": "Ultimate key date, extremely low mintage",
-      "ob": "Indian head profile facing left, wearing feathered headdress...",
-      "rv": "Oak wreath surrounding 'ONE CENT', shield at top of wreath",
-      "df": ["Bronze composition", "19.05mm diameter", "Plain edge"],
-      "kw": ["indian head cent", "indian penny", "bronze cent"],
-      "cn": ["Indian Head Cent", "Indian Penny"]
+      "series": "lincoln_wheat_cent",
+      "s": "Lincoln Wheat Cent",
+      "t": "LWCT",
+      "years": "1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920",
+      "year_range": "1909-1958",
+      "ob": "Abraham Lincoln bust facing right...",
+      "rv": "Two wheat stalks flanking 'ONE CENT'..."
     }
   ]
 }
 ```
 
-This format is specifically designed for AI applications and provides:
-- **Comprehensive visual descriptions** for accurate coin identification
-- **Abbreviated field names** (`id`, `y`, `m`, `s`, `t`, `r`, `v`, `n`, `ob`, `rv`, `df`, `kw`, `cn`) to minimize token usage
-- **Essential data only** - focuses on coin identification and classification features
-- **Automatic generation** - updated automatically as part of the standard export pipeline
-- **AI-optimized structure** - flat array format ideal for machine learning applications
+**Coin-ID Format** (`data/ai-optimized/us_taxonomy.json`): Comprehensive (26K tokens, 61KB)
+```json
+{
+  "format": "ai-taxonomy-v2-coinids", 
+  "approach": "complete coin ID lists",
+  "series": [
+    {
+      "series": "lincoln_wheat_cent",
+      "s": "Lincoln Wheat Cent", 
+      "t": "LWCT",
+      "coin_ids": "US-LWCT-1909-P,US-LWCT-1909-D,US-LWCT-1909-S,US-LWCT-1910-P,US-LWCT-1910-D,US-LWCT-1910-S",
+      "year_range": "1909-1958"
+    }
+  ]
+}
+```
+
+**Format Comparison**:
+| Format | File Size | Tokens | GPT-4 Context | Use Case |
+|--------|-----------|--------|---------------|----------|
+| Year-List | 33KB | 10,150 | 7.9% | Year-based classification, GPT-3.5 compatible |
+| Coin-ID | 61KB | 26,054 | 20.4% | Exact coin matching, marketplace applications |
+
+Both formats provide:
+- **Series-based grouping** to reduce redundancy
+- **Complete year coverage** for all production periods  
+- **Visual descriptions** for accurate coin identification
+- **Abbreviated field names** to minimize token usage
+- **Token-optimized structure** for AI/ML applications
 
 #### Issue ID Generation
 
