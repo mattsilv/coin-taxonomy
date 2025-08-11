@@ -21,11 +21,13 @@ import os
 from datetime import datetime
 from typing import Dict, List, Any
 from pathlib import Path
+from json_validator import JSONValidator
 
 class DatabaseExporter:
     def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         self.output_dir = 'data/us/coins'
+        self.validator = JSONValidator()
         
     def ensure_output_dir(self):
         """Ensure output directory exists."""
@@ -162,14 +164,16 @@ class DatabaseExporter:
                     "series": series_list
                 }
                 
-                # Write JSON file
+                # Write JSON file with validation
                 filename = self.get_filename(denom_name)
-                filepath = os.path.join(self.output_dir, filename)
+                filepath = Path(self.output_dir) / filename
                 
-                with open(filepath, 'w') as f:
-                    json.dump(file_data, f, indent=2)
-                    
-                print(f"   ✅ {filepath}")
+                if self.validator.safe_json_write(file_data, filepath):
+                    print(f"   ✅ {filepath}")
+                else:
+                    print(f"   ❌ {filepath} - JSON validation failed")
+                    self.validator.print_errors()
+                    return False
                 
         except sqlite3.Error as e:
             print(f"❌ Error exporting coins: {e}")
@@ -190,6 +194,34 @@ class DatabaseExporter:
             'Trade Dollars': 1.00
         }
         return face_values.get(denomination, 1.00)
+    
+    def format_varieties(self, varieties):
+        """Format varieties to match schema requirements."""
+        if not varieties:
+            return []
+        
+        # If varieties is already a list of objects, return as is
+        if isinstance(varieties, list) and all(isinstance(v, dict) for v in varieties):
+            return varieties
+        
+        # If varieties is a list of strings, convert to objects
+        if isinstance(varieties, list):
+            formatted = []
+            for v in varieties:
+                if isinstance(v, str):
+                    # Create variety object with generated ID
+                    variety_id = v.lower().replace(' ', '_').replace('-', '_')
+                    formatted.append({
+                        "variety_id": variety_id,
+                        "name": v,
+                        "description": None,
+                        "estimated_mintage": None
+                    })
+                elif isinstance(v, dict):
+                    formatted.append(v)
+            return formatted
+        
+        return []
     
     def get_filename(self, denomination: str) -> str:
         """Get filename for denomination."""
@@ -323,7 +355,7 @@ class DatabaseExporter:
                     "composition": json.loads(row[9]) if row[9] else {},
                     "weight_grams": row[10],
                     "diameter_mm": row[11],
-                    "varieties": json.loads(row[12]) if row[12] else [],
+                    "varieties": self.format_varieties(json.loads(row[12]) if row[12] else []),
                     "source_citation": row[13],
                     "notes": row[14],
                     "country": row[15]
@@ -360,11 +392,13 @@ class DatabaseExporter:
                 "coins": coins
             }
             
-            filepath = 'data/us/us_coins_complete.json'
-            with open(filepath, 'w') as f:
-                json.dump(complete_data, f, indent=2)
-                
-            print(f"   ✅ {filepath}")
+            filepath = Path('data/us/us_coins_complete.json')
+            if self.validator.safe_json_write(complete_data, filepath):
+                print(f"   ✅ {filepath}")
+            else:
+                print(f"   ❌ {filepath} - JSON validation failed")
+                self.validator.print_errors()
+                return False
             
         except sqlite3.Error as e:
             print(f"❌ Error exporting complete file: {e}")
@@ -424,10 +458,17 @@ class DatabaseExporter:
         # Export AI-optimized taxonomy
         self.export_ai_taxonomy()
         
-        print(f"\n✅ Database-first export completed!")
-        print(f"📁 {count} coins exported to JSON files")
+        # Validate all exported JSON files
+        print(f"\n🔍 Validating exported JSON files...")
+        from validate_json_exports import main as validate_exports
         
-        return True
+        if validate_exports() == 0:
+            print(f"\n✅ Database-first export completed with valid JSON!")
+            print(f"📁 {count} coins exported to JSON files")
+            return True
+        else:
+            print(f"\n❌ Database-first export completed but JSON validation failed!")
+            return False
 
 def main():
     exporter = DatabaseExporter()

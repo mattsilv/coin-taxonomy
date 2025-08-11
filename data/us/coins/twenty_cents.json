@@ -4,39 +4,17 @@
   "face_value": 0.2,
   "series": [
     {
-      "series_id": "twenty_cent",
-      "series_name": "Twenty Cent Piece",
-      "official_name": "Twenty Cent Piece",
-      "years": {
-        "start": 1875,
-        "end": 1875
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 23.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1875,
-            "end": 1875
-          },
-          "alloy_name": "Historical",
-          "alloy": {}
-        }
-      ],
       "coins": [
         {
-          "coin_id": "US-TWCT-1875-P",
-          "year": 1875,
-          "mint": "P",
           "business_strikes": 38500,
-          "proof_strikes": 0,
-          "rarity": "scarce",
+          "coin_id": "US-TWCT-1875-P",
+          "common_names": [
+            "Twenty Cent Piece",
+            "Twenty Cents",
+            "Seated Twenty"
+          ],
           "composition": {},
-          "varieties": [],
-          "obverse_description": "Liberty seated on rock facing left, holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",
-          "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'TWENTY CENTS' below",
+          "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition",
             "22mm diameter",
@@ -54,16 +32,38 @@
             "1875 coin",
             "confused with quarter"
           ],
-          "common_names": [
-            "Twenty Cent Piece",
-            "Twenty Cents",
-            "Seated Twenty"
-          ],
-          "diameter_mm": 23.5,
+          "mint": "P",
+          "notes": "Designed by William Barber (obverse after Christian Gobrecht)",
+          "obverse_description": "Liberty seated on rock facing left, holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'TWENTY CENTS' below",
           "source_citation": "Red Book 2024",
-          "notes": "Designed by William Barber (obverse after Christian Gobrecht)"
+          "varieties": [],
+          "year": 1875
         }
-      ]
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1875,
+            "start": 1875
+          }
+        }
+      ],
+      "official_name": "Twenty Cent Piece",
+      "series_id": "twenty_cent",
+      "series_name": "Twenty Cent Piece",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1875,
+        "start": 1875
+      }
     }
   ]
 }

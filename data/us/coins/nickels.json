@@ -4,51 +4,68 @@
   "face_value": 0.05,
   "series": [
     {
-      "series_id": "shield_nickel",
-      "series_name": "Shield Nickel",
-      "official_name": "Shield Nickel",
-      "years": {
-        "start": 1867,
-        "end": 1880
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 20.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1867,
-            "end": 1880
-          },
-          "alloy_name": "Copper-Nickel",
-          "alloy": {
-            "copper": 0.75,
-            "nickel": 0.25
-          },
-          "weight": {
-            "grams": 5.0
-          }
-        }
-      ],
       "coins": [
         {
-          "coin_id": "US-SHLD-1867-P",
-          "year": 1867,
-          "mint": "P",
           "business_strikes": 2019000,
+          "coin_id": "US-SHLD-1867-P",
+          "common_names": [
+            "Shield Nickel",
+            "First Nickel",
+            "Union Shield Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 20.5,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "20.5mm diameter",
+            "First U.S. nickel (5-cent) coin",
+            "Rays between stars (1866-1867) or no rays (1867-1883)",
+            "James Longacre design"
+          ],
+          "identification_keywords": [
+            "shield nickel",
+            "first nickel",
+            "union shield",
+            "rays nickel",
+            "no rays nickel",
+            "five cents",
+            "1860s nickel",
+            "1870s nickel",
+            "longacre nickel"
+          ],
+          "mint": "P",
+          "notes": "With Rays variety",
+          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
           "proof_strikes": null,
           "rarity": "scarce",
+          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1867
+        },
+        {
+          "business_strikes": 0,
+          "coin_id": "US-SHLD-1877-P",
+          "common_names": [
+            "Shield Nickel",
+            "First Nickel",
+            "Union Shield Nickel"
+          ],
           "composition": {
-            "alloy_name": "Copper-Nickel",
             "alloy": {
               "copper": 0.75,
               "nickel": 0.25
-            }
+            },
+            "alloy_name": "Copper-Nickel"
           },
-          "varieties": [],
-          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
-          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+          "diameter_mm": 20.5,
           "distinguishing_features": [
             "75% copper, 25% nickel composition",
             "20.5mm diameter",
@@ -67,33 +84,33 @@
             "1870s nickel",
             "longacre nickel"
           ],
-          "common_names": [
-            "Shield Nickel",
-            "First Nickel",
-            "Union Shield Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 20.5,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "With Rays variety"
-        },
-        {
-          "coin_id": "US-SHLD-1877-P",
-          "year": 1877,
           "mint": "P",
-          "business_strikes": 0,
+          "notes": "Proof-only issue",
+          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
           "proof_strikes": 510,
           "rarity": "key",
+          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1877
+        },
+        {
+          "business_strikes": 0,
+          "coin_id": "US-SHLD-1878-P",
+          "common_names": [
+            "Shield Nickel",
+            "First Nickel",
+            "Union Shield Nickel"
+          ],
           "composition": {
-            "alloy_name": "Copper-Nickel",
             "alloy": {
               "copper": 0.75,
               "nickel": 0.25
-            }
+            },
+            "alloy_name": "Copper-Nickel"
           },
-          "varieties": [],
-          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
-          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+          "diameter_mm": 20.5,
           "distinguishing_features": [
             "75% copper, 25% nickel composition",
             "20.5mm diameter",
@@ -112,78 +129,33 @@
             "1870s nickel",
             "longacre nickel"
           ],
-          "common_names": [
-            "Shield Nickel",
-            "First Nickel",
-            "Union Shield Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 20.5,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Proof-only issue"
-        },
-        {
-          "coin_id": "US-SHLD-1878-P",
-          "year": 1878,
           "mint": "P",
-          "business_strikes": 0,
+          "notes": "Proof-only issue",
+          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
           "proof_strikes": 2350,
           "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
           "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "20.5mm diameter",
-            "First U.S. nickel (5-cent) coin",
-            "Rays between stars (1866-1867) or no rays (1867-1883)",
-            "James Longacre design"
-          ],
-          "identification_keywords": [
-            "shield nickel",
-            "first nickel",
-            "union shield",
-            "rays nickel",
-            "no rays nickel",
-            "five cents",
-            "1860s nickel",
-            "1870s nickel",
-            "longacre nickel"
-          ],
-          "common_names": [
-            "Shield Nickel",
-            "First Nickel",
-            "Union Shield Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 20.5,
           "source_citation": "PCGS CoinFacts",
-          "notes": "Proof-only issue"
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1878
         },
         {
-          "coin_id": "US-SHLD-1880-P",
-          "year": 1880,
-          "mint": "P",
           "business_strikes": 19995,
-          "proof_strikes": null,
-          "rarity": "key",
+          "coin_id": "US-SHLD-1880-P",
+          "common_names": [
+            "Shield Nickel",
+            "First Nickel",
+            "Union Shield Nickel"
+          ],
           "composition": {
-            "alloy_name": "Copper-Nickel",
             "alloy": {
               "copper": 0.75,
               "nickel": 0.25
-            }
+            },
+            "alloy_name": "Copper-Nickel"
           },
-          "varieties": [],
-          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
-          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
+          "diameter_mm": 20.5,
           "distinguishing_features": [
             "75% copper, 25% nickel composition",
             "20.5mm diameter",
@@ -202,624 +174,1939 @@
             "1870s nickel",
             "longacre nickel"
           ],
-          "common_names": [
-            "Shield Nickel",
-            "First Nickel",
-            "Union Shield Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 20.5,
+          "mint": "P",
+          "notes": "Lowest circulation mintage",
+          "obverse_description": "Union shield with vertical stripes, '13' at top, cross at bottom, 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' around rim, date below",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Large '5' surrounded by 13 stars, with or without rays between stars, 'CENTS' below, 'UNITED STATES OF AMERICA' around rim",
           "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest circulation mintage"
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1880
         }
-      ]
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "alloy_name": "Copper-Nickel",
+          "date_range": {
+            "end": 1880,
+            "start": 1867
+          },
+          "weight": {
+            "grams": 5.0
+          }
+        }
+      ],
+      "official_name": "Shield Nickel",
+      "series_id": "shield_nickel",
+      "series_name": "Shield Nickel",
+      "specifications": {
+        "diameter_mm": 20.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1880,
+        "start": 1867
+      }
     },
     {
+      "coins": [
+        {
+          "business_strikes": 5479519,
+          "coin_id": "US-LHNI-1883-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "Liberty Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Large 'V' for value",
+            "Charles Barber design",
+            "1883 'No CENTS' variety exists"
+          ],
+          "identification_keywords": [
+            "liberty head nickel",
+            "v nickel",
+            "liberty nickel",
+            "barber nickel",
+            "five cents",
+            "roman numeral v",
+            "1883 no cents",
+            "charles barber"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Used in 'Racketeer' frauds",
+              "estimated_mintage": 5479519,
+              "name": "No CENTS",
+              "variety_id": "LHN-1883-P-NC-01"
+            }
+          ],
+          "weight_grams": 5.0,
+          "year": 1883
+        },
+        {
+          "business_strikes": 5474300,
+          "coin_id": "US-LNIC-1883-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1883 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "No CENTS variety first"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1883 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "no cents"
+          ],
+          "mint": "P",
+          "notes": "No CENTS variety first",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1883
+        },
+        {
+          "business_strikes": 11270000,
+          "coin_id": "US-LNIC-1884-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1884 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1884 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1884
+        },
+        {
+          "business_strikes": 1476490,
+          "coin_id": "US-LHNI-1885-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "Liberty Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Large 'V' for value",
+            "Charles Barber design",
+            "1883 'No CENTS' variety exists"
+          ],
+          "identification_keywords": [
+            "liberty head nickel",
+            "v nickel",
+            "liberty nickel",
+            "barber nickel",
+            "five cents",
+            "roman numeral v",
+            "1883 no cents",
+            "charles barber"
+          ],
+          "mint": "P",
+          "notes": "Primary key date",
+          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1885
+        },
+        {
+          "business_strikes": 1472700,
+          "coin_id": "US-LNIC-1885-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1885 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "Key date"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1885 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "notes": "Key date",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1885
+        },
+        {
+          "business_strikes": 3326000,
+          "coin_id": "US-LNIC-1886-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1886 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "Key date"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1886 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "notes": "Key date",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1886
+        },
+        {
+          "business_strikes": 15260692,
+          "coin_id": "US-LNIC-1887-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1887 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1887 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1887
+        },
+        {
+          "business_strikes": 10167901,
+          "coin_id": "US-LNIC-1888-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1888 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1888 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1888
+        },
+        {
+          "business_strikes": 15878025,
+          "coin_id": "US-LNIC-1889-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1889 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1889 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1889
+        },
+        {
+          "business_strikes": 16256532,
+          "coin_id": "US-LNIC-1890-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1890 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1890 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1890
+        },
+        {
+          "business_strikes": 16832000,
+          "coin_id": "US-LNIC-1891-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1891 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1891 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1891
+        },
+        {
+          "business_strikes": 11696897,
+          "coin_id": "US-LNIC-1892-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1892 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1892 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1892
+        },
+        {
+          "business_strikes": 13368000,
+          "coin_id": "US-LNIC-1893-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1893 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1893 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1893
+        },
+        {
+          "business_strikes": 5410500,
+          "coin_id": "US-LNIC-1894-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1894 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1894 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1894
+        },
+        {
+          "business_strikes": 9977822,
+          "coin_id": "US-LNIC-1895-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1895 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1895 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1895
+        },
+        {
+          "business_strikes": 8841058,
+          "coin_id": "US-LNIC-1896-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1896 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1896 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1896
+        },
+        {
+          "business_strikes": 20426797,
+          "coin_id": "US-LNIC-1897-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1897 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1897 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1897
+        },
+        {
+          "business_strikes": 12530292,
+          "coin_id": "US-LNIC-1898-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1898 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1898 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1898
+        },
+        {
+          "business_strikes": 26027000,
+          "coin_id": "US-LNIC-1899-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1899 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1899 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1899
+        },
+        {
+          "business_strikes": 27253733,
+          "coin_id": "US-LNIC-1900-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1900 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1900 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1900
+        },
+        {
+          "business_strikes": 26478228,
+          "coin_id": "US-LNIC-1901-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1901 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1901 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1901
+        },
+        {
+          "business_strikes": 31487581,
+          "coin_id": "US-LNIC-1902-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1902 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1902 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1902
+        },
+        {
+          "business_strikes": 28004935,
+          "coin_id": "US-LNIC-1903-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1903 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1903 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1903
+        },
+        {
+          "business_strikes": 21403167,
+          "coin_id": "US-LNIC-1904-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1904 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1904 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1904
+        },
+        {
+          "business_strikes": 29825124,
+          "coin_id": "US-LNIC-1905-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1905 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1905 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1905
+        },
+        {
+          "business_strikes": 38612000,
+          "coin_id": "US-LNIC-1906-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1906 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1906 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1906
+        },
+        {
+          "business_strikes": 39213325,
+          "coin_id": "US-LNIC-1907-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1907 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1907 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1907
+        },
+        {
+          "business_strikes": 22684557,
+          "coin_id": "US-LNIC-1908-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1908 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1908 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1908
+        },
+        {
+          "business_strikes": 11585763,
+          "coin_id": "US-LNIC-1909-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1909 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1909 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1909
+        },
+        {
+          "business_strikes": 30166948,
+          "coin_id": "US-LNIC-1910-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1910 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1910 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1910
+        },
+        {
+          "business_strikes": 39557639,
+          "coin_id": "US-LNIC-1911-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1911 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "With CENTS variety"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1911 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1911
+        },
+        {
+          "business_strikes": 26234569,
+          "coin_id": "US-LNIC-1912-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1912 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "D and S mints added"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1912 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "notes": "D and S mints added",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1912
+        },
+        {
+          "business_strikes": 238000,
+          "coin_id": "US-LHNI-1912-S",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "Liberty Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Large 'V' for value",
+            "Charles Barber design",
+            "1883 'No CENTS' variety exists"
+          ],
+          "identification_keywords": [
+            "liberty head nickel",
+            "v nickel",
+            "liberty nickel",
+            "barber nickel",
+            "five cents",
+            "roman numeral v",
+            "1883 no cents",
+            "charles barber"
+          ],
+          "mint": "S",
+          "notes": "Lowest regular mintage",
+          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1912
+        },
+        {
+          "business_strikes": 5,
+          "coin_id": "US-LHNI-1913-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "Liberty Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Large 'V' for value",
+            "Charles Barber design",
+            "1883 'No CENTS' variety exists"
+          ],
+          "identification_keywords": [
+            "liberty head nickel",
+            "v nickel",
+            "liberty nickel",
+            "barber nickel",
+            "five cents",
+            "roman numeral v",
+            "1883 no cents",
+            "charles barber"
+          ],
+          "mint": "P",
+          "notes": "Clandestinely struck, worth millions",
+          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1913
+        },
+        {
+          "business_strikes": 5,
+          "coin_id": "US-LNIC-1913-P",
+          "common_names": [
+            "Liberty Head Nickel",
+            "V Nickel",
+            "1913 Liberty Nickel"
+          ],
+          "composition": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "Charles E. Barber design",
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Plain edge",
+            "Also known as V Nickel",
+            "Ultra rare, only 5 known"
+          ],
+          "identification_keywords": [
+            "liberty head",
+            "nickel",
+            "1913 nickel",
+            "v nickel",
+            "liberty nickel",
+            "five cents",
+            "barber nickel",
+            "with cents"
+          ],
+          "mint": "P",
+          "notes": "Ultra rare, only 5 known",
+          "obverse_description": "Liberty head facing left wearing coronet inscribed 'LIBERTY', 13 stars around border, date below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Large Roman numeral V (5) at center surrounded by wreath of cotton and corn, 'UNITED STATES OF AMERICA' above, 'CENTS' below (except 1883 No CENTS)",
+          "source_citation": "Red Book 2024, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1913
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.75,
+            "nickel": 0.25
+          },
+          "alloy_name": "Copper-Nickel",
+          "date_range": {
+            "end": 1913,
+            "start": 1883
+          },
+          "weight": {
+            "grams": 5.0
+          }
+        },
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1913,
+            "start": 1883
+          },
+          "weight": {
+            "grams": 5.0
+          }
+        }
+      ],
+      "official_name": "Liberty Head Nickel",
       "series_id": "liberty_head_nickel",
       "series_name": "Liberty Head Nickel",
-      "official_name": "Liberty Head Nickel",
-      "years": {
-        "start": 1883,
-        "end": 1913
-      },
       "specifications": {
-        "edge": "plain",
-        "diameter_mm": 21.2
+        "diameter_mm": 21.2,
+        "edge": "plain"
       },
+      "years": {
+        "end": 1913,
+        "start": 1883
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 1209000,
+          "coin_id": "US-BUFF-1913-S",
+          "common_names": [
+            "Buffalo Nickel",
+            "Indian Head Nickel",
+            "Bison Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Raised mound under buffalo (Type I) or flat ground (Type II)",
+            "Authentic Native American portrait",
+            "Date and denomination prone to wear"
+          ],
+          "identification_keywords": [
+            "buffalo nickel",
+            "indian head nickel",
+            "indian nickel",
+            "bison nickel",
+            "native american nickel",
+            "five cents",
+            "james earle fraser",
+            "copper nickel"
+          ],
+          "mint": "S",
+          "notes": "Type 2, lowest regular mintage",
+          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1913
+        },
+        {
+          "business_strikes": 63498066,
+          "coin_id": "US-BUFF-1916-P",
+          "common_names": [
+            "Buffalo Nickel",
+            "Indian Head Nickel",
+            "Bison Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Raised mound under buffalo (Type I) or flat ground (Type II)",
+            "Authentic Native American portrait",
+            "Date and denomination prone to wear"
+          ],
+          "identification_keywords": [
+            "buffalo nickel",
+            "indian head nickel",
+            "indian nickel",
+            "bison nickel",
+            "native american nickel",
+            "five cents",
+            "james earle fraser",
+            "copper nickel"
+          ],
+          "mint": "P",
+          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Dramatic doubling",
+              "estimated_mintage": null,
+              "name": "Doubled Die Obverse",
+              "variety_id": "BN-1916-P-DDO-01"
+            }
+          ],
+          "weight_grams": 5.0,
+          "year": 1916
+        },
+        {
+          "business_strikes": 8362000,
+          "coin_id": "US-BUFF-1918-D",
+          "common_names": [
+            "Buffalo Nickel",
+            "Indian Head Nickel",
+            "Bison Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Raised mound under buffalo (Type I) or flat ground (Type II)",
+            "Authentic Native American portrait",
+            "Date and denomination prone to wear"
+          ],
+          "identification_keywords": [
+            "buffalo nickel",
+            "indian head nickel",
+            "indian nickel",
+            "bison nickel",
+            "native american nickel",
+            "five cents",
+            "james earle fraser",
+            "copper nickel"
+          ],
+          "mint": "D",
+          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "1918/7-D Overdate - 8 stamped over 7",
+              "estimated_mintage": null,
+              "name": "8 over 7",
+              "variety_id": "BN-1918-D-87-01"
+            }
+          ],
+          "weight_grams": 5.0,
+          "year": 1918
+        },
+        {
+          "business_strikes": 970000,
+          "coin_id": "US-BUFF-1926-S",
+          "common_names": [
+            "Buffalo Nickel",
+            "Indian Head Nickel",
+            "Bison Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Raised mound under buffalo (Type I) or flat ground (Type II)",
+            "Authentic Native American portrait",
+            "Date and denomination prone to wear"
+          ],
+          "identification_keywords": [
+            "buffalo nickel",
+            "indian head nickel",
+            "indian nickel",
+            "bison nickel",
+            "native american nickel",
+            "five cents",
+            "james earle fraser",
+            "copper nickel"
+          ],
+          "mint": "S",
+          "notes": "Absolute lowest mintage",
+          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1926
+        },
+        {
+          "business_strikes": 17826000,
+          "coin_id": "US-BUFF-1937-D",
+          "common_names": [
+            "Buffalo Nickel",
+            "Indian Head Nickel",
+            "Bison Nickel"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Raised mound under buffalo (Type I) or flat ground (Type II)",
+            "Authentic Native American portrait",
+            "Date and denomination prone to wear"
+          ],
+          "identification_keywords": [
+            "buffalo nickel",
+            "indian head nickel",
+            "indian nickel",
+            "bison nickel",
+            "native american nickel",
+            "five cents",
+            "james earle fraser",
+            "copper nickel"
+          ],
+          "mint": "D",
+          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Famous variety with missing front leg",
+              "estimated_mintage": null,
+              "name": "3-Legged Buffalo",
+              "variety_id": "BN-1937-D-3L-01"
+            }
+          ],
+          "weight_grams": 5.0,
+          "year": 1937
+        }
+      ],
       "composition_periods": [
         {
-          "date_range": {
-            "start": 1883,
-            "end": 1913
-          },
-          "alloy_name": "Copper-Nickel",
           "alloy": {
             "copper": 0.75,
             "nickel": 0.25
+          },
+          "alloy_name": "Copper-Nickel",
+          "date_range": {
+            "end": 1937,
+            "start": 1913
           },
           "weight": {
             "grams": 5.0
           }
         }
       ],
-      "coins": [
-        {
-          "coin_id": "US-LHNI-1883-P",
-          "year": 1883,
-          "mint": "P",
-          "business_strikes": 5479519,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "LHN-1883-P-NC-01",
-              "name": "No CENTS",
-              "description": "Used in 'Racketeer' frauds",
-              "estimated_mintage": 5479519
-            }
-          ],
-          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
-          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Large 'V' for value",
-            "Charles Barber design",
-            "1883 'No CENTS' variety exists"
-          ],
-          "identification_keywords": [
-            "liberty head nickel",
-            "v nickel",
-            "liberty nickel",
-            "barber nickel",
-            "five cents",
-            "roman numeral v",
-            "1883 no cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Liberty Head Nickel",
-            "V Nickel",
-            "Liberty Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts"
-        },
-        {
-          "coin_id": "US-LHNI-1885-P",
-          "year": 1885,
-          "mint": "P",
-          "business_strikes": 1476490,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
-          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Large 'V' for value",
-            "Charles Barber design",
-            "1883 'No CENTS' variety exists"
-          ],
-          "identification_keywords": [
-            "liberty head nickel",
-            "v nickel",
-            "liberty nickel",
-            "barber nickel",
-            "five cents",
-            "roman numeral v",
-            "1883 no cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Liberty Head Nickel",
-            "V Nickel",
-            "Liberty Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Primary key date"
-        },
-        {
-          "coin_id": "US-LHNI-1912-S",
-          "year": 1912,
-          "mint": "S",
-          "business_strikes": 238000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
-          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Large 'V' for value",
-            "Charles Barber design",
-            "1883 'No CENTS' variety exists"
-          ],
-          "identification_keywords": [
-            "liberty head nickel",
-            "v nickel",
-            "liberty nickel",
-            "barber nickel",
-            "five cents",
-            "roman numeral v",
-            "1883 no cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Liberty Head Nickel",
-            "V Nickel",
-            "Liberty Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest regular mintage"
-        },
-        {
-          "coin_id": "US-LHNI-1913-P",
-          "year": 1913,
-          "mint": "P",
-          "business_strikes": 5,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head facing left wearing coronet with 'LIBERTY', 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around",
-          "reverse_description": "Large Roman numeral 'V' for 5, wreath surrounding, 'E PLURIBUS UNUM' above, 'CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Large 'V' for value",
-            "Charles Barber design",
-            "1883 'No CENTS' variety exists"
-          ],
-          "identification_keywords": [
-            "liberty head nickel",
-            "v nickel",
-            "liberty nickel",
-            "barber nickel",
-            "five cents",
-            "roman numeral v",
-            "1883 no cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Liberty Head Nickel",
-            "V Nickel",
-            "Liberty Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Clandestinely struck, worth millions"
-        }
-      ]
-    },
-    {
+      "official_name": "Buffalo Nickel",
       "series_id": "buffalo_nickel",
       "series_name": "Buffalo Nickel",
-      "official_name": "Buffalo Nickel",
-      "years": {
-        "start": 1913,
-        "end": 1937
-      },
       "specifications": {
-        "edge": "plain",
-        "diameter_mm": 21.2
+        "diameter_mm": 21.2,
+        "edge": "plain"
       },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1913,
-            "end": 1937
-          },
-          "alloy_name": "Copper-Nickel",
-          "alloy": {
-            "copper": 0.75,
-            "nickel": 0.25
-          },
-          "weight": {
-            "grams": 5.0
-          }
-        }
-      ],
-      "coins": [
-        {
-          "coin_id": "US-BUFF-1913-S",
-          "year": 1913,
-          "mint": "S",
-          "business_strikes": 1209000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
-          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Raised mound under buffalo (Type I) or flat ground (Type II)",
-            "Authentic Native American portrait",
-            "Date and denomination prone to wear"
-          ],
-          "identification_keywords": [
-            "buffalo nickel",
-            "indian head nickel",
-            "indian nickel",
-            "bison nickel",
-            "native american nickel",
-            "five cents",
-            "james earle fraser",
-            "copper nickel"
-          ],
-          "common_names": [
-            "Buffalo Nickel",
-            "Indian Head Nickel",
-            "Bison Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Type 2, lowest regular mintage"
-        },
-        {
-          "coin_id": "US-BUFF-1916-P",
-          "year": 1916,
-          "mint": "P",
-          "business_strikes": 63498066,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "BN-1916-P-DDO-01",
-              "name": "Doubled Die Obverse",
-              "description": "Dramatic doubling",
-              "estimated_mintage": null
-            }
-          ],
-          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
-          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Raised mound under buffalo (Type I) or flat ground (Type II)",
-            "Authentic Native American portrait",
-            "Date and denomination prone to wear"
-          ],
-          "identification_keywords": [
-            "buffalo nickel",
-            "indian head nickel",
-            "indian nickel",
-            "bison nickel",
-            "native american nickel",
-            "five cents",
-            "james earle fraser",
-            "copper nickel"
-          ],
-          "common_names": [
-            "Buffalo Nickel",
-            "Indian Head Nickel",
-            "Bison Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts"
-        },
-        {
-          "coin_id": "US-BUFF-1918-D",
-          "year": 1918,
-          "mint": "D",
-          "business_strikes": 8362000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "BN-1918-D-87-01",
-              "name": "8 over 7",
-              "description": "1918/7-D Overdate - 8 stamped over 7",
-              "estimated_mintage": null
-            }
-          ],
-          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
-          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Raised mound under buffalo (Type I) or flat ground (Type II)",
-            "Authentic Native American portrait",
-            "Date and denomination prone to wear"
-          ],
-          "identification_keywords": [
-            "buffalo nickel",
-            "indian head nickel",
-            "indian nickel",
-            "bison nickel",
-            "native american nickel",
-            "five cents",
-            "james earle fraser",
-            "copper nickel"
-          ],
-          "common_names": [
-            "Buffalo Nickel",
-            "Indian Head Nickel",
-            "Bison Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts"
-        },
-        {
-          "coin_id": "US-BUFF-1926-S",
-          "year": 1926,
-          "mint": "S",
-          "business_strikes": 970000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
-          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Raised mound under buffalo (Type I) or flat ground (Type II)",
-            "Authentic Native American portrait",
-            "Date and denomination prone to wear"
-          ],
-          "identification_keywords": [
-            "buffalo nickel",
-            "indian head nickel",
-            "indian nickel",
-            "bison nickel",
-            "native american nickel",
-            "five cents",
-            "james earle fraser",
-            "copper nickel"
-          ],
-          "common_names": [
-            "Buffalo Nickel",
-            "Indian Head Nickel",
-            "Bison Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Absolute lowest mintage"
-        },
-        {
-          "coin_id": "US-BUFF-1937-D",
-          "year": 1937,
-          "mint": "D",
-          "business_strikes": 17826000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "BN-1937-D-3L-01",
-              "name": "3-Legged Buffalo",
-              "description": "Famous variety with missing front leg",
-              "estimated_mintage": null
-            }
-          ],
-          "obverse_description": "Composite Native American chief profile facing right, wearing feathered headdress, 'LIBERTY' above, date below right",
-          "reverse_description": "American bison (buffalo) standing on mound facing left, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' in center, 'FIVE CENTS' below",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Raised mound under buffalo (Type I) or flat ground (Type II)",
-            "Authentic Native American portrait",
-            "Date and denomination prone to wear"
-          ],
-          "identification_keywords": [
-            "buffalo nickel",
-            "indian head nickel",
-            "indian nickel",
-            "bison nickel",
-            "native american nickel",
-            "five cents",
-            "james earle fraser",
-            "copper nickel"
-          ],
-          "common_names": [
-            "Buffalo Nickel",
-            "Indian Head Nickel",
-            "Bison Nickel"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts"
-        }
-      ]
+      "years": {
+        "end": 1937,
+        "start": 1913
+      }
     },
     {
-      "series_id": "jefferson_nickel",
-      "series_name": "Jefferson Nickel",
-      "official_name": "Jefferson Nickel",
-      "years": {
-        "start": 1950,
-        "end": 1971
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 21.2
-      },
+      "coins": [
+        {
+          "business_strikes": 2630030,
+          "coin_id": "US-JEFF-1950-D",
+          "common_names": [
+            "Jefferson Nickel",
+            "Monticello Nickel",
+            "Jefferson Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Architectural detail of Monticello",
+            "Felix Schlag design",
+            "Steps on Monticello important for grading"
+          ],
+          "identification_keywords": [
+            "jefferson nickel",
+            "monticello nickel",
+            "thomas jefferson nickel",
+            "five cents",
+            "nickel",
+            "monticello",
+            "presidential nickel",
+            "felix schlag"
+          ],
+          "mint": "D",
+          "notes": "Lowest mintage Jefferson nickel",
+          "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1950
+        },
+        {
+          "business_strikes": 0,
+          "coin_id": "US-JEFF-1971-S",
+          "common_names": [
+            "Jefferson Nickel",
+            "Monticello Nickel",
+            "Jefferson Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.75,
+              "nickel": 0.25
+            },
+            "alloy_name": "Copper-Nickel"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "75% copper, 25% nickel composition",
+            "21.2mm diameter",
+            "Architectural detail of Monticello",
+            "Felix Schlag design",
+            "Steps on Monticello important for grading"
+          ],
+          "identification_keywords": [
+            "jefferson nickel",
+            "monticello nickel",
+            "thomas jefferson nickel",
+            "five cents",
+            "nickel",
+            "monticello",
+            "presidential nickel",
+            "felix schlag"
+          ],
+          "mint": "S",
+          "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
+          "proof_strikes": 3220733,
+          "rarity": null,
+          "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Error proof without S mintmark",
+              "estimated_mintage": 200,
+              "name": "No S Proof",
+              "variety_id": "JN-1971-S-NoS-01"
+            }
+          ],
+          "weight_grams": 5.0,
+          "year": 1971
+        }
+      ],
       "composition_periods": [
         {
-          "date_range": {
-            "start": 1950,
-            "end": 1971
-          },
-          "alloy_name": "Copper-Nickel",
           "alloy": {
             "copper": 0.75,
             "nickel": 0.25
+          },
+          "alloy_name": "Copper-Nickel",
+          "date_range": {
+            "end": 1971,
+            "start": 1950
           },
           "weight": {
             "grams": 5.0
           }
         }
       ],
-      "coins": [
-        {
-          "coin_id": "US-JEFF-1950-D",
-          "year": 1950,
-          "mint": "D",
-          "business_strikes": 2630030,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
-          "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Architectural detail of Monticello",
-            "Felix Schlag design",
-            "Steps on Monticello important for grading"
-          ],
-          "identification_keywords": [
-            "jefferson nickel",
-            "monticello nickel",
-            "thomas jefferson nickel",
-            "five cents",
-            "nickel",
-            "monticello",
-            "presidential nickel",
-            "felix schlag"
-          ],
-          "common_names": [
-            "Jefferson Nickel",
-            "Monticello Nickel",
-            "Jefferson Five Cent"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage Jefferson nickel"
-        },
-        {
-          "coin_id": "US-JEFF-1971-S",
-          "year": 1971,
-          "mint": "S",
-          "business_strikes": 0,
-          "proof_strikes": 3220733,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Copper-Nickel",
-            "alloy": {
-              "copper": 0.75,
-              "nickel": 0.25
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "JN-1971-S-NoS-01",
-              "name": "No S Proof",
-              "description": "Error proof without S mintmark",
-              "estimated_mintage": 200
-            }
-          ],
-          "obverse_description": "Thomas Jefferson portrait facing left, 'LIBERTY' behind, 'IN GOD WE TRUST' in front, date below right",
-          "reverse_description": "Monticello (Jefferson's home) facing forward, 'E PLURIBUS UNUM' above, 'MONTICELLO' below building, 'FIVE CENTS' and 'UNITED STATES OF AMERICA' at bottom",
-          "distinguishing_features": [
-            "75% copper, 25% nickel composition",
-            "21.2mm diameter",
-            "Architectural detail of Monticello",
-            "Felix Schlag design",
-            "Steps on Monticello important for grading"
-          ],
-          "identification_keywords": [
-            "jefferson nickel",
-            "monticello nickel",
-            "thomas jefferson nickel",
-            "five cents",
-            "nickel",
-            "monticello",
-            "presidential nickel",
-            "felix schlag"
-          ],
-          "common_names": [
-            "Jefferson Nickel",
-            "Monticello Nickel",
-            "Jefferson Five Cent"
-          ],
-          "weight_grams": 5.0,
-          "diameter_mm": 21.2,
-          "source_citation": "PCGS CoinFacts"
-        }
-      ]
+      "official_name": "Jefferson Nickel",
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "specifications": {
+        "diameter_mm": 21.2,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1971,
+        "start": 1950
+      }
     }
   ]
 }

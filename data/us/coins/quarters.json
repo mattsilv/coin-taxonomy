@@ -4,39 +4,17 @@
   "face_value": 0.25,
   "series": [
     {
-      "series_id": "seated_liberty_quarter",
-      "series_name": "Seated Liberty Quarter",
-      "official_name": "Seated Liberty Quarter",
-      "years": {
-        "start": 1838,
-        "end": 1838
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 23.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1838,
-            "end": 1838
-          },
-          "alloy_name": "Historical",
-          "alloy": {}
-        }
-      ],
       "coins": [
         {
-          "coin_id": "US-SLQU-1838-P",
-          "year": 1838,
-          "mint": "P",
           "business_strikes": 466000,
-          "proof_strikes": 0,
-          "rarity": "scarce",
+          "coin_id": "US-SLQU-1838-P",
+          "common_names": [
+            "Seated Liberty Quarter",
+            "Liberty Seated Quarter",
+            "Seated Quarter"
+          ],
           "composition": {},
-          "varieties": [],
-          "obverse_description": "Liberty seated on rock facing left, holding liberty pole with Phrygian cap, shield with 'LIBERTY' banner, stars around, date below",
-          "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'QUAR. DOL.' or 'QUARTER DOLLAR' below",
+          "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition",
             "24.3mm diameter",
@@ -54,783 +32,805 @@
             "christian gobrecht",
             "arrows at date"
           ],
-          "common_names": [
-            "Seated Liberty Quarter",
-            "Liberty Seated Quarter",
-            "Seated Quarter"
-          ],
-          "diameter_mm": 23.5,
-          "source_citation": "Red Book 2024"
+          "mint": "P",
+          "obverse_description": "Liberty seated on rock facing left, holding liberty pole with Phrygian cap, shield with 'LIBERTY' banner, stars around, date below",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'QUAR. DOL.' or 'QUARTER DOLLAR' below",
+          "source_citation": "Red Book 2024",
+          "varieties": [],
+          "year": 1838
         }
-      ]
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1838,
+            "start": 1838
+          }
+        }
+      ],
+      "official_name": "Seated Liberty Quarter",
+      "series_id": "seated_liberty_quarter",
+      "series_name": "Seated Liberty Quarter",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1838,
+        "start": 1838
+      }
     },
     {
+      "coins": [
+        {
+          "business_strikes": 8237245,
+          "coin_id": "US-BARQ-1892-P",
+          "common_names": [
+            "Barber Quarter",
+            "Liberty Head Quarter",
+            "Barber Twenty-Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Stars around obverse (unlike Barber dime)",
+            "Heraldic eagle on reverse",
+            "Larger than dime with different reverse design"
+          ],
+          "identification_keywords": [
+            "barber quarter",
+            "liberty head quarter",
+            "silver quarter",
+            "heraldic eagle",
+            "1890s quarter",
+            "1900s quarter",
+            "twenty five cents",
+            "charles barber"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+          "source_citation": "Red Book",
+          "varieties": [
+            {
+              "description": "Eagle wing coverage differs from Type II",
+              "estimated_mintage": null,
+              "name": "Type I",
+              "variety_id": "BQ-1892-P-T1-01"
+            },
+            {
+              "description": "Modified eagle wing coverage",
+              "estimated_mintage": null,
+              "name": "Type II",
+              "variety_id": "BQ-1892-P-T1-02"
+            }
+          ],
+          "weight_grams": 6.25,
+          "year": 1892
+        },
+        {
+          "business_strikes": 188039,
+          "coin_id": "US-BARQ-1896-S",
+          "common_names": [
+            "Barber Quarter",
+            "Liberty Head Quarter",
+            "Barber Twenty-Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Stars around obverse (unlike Barber dime)",
+            "Heraldic eagle on reverse",
+            "Larger than dime with different reverse design"
+          ],
+          "identification_keywords": [
+            "barber quarter",
+            "liberty head quarter",
+            "silver quarter",
+            "heraldic eagle",
+            "1890s quarter",
+            "1900s quarter",
+            "twenty five cents",
+            "charles barber"
+          ],
+          "mint": "S",
+          "notes": "Major key date",
+          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1896
+        },
+        {
+          "business_strikes": 72664,
+          "coin_id": "US-BARQ-1901-S",
+          "common_names": [
+            "Barber Quarter",
+            "Liberty Head Quarter",
+            "Barber Twenty-Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Stars around obverse (unlike Barber dime)",
+            "Heraldic eagle on reverse",
+            "Larger than dime with different reverse design"
+          ],
+          "identification_keywords": [
+            "barber quarter",
+            "liberty head quarter",
+            "silver quarter",
+            "heraldic eagle",
+            "1890s quarter",
+            "1900s quarter",
+            "twenty five cents",
+            "charles barber"
+          ],
+          "mint": "S",
+          "notes": "Rarest in circulated grades",
+          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1901
+        },
+        {
+          "business_strikes": 40000,
+          "coin_id": "US-BARQ-1913-S",
+          "common_names": [
+            "Barber Quarter",
+            "Liberty Head Quarter",
+            "Barber Twenty-Five Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Stars around obverse (unlike Barber dime)",
+            "Heraldic eagle on reverse",
+            "Larger than dime with different reverse design"
+          ],
+          "identification_keywords": [
+            "barber quarter",
+            "liberty head quarter",
+            "silver quarter",
+            "heraldic eagle",
+            "1890s quarter",
+            "1900s quarter",
+            "twenty five cents",
+            "charles barber"
+          ],
+          "mint": "S",
+          "notes": "Lowest mintage in series",
+          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1913
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "alloy_name": "Silver",
+          "date_range": {
+            "end": 1913,
+            "start": 1892
+          },
+          "weight": {
+            "grams": 6.25
+          }
+        }
+      ],
+      "official_name": "Barber Quarter",
       "series_id": "barber_quarter",
       "series_name": "Barber Quarter",
-      "official_name": "Barber Quarter",
-      "years": {
-        "start": 1892,
-        "end": 1913
-      },
       "specifications": {
-        "edge": "plain",
-        "diameter_mm": 24.3
+        "diameter_mm": 24.3,
+        "edge": "plain"
       },
+      "years": {
+        "end": 1913,
+        "start": 1892
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 52000,
+          "coin_id": "US-SLIQ-1916-P",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Liberty standing (not seated)",
+            "Type I (bare breast) or Type II (covered)",
+            "Hermon MacNeil design"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "P",
+          "notes": "Lowest mintage 20th century coin",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Bare-breasted Liberty",
+              "estimated_mintage": 52000,
+              "name": "Type I",
+              "variety_id": "SLQ-1916-P-T1-01"
+            }
+          ],
+          "weight_grams": 6.25,
+          "year": 1916
+        },
+        {
+          "business_strikes": 8792000,
+          "coin_id": "US-SLIQ-1917-P",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Liberty standing (not seated)",
+            "Type I (bare breast) or Type II (covered)",
+            "Hermon MacNeil design"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Bare-breasted Liberty",
+              "estimated_mintage": 8792000,
+              "name": "Type I",
+              "variety_id": "SLQ-1917-P-T1-01"
+            },
+            {
+              "description": "Chain mail added",
+              "estimated_mintage": null,
+              "name": "Type II",
+              "variety_id": "SLQ-1917-P-T1-02"
+            }
+          ],
+          "weight_grams": 6.25,
+          "year": 1917
+        },
+        {
+          "business_strikes": 11072000,
+          "coin_id": "US-SLIQ-1918-S",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Liberty standing (not seated)",
+            "Type I (bare breast) or Type II (covered)",
+            "Hermon MacNeil design"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "S",
+          "notes": "~3,000 survivors of overdate",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "8 over 7 overdate",
+              "estimated_mintage": 3000,
+              "name": "1918/7-S Overdate",
+              "variety_id": "SLQ-1918-S-87-01"
+            }
+          ],
+          "weight_grams": 6.25,
+          "year": 1918
+        },
+        {
+          "business_strikes": 1916000,
+          "coin_id": "US-SLIQ-1921-P",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Liberty standing (not seated)",
+            "Type I (bare breast) or Type II (covered)",
+            "Hermon MacNeil design"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "P",
+          "notes": "Post-WWI recession",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1921
+        },
+        {
+          "business_strikes": 396000,
+          "coin_id": "US-SLIQ-1927-S",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver composition",
+            "24.3mm diameter",
+            "Liberty standing (not seated)",
+            "Type I (bare breast) or Type II (covered)",
+            "Hermon MacNeil design"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "S",
+          "notes": "Second lowest mintage",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1927
+        }
+      ],
       "composition_periods": [
         {
-          "date_range": {
-            "start": 1892,
-            "end": 1913
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
           },
           "alloy_name": "Silver",
-          "alloy": {
-            "silver": 0.9,
-            "copper": 0.1
+          "date_range": {
+            "end": 1927,
+            "start": 1916
           },
           "weight": {
             "grams": 6.25
           }
         }
       ],
-      "coins": [
-        {
-          "coin_id": "US-BARQ-1892-P",
-          "year": 1892,
-          "mint": "P",
-          "business_strikes": 8237245,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "BQ-1892-P-T1-01",
-              "name": "Type I",
-              "description": "Eagle wing coverage differs from Type II",
-              "estimated_mintage": null
-            },
-            {
-              "variety_id": "BQ-1892-P-T1-02",
-              "name": "Type II",
-              "description": "Modified eagle wing coverage",
-              "estimated_mintage": null
-            }
-          ],
-          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
-          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Stars around obverse (unlike Barber dime)",
-            "Heraldic eagle on reverse",
-            "Larger than dime with different reverse design"
-          ],
-          "identification_keywords": [
-            "barber quarter",
-            "liberty head quarter",
-            "silver quarter",
-            "heraldic eagle",
-            "1890s quarter",
-            "1900s quarter",
-            "twenty five cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Barber Quarter",
-            "Liberty Head Quarter",
-            "Barber Twenty-Five Cent"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "Red Book"
-        },
-        {
-          "coin_id": "US-BARQ-1896-S",
-          "year": 1896,
-          "mint": "S",
-          "business_strikes": 188039,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
-          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Stars around obverse (unlike Barber dime)",
-            "Heraldic eagle on reverse",
-            "Larger than dime with different reverse design"
-          ],
-          "identification_keywords": [
-            "barber quarter",
-            "liberty head quarter",
-            "silver quarter",
-            "heraldic eagle",
-            "1890s quarter",
-            "1900s quarter",
-            "twenty five cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Barber Quarter",
-            "Liberty Head Quarter",
-            "Barber Twenty-Five Cent"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Major key date"
-        },
-        {
-          "coin_id": "US-BARQ-1901-S",
-          "year": 1901,
-          "mint": "S",
-          "business_strikes": 72664,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
-          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Stars around obverse (unlike Barber dime)",
-            "Heraldic eagle on reverse",
-            "Larger than dime with different reverse design"
-          ],
-          "identification_keywords": [
-            "barber quarter",
-            "liberty head quarter",
-            "silver quarter",
-            "heraldic eagle",
-            "1890s quarter",
-            "1900s quarter",
-            "twenty five cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Barber Quarter",
-            "Liberty Head Quarter",
-            "Barber Twenty-Five Cent"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Rarest in circulated grades"
-        },
-        {
-          "coin_id": "US-BARQ-1913-S",
-          "year": 1913,
-          "mint": "S",
-          "business_strikes": 40000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty head profile facing right, wearing Phrygian cap with laurel wreath, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below, 13 stars around periphery",
-          "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Stars around obverse (unlike Barber dime)",
-            "Heraldic eagle on reverse",
-            "Larger than dime with different reverse design"
-          ],
-          "identification_keywords": [
-            "barber quarter",
-            "liberty head quarter",
-            "silver quarter",
-            "heraldic eagle",
-            "1890s quarter",
-            "1900s quarter",
-            "twenty five cents",
-            "charles barber"
-          ],
-          "common_names": [
-            "Barber Quarter",
-            "Liberty Head Quarter",
-            "Barber Twenty-Five Cent"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage in series"
-        }
-      ]
-    },
-    {
+      "official_name": "Standing Liberty Quarter",
       "series_id": "standing_liberty_quarter",
       "series_name": "Standing Liberty Quarter",
-      "official_name": "Standing Liberty Quarter",
-      "years": {
-        "start": 1916,
-        "end": 1927
-      },
       "specifications": {
-        "edge": "plain",
-        "diameter_mm": 24.3
+        "diameter_mm": 24.3,
+        "edge": "plain"
       },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1916,
-            "end": 1927
-          },
-          "alloy_name": "Silver",
-          "alloy": {
-            "silver": 0.9,
-            "copper": 0.1
-          },
-          "weight": {
-            "grams": 6.25
-          }
-        }
-      ],
-      "coins": [
-        {
-          "coin_id": "US-SLIQ-1916-P",
-          "year": 1916,
-          "mint": "P",
-          "business_strikes": 52000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "SLQ-1916-P-T1-01",
-              "name": "Type I",
-              "description": "Bare-breasted Liberty",
-              "estimated_mintage": 52000
-            }
-          ],
-          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
-          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
-          ],
-          "identification_keywords": [
-            "standing liberty quarter",
-            "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
-            "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
-          ],
-          "common_names": [
-            "Standing Liberty Quarter",
-            "Standing Quarter",
-            "Liberty Gateway Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Lowest mintage 20th century coin"
-        },
-        {
-          "coin_id": "US-SLIQ-1917-P",
-          "year": 1917,
-          "mint": "P",
-          "business_strikes": 8792000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "SLQ-1917-P-T1-01",
-              "name": "Type I",
-              "description": "Bare-breasted Liberty",
-              "estimated_mintage": 8792000
-            },
-            {
-              "variety_id": "SLQ-1917-P-T1-02",
-              "name": "Type II",
-              "description": "Chain mail added",
-              "estimated_mintage": null
-            }
-          ],
-          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
-          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
-          ],
-          "identification_keywords": [
-            "standing liberty quarter",
-            "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
-            "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
-          ],
-          "common_names": [
-            "Standing Liberty Quarter",
-            "Standing Quarter",
-            "Liberty Gateway Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts"
-        },
-        {
-          "coin_id": "US-SLIQ-1918-S",
-          "year": 1918,
-          "mint": "S",
-          "business_strikes": 11072000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "SLQ-1918-S-87-01",
-              "name": "1918/7-S Overdate",
-              "description": "8 over 7 overdate",
-              "estimated_mintage": 3000
-            }
-          ],
-          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
-          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
-          ],
-          "identification_keywords": [
-            "standing liberty quarter",
-            "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
-            "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
-          ],
-          "common_names": [
-            "Standing Liberty Quarter",
-            "Standing Quarter",
-            "Liberty Gateway Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "~3,000 survivors of overdate"
-        },
-        {
-          "coin_id": "US-SLIQ-1921-P",
-          "year": 1921,
-          "mint": "P",
-          "business_strikes": 1916000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
-          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
-          ],
-          "identification_keywords": [
-            "standing liberty quarter",
-            "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
-            "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
-          ],
-          "common_names": [
-            "Standing Liberty Quarter",
-            "Standing Quarter",
-            "Liberty Gateway Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Post-WWI recession"
-        },
-        {
-          "coin_id": "US-SLIQ-1927-S",
-          "year": 1927,
-          "mint": "S",
-          "business_strikes": 396000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
-          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
-          "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
-          ],
-          "identification_keywords": [
-            "standing liberty quarter",
-            "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
-            "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
-          ],
-          "common_names": [
-            "Standing Liberty Quarter",
-            "Standing Quarter",
-            "Liberty Gateway Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Second lowest mintage"
-        }
-      ]
+      "years": {
+        "end": 1927,
+        "start": 1916
+      }
     },
     {
-      "series_id": "washington_quarter",
-      "series_name": "Washington Quarter",
-      "official_name": "Washington Quarter",
-      "years": {
-        "start": 1932,
-        "end": 2020
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 24.3
-      },
+      "coins": [
+        {
+          "business_strikes": 436800,
+          "coin_id": "US-WASH-1932-D",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "D",
+          "notes": "Rarest Washington quarter",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1932
+        },
+        {
+          "business_strikes": 408000,
+          "coin_id": "US-WASH-1932-S",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "S",
+          "notes": "Second rarest",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1932
+        },
+        {
+          "business_strikes": 373400000,
+          "coin_id": "US-WASH-1999-P",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            },
+            "alloy_name": "Clad"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "P",
+          "notes": "State Quarters program begins - Delaware",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "US Mint records",
+          "varieties": [
+            {
+              "description": "First state quarter - Delaware reverse",
+              "estimated_mintage": 373400000,
+              "name": "Delaware",
+              "variety_id": "WQ-1999-P-DE-01"
+            }
+          ],
+          "weight_grams": 5.67,
+          "year": 1999
+        },
+        {
+          "business_strikes": 2000000,
+          "coin_id": "US-WASH-2019-W",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            },
+            "alloy_name": "Clad"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "W",
+          "notes": "First W mint quarters - various designs, 2 million each",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "US Mint records",
+          "varieties": [],
+          "weight_grams": 5.67,
+          "year": 2019
+        },
+        {
+          "business_strikes": 2000000,
+          "coin_id": "US-WASH-2020-W",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            },
+            "alloy_name": "Clad"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "W",
+          "notes": "W mint quarters continue - various designs, 2 million each",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "US Mint records",
+          "varieties": [],
+          "weight_grams": 5.67,
+          "year": 2020
+        }
+      ],
       "composition_periods": [
         {
-          "date_range": {
-            "start": 1932,
-            "end": 1932
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
           },
           "alloy_name": "Silver",
-          "alloy": {
-            "silver": 0.9,
-            "copper": 0.1
+          "date_range": {
+            "end": 1932,
+            "start": 1932
           },
           "weight": {
             "grams": 6.25
           }
         },
         {
-          "date_range": {
-            "start": 1999,
-            "end": 2020
-          },
-          "alloy_name": "Clad",
           "alloy": {
             "copper_core": 0.917,
             "cupronickel_cladding": 0.083
+          },
+          "alloy_name": "Clad",
+          "date_range": {
+            "end": 2020,
+            "start": 1999
           },
           "weight": {
             "grams": 5.67
           }
         }
       ],
-      "coins": [
-        {
-          "coin_id": "US-WASH-1932-D",
-          "year": 1932,
-          "mint": "D",
-          "business_strikes": 436800,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
-          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
-          "distinguishing_features": [
-            "90% silver (1932-1964) then copper-nickel clad",
-            "24.3mm diameter",
-            "First president on regular issue coin",
-            "Eagle with arrows and olive branches",
-            "John Flanagan design"
-          ],
-          "identification_keywords": [
-            "washington quarter",
-            "george washington quarter",
-            "silver quarter",
-            "clad quarter",
-            "eagle quarter",
-            "presidential quarter",
-            "john flanagan",
-            "25 cents"
-          ],
-          "common_names": [
-            "Washington Quarter",
-            "Washington Twenty-Five Cent",
-            "George Washington Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Rarest Washington quarter"
-        },
-        {
-          "coin_id": "US-WASH-1932-S",
-          "year": 1932,
-          "mint": "S",
-          "business_strikes": 408000,
-          "proof_strikes": null,
-          "rarity": "key",
-          "composition": {
-            "alloy_name": "Silver",
-            "alloy": {
-              "silver": 0.9,
-              "copper": 0.1
-            }
-          },
-          "varieties": [],
-          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
-          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
-          "distinguishing_features": [
-            "90% silver (1932-1964) then copper-nickel clad",
-            "24.3mm diameter",
-            "First president on regular issue coin",
-            "Eagle with arrows and olive branches",
-            "John Flanagan design"
-          ],
-          "identification_keywords": [
-            "washington quarter",
-            "george washington quarter",
-            "silver quarter",
-            "clad quarter",
-            "eagle quarter",
-            "presidential quarter",
-            "john flanagan",
-            "25 cents"
-          ],
-          "common_names": [
-            "Washington Quarter",
-            "Washington Twenty-Five Cent",
-            "George Washington Quarter"
-          ],
-          "weight_grams": 6.25,
-          "diameter_mm": 24.3,
-          "source_citation": "PCGS CoinFacts",
-          "notes": "Second rarest"
-        },
-        {
-          "coin_id": "US-WASH-1999-P",
-          "year": 1999,
-          "mint": "P",
-          "business_strikes": 373400000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Clad",
-            "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
-            }
-          },
-          "varieties": [
-            {
-              "variety_id": "WQ-1999-P-DE-01",
-              "name": "Delaware",
-              "description": "First state quarter - Delaware reverse",
-              "estimated_mintage": 373400000
-            }
-          ],
-          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
-          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
-          "distinguishing_features": [
-            "90% silver (1932-1964) then copper-nickel clad",
-            "24.3mm diameter",
-            "First president on regular issue coin",
-            "Eagle with arrows and olive branches",
-            "John Flanagan design"
-          ],
-          "identification_keywords": [
-            "washington quarter",
-            "george washington quarter",
-            "silver quarter",
-            "clad quarter",
-            "eagle quarter",
-            "presidential quarter",
-            "john flanagan",
-            "25 cents"
-          ],
-          "common_names": [
-            "Washington Quarter",
-            "Washington Twenty-Five Cent",
-            "George Washington Quarter"
-          ],
-          "weight_grams": 5.67,
-          "diameter_mm": 24.3,
-          "source_citation": "US Mint records",
-          "notes": "State Quarters program begins - Delaware"
-        },
-        {
-          "coin_id": "US-WASH-2019-W",
-          "year": 2019,
-          "mint": "W",
-          "business_strikes": 2000000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Clad",
-            "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
-            }
-          },
-          "varieties": [],
-          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
-          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
-          "distinguishing_features": [
-            "90% silver (1932-1964) then copper-nickel clad",
-            "24.3mm diameter",
-            "First president on regular issue coin",
-            "Eagle with arrows and olive branches",
-            "John Flanagan design"
-          ],
-          "identification_keywords": [
-            "washington quarter",
-            "george washington quarter",
-            "silver quarter",
-            "clad quarter",
-            "eagle quarter",
-            "presidential quarter",
-            "john flanagan",
-            "25 cents"
-          ],
-          "common_names": [
-            "Washington Quarter",
-            "Washington Twenty-Five Cent",
-            "George Washington Quarter"
-          ],
-          "weight_grams": 5.67,
-          "diameter_mm": 24.3,
-          "source_citation": "US Mint records",
-          "notes": "First W mint quarters - various designs, 2 million each"
-        },
-        {
-          "coin_id": "US-WASH-2020-W",
-          "year": 2020,
-          "mint": "W",
-          "business_strikes": 2000000,
-          "proof_strikes": null,
-          "rarity": null,
-          "composition": {
-            "alloy_name": "Clad",
-            "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
-            }
-          },
-          "varieties": [],
-          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
-          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
-          "distinguishing_features": [
-            "90% silver (1932-1964) then copper-nickel clad",
-            "24.3mm diameter",
-            "First president on regular issue coin",
-            "Eagle with arrows and olive branches",
-            "John Flanagan design"
-          ],
-          "identification_keywords": [
-            "washington quarter",
-            "george washington quarter",
-            "silver quarter",
-            "clad quarter",
-            "eagle quarter",
-            "presidential quarter",
-            "john flanagan",
-            "25 cents"
-          ],
-          "common_names": [
-            "Washington Quarter",
-            "Washington Twenty-Five Cent",
-            "George Washington Quarter"
-          ],
-          "weight_grams": 5.67,
-          "diameter_mm": 24.3,
-          "source_citation": "US Mint records",
-          "notes": "W mint quarters continue - various designs, 2 million each"
-        }
-      ]
+      "official_name": "Washington Quarter",
+      "series_id": "washington_quarter",
+      "series_name": "Washington Quarter",
+      "specifications": {
+        "diameter_mm": 24.3,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2020,
+        "start": 1932
+      }
     }
   ]
 }

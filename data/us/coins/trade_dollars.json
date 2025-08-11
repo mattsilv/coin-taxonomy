@@ -4,75 +4,53 @@
   "face_value": 1.0,
   "series": [
     {
-      "series_id": "trade_dollar",
-      "series_name": "Trade Dollar",
-      "official_name": "Trade Dollar",
-      "years": {
-        "start": 1873,
-        "end": 1878
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 23.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1873,
-            "end": 1878
-          },
-          "alloy_name": "Historical",
-          "alloy": {}
-        }
-      ],
       "coins": [
         {
-          "coin_id": "US-TRDO-1873-P",
-          "year": 1873,
-          "mint": "P",
           "business_strikes": 396635,
+          "coin_id": "US-TRDO-1873-P",
+          "common_names": [
+            "Trade Dollar",
+            "Export Dollar",
+            "China Trade Dollar"
+          ],
+          "composition": {},
+          "diameter_mm": 23.5,
+          "distinguishing_features": [
+            "90% silver composition at 420 grains",
+            "38.1mm diameter",
+            "Heavier than regular dollar for overseas trade",
+            "Eagle with weight specifications",
+            "William Barber design"
+          ],
+          "identification_keywords": [
+            "trade dollar",
+            "export dollar",
+            "420 grains",
+            "seated liberty trade",
+            "china trade dollar",
+            "silver trade dollar",
+            "william barber",
+            "overseas trade"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
           "proof_strikes": 0,
           "rarity": "scarce",
-          "composition": {},
-          "varieties": [],
-          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
           "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
-          "distinguishing_features": [
-            "90% silver composition at 420 grains",
-            "38.1mm diameter",
-            "Heavier than regular dollar for overseas trade",
-            "Eagle with weight specifications",
-            "William Barber design"
-          ],
-          "identification_keywords": [
-            "trade dollar",
-            "export dollar",
-            "420 grains",
-            "seated liberty trade",
-            "china trade dollar",
-            "silver trade dollar",
-            "william barber",
-            "overseas trade"
-          ],
-          "common_names": [
-            "Trade Dollar",
-            "Export Dollar",
-            "China Trade Dollar"
-          ],
-          "diameter_mm": 23.5,
-          "source_citation": "U.S. Mint official records, Stack's Bowers"
+          "source_citation": "U.S. Mint official records, Stack's Bowers",
+          "varieties": [],
+          "year": 1873
         },
         {
-          "coin_id": "US-TRDO-1878-CC",
-          "year": 1878,
-          "mint": "CC",
           "business_strikes": 97000,
-          "proof_strikes": 0,
-          "rarity": "key",
+          "coin_id": "US-TRDO-1878-CC",
+          "common_names": [
+            "Trade Dollar",
+            "Export Dollar",
+            "China Trade Dollar"
+          ],
           "composition": {},
-          "varieties": [],
-          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
-          "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+          "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition at 420 grains",
             "38.1mm diameter",
@@ -90,15 +68,37 @@
             "william barber",
             "overseas trade"
           ],
-          "common_names": [
-            "Trade Dollar",
-            "Export Dollar",
-            "China Trade Dollar"
-          ],
-          "diameter_mm": 23.5,
-          "source_citation": "U.S. Mint official records"
+          "mint": "CC",
+          "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
+          "source_citation": "U.S. Mint official records",
+          "varieties": [],
+          "year": 1878
         }
-      ]
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1878,
+            "start": 1873
+          }
+        }
+      ],
+      "official_name": "Trade Dollar",
+      "series_id": "trade_dollar",
+      "series_name": "Trade Dollar",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1878,
+        "start": 1873
+      }
     }
   ]
 }

@@ -12,12 +12,12 @@ repos:
         always_run: true
         
       - id: validate-json-exports
-        name: Validate JSON exports
-        entry: uv run python scripts/validate.py
+        name: Validate JSON exports with comprehensive checks
+        entry: uv run python scripts/validate_json_exports.py
         language: system
         files: data/.*\.json$
         pass_filenames: false
-        always_run: false
+        always_run: true
         
       - id: data-integrity-check
         name: Run data integrity check
