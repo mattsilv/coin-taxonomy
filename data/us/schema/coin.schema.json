@@ -37,11 +37,11 @@
             "properties": {
               "start": {
                 "type": "integer",
-                "minimum": 1792
+                "minimum": 1787
               },
               "end": {
                 "oneOf": [
-                  {"type": "integer", "minimum": 1792},
+                  {"type": "integer", "minimum": 1787},
                   {"type": "string", "const": "present"}
                 ]
               }
@@ -72,10 +72,10 @@
                   "type": "object",
                   "required": ["start"],
                   "properties": {
-                    "start": {"type": "integer", "minimum": 1792},
+                    "start": {"type": "integer", "minimum": 1787},
                     "end": {
                       "oneOf": [
-                        {"type": "integer", "minimum": 1792},
+                        {"type": "integer", "minimum": 1787},
                         {"type": "string", "const": "present"}
                       ]
                     }
@@ -118,7 +118,7 @@
                   "type": "string",
                   "pattern": "^[A-Z]{2,3}-[A-Z]{4}-\\d{4}-[A-Z]{1,2}$"
                 },
-                "year": {"type": "integer", "minimum": 1792},
+                "year": {"type": "integer", "minimum": 1787},
                 "mint": {"type": "string", "pattern": "^[A-Z]+$"},
                 "business_strikes": {"type": ["integer", "null"]},
                 "proof_strikes": {"type": ["integer", "null"]},

@@ -1,6 +1,17 @@
 {
   "series": [
     {
+      "series_id": "fugio_cent",
+      "series_name": "Fugio Cent",
+      "country_code": "FUGC",
+      "denomination": "US",
+      "start_year": "Cents",
+      "end_year": 1787,
+      "defining_characteristics": 1787,
+      "official_name": "First official U.S. cent authorized by Congress, featuring sundial design with \"FUGIO\" and linked rings with \"WE ARE ONE\"",
+      "type": "Fugio Cent (Federal Contract Coinage)"
+    },
+    {
       "series_id": "washington_quarter",
       "series_name": "Washington Quarter",
       "country_code": "WAS",
