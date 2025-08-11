@@ -4,39 +4,17 @@
   "face_value": 0.005,
   "series": [
     {
-      "series_id": "half_cent_liberty_cap",
-      "series_name": "Liberty Cap Half Cent",
-      "official_name": "Liberty Cap Half Cent",
-      "years": {
-        "start": 1793,
-        "end": 1793
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 23.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1793,
-            "end": 1793
-          },
-          "alloy_name": "Historical",
-          "alloy": {}
-        }
-      ],
       "coins": [
         {
-          "coin_id": "US-HCLC-1793-P",
-          "year": 1793,
-          "mint": "P",
           "business_strikes": 35334,
-          "proof_strikes": 0,
-          "rarity": "key",
+          "coin_id": "US-HCLC-1793-P",
+          "common_names": [
+            "Liberty Cap Half Cent",
+            "1793 Half Cent",
+            "First Half Cent"
+          ],
           "composition": {},
-          "varieties": [],
-          "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
-          "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
+          "diameter_mm": 23.5,
           "distinguishing_features": [
             "100% copper composition",
             "22mm diameter",
@@ -53,50 +31,50 @@
             "first half cent",
             "early american coin"
           ],
-          "common_names": [
-            "Liberty Cap Half Cent",
-            "1793 Half Cent",
-            "First Half Cent"
-          ],
-          "diameter_mm": 23.5,
-          "source_citation": "Red Book 2024"
-        }
-      ]
-    },
-    {
-      "series_id": "half_cent_draped_bust",
-      "series_name": "Draped Bust Half Cent",
-      "official_name": "Draped Bust Half Cent",
-      "years": {
-        "start": 1800,
-        "end": 1800
-      },
-      "specifications": {
-        "edge": "plain",
-        "diameter_mm": 23.5
-      },
-      "composition_periods": [
-        {
-          "date_range": {
-            "start": 1800,
-            "end": 1800
-          },
-          "alloy_name": "Historical",
-          "alloy": {}
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
+          "source_citation": "Red Book 2024",
+          "varieties": [],
+          "year": 1793
         }
       ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1793,
+            "start": 1793
+          }
+        }
+      ],
+      "official_name": "Liberty Cap Half Cent",
+      "series_id": "half_cent_liberty_cap",
+      "series_name": "Liberty Cap Half Cent",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1793,
+        "start": 1793
+      }
+    },
+    {
       "coins": [
         {
-          "coin_id": "US-HCDB-1800-P",
-          "year": 1800,
-          "mint": "P",
           "business_strikes": 202908,
-          "proof_strikes": 0,
-          "rarity": "scarce",
+          "coin_id": "US-HCDB-1800-P",
+          "common_names": [
+            "Draped Bust Half Cent",
+            "1800 Half Cent",
+            "Stuart Liberty Half Cent"
+          ],
           "composition": {},
-          "varieties": [],
-          "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
-          "reverse_description": "Wreath enclosing 'HALF CENT', 'UNITED STATES OF AMERICA' around rim",
+          "diameter_mm": 23.5,
           "distinguishing_features": [
             "100% copper composition",
             "23.5mm diameter",
@@ -113,16 +91,38 @@
             "stuart liberty",
             "early half cent"
           ],
-          "common_names": [
-            "Draped Bust Half Cent",
-            "1800 Half Cent",
-            "Stuart Liberty Half Cent"
-          ],
-          "diameter_mm": 23.5,
+          "mint": "P",
+          "notes": "Designed by Gilbert Stuart and Robert Scot",
+          "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Wreath enclosing 'HALF CENT', 'UNITED STATES OF AMERICA' around rim",
           "source_citation": "Red Book 2024",
-          "notes": "Designed by Gilbert Stuart and Robert Scot"
+          "varieties": [],
+          "year": 1800
         }
-      ]
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1800,
+            "start": 1800
+          }
+        }
+      ],
+      "official_name": "Draped Bust Half Cent",
+      "series_id": "half_cent_draped_bust",
+      "series_name": "Draped Bust Half Cent",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1800,
+        "start": 1800
+      }
     }
   ]
 }

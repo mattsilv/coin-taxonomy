@@ -9,7 +9,7 @@
     },
     "denomination": {
       "type": "string",
-      "enum": ["Cents", "Nickels", "Dimes", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars", "Twenty Cents"]
+      "enum": ["Cents", "Two Cents", "Three Cents", "Nickels", "Half Dimes", "Dimes", "Twenty Cents", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars"]
     },
     "face_value": {
       "type": "number",
