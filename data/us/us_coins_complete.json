@@ -18756,7 +18756,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19206,7 +19206,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19464,7 +19464,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19574,7 +19574,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19940,6 +19940,88 @@
       "year": 1979
     },
     {
+      "business_strikes": null,
+      "coin_id": "US-LMCT-1982-D",
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Zinc Penny"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.025,
+          "zinc": 0.975
+        },
+        "alloy_name": "Copper-Plated Zinc"
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": null,
+      "distinguishing_features": [
+        "Copper-plated zinc composition (late 1982)",
+        "Transition year",
+        "Lighter weight"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "1982 zinc",
+        "transition year",
+        "light penny"
+      ],
+      "mint": "D",
+      "notes": null,
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+      "series_id": "lincoln_memorial_cent",
+      "series_name": "Lincoln Memorial Cent",
+      "source_citation": null,
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1982
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-LMCT-1982-P",
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Bronze Penny"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.95,
+          "zinc": 0.05
+        },
+        "alloy_name": "Bronze"
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": null,
+      "distinguishing_features": [
+        "Bronze composition (early 1982)",
+        "Transition year",
+        "Memorial building design"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "1982 bronze",
+        "transition year",
+        "heavy penny"
+      ],
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+      "series_id": "lincoln_memorial_cent",
+      "series_name": "Lincoln Memorial Cent",
+      "source_citation": null,
+      "varieties": [],
+      "weight_grams": 3.11,
+      "year": 1982
+    },
+    {
       "business_strikes": 7752355000,
       "coin_id": "US-LMCT-1983-P",
       "common_names": [
@@ -20269,10 +20351,11 @@
       ],
       "composition": {
         "alloy": {
-          "copper": 0.025,
-          "zinc": 0.975
+          "copper": 0.95,
+          "tin": 0.04,
+          "zinc": 0.01
         },
-        "alloy_name": "Copper-Plated Zinc"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -20311,7 +20394,7 @@
           "variety_id": "LBC-2009-D-Birth-01"
         }
       ],
-      "weight_grams": 2.5,
+      "weight_grams": 3.11,
       "year": 2009
     },
     {
@@ -20324,10 +20407,11 @@
       ],
       "composition": {
         "alloy": {
-          "copper": 0.025,
-          "zinc": 0.975
+          "copper": 0.95,
+          "tin": 0.04,
+          "zinc": 0.01
         },
-        "alloy_name": "Copper-Plated Zinc"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -20366,7 +20450,7 @@
           "variety_id": "LBC-2009-P-Birth-01"
         }
       ],
-      "weight_grams": 2.5,
+      "weight_grams": 3.11,
       "year": 2009
     },
     {
@@ -20611,9 +20695,9 @@
       "year": 2020
     }
   ],
-  "generated_at": "2025-08-11T18:05:21.383632",
+  "generated_at": "2025-08-12T07:40:42.719379",
   "taxonomy_version": "1.1",
-  "total_coins": 421,
+  "total_coins": 423,
   "year_range": {
     "earliest": 1787,
     "latest": 2020
