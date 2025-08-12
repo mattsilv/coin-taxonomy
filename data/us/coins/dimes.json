@@ -13,7 +13,13 @@
             "Liberty Seated Dime",
             "Seated Dime"
           ],
-          "composition": {},
+          "composition": {
+            "alloy": {
+              "copper": 0.1076,
+              "silver": 0.8924
+            },
+            "alloy_name": "Early Silver"
+          },
           "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition (later issues) or 89.2% (early)",
@@ -2194,6 +2200,17 @@
       ],
       "composition_periods": [
         {
+          "alloy": {
+            "copper": 0.1076,
+            "silver": 0.8924
+          },
+          "alloy_name": "Early Silver",
+          "date_range": {
+            "end": 1837,
+            "start": 1837
+          }
+        },
+        {
           "alloy": {},
           "alloy_name": "Unknown",
           "date_range": {
@@ -3417,10 +3434,10 @@
           ],
           "composition": {
             "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
+              "copper_core": 1.0,
+              "cupronickel_cladding": 0.0833
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 17.9,
           "distinguishing_features": [
@@ -3449,7 +3466,7 @@
           "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
           "source_citation": "US Mint records",
           "varieties": [],
-          "weight_grams": 2.27,
+          "weight_grams": 2.268,
           "year": 1965
         },
         {
@@ -3462,10 +3479,10 @@
           ],
           "composition": {
             "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
+              "copper_core": 1.0,
+              "cupronickel_cladding": 0.0833
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 17.9,
           "distinguishing_features": [
@@ -3501,7 +3518,7 @@
               "variety_id": "RD-1968-S-NoS-01"
             }
           ],
-          "weight_grams": 2.27,
+          "weight_grams": 2.268,
           "year": 1968
         },
         {
@@ -3514,10 +3531,10 @@
           ],
           "composition": {
             "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
+              "copper_core": 1.0,
+              "cupronickel_cladding": 0.0833
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 17.9,
           "distinguishing_features": [
@@ -3553,7 +3570,7 @@
               "variety_id": "RD-1975-S-NoS-01"
             }
           ],
-          "weight_grams": 2.27,
+          "weight_grams": 2.268,
           "year": 1975
         },
         {
@@ -3566,10 +3583,10 @@
           ],
           "composition": {
             "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
+              "copper_core": 1.0,
+              "cupronickel_cladding": 0.0833
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 17.9,
           "distinguishing_features": [
@@ -3598,7 +3615,7 @@
           "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
           "source_citation": "US Mint records",
           "varieties": [],
-          "weight_grams": 2.27,
+          "weight_grams": 2.268,
           "year": 1996
         },
         {
@@ -3611,10 +3628,10 @@
           ],
           "composition": {
             "alloy": {
-              "copper_core": 0.917,
-              "cupronickel_cladding": 0.083
+              "copper_core": 1.0,
+              "cupronickel_cladding": 0.0833
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 17.9,
           "distinguishing_features": [
@@ -3643,7 +3660,7 @@
           "reverse_description": "Torch flanked by olive branch (peace) and oak branch (strength), 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' to left",
           "source_citation": "US Mint records",
           "varieties": [],
-          "weight_grams": 2.27,
+          "weight_grams": 2.268,
           "year": 2009
         }
       ],
@@ -3664,16 +3681,16 @@
         },
         {
           "alloy": {
-            "copper_core": 0.917,
-            "cupronickel_cladding": 0.083
+            "copper_core": 1.0,
+            "cupronickel_cladding": 0.0833
           },
-          "alloy_name": "Clad",
+          "alloy_name": "Copper-Nickel Clad",
           "date_range": {
             "end": 2009,
             "start": 1965
           },
           "weight": {
-            "grams": 2.27
+            "grams": 2.268
           }
         }
       ],

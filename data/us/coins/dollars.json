@@ -13,7 +13,13 @@
             "1794 Silver Dollar",
             "First Silver Dollar"
           ],
-          "composition": {},
+          "composition": {
+            "alloy": {
+              "copper": 0.1076,
+              "silver": 0.8924
+            },
+            "alloy_name": "Early Silver"
+          },
           "diameter_mm": 23.5,
           "distinguishing_features": [
             "89.2% silver composition",
@@ -39,16 +45,23 @@
           "reverse_description": "Small eagle perched on rock within wreath, 'UNITED STATES OF AMERICA' around rim",
           "source_citation": "PCGS CoinFacts",
           "varieties": [],
+          "weight_grams": 13.48,
           "year": 1794
         }
       ],
       "composition_periods": [
         {
-          "alloy": {},
-          "alloy_name": "Historical",
+          "alloy": {
+            "copper": 0.1076,
+            "silver": 0.8924
+          },
+          "alloy_name": "Early Silver",
           "date_range": {
             "end": 1794,
             "start": 1794
+          },
+          "weight": {
+            "grams": 13.48
           }
         }
       ],
@@ -74,7 +87,13 @@
             "Seated Liberty Dollar",
             "1836 Pattern Dollar"
           ],
-          "composition": {},
+          "composition": {
+            "alloy": {
+              "copper": 0.1076,
+              "silver": 0.8924
+            },
+            "alloy_name": "Early Silver"
+          },
           "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition",
@@ -140,10 +159,13 @@
       ],
       "composition_periods": [
         {
-          "alloy": {},
-          "alloy_name": "Historical",
+          "alloy": {
+            "copper": 0.1076,
+            "silver": 0.8924
+          },
+          "alloy_name": "Early Silver",
           "date_range": {
-            "end": 1838,
+            "end": 1836,
             "start": 1836
           }
         }
