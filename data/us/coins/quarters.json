@@ -13,7 +13,13 @@
             "Liberty Seated Quarter",
             "Seated Quarter"
           ],
-          "composition": {},
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
           "diameter_mm": 23.5,
           "distinguishing_features": [
             "90% silver composition",
@@ -39,16 +45,23 @@
           "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'QUAR. DOL.' or 'QUARTER DOLLAR' below",
           "source_citation": "Red Book 2024",
           "varieties": [],
+          "weight_grams": 6.25,
           "year": 1838
         }
       ],
       "composition_periods": [
         {
-          "alloy": {},
-          "alloy_name": "Historical",
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "alloy_name": "Silver",
           "date_range": {
             "end": 1838,
             "start": 1838
+          },
+          "weight": {
+            "grams": 6.25
           }
         }
       ],
@@ -651,6 +664,49 @@
           "year": 1932
         },
         {
+          "business_strikes": 1817717540,
+          "coin_id": "US-WASH-1965-P",
+          "common_names": [
+            "Washington Quarter",
+            "Washington Twenty-Five Cent",
+            "George Washington Quarter"
+          ],
+          "composition": {
+            "alloy": {
+              "copper_core": 0.917,
+              "cupronickel_cladding": 0.083
+            },
+            "alloy_name": "Copper-Nickel Clad"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "90% silver (1932-1964) then copper-nickel clad",
+            "24.3mm diameter",
+            "First president on regular issue coin",
+            "Eagle with arrows and olive branches",
+            "John Flanagan design"
+          ],
+          "identification_keywords": [
+            "washington quarter",
+            "george washington quarter",
+            "silver quarter",
+            "clad quarter",
+            "eagle quarter",
+            "presidential quarter",
+            "john flanagan",
+            "25 cents"
+          ],
+          "mint": "P",
+          "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+          "source_citation": "US Mint records",
+          "varieties": [],
+          "weight_grams": 5.67,
+          "year": 1965
+        },
+        {
           "business_strikes": 373400000,
           "coin_id": "US-WASH-1999-P",
           "common_names": [
@@ -663,7 +719,7 @@
               "copper_core": 0.917,
               "cupronickel_cladding": 0.083
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
@@ -714,7 +770,7 @@
               "copper_core": 0.917,
               "cupronickel_cladding": 0.083
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
@@ -758,7 +814,7 @@
               "copper_core": 0.917,
               "cupronickel_cladding": 0.083
             },
-            "alloy_name": "Clad"
+            "alloy_name": "Copper-Nickel Clad"
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
@@ -810,10 +866,10 @@
             "copper_core": 0.917,
             "cupronickel_cladding": 0.083
           },
-          "alloy_name": "Clad",
+          "alloy_name": "Copper-Nickel Clad",
           "date_range": {
             "end": 2020,
-            "start": 1999
+            "start": 1965
           },
           "weight": {
             "grams": 5.67

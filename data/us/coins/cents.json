@@ -4406,7 +4406,7 @@
               "copper": 0.95,
               "zinc": 0.05
             },
-            "alloy_name": "Brass"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4456,7 +4456,7 @@
               "copper": 0.95,
               "zinc": 0.05
             },
-            "alloy_name": "Brass"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4503,7 +4503,7 @@
           },
           "alloy_name": "Bronze",
           "date_range": {
-            "end": 1931,
+            "end": 1955,
             "start": 1909
           },
           "weight": {
@@ -4522,20 +4522,6 @@
           },
           "weight": {
             "grams": 2.7
-          }
-        },
-        {
-          "alloy": {
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "alloy_name": "Brass",
-          "date_range": {
-            "end": 1955,
-            "start": 1944
-          },
-          "weight": {
-            "grams": 3.11
           }
         }
       ],
@@ -4566,7 +4552,7 @@
               "copper": 0.95,
               "zinc": 0.05
             },
-            "alloy_name": "Brass"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4617,7 +4603,7 @@
               "copper": 0.95,
               "zinc": 0.05
             },
-            "alloy_name": "Brass"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4653,6 +4639,74 @@
           ],
           "weight_grams": 3.11,
           "year": 1972
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LMCT-1982-D",
+          "common_names": [
+            "Lincoln Memorial Cent",
+            "Zinc Penny"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.025,
+              "zinc": 0.975
+            },
+            "alloy_name": "Copper-Plated Zinc"
+          },
+          "distinguishing_features": [
+            "Copper-plated zinc composition (late 1982)",
+            "Transition year",
+            "Lighter weight"
+          ],
+          "identification_keywords": [
+            "lincoln memorial cent",
+            "1982 zinc",
+            "transition year",
+            "light penny"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 1982
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LMCT-1982-P",
+          "common_names": [
+            "Lincoln Memorial Cent",
+            "Bronze Penny"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Bronze"
+          },
+          "distinguishing_features": [
+            "Bronze composition (early 1982)",
+            "Transition year",
+            "Memorial building design"
+          ],
+          "identification_keywords": [
+            "lincoln memorial cent",
+            "1982 bronze",
+            "transition year",
+            "heavy penny"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1982
         },
         {
           "business_strikes": 7752355000,
@@ -4711,9 +4765,9 @@
             "copper": 0.95,
             "zinc": 0.05
           },
-          "alloy_name": "Brass",
+          "alloy_name": "Bronze",
           "date_range": {
-            "end": 1972,
+            "end": 1982,
             "start": 1969
           },
           "weight": {
@@ -4728,7 +4782,7 @@
           "alloy_name": "Copper-Plated Zinc",
           "date_range": {
             "end": 1983,
-            "start": 1983
+            "start": 1982
           },
           "weight": {
             "grams": 2.5
@@ -4759,10 +4813,11 @@
           ],
           "composition": {
             "alloy": {
-              "copper": 0.025,
-              "zinc": 0.975
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
             },
-            "alloy_name": "Copper-Plated Zinc"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4796,7 +4851,7 @@
               "variety_id": "LBC-2009-D-Birth-01"
             }
           ],
-          "weight_grams": 2.5,
+          "weight_grams": 3.11,
           "year": 2009
         },
         {
@@ -4809,10 +4864,11 @@
           ],
           "composition": {
             "alloy": {
-              "copper": 0.025,
-              "zinc": 0.975
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
             },
-            "alloy_name": "Copper-Plated Zinc"
+            "alloy_name": "Bronze"
           },
           "diameter_mm": 19.05,
           "distinguishing_features": [
@@ -4846,23 +4902,24 @@
               "variety_id": "LBC-2009-P-Birth-01"
             }
           ],
-          "weight_grams": 2.5,
+          "weight_grams": 3.11,
           "year": 2009
         }
       ],
       "composition_periods": [
         {
           "alloy": {
-            "copper": 0.025,
-            "zinc": 0.975
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
           },
-          "alloy_name": "Copper-Plated Zinc",
+          "alloy_name": "Bronze",
           "date_range": {
             "end": 2009,
             "start": 2009
           },
           "weight": {
-            "grams": 2.5
+            "grams": 3.11
           }
         }
       ],

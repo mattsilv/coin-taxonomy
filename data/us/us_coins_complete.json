@@ -3518,7 +3518,13 @@
         "Liberty Seated Quarter",
         "Seated Quarter"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
       "country": "US",
       "denomination": "Quarters",
       "diameter_mm": 23.5,
@@ -3549,7 +3555,7 @@
       "series_name": "Seated Liberty Quarter",
       "source_citation": "Red Book 2024",
       "varieties": [],
-      "weight_grams": null,
+      "weight_grams": 6.25,
       "year": 1838
     },
     {
@@ -18756,7 +18762,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19206,7 +19212,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19396,6 +19402,54 @@
       "year": 1965
     },
     {
+      "business_strikes": 1817717540,
+      "coin_id": "US-WASH-1965-P",
+      "common_names": [
+        "Washington Quarter",
+        "Washington Twenty-Five Cent",
+        "George Washington Quarter"
+      ],
+      "composition": {
+        "alloy": {
+          "copper_core": 0.917,
+          "cupronickel_cladding": 0.083
+        },
+        "alloy_name": "Copper-Nickel Clad"
+      },
+      "country": "US",
+      "denomination": "Quarters",
+      "diameter_mm": 24.3,
+      "distinguishing_features": [
+        "90% silver (1932-1964) then copper-nickel clad",
+        "24.3mm diameter",
+        "First president on regular issue coin",
+        "Eagle with arrows and olive branches",
+        "John Flanagan design"
+      ],
+      "identification_keywords": [
+        "washington quarter",
+        "george washington quarter",
+        "silver quarter",
+        "clad quarter",
+        "eagle quarter",
+        "presidential quarter",
+        "john flanagan",
+        "25 cents"
+      ],
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "George Washington profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
+      "series_id": "washington_quarter",
+      "series_name": "Washington Quarter",
+      "source_citation": "US Mint records",
+      "varieties": [],
+      "weight_grams": 5.67,
+      "year": 1965
+    },
+    {
       "business_strikes": 0,
       "coin_id": "US-ROOS-1968-S",
       "common_names": [
@@ -19464,7 +19518,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19574,7 +19628,7 @@
           "copper": 0.95,
           "zinc": 0.05
         },
-        "alloy_name": "Brass"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -19940,6 +19994,88 @@
       "year": 1979
     },
     {
+      "business_strikes": null,
+      "coin_id": "US-LMCT-1982-D",
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Zinc Penny"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.025,
+          "zinc": 0.975
+        },
+        "alloy_name": "Copper-Plated Zinc"
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": null,
+      "distinguishing_features": [
+        "Copper-plated zinc composition (late 1982)",
+        "Transition year",
+        "Lighter weight"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "1982 zinc",
+        "transition year",
+        "light penny"
+      ],
+      "mint": "D",
+      "notes": null,
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+      "series_id": "lincoln_memorial_cent",
+      "series_name": "Lincoln Memorial Cent",
+      "source_citation": null,
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1982
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-LMCT-1982-P",
+      "common_names": [
+        "Lincoln Memorial Cent",
+        "Bronze Penny"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.95,
+          "zinc": 0.05
+        },
+        "alloy_name": "Bronze"
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": null,
+      "distinguishing_features": [
+        "Bronze composition (early 1982)",
+        "Transition year",
+        "Memorial building design"
+      ],
+      "identification_keywords": [
+        "lincoln memorial cent",
+        "1982 bronze",
+        "transition year",
+        "heavy penny"
+      ],
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Lincoln Memorial building with columns, 'E PLURIBUS UNUM' above, 'ONE CENT' below",
+      "series_id": "lincoln_memorial_cent",
+      "series_name": "Lincoln Memorial Cent",
+      "source_citation": null,
+      "varieties": [],
+      "weight_grams": 3.11,
+      "year": 1982
+    },
+    {
       "business_strikes": 7752355000,
       "coin_id": "US-LMCT-1983-P",
       "common_names": [
@@ -20104,7 +20240,7 @@
           "copper_core": 0.917,
           "cupronickel_cladding": 0.083
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Quarters",
@@ -20269,10 +20405,11 @@
       ],
       "composition": {
         "alloy": {
-          "copper": 0.025,
-          "zinc": 0.975
+          "copper": 0.95,
+          "tin": 0.04,
+          "zinc": 0.01
         },
-        "alloy_name": "Copper-Plated Zinc"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -20311,7 +20448,7 @@
           "variety_id": "LBC-2009-D-Birth-01"
         }
       ],
-      "weight_grams": 2.5,
+      "weight_grams": 3.11,
       "year": 2009
     },
     {
@@ -20324,10 +20461,11 @@
       ],
       "composition": {
         "alloy": {
-          "copper": 0.025,
-          "zinc": 0.975
+          "copper": 0.95,
+          "tin": 0.04,
+          "zinc": 0.01
         },
-        "alloy_name": "Copper-Plated Zinc"
+        "alloy_name": "Bronze"
       },
       "country": "US",
       "denomination": "Cents",
@@ -20366,7 +20504,7 @@
           "variety_id": "LBC-2009-P-Birth-01"
         }
       ],
-      "weight_grams": 2.5,
+      "weight_grams": 3.11,
       "year": 2009
     },
     {
@@ -20527,7 +20665,7 @@
           "copper_core": 0.917,
           "cupronickel_cladding": 0.083
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Quarters",
@@ -20575,7 +20713,7 @@
           "copper_core": 0.917,
           "cupronickel_cladding": 0.083
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Quarters",
@@ -20611,9 +20749,9 @@
       "year": 2020
     }
   ],
-  "generated_at": "2025-08-11T18:05:21.383632",
+  "generated_at": "2025-08-12T07:42:32.397917",
   "taxonomy_version": "1.1",
-  "total_coins": 421,
+  "total_coins": 424,
   "year_range": {
     "earliest": 1787,
     "latest": 2020

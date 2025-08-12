@@ -1986,6 +1986,182 @@
     {
       "coins": [
         {
+          "business_strikes": 49818000,
+          "coin_id": "US-JEFF-1942-P",
+          "common_names": [
+            "War Nickel",
+            "Wartime Nickel",
+            "Silver Jefferson Nickel",
+            "Jefferson Five Cents"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.56,
+              "manganese": 0.09,
+              "silver": 0.35
+            },
+            "alloy_name": "Wartime Silver"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "35% silver composition (wartime only)",
+            "Large mintmark over Monticello",
+            "Magnetic properties due to manganese"
+          ],
+          "identification_keywords": [
+            "war nickel",
+            "wartime nickel",
+            "silver nickel",
+            "jefferson nickel",
+            "35% silver",
+            "magnetic nickel",
+            "large mintmark",
+            "monticello nickel"
+          ],
+          "mint": "P",
+          "notes": "First year of wartime silver composition - mid-year change",
+          "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+          "source_citation": "U.S. Mint Records",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1942
+        },
+        {
+          "business_strikes": 271165000,
+          "coin_id": "US-JEFF-1943-P",
+          "common_names": [
+            "War Nickel",
+            "Wartime Nickel",
+            "Silver Jefferson Nickel",
+            "Jefferson Five Cents"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.56,
+              "manganese": 0.09,
+              "silver": 0.35
+            },
+            "alloy_name": "Wartime Silver"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "35% silver composition (wartime only)",
+            "Large mintmark over Monticello",
+            "Magnetic properties due to manganese"
+          ],
+          "identification_keywords": [
+            "war nickel",
+            "wartime nickel",
+            "silver nickel",
+            "jefferson nickel",
+            "35% silver",
+            "magnetic nickel",
+            "large mintmark",
+            "monticello nickel"
+          ],
+          "mint": "P",
+          "notes": "Full year wartime silver composition",
+          "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+          "source_citation": "U.S. Mint Records",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1943
+        },
+        {
+          "business_strikes": 119150000,
+          "coin_id": "US-JEFF-1944-P",
+          "common_names": [
+            "War Nickel",
+            "Wartime Nickel",
+            "Silver Jefferson Nickel",
+            "Jefferson Five Cents"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.56,
+              "manganese": 0.09,
+              "silver": 0.35
+            },
+            "alloy_name": "Wartime Silver"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "35% silver composition (wartime only)",
+            "Large mintmark over Monticello",
+            "Magnetic properties due to manganese"
+          ],
+          "identification_keywords": [
+            "war nickel",
+            "wartime nickel",
+            "silver nickel",
+            "jefferson nickel",
+            "35% silver",
+            "magnetic nickel",
+            "large mintmark",
+            "monticello nickel"
+          ],
+          "mint": "P",
+          "notes": "Wartime silver composition continues",
+          "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+          "source_citation": "U.S. Mint Records",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1944
+        },
+        {
+          "business_strikes": 119408100,
+          "coin_id": "US-JEFF-1945-P",
+          "common_names": [
+            "War Nickel",
+            "Wartime Nickel",
+            "Silver Jefferson Nickel",
+            "Jefferson Five Cents"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.56,
+              "manganese": 0.09,
+              "silver": 0.35
+            },
+            "alloy_name": "Wartime Silver"
+          },
+          "diameter_mm": 21.2,
+          "distinguishing_features": [
+            "35% silver composition (wartime only)",
+            "Large mintmark over Monticello",
+            "Magnetic properties due to manganese"
+          ],
+          "identification_keywords": [
+            "war nickel",
+            "wartime nickel",
+            "silver nickel",
+            "jefferson nickel",
+            "35% silver",
+            "magnetic nickel",
+            "large mintmark",
+            "monticello nickel"
+          ],
+          "mint": "P",
+          "notes": "Final year of wartime silver composition",
+          "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+          "source_citation": "U.S. Mint Records",
+          "varieties": [],
+          "weight_grams": 5.0,
+          "year": 1945
+        },
+        {
           "business_strikes": 2630030,
           "coin_id": "US-JEFF-1950-D",
           "common_names": [
@@ -2083,6 +2259,21 @@
       "composition_periods": [
         {
           "alloy": {
+            "copper": 0.56,
+            "manganese": 0.09,
+            "silver": 0.35
+          },
+          "alloy_name": "Wartime Silver",
+          "date_range": {
+            "end": 1945,
+            "start": 1942
+          },
+          "weight": {
+            "grams": 5.0
+          }
+        },
+        {
+          "alloy": {
             "copper": 0.75,
             "nickel": 0.25
           },
@@ -2105,7 +2296,7 @@
       },
       "years": {
         "end": 1971,
-        "start": 1950
+        "start": 1942
       }
     }
   ]
