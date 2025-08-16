@@ -1118,7 +1118,13 @@
         "1794 Silver Dollar",
         "First Silver Dollar"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1076,
+          "silver": 0.8924
+        },
+        "alloy_name": "Early Silver"
+      },
       "country": "US",
       "denomination": "Dollars",
       "diameter_mm": 23.5,
@@ -1149,7 +1155,7 @@
       "series_name": "Flowing Hair Dollar",
       "source_citation": "PCGS CoinFacts",
       "varieties": [],
-      "weight_grams": null,
+      "weight_grams": 13.48,
       "year": 1794
     },
     {
@@ -1814,7 +1820,13 @@
         "Early Half Dollar",
         "Liberty Cap Half"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1076,
+          "silver": 0.8924
+        },
+        "alloy_name": "Early Silver"
+      },
       "country": "US",
       "denomination": "Half Dollars",
       "diameter_mm": 23.5,
@@ -1844,7 +1856,7 @@
       "series_name": "Capped Bust Half Dollar",
       "source_citation": "Red Book 2024",
       "varieties": [],
-      "weight_grams": null,
+      "weight_grams": 13.48,
       "year": 1807
     },
     {
@@ -2163,7 +2175,13 @@
         "Early Half Dollar",
         "Liberty Cap Half"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1076,
+          "silver": 0.8924
+        },
+        "alloy_name": "Early Silver"
+      },
       "country": "US",
       "denomination": "Half Dollars",
       "diameter_mm": 23.5,
@@ -2193,7 +2211,7 @@
       "series_name": "Capped Bust Half Dollar",
       "source_citation": "PCGS CoinFacts",
       "varieties": [],
-      "weight_grams": null,
+      "weight_grams": 13.48,
       "year": 1815
     },
     {
@@ -3149,7 +3167,13 @@
         "Seated Liberty Dollar",
         "1836 Pattern Dollar"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1076,
+          "silver": 0.8924
+        },
+        "alloy_name": "Early Silver"
+      },
       "country": "US",
       "denomination": "Dollars",
       "diameter_mm": 23.5,
@@ -3236,7 +3260,13 @@
         "Liberty Seated Dime",
         "Seated Dime"
       ],
-      "composition": {},
+      "composition": {
+        "alloy": {
+          "copper": 0.1076,
+          "silver": 0.8924
+        },
+        "alloy_name": "Early Silver"
+      },
       "country": "US",
       "denomination": "Dimes",
       "diameter_mm": 23.5,
@@ -18695,6 +18725,54 @@
       "year": 1942
     },
     {
+      "business_strikes": 49818000,
+      "coin_id": "US-JEFF-1942-P",
+      "common_names": [
+        "War Nickel",
+        "Wartime Nickel",
+        "Silver Jefferson Nickel",
+        "Jefferson Five Cents"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.56,
+          "manganese": 0.09,
+          "silver": 0.35
+        },
+        "alloy_name": "Wartime Silver"
+      },
+      "country": "US",
+      "denomination": "Nickels",
+      "diameter_mm": 21.2,
+      "distinguishing_features": [
+        "35% silver composition (wartime only)",
+        "Large mintmark over Monticello",
+        "Magnetic properties due to manganese"
+      ],
+      "identification_keywords": [
+        "war nickel",
+        "wartime nickel",
+        "silver nickel",
+        "jefferson nickel",
+        "35% silver",
+        "magnetic nickel",
+        "large mintmark",
+        "monticello nickel"
+      ],
+      "mint": "P",
+      "notes": "First year of wartime silver composition - mid-year change",
+      "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "source_citation": "U.S. Mint Records",
+      "varieties": [],
+      "weight_grams": 5.0,
+      "year": 1942
+    },
+    {
       "business_strikes": 684628670,
       "coin_id": "US-LWCT-1943-P",
       "common_names": [
@@ -18750,6 +18828,54 @@
       "year": 1943
     },
     {
+      "business_strikes": 271165000,
+      "coin_id": "US-JEFF-1943-P",
+      "common_names": [
+        "War Nickel",
+        "Wartime Nickel",
+        "Silver Jefferson Nickel",
+        "Jefferson Five Cents"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.56,
+          "manganese": 0.09,
+          "silver": 0.35
+        },
+        "alloy_name": "Wartime Silver"
+      },
+      "country": "US",
+      "denomination": "Nickels",
+      "diameter_mm": 21.2,
+      "distinguishing_features": [
+        "35% silver composition (wartime only)",
+        "Large mintmark over Monticello",
+        "Magnetic properties due to manganese"
+      ],
+      "identification_keywords": [
+        "war nickel",
+        "wartime nickel",
+        "silver nickel",
+        "jefferson nickel",
+        "35% silver",
+        "magnetic nickel",
+        "large mintmark",
+        "monticello nickel"
+      ],
+      "mint": "P",
+      "notes": "Full year wartime silver composition",
+      "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "source_citation": "U.S. Mint Records",
+      "varieties": [],
+      "weight_grams": 5.0,
+      "year": 1943
+    },
+    {
       "business_strikes": 1435400000,
       "coin_id": "US-LWCT-1944-P",
       "common_names": [
@@ -18802,6 +18928,54 @@
         }
       ],
       "weight_grams": 3.11,
+      "year": 1944
+    },
+    {
+      "business_strikes": 119150000,
+      "coin_id": "US-JEFF-1944-P",
+      "common_names": [
+        "War Nickel",
+        "Wartime Nickel",
+        "Silver Jefferson Nickel",
+        "Jefferson Five Cents"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.56,
+          "manganese": 0.09,
+          "silver": 0.35
+        },
+        "alloy_name": "Wartime Silver"
+      },
+      "country": "US",
+      "denomination": "Nickels",
+      "diameter_mm": 21.2,
+      "distinguishing_features": [
+        "35% silver composition (wartime only)",
+        "Large mintmark over Monticello",
+        "Magnetic properties due to manganese"
+      ],
+      "identification_keywords": [
+        "war nickel",
+        "wartime nickel",
+        "silver nickel",
+        "jefferson nickel",
+        "35% silver",
+        "magnetic nickel",
+        "large mintmark",
+        "monticello nickel"
+      ],
+      "mint": "P",
+      "notes": "Wartime silver composition continues",
+      "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "source_citation": "U.S. Mint Records",
+      "varieties": [],
+      "weight_grams": 5.0,
       "year": 1944
     },
     {
@@ -18953,6 +19127,54 @@
         }
       ],
       "weight_grams": 2.5,
+      "year": 1945
+    },
+    {
+      "business_strikes": 119408100,
+      "coin_id": "US-JEFF-1945-P",
+      "common_names": [
+        "War Nickel",
+        "Wartime Nickel",
+        "Silver Jefferson Nickel",
+        "Jefferson Five Cents"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.56,
+          "manganese": 0.09,
+          "silver": 0.35
+        },
+        "alloy_name": "Wartime Silver"
+      },
+      "country": "US",
+      "denomination": "Nickels",
+      "diameter_mm": 21.2,
+      "distinguishing_features": [
+        "35% silver composition (wartime only)",
+        "Large mintmark over Monticello",
+        "Magnetic properties due to manganese"
+      ],
+      "identification_keywords": [
+        "war nickel",
+        "wartime nickel",
+        "silver nickel",
+        "jefferson nickel",
+        "35% silver",
+        "magnetic nickel",
+        "large mintmark",
+        "monticello nickel"
+      ],
+      "mint": "P",
+      "notes": "Final year of wartime silver composition",
+      "obverse_description": "Thomas Jefferson profile facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Monticello (Jefferson's home) with steps, 'UNITED STATES OF AMERICA' above, 'FIVE CENTS' below, large mintmark above building",
+      "series_id": "jefferson_nickel",
+      "series_name": "Jefferson Nickel",
+      "source_citation": "U.S. Mint Records",
+      "varieties": [],
+      "weight_grams": 5.0,
       "year": 1945
     },
     {
@@ -19353,6 +19575,90 @@
       "year": 1964
     },
     {
+      "business_strikes": 156205446,
+      "coin_id": "US-KHDO-1964-D",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "1964-D Silver Kennedy"
+      ],
+      "composition": {
+        "copper": 0.1,
+        "silver": 0.9
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "D mint mark",
+        "90% silver composition",
+        "12.50g weight",
+        "first year Denver issue"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1964 kennedy",
+        "denver mint",
+        "silver half dollar",
+        "jfk half",
+        "d mint mark"
+      ],
+      "mint": "D",
+      "notes": "First year Denver issue, 90% silver composition",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 12.5,
+      "year": 1964
+    },
+    {
+      "business_strikes": 273304004,
+      "coin_id": "US-KHDO-1964-P",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "1964 Silver Kennedy"
+      ],
+      "composition": {
+        "copper": 0.1,
+        "silver": 0.9
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "First year Kennedy design",
+        "90% silver composition",
+        "12.50g weight",
+        "highest mintage year"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1964 kennedy",
+        "silver half dollar",
+        "jfk half",
+        "presidential seal",
+        "first year kennedy"
+      ],
+      "mint": "P",
+      "notes": "First year of issue, 90% silver composition",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 12.5,
+      "year": 1964
+    },
+    {
       "business_strikes": 1652140570,
       "coin_id": "US-ROOS-1965-P",
       "common_names": [
@@ -19362,10 +19668,10 @@
       ],
       "composition": {
         "alloy": {
-          "copper_core": 0.917,
-          "cupronickel_cladding": 0.083
+          "copper_core": 1.0,
+          "cupronickel_cladding": 0.0833
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Dimes",
@@ -19398,7 +19704,49 @@
       "series_name": "Roosevelt Dime",
       "source_citation": "US Mint records",
       "varieties": [],
-      "weight_grams": 2.27,
+      "weight_grams": 2.268,
+      "year": 1965
+    },
+    {
+      "business_strikes": 65879366,
+      "coin_id": "US-KHDO-1965-P",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "40% Silver Kennedy"
+      ],
+      "composition": {
+        "copper": 0.6,
+        "silver": 0.4
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "40% silver clad composition",
+        "11.50g weight",
+        "no mint mark",
+        "first year clad silver"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1965 kennedy",
+        "40% silver",
+        "silver clad",
+        "jfk half",
+        "coinage act 1965"
+      ],
+      "mint": "P",
+      "notes": "First year 40% silver clad composition",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.5,
       "year": 1965
     },
     {
@@ -19459,10 +19807,10 @@
       ],
       "composition": {
         "alloy": {
-          "copper_core": 0.917,
-          "cupronickel_cladding": 0.083
+          "copper_core": 1.0,
+          "cupronickel_cladding": 0.0833
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Dimes",
@@ -19502,7 +19850,7 @@
           "variety_id": "RD-1968-S-NoS-01"
         }
       ],
-      "weight_grams": 2.27,
+      "weight_grams": 2.268,
       "year": 1968
     },
     {
@@ -19559,6 +19907,133 @@
       ],
       "weight_grams": 3.11,
       "year": 1969
+    },
+    {
+      "business_strikes": 2150000,
+      "coin_id": "US-KHDO-1970-D",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "1970-D Silver Kennedy"
+      ],
+      "composition": {
+        "copper": 0.6,
+        "silver": 0.4
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "D mint mark",
+        "40% silver clad",
+        "11.50g weight",
+        "last year silver composition",
+        "special sets only"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1970 kennedy",
+        "40% silver",
+        "silver clad",
+        "denver mint",
+        "last silver year"
+      ],
+      "mint": "D",
+      "notes": "Last year 40% silver composition, special sets only",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.5,
+      "year": 1970
+    },
+    {
+      "business_strikes": 302097424,
+      "coin_id": "US-KHDO-1971-D",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "1971-D Clad Kennedy"
+      ],
+      "composition": {
+        "copper": 0.9167,
+        "nickel": 0.0833
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "D mint mark",
+        "copper-nickel clad",
+        "highest mintage year",
+        "11.34g weight"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1971 kennedy",
+        "denver mint",
+        "copper nickel clad",
+        "highest mintage",
+        "d mint mark"
+      ],
+      "mint": "D",
+      "notes": "Highest single year mintage in series",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.34,
+      "year": 1971
+    },
+    {
+      "business_strikes": 155164000,
+      "coin_id": "US-KHDO-1971-P",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "Clad Kennedy"
+      ],
+      "composition": {
+        "copper": 0.9167,
+        "nickel": 0.0833
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "Copper-nickel clad composition",
+        "11.34g weight",
+        "no silver content",
+        "first year clad"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "1971 kennedy",
+        "copper nickel clad",
+        "no silver",
+        "jfk half",
+        "clad composition"
+      ],
+      "mint": "P",
+      "notes": "First year copper-nickel clad composition",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.34,
+      "year": 1971
     },
     {
       "business_strikes": 0,
@@ -19776,10 +20251,10 @@
       ],
       "composition": {
         "alloy": {
-          "copper_core": 0.917,
-          "cupronickel_cladding": 0.083
+          "copper_core": 1.0,
+          "cupronickel_cladding": 0.0833
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Dimes",
@@ -19819,7 +20294,7 @@
           "variety_id": "RD-1975-S-NoS-01"
         }
       ],
-      "weight_grams": 2.27,
+      "weight_grams": 2.268,
       "year": 1975
     },
     {
@@ -19881,6 +20356,54 @@
         }
       ],
       "weight_grams": 22.68,
+      "year": 1976
+    },
+    {
+      "business_strikes": 234308000,
+      "coin_id": "US-KHDO-1976-P",
+      "common_names": [
+        "Bicentennial Kennedy Half Dollar",
+        "1776-1976 Kennedy",
+        "Independence Hall Kennedy"
+      ],
+      "composition": {
+        "copper": 0.9167,
+        "nickel": 0.0833
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "Dual date 1776-1976",
+        "Independence Hall reverse",
+        "special Bicentennial design",
+        "copper-nickel clad"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "bicentennial kennedy",
+        "1776-1976",
+        "independence hall",
+        "bicentennial design",
+        "special reverse"
+      ],
+      "mint": "P",
+      "notes": "Bicentennial special design with Independence Hall reverse",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, dual date 1776-1976 below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Independence Hall in Philadelphia, UNITED STATES OF AMERICA above, HALF DOLLAR below, 200 YEARS OF FREEDOM inscription",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [
+        {
+          "description": "Special Independence Hall reverse design with 1776-1976 dual date",
+          "name": "Bicentennial Design",
+          "variety_id": "KHDO-1976-P-BICENT-01"
+        }
+      ],
+      "weight_grams": 11.34,
       "year": 1976
     },
     {
@@ -20140,10 +20663,10 @@
       ],
       "composition": {
         "alloy": {
-          "copper_core": 0.917,
-          "cupronickel_cladding": 0.083
+          "copper_core": 1.0,
+          "cupronickel_cladding": 0.0833
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Dimes",
@@ -20176,7 +20699,7 @@
       "series_name": "Roosevelt Dime",
       "source_citation": "US Mint records",
       "varieties": [],
-      "weight_grams": 2.27,
+      "weight_grams": 2.268,
       "year": 1996
     },
     {
@@ -20517,10 +21040,10 @@
       ],
       "composition": {
         "alloy": {
-          "copper_core": 0.917,
-          "cupronickel_cladding": 0.083
+          "copper_core": 1.0,
+          "cupronickel_cladding": 0.0833
         },
-        "alloy_name": "Clad"
+        "alloy_name": "Copper-Nickel Clad"
       },
       "country": "US",
       "denomination": "Dimes",
@@ -20553,8 +21076,94 @@
       "series_name": "Roosevelt Dime",
       "source_citation": "US Mint records",
       "varieties": [],
-      "weight_grams": 2.27,
+      "weight_grams": 2.268,
       "year": 2009
+    },
+    {
+      "business_strikes": 7700000,
+      "coin_id": "US-KHDO-2013-D",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "2013-D Modern Kennedy"
+      ],
+      "composition": {
+        "copper": 0.9167,
+        "nickel": 0.0833
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "D mint mark",
+        "modern copper-nickel clad",
+        "11.34g weight",
+        "NO SILVER",
+        "collector issue only"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "2013 kennedy",
+        "denver mint",
+        "modern kennedy",
+        "copper nickel clad",
+        "no silver",
+        "d mint mark"
+      ],
+      "mint": "D",
+      "notes": "Modern collector issue, NO SILVER CONTENT",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.34,
+      "year": 2013
+    },
+    {
+      "business_strikes": 5400000,
+      "coin_id": "US-KHDO-2013-P",
+      "common_names": [
+        "Kennedy Half Dollar",
+        "JFK Half Dollar",
+        "Modern Kennedy"
+      ],
+      "composition": {
+        "copper": 0.9167,
+        "nickel": 0.0833
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.61,
+      "distinguishing_features": [
+        "Modern copper-nickel clad",
+        "11.34g weight",
+        "collector issue only",
+        "no silver content"
+      ],
+      "identification_keywords": [
+        "kennedy half dollar",
+        "2013 kennedy",
+        "modern kennedy",
+        "copper nickel clad",
+        "no silver",
+        "collector issue"
+      ],
+      "mint": "P",
+      "notes": "Modern collector issue, no silver content",
+      "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "US Mint, PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 11.34,
+      "year": 2013
     },
     {
       "business_strikes": 4040000000,
@@ -20749,9 +21358,9 @@
       "year": 2020
     }
   ],
-  "generated_at": "2025-08-12T07:42:32.397917",
+  "generated_at": "2025-08-16T16:00:43.868249",
   "taxonomy_version": "1.1",
-  "total_coins": 424,
+  "total_coins": 437,
   "year_range": {
     "earliest": 1787,
     "latest": 2020

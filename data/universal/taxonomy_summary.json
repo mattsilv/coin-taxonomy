@@ -1,12 +1,12 @@
 {
   "taxonomy_version": "1.1",
   "format": "universal_flat_structure",
-  "generated_at": "2025-08-12T11:41:04.260431+00:00",
-  "total_issues": 102,
+  "generated_at": "2025-08-16T20:00:43.944069+00:00",
+  "total_issues": 241,
   "countries": 1,
   "object_types": 1,
   "year_range": {
-    "earliest": 1793,
+    "earliest": 1787,
     "latest": 2020
   },
   "registries": {
