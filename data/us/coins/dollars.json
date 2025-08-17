@@ -2718,6 +2718,429 @@
         "end": 2000,
         "start": 2000
       }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-PRDO-2007-D",
+          "common_names": [
+            "Presidential Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Second president dollar. Edge lettering. Doubled edge lettering error exists."
+          ],
+          "identification_keywords": [
+            "presidential",
+            "dollar",
+            "2007",
+            "adams",
+            "second",
+            "doubled",
+            "edge",
+            "error"
+          ],
+          "mint": "D",
+          "notes": "Second president issued. Doubled edge lettering error is valuable.",
+          "obverse_description": "John Adams portrait facing right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Statue of Liberty with  denomination",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2007
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-PRDO-2007-P",
+          "common_names": [
+            "Presidential Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "First presidential dollar. Edge lettering. \"Godless Dollar\" error exists."
+          ],
+          "identification_keywords": [
+            "presidential",
+            "dollar",
+            "2007",
+            "washington",
+            "first",
+            "godless",
+            "error"
+          ],
+          "mint": "P",
+          "notes": "First presidential dollar. Famous \"Godless Dollar\" error missing edge lettering.",
+          "obverse_description": "George Washington portrait facing right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Statue of Liberty with  denomination",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2007
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-PRDO-2009-P",
+          "common_names": [
+            "Presidential Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Mint mark moved to obverse in 2009. Edge still lettered."
+          ],
+          "identification_keywords": [
+            "presidential",
+            "dollar",
+            "2009",
+            "harrison",
+            "mint",
+            "mark",
+            "obverse"
+          ],
+          "mint": "P",
+          "notes": "First year with mint mark on obverse instead of edge.",
+          "obverse_description": "William Henry Harrison portrait facing right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Statue of Liberty with  denomination",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2009
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-PRDO-2016-P",
+          "common_names": [
+            "Presidential Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Final year of original presidential dollar program."
+          ],
+          "identification_keywords": [
+            "presidential",
+            "dollar",
+            "2016",
+            "reagan",
+            "final",
+            "year",
+            "program"
+          ],
+          "mint": "P",
+          "notes": "Final year of original presidential dollar program before hiatus.",
+          "obverse_description": "Ronald Reagan portrait facing right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Statue of Liberty with  denomination",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2016
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-PRDO-2020-P",
+          "common_names": [
+            "Presidential Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Return of series after hiatus. George H.W. Bush."
+          ],
+          "identification_keywords": [
+            "presidential",
+            "dollar",
+            "2020",
+            "bush",
+            "return",
+            "series"
+          ],
+          "mint": "P",
+          "notes": "Return of series in 2020 for George H.W. Bush after 3-year hiatus.",
+          "obverse_description": "George H.W. Bush portrait facing right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Statue of Liberty with  denomination",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2020
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.885,
+            "manganese": 0.035,
+            "nickel": 0.02,
+            "zinc": 0.06
+          },
+          "alloy_name": "Manganese Brass",
+          "date_range": {
+            "end": 2020,
+            "start": 2007
+          },
+          "weight": {
+            "grams": 8.1
+          }
+        }
+      ],
+      "official_name": "Presidential Dollar",
+      "series_id": "presidential_dollar",
+      "series_name": "Presidential Dollar",
+      "specifications": {
+        "diameter_mm": 26.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2020,
+        "start": 2007
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-NADO-2009-P",
+          "common_names": [
+            "Native American Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "First Native American Dollar. Three Sisters agriculture theme."
+          ],
+          "identification_keywords": [
+            "native",
+            "american",
+            "dollar",
+            "2009",
+            "sacagawea",
+            "three",
+            "sisters",
+            "agriculture"
+          ],
+          "mint": "P",
+          "notes": "First year of series. Features Three Sisters agricultural practice.",
+          "obverse_description": "Sacagawea with baby Jean Baptiste",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Three Sisters agriculture - corn, beans, and squash",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2009
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-NADO-2010-P",
+          "common_names": [
+            "Native American Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Great Law of Peace theme. Hiawatha belt design."
+          ],
+          "identification_keywords": [
+            "native",
+            "american",
+            "dollar",
+            "2010",
+            "great",
+            "law",
+            "peace",
+            "hiawatha",
+            "belt"
+          ],
+          "mint": "P",
+          "notes": "Second year. Honors Great Law of Peace and Iroquois Confederacy.",
+          "obverse_description": "Sacagawea with baby Jean Baptiste",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Hiawatha belt symbolizing Great Law of Peace",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2010
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-NADO-2015-P",
+          "common_names": [
+            "Native American Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Mohawk ironworkers theme. New York skyline construction."
+          ],
+          "identification_keywords": [
+            "native",
+            "american",
+            "dollar",
+            "2015",
+            "mohawk",
+            "ironworkers",
+            "skyline",
+            "construction"
+          ],
+          "mint": "P",
+          "notes": "Honors Mohawk ironworkers who built American skyscrapers.",
+          "obverse_description": "Sacagawea with baby Jean Baptiste",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Mohawk ironworkers building New York skyline",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2015
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-NADO-2020-P",
+          "common_names": [
+            "Native American Dollar",
+            "Golden Dollar"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.885,
+              "manganese": 0.035,
+              "nickel": 0.02,
+              "zinc": 0.06
+            },
+            "alloy_name": "Manganese Brass"
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": [
+            "Elizabeth Peratrovich civil rights theme."
+          ],
+          "identification_keywords": [
+            "native",
+            "american",
+            "dollar",
+            "2020",
+            "elizabeth",
+            "peratrovich",
+            "civil",
+            "rights",
+            "alaska"
+          ],
+          "mint": "P",
+          "notes": "Honors Elizabeth Peratrovich and Alaska Anti-Discrimination Act of 1945.",
+          "obverse_description": "Sacagawea with baby Jean Baptiste",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Elizabeth Peratrovich and Alaska Anti-Discrimination Act",
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2020
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.885,
+            "manganese": 0.035,
+            "nickel": 0.02,
+            "zinc": 0.06
+          },
+          "alloy_name": "Manganese Brass",
+          "date_range": {
+            "end": 2020,
+            "start": 2009
+          },
+          "weight": {
+            "grams": 8.1
+          }
+        }
+      ],
+      "official_name": "Native American Dollar",
+      "series_id": "native_american_dollar",
+      "series_name": "Native American Dollar",
+      "specifications": {
+        "diameter_mm": 26.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2020,
+        "start": 2009
+      }
     }
   ]
 }
