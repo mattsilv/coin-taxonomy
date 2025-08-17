@@ -315,11 +315,9 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
+            "Liberty's right breast exposed",
+            "Eagle positioned lower",
+            "13 stars under eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
@@ -332,7 +330,7 @@
             "macneil quarter"
           ],
           "mint": "P",
-          "notes": "Lowest mintage 20th century coin",
+          "notes": "Lowest mintage 20th century coin (Type I - bare-breasted Liberty)",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": "key",
@@ -351,7 +349,7 @@
         },
         {
           "business_strikes": 8792000,
-          "coin_id": "US-SLIQ-1917-P",
+          "coin_id": "US-SLIQ-1917-P-TYPE1",
           "common_names": [
             "Standing Liberty Quarter",
             "Standing Quarter",
@@ -366,11 +364,9 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
+            "Liberty's right breast exposed",
+            "Eagle positioned lower on reverse",
+            "Original 13 stars under eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
@@ -383,25 +379,55 @@
             "macneil quarter"
           ],
           "mint": "P",
+          "notes": "1917 Type I - Bare-breasted Liberty",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": null,
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
-          "varieties": [
-            {
-              "description": "Bare-breasted Liberty",
-              "estimated_mintage": 8792000,
-              "name": "Type I",
-              "variety_id": "SLQ-1917-P-T1-01"
-            },
-            {
-              "description": "Chain mail added",
-              "estimated_mintage": null,
-              "name": "Type II",
-              "variety_id": "SLQ-1917-P-T1-02"
-            }
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1917
+        },
+        {
+          "business_strikes": 0,
+          "coin_id": "US-SLIQ-1917-P-TYPE2",
+          "common_names": [
+            "Standing Liberty Quarter",
+            "Standing Quarter",
+            "Liberty Gateway Quarter"
           ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "Silver"
+          },
+          "diameter_mm": 24.3,
+          "distinguishing_features": [
+            "Liberty covered with chain mail",
+            "Eagle repositioned higher on reverse",
+            "Three additional stars under eagle (16 total)"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "liberty gateway",
+            "flying eagle quarter",
+            "type 1 quarter",
+            "type 2 quarter",
+            "silver quarter",
+            "macneil quarter"
+          ],
+          "mint": "P",
+          "notes": "1917 Type II - Chain mail added",
+          "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
           "weight_grams": 6.25,
           "year": 1917
         },
@@ -422,11 +448,9 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
+            "Liberty covered with chain mail",
+            "Eagle repositioned higher",
+            "16 stars under eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
@@ -439,7 +463,7 @@
             "macneil quarter"
           ],
           "mint": "S",
-          "notes": "~3,000 survivors of overdate",
+          "notes": "~3,000 survivors of overdate (Type II - chain mail covering)",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": null,
@@ -473,11 +497,9 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
+            "Liberty covered with chain mail",
+            "Eagle repositioned higher",
+            "16 stars under eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
@@ -490,7 +512,7 @@
             "macneil quarter"
           ],
           "mint": "P",
-          "notes": "Post-WWI recession",
+          "notes": "Post-WWI recession (Type II - chain mail covering)",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": "key",
@@ -517,11 +539,9 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "90% silver composition",
-            "24.3mm diameter",
-            "Liberty standing (not seated)",
-            "Type I (bare breast) or Type II (covered)",
-            "Hermon MacNeil design"
+            "Liberty covered with chain mail",
+            "Eagle repositioned higher",
+            "16 stars under eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
@@ -534,7 +554,7 @@
             "macneil quarter"
           ],
           "mint": "S",
-          "notes": "Second lowest mintage",
+          "notes": "Second lowest mintage (Type II - chain mail covering)",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": "key",

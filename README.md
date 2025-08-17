@@ -23,6 +23,17 @@ The numismatic world needs **standardized, machine-readable coin data**. This pr
 - **Academic research** with reliable, structured numismatic data
 - **Professional attribution** using consistent terminology and standards
 
+## Important: Taxonomy-Only Scope
+
+**This project provides taxonomic identification data only - not pricing information.** The value is in creating precise, granular taxonomy nodes (like `US-LWCT-1909-S-VDB` vs `US-LWCT-1909-S`) that external pricing systems can reference.
+
+- **One unique ID = One specific coin variant**
+- **External price feeds** can map to exact taxonomy nodes  
+- **Collectors get precise identification** for their specific coins
+- **Market data providers** have standardized identifiers to reference
+
+The taxonomy serves as the **foundational layer** that makes accurate pricing possible, rather than containing pricing itself.
+
 ## What This Project Provides
 
 This is a **machine-readable numismatic database** designed for the age of AI and digital marketplaces. For coin experts and taxonomy professionals, this project offers:

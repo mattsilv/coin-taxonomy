@@ -4192,7 +4192,7 @@
           "year": 1909
         },
         {
-          "business_strikes": 484000,
+          "business_strikes": 72702618,
           "coin_id": "US-LWCT-1909-S",
           "common_names": [
             "Lincoln Wheat Cent",
@@ -4226,21 +4226,60 @@
             "vdb cent"
           ],
           "mint": "S",
-          "notes": "Holy Grail of Lincoln cents",
+          "notes": "Holy Grail of Lincoln cents (VDB variety split to separate record)",
           "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
           "proof_strikes": 0,
           "rarity": "key",
           "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
           "seller_name": "stacks-bowers-galleries",
           "source_citation": "PCGS CoinFacts",
-          "varieties": [
-            {
-              "description": "With designer initials VDB",
-              "estimated_mintage": 484000,
-              "name": "VDB",
-              "variety_id": "LWC-1909-S-VDB-01"
-            }
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1909
+        },
+        {
+          "business_strikes": 484000,
+          "coin_id": "US-LWCT-1909-S-VDB",
+          "common_names": [
+            "Lincoln Wheat Cent",
+            "Wheat Penny",
+            "Lincoln Penny"
           ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Bronze composition (95% copper, except 1943 steel)",
+            "19.05mm diameter",
+            "First presidential portrait on circulating coin",
+            "Wheat ears on reverse",
+            "Victor Brenner design"
+          ],
+          "identification_keywords": [
+            "lincoln wheat cent",
+            "wheat penny",
+            "lincoln cent",
+            "wheat cent",
+            "lincoln penny",
+            "bronze cent",
+            "victor brenner",
+            "vdb cent"
+          ],
+          "mint": "S",
+          "notes": "1909-S VDB variety - With designer initials VDB",
+          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "seller_name": "stacks-bowers-galleries",
+          "source_citation": "PCGS CoinFacts",
+          "varieties": [],
           "weight_grams": 3.11,
           "year": 1909
         },

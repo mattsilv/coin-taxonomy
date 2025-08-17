@@ -17769,7 +17769,7 @@
       "year": 1909
     },
     {
-      "business_strikes": 484000,
+      "business_strikes": 72702618,
       "coin_id": "US-LWCT-1909-S",
       "common_names": [
         "Lincoln Wheat Cent",
@@ -17805,7 +17805,7 @@
         "vdb cent"
       ],
       "mint": "S",
-      "notes": "Holy Grail of Lincoln cents",
+      "notes": "Holy Grail of Lincoln cents (VDB variety split to separate record)",
       "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
       "proof_strikes": 0,
       "rarity": "key",
@@ -17813,14 +17813,56 @@
       "series_id": "lincoln_wheat_cent",
       "series_name": "Lincoln Wheat Cent",
       "source_citation": "PCGS CoinFacts",
-      "varieties": [
-        {
-          "description": "With designer initials VDB",
-          "estimated_mintage": 484000,
-          "name": "VDB",
-          "variety_id": "LWC-1909-S-VDB-01"
-        }
+      "varieties": [],
+      "weight_grams": 3.11,
+      "year": 1909
+    },
+    {
+      "business_strikes": 484000,
+      "coin_id": "US-LWCT-1909-S-VDB",
+      "common_names": [
+        "Lincoln Wheat Cent",
+        "Wheat Penny",
+        "Lincoln Penny"
       ],
+      "composition": {
+        "alloy": {
+          "copper": 0.95,
+          "tin": 0.04,
+          "zinc": 0.01
+        },
+        "alloy_name": "Bronze"
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 19.05,
+      "distinguishing_features": [
+        "Bronze composition (95% copper, except 1943 steel)",
+        "19.05mm diameter",
+        "First presidential portrait on circulating coin",
+        "Wheat ears on reverse",
+        "Victor Brenner design"
+      ],
+      "identification_keywords": [
+        "lincoln wheat cent",
+        "wheat penny",
+        "lincoln cent",
+        "wheat cent",
+        "lincoln penny",
+        "bronze cent",
+        "victor brenner",
+        "vdb cent"
+      ],
+      "mint": "S",
+      "notes": "1909-S VDB variety - With designer initials VDB",
+      "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+      "series_id": "lincoln_wheat_cent",
+      "series_name": "Lincoln Wheat Cent",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
       "weight_grams": 3.11,
       "year": 1909
     },
@@ -19281,6 +19323,53 @@
       "year": 1916
     },
     {
+      "business_strikes": 264000,
+      "coin_id": "US-MERC-1916-D-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "D",
+      "notes": "Full Bands variety - King of Mercury dimes",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1916
+    },
+    {
       "business_strikes": 22180080,
       "coin_id": "US-MERC-1916-P",
       "common_names": [
@@ -19329,6 +19418,53 @@
       "year": 1916
     },
     {
+      "business_strikes": 22180080,
+      "coin_id": "US-MERC-1916-P-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "P",
+      "notes": "Full Bands variety",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "US Mint records",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1916
+    },
+    {
       "business_strikes": 10450000,
       "coin_id": "US-MERC-1916-S",
       "common_names": [
@@ -19365,6 +19501,53 @@
       ],
       "mint": "S",
       "notes": null,
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "US Mint records",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1916
+    },
+    {
+      "business_strikes": 10450000,
+      "coin_id": "US-MERC-1916-S-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "S",
+      "notes": "Full Bands variety",
       "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
       "proof_strikes": null,
       "rarity": null,
@@ -19503,11 +19686,9 @@
       "denomination": "Quarters",
       "diameter_mm": 24.3,
       "distinguishing_features": [
-        "90% silver composition",
-        "24.3mm diameter",
-        "Liberty standing (not seated)",
-        "Type I (bare breast) or Type II (covered)",
-        "Hermon MacNeil design"
+        "Liberty's right breast exposed",
+        "Eagle positioned lower",
+        "13 stars under eagle"
       ],
       "identification_keywords": [
         "standing liberty quarter",
@@ -19520,7 +19701,7 @@
         "macneil quarter"
       ],
       "mint": "P",
-      "notes": "Lowest mintage 20th century coin",
+      "notes": "Lowest mintage 20th century coin (Type I - bare-breasted Liberty)",
       "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
       "proof_strikes": null,
       "rarity": "key",
@@ -19853,7 +20034,7 @@
     },
     {
       "business_strikes": 8792000,
-      "coin_id": "US-SLIQ-1917-P",
+      "coin_id": "US-SLIQ-1917-P-TYPE1",
       "common_names": [
         "Standing Liberty Quarter",
         "Standing Quarter",
@@ -19870,11 +20051,9 @@
       "denomination": "Quarters",
       "diameter_mm": 24.3,
       "distinguishing_features": [
-        "90% silver composition",
-        "24.3mm diameter",
-        "Liberty standing (not seated)",
-        "Type I (bare breast) or Type II (covered)",
-        "Hermon MacNeil design"
+        "Liberty's right breast exposed",
+        "Eagle positioned lower on reverse",
+        "Original 13 stars under eagle"
       ],
       "identification_keywords": [
         "standing liberty quarter",
@@ -19887,7 +20066,7 @@
         "macneil quarter"
       ],
       "mint": "P",
-      "notes": null,
+      "notes": "1917 Type I - Bare-breasted Liberty",
       "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
       "proof_strikes": null,
       "rarity": null,
@@ -19895,20 +20074,53 @@
       "series_id": "standing_liberty_quarter",
       "series_name": "Standing Liberty Quarter",
       "source_citation": "PCGS CoinFacts",
-      "varieties": [
-        {
-          "description": "Bare-breasted Liberty",
-          "estimated_mintage": 8792000,
-          "name": "Type I",
-          "variety_id": "SLQ-1917-P-T1-01"
-        },
-        {
-          "description": "Chain mail added",
-          "estimated_mintage": null,
-          "name": "Type II",
-          "variety_id": "SLQ-1917-P-T1-02"
-        }
+      "varieties": [],
+      "weight_grams": 6.25,
+      "year": 1917
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-SLIQ-1917-P-TYPE2",
+      "common_names": [
+        "Standing Liberty Quarter",
+        "Standing Quarter",
+        "Liberty Gateway Quarter"
       ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Quarters",
+      "diameter_mm": 24.3,
+      "distinguishing_features": [
+        "Liberty covered with chain mail",
+        "Eagle repositioned higher on reverse",
+        "Three additional stars under eagle (16 total)"
+      ],
+      "identification_keywords": [
+        "standing liberty quarter",
+        "standing quarter",
+        "liberty gateway",
+        "flying eagle quarter",
+        "type 1 quarter",
+        "type 2 quarter",
+        "silver quarter",
+        "macneil quarter"
+      ],
+      "mint": "P",
+      "notes": "1917 Type II - Chain mail added",
+      "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
+      "series_id": "standing_liberty_quarter",
+      "series_name": "Standing Liberty Quarter",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
       "weight_grams": 6.25,
       "year": 1917
     },
@@ -20250,11 +20462,9 @@
       "denomination": "Quarters",
       "diameter_mm": 24.3,
       "distinguishing_features": [
-        "90% silver composition",
-        "24.3mm diameter",
-        "Liberty standing (not seated)",
-        "Type I (bare breast) or Type II (covered)",
-        "Hermon MacNeil design"
+        "Liberty covered with chain mail",
+        "Eagle repositioned higher",
+        "16 stars under eagle"
       ],
       "identification_keywords": [
         "standing liberty quarter",
@@ -20267,7 +20477,7 @@
         "macneil quarter"
       ],
       "mint": "S",
-      "notes": "~3,000 survivors of overdate",
+      "notes": "~3,000 survivors of overdate (Type II - chain mail covering)",
       "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
       "proof_strikes": null,
       "rarity": null,
@@ -21010,6 +21220,53 @@
       "year": 1921
     },
     {
+      "business_strikes": 1080000,
+      "coin_id": "US-MERC-1921-D-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "D",
+      "notes": "Full Bands variety - Second-lowest mintage",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1921
+    },
+    {
       "business_strikes": 1230000,
       "coin_id": "US-MERC-1921-P",
       "common_names": [
@@ -21046,6 +21303,53 @@
       ],
       "mint": "P",
       "notes": null,
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "semi-key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1921
+    },
+    {
+      "business_strikes": 1230000,
+      "coin_id": "US-MERC-1921-P-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "P",
+      "notes": "Full Bands variety",
       "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
       "proof_strikes": null,
       "rarity": "semi-key",
@@ -21291,11 +21595,9 @@
       "denomination": "Quarters",
       "diameter_mm": 24.3,
       "distinguishing_features": [
-        "90% silver composition",
-        "24.3mm diameter",
-        "Liberty standing (not seated)",
-        "Type I (bare breast) or Type II (covered)",
-        "Hermon MacNeil design"
+        "Liberty covered with chain mail",
+        "Eagle repositioned higher",
+        "16 stars under eagle"
       ],
       "identification_keywords": [
         "standing liberty quarter",
@@ -21308,7 +21610,7 @@
         "macneil quarter"
       ],
       "mint": "P",
-      "notes": "Post-WWI recession",
+      "notes": "Post-WWI recession (Type II - chain mail covering)",
       "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
       "proof_strikes": null,
       "rarity": "key",
@@ -22094,6 +22396,53 @@
       "year": 1926
     },
     {
+      "business_strikes": 1520000,
+      "coin_id": "US-MERC-1926-S-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "S",
+      "notes": "Full Bands variety - Notorious for weak strikes",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "semi-key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1926
+    },
+    {
       "business_strikes": 970000,
       "coin_id": "US-BUFF-1926-S",
       "common_names": [
@@ -22472,11 +22821,9 @@
       "denomination": "Quarters",
       "diameter_mm": 24.3,
       "distinguishing_features": [
-        "90% silver composition",
-        "24.3mm diameter",
-        "Liberty standing (not seated)",
-        "Type I (bare breast) or Type II (covered)",
-        "Hermon MacNeil design"
+        "Liberty covered with chain mail",
+        "Eagle repositioned higher",
+        "16 stars under eagle"
       ],
       "identification_keywords": [
         "standing liberty quarter",
@@ -22489,7 +22836,7 @@
         "macneil quarter"
       ],
       "mint": "S",
-      "notes": "Second lowest mintage",
+      "notes": "Second lowest mintage (Type II - chain mail covering)",
       "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
       "proof_strikes": null,
       "rarity": "key",
@@ -23355,6 +23702,53 @@
       "year": 1931
     },
     {
+      "business_strikes": 1260000,
+      "coin_id": "US-MERC-1931-D-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "D",
+      "notes": "Full Bands variety",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "semi-key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1931
+    },
+    {
       "business_strikes": 1800000,
       "coin_id": "US-MERC-1931-S",
       "common_names": [
@@ -23391,6 +23785,53 @@
       ],
       "mint": "S",
       "notes": null,
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": "semi-key",
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1931
+    },
+    {
+      "business_strikes": 1800000,
+      "coin_id": "US-MERC-1931-S-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "S",
+      "notes": "Full Bands variety",
       "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
       "proof_strikes": null,
       "rarity": "semi-key",
@@ -27780,6 +28221,53 @@
       "year": 1942
     },
     {
+      "business_strikes": 60740000,
+      "coin_id": "US-MERC-1942-D-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "D",
+      "notes": "Full Bands variety",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1942
+    },
+    {
       "business_strikes": 205432329,
       "coin_id": "US-MERC-1942-P",
       "common_names": [
@@ -27831,6 +28319,53 @@
           "variety_id": "MD-1942-P-21-01"
         }
       ],
+      "weight_grams": 2.5,
+      "year": 1942
+    },
+    {
+      "business_strikes": 205432329,
+      "coin_id": "US-MERC-1942-P-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "P",
+      "notes": "Full Bands variety",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "PCGS CoinFacts",
+      "varieties": [],
       "weight_grams": 2.5,
       "year": 1942
     },
@@ -29537,6 +30072,53 @@
       "year": 1945
     },
     {
+      "business_strikes": 40245000,
+      "coin_id": "US-MERC-1945-D-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "D",
+      "notes": "Full Bands variety",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "US Mint records",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1945
+    },
+    {
       "business_strikes": 159130000,
       "coin_id": "US-MERC-1945-P",
       "common_names": [
@@ -29573,6 +30155,53 @@
       ],
       "mint": "P",
       "notes": "Final year of Mercury dime",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "US Mint records",
+      "varieties": [],
+      "weight_grams": 2.5,
+      "year": 1945
+    },
+    {
+      "business_strikes": 159130000,
+      "coin_id": "US-MERC-1945-P-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "P",
+      "notes": "Full Bands variety - Final year of Mercury dime",
       "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
       "proof_strikes": null,
       "rarity": null,
@@ -29636,6 +30265,53 @@
           "variety_id": "MD-1945-S-Micro-01"
         }
       ],
+      "weight_grams": 2.5,
+      "year": 1945
+    },
+    {
+      "business_strikes": 41920000,
+      "coin_id": "US-MERC-1945-S-FB",
+      "common_names": [
+        "Mercury Dime",
+        "Winged Liberty Dime",
+        "Mercury Head Dime"
+      ],
+      "composition": {
+        "alloy": {
+          "copper": 0.1,
+          "silver": 0.9
+        },
+        "alloy_name": "Silver"
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "distinguishing_features": [
+        "Full separation with recessed area on center bands",
+        "Top and bottom bands separated",
+        "No bridging, interruptions, or contact marks",
+        "Requires MS60+ (AU50+ for 1916-D and 1942/1 exceptions)"
+      ],
+      "identification_keywords": [
+        "mercury dime",
+        "winged liberty dime",
+        "silver dime",
+        "fasces dime",
+        "mercury head dime",
+        "liberty cap dime",
+        "90% silver",
+        "adolph weinman"
+      ],
+      "mint": "S",
+      "notes": "Full Bands variety - Final year micro S variety exists",
+      "obverse_description": "Liberty wearing winged Phrygian cap facing left, 'LIBERTY' above with spaced letters, 'IN GOD WE TRUST' to left, date below, designer's monogram 'AW' at neck",
+      "proof_strikes": null,
+      "rarity": null,
+      "reverse_description": "Roman fasces (bundle of rods with axe) with olive branch wrapped around, 'UNITED STATES OF AMERICA' above, 'ONE DIME' below, 'E PLURIBUS UNUM' in right field",
+      "series_id": "mercury_dime",
+      "series_name": "Mercury Dime",
+      "source_citation": "Red Book",
+      "varieties": [],
       "weight_grams": 2.5,
       "year": 1945
     },
@@ -68466,9 +69142,9 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-08-17T12:35:13.679746",
+  "generated_at": "2025-08-17T23:35:00.000000",
   "taxonomy_version": "1.1",
-  "total_coins": 1421,
+  "total_coins": 1436,
   "year_range": {
     "earliest": 1787,
     "latest": 2024
