@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Split major varieties into separate coin records for accurate price tracking.
+Split major varieties into separate coin records for precise taxonomic identification.
 Starting with 1909-S VDB as proof of concept.
 """
 
@@ -217,7 +217,7 @@ def main():
         print(f"❌ Database not found: {db_path}")
         sys.exit(1)
     
-    print("🚀 Splitting VDB varieties for accurate price tracking")
+    print("🚀 Splitting VDB varieties for precise taxonomic identification")
     print("=" * 60)
     
     backup_path = backup_database(db_path)
@@ -244,9 +244,9 @@ def main():
                 
                 conn.commit()
                 print("\n✅ VDB variety split completed successfully!")
-                print("\nPrice tracking benefits:")
-                print("- US-LWCT-1909-S: Standard 1909-S Lincoln cent (~$100-$150)")
-                print("- US-LWCT-1909-S-VDB: 1909-S with VDB initials (~$800-$1200)")
+                print("\nTaxonomic identification benefits:")
+                print("- US-LWCT-1909-S: Standard 1909-S Lincoln cent (without VDB)")
+                print("- US-LWCT-1909-S-VDB: 1909-S with designer initials VDB")
                 print("\nNext steps:")
                 print("1. Update export scripts to handle variety suffixes")
                 print("2. Test JSON exports include both records")

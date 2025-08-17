@@ -89,16 +89,16 @@ def test_mercury_fb_export():
     print(f"- FB varieties: {len(fb_coins)}")
     print(f"- Total Mercury records: {len(coins)}")
     
-    print(f"\nKey FB Varieties for price tracking:")
+    print(f"\nKey FB Varieties for taxonomic identification:")
     key_fb = [c for c in fb_coins if any(key in f"{c[2]}-{c[3]}" for key in key_dates)]
     for coin in key_fb:
         coin_id, series, year, mint, mintage, suffix, rarity, notes, features = coin
         print(f"  🎯 {coin_id}: {year}-{mint} FB variety")
     
-    print(f"\nPrice tracking benefits:")
-    print(f"- Separate pricing for FB vs regular strikes")
-    print(f"- FB premiums can be 2x to 8x regular prices")
-    print(f"- Accurate valuation for collectors")
+    print(f"\nTaxonomic identification benefits:")
+    print(f"- Separate identification for FB vs regular strikes")
+    print(f"- FB varieties are significantly rarer than regular strikes")
+    print(f"- Precise variety classification for collectors")
     
     # Show pairing examples
     print(f"\nPairing Examples (Regular vs FB):")

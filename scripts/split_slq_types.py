@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Split Standing Liberty Quarter Type I and Type II varieties for accurate price tracking.
+Split Standing Liberty Quarter Type I and Type II varieties for precise taxonomic identification.
 Based on comprehensive research from GitHub issue #24.
 
 Type Timeline:
@@ -341,9 +341,9 @@ def main():
                 
                 conn.commit()
                 print("\n✅ Standing Liberty Quarter type split completed successfully!")
-                print("\nPrice tracking benefits:")
-                print("- 1916-P TYPE1: Rare bare-breasted design")
-                print("- 1917-P TYPE1: Early 1917 bare-breasted")
+                print("\nTaxonomic identification benefits:")
+                print("- 1916-P TYPE1: Rare bare-breasted design (52,000 minted)")
+                print("- 1917-P TYPE1: Early 1917 bare-breasted design")
                 print("- 1917-P TYPE2: Mid-1917 chain mail redesign")
                 print("- 1918+ TYPE2: All post-redesign quarters")
                 print("\nNext steps:")

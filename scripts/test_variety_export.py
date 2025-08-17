@@ -73,7 +73,7 @@ def test_variety_export():
     print("- US-LWCT-1909-S: Standard variety (no suffix)")
     print("- US-LWCT-1909-S-VDB: VDB variety (with suffix)")
     print("- Each has distinct mintage and rarity")
-    print("- Perfect for separate price tracking!")
+    print("- Perfect for precise taxonomic identification!")
 
 if __name__ == "__main__":
     test_variety_export()
