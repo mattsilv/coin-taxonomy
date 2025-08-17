@@ -2,7 +2,7 @@
 
 **A Professional-Grade Numismatic Database for the Digital Age**
 
-This is a comprehensive, structured database containing 426+ US coins from 1793 to present, with complete mintage data, composition tracking, and variety documentation. Built specifically for coin professionals, researchers, and AI applications.
+This is a comprehensive, structured database containing 963+ US coins from 1793 to present, with complete mintage data, composition tracking, and variety documentation. Built specifically for coin professionals, researchers, and AI applications.
 
 **🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface
 
