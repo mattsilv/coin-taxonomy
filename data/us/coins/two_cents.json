@@ -1,0 +1,228 @@
+{
+  "country": "US",
+  "denomination": "Two Cents",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-TWCT-1864-P",
+          "common_names": [
+            "Two-Cent Piece"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 23.0,
+          "distinguishing_features": [
+            "First US coin with \"IN GOD WE TRUST\". Large Motto variety."
+          ],
+          "identification_keywords": [
+            "two",
+            "cent",
+            "1864",
+            "first",
+            "year",
+            "in",
+            "god",
+            "we",
+            "trust",
+            "large",
+            "motto"
+          ],
+          "mint": "P",
+          "notes": "First year. Large Motto is common variety. Historic first use of \"IN GOD WE TRUST\".",
+          "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1864
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-TWCT-1865-P",
+          "common_names": [
+            "Two-Cent Piece"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 23.0,
+          "distinguishing_features": [
+            "Overdate variety 1865/4 exists. High mintage year."
+          ],
+          "identification_keywords": [
+            "two",
+            "cent",
+            "1865",
+            "overdate",
+            "variety",
+            "1865/4"
+          ],
+          "mint": "P",
+          "notes": "High mintage year. 1865/4 overdate variety is scarce and valuable.",
+          "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1865
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-TWCT-1869-P",
+          "common_names": [
+            "Two-Cent Piece"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 23.0,
+          "distinguishing_features": [
+            "Representative mid-period common date."
+          ],
+          "identification_keywords": [
+            "two",
+            "cent",
+            "1869",
+            "common",
+            "date"
+          ],
+          "mint": "P",
+          "notes": "Representative common date from middle of series run.",
+          "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1869
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-TWCT-1872-P",
+          "common_names": [
+            "Two-Cent Piece"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 23.0,
+          "distinguishing_features": [
+            "Key date with very low mintage of 65,000."
+          ],
+          "identification_keywords": [
+            "two",
+            "cent",
+            "1872",
+            "key",
+            "date",
+            "low",
+            "mintage"
+          ],
+          "mint": "P",
+          "notes": "Key date with lowest business strike mintage of 65,000.",
+          "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1872
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-TWCT-1873-P",
+          "common_names": [
+            "Two-Cent Piece"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 23.0,
+          "distinguishing_features": [
+            "Final year - proof only. Open 3 vs Closed 3 varieties."
+          ],
+          "identification_keywords": [
+            "two",
+            "cent",
+            "1873",
+            "final",
+            "year",
+            "proof",
+            "only",
+            "open",
+            "closed",
+            "3"
+          ],
+          "mint": "P",
+          "notes": "Final year - proof only. Open 3 and Closed 3 varieties exist.",
+          "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1873
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
+          "alloy_name": "Bronze",
+          "date_range": {
+            "end": 1873,
+            "start": 1864
+          },
+          "weight": {
+            "grams": 6.22
+          }
+        }
+      ],
+      "official_name": "Two-Cent Piece",
+      "series_id": "two_cent",
+      "series_name": "Two-Cent Piece",
+      "specifications": {
+        "diameter_mm": 23.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1873,
+        "start": 1864
+      }
+    }
+  ]
+}

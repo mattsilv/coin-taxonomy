@@ -446,7 +446,10 @@ def migrate_existing_data(conn):
         # Unpack coin data (adjust indices based on actual schema)
         (coin_id, series_id, country, denomination, series_name, year, mint,
          business_strikes, proof_strikes, rarity, composition, weight_grams,
-         diameter_mm, varieties, source_citation, notes, created_at) = coin
+         diameter_mm, varieties, source_citation, notes, created_at,
+         obverse_description, reverse_description, distinguishing_features,
+         identification_keywords, common_names, category, issuer, series_year,
+         calendar_type, original_date, seller_name) = coin
         
         # Look up series abbreviation from registry
         if series_id:
@@ -512,8 +515,8 @@ def migrate_existing_data(conn):
                 issue_id, object_type, series_id, country_code, authority_name,
                 monetary_system, currency_unit, face_value, unit_name, common_names,
                 system_fraction, issue_year, mint_id, specifications, sides,
-                mintage, rarity, varieties, source_citation, notes
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                mintage, rarity, varieties, source_citation, notes, seller_name
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             issue_id,
             "coin",
@@ -534,7 +537,8 @@ def migrate_existing_data(conn):
             rarity,
             varieties,
             source_citation,
-            notes
+            notes,
+            seller_name
         ))
         
         migrated_count += 1

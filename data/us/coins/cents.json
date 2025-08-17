@@ -3957,6 +3957,7 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Oak wreath with shield at top enclosing 'ONE CENT'",
+          "seller_name": "heritage-auctions-official",
           "source_citation": "PCGS CoinFacts",
           "varieties": [],
           "weight_grams": 3.11,
@@ -4150,6 +4151,47 @@
     {
       "coins": [
         {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1909-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1909 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1909",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1909 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1909
+        },
+        {
           "business_strikes": 484000,
           "coin_id": "US-LWCT-1909-S",
           "common_names": [
@@ -4189,6 +4231,7 @@
           "proof_strikes": 0,
           "rarity": "key",
           "reverse_description": "Two wheat stalks flanking 'ONE CENT', 'E PLURIBUS UNUM' above, 'UNITED STATES OF AMERICA' below",
+          "seller_name": "stacks-bowers-galleries",
           "source_citation": "PCGS CoinFacts",
           "varieties": [
             {
@@ -4200,6 +4243,457 @@
           ],
           "weight_grams": 3.11,
           "year": 1909
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1910-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1910 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1910",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1910 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1910
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1910-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1910 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1910",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1910 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1910
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1911-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1911 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1911",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1911 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1911
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1911-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1911 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1911",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1911 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1911
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1911-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1911 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1911",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1911 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1911
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1912-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1912 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1912",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1912 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1912
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1912-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1912 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1912",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1912 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1912
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1912-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1912 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1912",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1912 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1912
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1913-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1913 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1913",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1913 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1913
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1913-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1913 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1913",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1913 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1913
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1913-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1913 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1913",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1913 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1913
         },
         {
           "business_strikes": 1193000,
@@ -4245,6 +4739,949 @@
           "varieties": [],
           "weight_grams": 3.11,
           "year": 1914
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1914-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1914 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1914",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1914 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1914
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1914-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1914 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1914",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1914 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1914
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1915-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1915 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1915",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1915 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1915
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1915-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1915 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1915",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1915 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1915
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1915-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1915 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1915",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1915 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1915
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1916-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1916 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1916",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1916 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1916-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1916 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1916",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1916 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1916-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1916 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1916",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1916 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1917-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1917 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1917",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1917 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1917-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1917 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1917",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1917 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1917-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1917 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1917",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1917 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1918-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1918 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1918",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1918 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1918-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1918 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1918",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1918 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1918-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1918 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1918",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1918 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1919-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1919 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1919",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1919 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1919-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1919 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1919",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1919 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1919-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1919 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1919",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1919 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1920-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1920 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1920",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1920 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1920-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1920 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1920",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1920 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1920-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1920 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1920",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1920 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1921-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1921 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1921",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1921 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1921
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1921-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1921 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1921",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1921 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1921
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1921-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1921 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1921",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1921 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1921
         },
         {
           "business_strikes": 7160000,
@@ -4298,6 +5735,1031 @@
           "year": 1922
         },
         {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1923-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1923 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1923",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1923 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1923-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1923 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1923",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1923 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1923-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1923 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1923",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1923 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1924-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1924 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1924",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1924 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1924
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1924-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1924 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1924",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1924 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1924
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1924-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1924 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1924",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1924 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1924
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1925-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1925 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1925",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1925 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1925
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1925-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1925 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1925",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1925 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1925
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1925-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1925 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1925",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1925 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1925
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1926-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1926 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1926",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1926 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1926
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1926-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1926 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1926",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1926 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1926
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1926-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1926 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1926",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1926 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1926
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1927-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1927 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1927",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1927 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1927-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1927 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1927",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1927 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1927-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1927 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1927",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1927 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1928-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1928 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1928",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1928 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1928-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1928 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1928",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1928 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1928-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1928 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1928",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1928 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1929-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1929 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1929",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1929 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1929-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1929 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1929",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1929 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1929-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1929 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1929",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1929 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1930-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1930 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1930",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1930 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1930
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1930-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1930 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1930",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1930 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1930
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1930-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1930 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1930",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1930 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1930
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1931-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1931 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1931",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1931 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1931
+        },
+        {
           "business_strikes": 866000,
           "coin_id": "US-LWCT-1931-S",
           "common_names": [
@@ -4341,6 +6803,1235 @@
           "varieties": [],
           "weight_grams": 3.11,
           "year": 1931
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1932-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1932 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1932",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1932 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1932
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1933-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1933 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1933",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1933 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1933
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1934-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1934 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1934",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1934 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1934-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1934 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1934",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1934 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1934-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1934 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1934",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1934 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1935-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1935 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1935",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1935 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1935-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1935 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1935",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1935 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1935-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1935 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1935",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1935 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1936-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1936 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1936",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1936 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1936-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1936 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1936",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1936 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1936-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1936 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1936",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1936 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1937-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1937 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1937",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1937 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1937-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1937 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1937",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1937 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1937-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1937 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1937",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1937 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1938-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1938 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1938",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1938 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1938-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1938 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1938",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1938 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1938-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1938 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1938",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1938 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1939-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1939 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1939",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1939 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1939-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1939 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1939",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1939 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1939-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1939 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1939",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1939 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1940-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1940 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1940",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1940 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1940-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1940 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1940",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1940 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1940-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1940 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1940",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1940 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1941-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1941 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1941",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1941 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1941-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1941 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1941",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1941 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1941-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1941 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1941",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1941 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1942-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1942 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1942",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1942 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1942-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1942 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1942",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1942 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1942-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "tin": 0.04,
+              "zinc": 0.01
+            },
+            "alloy_name": "Bronze"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1942 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1942",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1942 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1943-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "steel": 0.99,
+              "zinc_coating": 0.01
+            },
+            "alloy_name": "Steel with Zinc Coating"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1943 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1943",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1943 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 2.7,
+          "year": 1943
         },
         {
           "business_strikes": 684628670,
@@ -4394,6 +8085,86 @@
           "year": 1943
         },
         {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1943-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "steel": 0.99,
+              "zinc_coating": 0.01
+            },
+            "alloy_name": "Steel with Zinc Coating"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1943 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1943",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1943 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 2.7,
+          "year": 1943
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1944-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1944 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1944",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1944 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1944
+        },
+        {
           "business_strikes": 1435400000,
           "coin_id": "US-LWCT-1944-P",
           "common_names": [
@@ -4444,6 +8215,1286 @@
           "year": 1944
         },
         {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1944-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1944 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1944",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1944 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1944
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1945-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1945 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1945",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1945 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1945-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1945 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1945",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1945 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1945-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1945 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1945",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1945 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1946-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1946 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1946",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1946 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1946-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1946 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1946",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1946 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1946-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1946 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1946",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1946 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1947-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1947 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1947",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1947 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1947
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1947-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1947 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1947",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1947 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1947
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1947-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1947 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1947",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1947 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1947
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1948-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1948 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1948",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1948 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1948
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1948-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1948 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1948",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1948 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1948
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1948-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1948 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1948",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1948 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1948
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1949-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1949 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1949",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1949 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1949
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1949-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1949 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1949",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1949 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1949
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1949-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1949 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1949",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1949 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1949
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1950-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1950 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1950",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1950 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1950
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1950-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1950 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1950",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1950 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1950
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1950-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1950 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1950",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1950 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1950
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1951-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1951 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1951",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1951 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1951
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1951-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1951 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1951",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1951 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1951
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1951-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1951 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1951",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1951 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1951
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1952-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1952 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1952",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1952 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1952
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1952-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1952 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1952",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1952 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1952
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1952-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1952 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1952",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1952 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1952
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1953-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1953 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1953",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1953 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1953
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1953-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1953 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1953",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1953 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1953
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1953-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1953 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1953",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1953 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1953
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1954-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1954 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1954",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1954 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1954
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1954-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1954 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1954",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1954 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1954
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1954-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1954 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1954",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1954 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1954
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1955-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1955 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1955",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1955 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1955
+        },
+        {
           "business_strikes": 330958200,
           "coin_id": "US-LWCT-1955-P",
           "common_names": [
@@ -4492,6 +9543,406 @@
           ],
           "weight_grams": 3.11,
           "year": 1955
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1955-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1955 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1955",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1955 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1955
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1956-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1956 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1956",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1956 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1956
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1956-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1956 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1956",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1956 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1956
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1956-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1956 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1956",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1956 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1956
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1957-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1957 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1957",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1957 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1957
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1957-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1957 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1957",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1957 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1957
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1957-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1957 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1957",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1957 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1957
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1958-D",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1958 date",
+            "D mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1958",
+            "d"
+          ],
+          "mint": "D",
+          "notes": "1958 Lincoln Wheat Cent from Denver.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1958
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1958-P",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1958 date",
+            "No mint mark (Philadelphia)"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1958",
+            "p"
+          ],
+          "mint": "P",
+          "notes": "1958 Lincoln Wheat Cent from Philadelphia.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1958
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LWCT-1958-S",
+          "common_names": [
+            "Wheat Penny",
+            "Wheat Cent",
+            "Lincoln Cent"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.95,
+              "zinc": 0.05
+            },
+            "alloy_name": "Brass"
+          },
+          "diameter_mm": 19.05,
+          "distinguishing_features": [
+            "Wheat stalks on reverse",
+            "1958 date",
+            "S mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "wheat",
+            "cent",
+            "penny",
+            "1958",
+            "s"
+          ],
+          "mint": "S",
+          "notes": "1958 Lincoln Wheat Cent from San Francisco.",
+          "obverse_description": "Abraham Lincoln bust right with LIBERTY, IN GOD WE TRUST, date",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Two wheat stalks flanking ONE CENT and UNITED STATES OF AMERICA",
+          "source_citation": "Red Book, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 3.11,
+          "year": 1958
         }
       ],
       "composition_periods": [
@@ -4515,6 +9966,20 @@
             "steel": 0.99,
             "zinc_coating": 0.01
           },
+          "alloy_name": "Steel with Zinc Coating",
+          "date_range": {
+            "end": 1943,
+            "start": 1943
+          },
+          "weight": {
+            "grams": 2.7
+          }
+        },
+        {
+          "alloy": {
+            "steel": 0.99,
+            "zinc_coating": 0.01
+          },
           "alloy_name": "Steel",
           "date_range": {
             "end": 1943,
@@ -4522,6 +9987,20 @@
           },
           "weight": {
             "grams": 2.7
+          }
+        },
+        {
+          "alloy": {
+            "copper": 0.95,
+            "zinc": 0.05
+          },
+          "alloy_name": "Brass",
+          "date_range": {
+            "end": 1958,
+            "start": 1944
+          },
+          "weight": {
+            "grams": 3.11
           }
         }
       ],
@@ -4533,7 +10012,7 @@
         "edge": "plain"
       },
       "years": {
-        "end": 1955,
+        "end": 1958,
         "start": 1909
       }
     },

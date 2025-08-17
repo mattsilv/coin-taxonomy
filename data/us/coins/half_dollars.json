@@ -2185,6 +2185,1460 @@
         "end": 1891,
         "start": 1839
       }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1892-O",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Normal O mint mark on reverse below eagle tail feathers."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1892",
+            "new",
+            "orleans",
+            "key",
+            "date"
+          ],
+          "mint": "O",
+          "notes": "Key date of series, very scarce in all grades. Scarce in all grades, rare in XF+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1892
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1892-P",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "First year of issue. Mint mark on reverse below eagle tail feathers."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1892",
+            "philadelphia"
+          ],
+          "mint": "P",
+          "notes": "First year of series, moderately scarce. Common in lower grades, scarce in AU+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1892
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1892-S",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below eagle tail feathers."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1892",
+            "san",
+            "francisco",
+            "key",
+            "date"
+          ],
+          "mint": "S",
+          "notes": "Key date of series, very scarce in all grades. Scarce in all grades, rare in XF+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1892
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1893-S",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below eagle tail feathers."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1893",
+            "san",
+            "francisco",
+            "key",
+            "date"
+          ],
+          "mint": "S",
+          "notes": "Key date of series, very scarce in all grades. Scarce in all grades, extremely rare in AU+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1893
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1896-O",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below eagle tail feathers."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1896",
+            "new",
+            "orleans",
+            "key",
+            "date"
+          ],
+          "mint": "O",
+          "notes": "Key date of series, very scarce in all grades. Scarce in all grades, rare in XF+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1896
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1906-P",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Representative common date from middle period."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1906",
+            "philadelphia",
+            "common",
+            "date"
+          ],
+          "mint": "P",
+          "notes": "Common date, readily available in lower grades. Common in G-VF, scarce in AU+.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1906
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1913-P",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date from late period. Low mintage."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1913",
+            "philadelphia",
+            "key",
+            "date"
+          ],
+          "mint": "P",
+          "notes": "Key date from late period, low mintage of 188,627. Scarce in all grades due to low mintage.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1913
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-BARH-1915-P",
+          "common_names": [
+            "Barber Half"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Final year of Barber Half Dollar series."
+          ],
+          "identification_keywords": [
+            "barber",
+            "half",
+            "dollar",
+            "1915",
+            "philadelphia",
+            "final",
+            "year"
+          ],
+          "mint": "P",
+          "notes": "Key date - final year of series. Popular as final year type, scarce in high grades.",
+          "obverse_description": "Liberty head right wearing Phrygian cap with LIBERTY on headband",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with shield, arrows and olive branch",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1915
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "alloy_name": "90% Silver",
+          "date_range": {
+            "end": 1915,
+            "start": 1892
+          },
+          "weight": {
+            "grams": 12.5
+          }
+        }
+      ],
+      "official_name": "Barber Half Dollar",
+      "series_id": "barber_half_dollar",
+      "series_name": "Barber Half Dollar",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1915,
+        "start": 1892
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1916-D",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1916",
+            "denver",
+            "first",
+            "year"
+          ],
+          "mint": "D",
+          "notes": "First year issue from Denver. Mint mark on obverse. Scarcer than Philadelphia.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1916-P",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1916",
+            "first",
+            "year",
+            "key",
+            "date"
+          ],
+          "mint": "P",
+          "notes": "Key date - first year of series. Mint mark location on obverse. Very popular design.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1916-S",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1916",
+            "san",
+            "francisco",
+            "first",
+            "year"
+          ],
+          "mint": "S",
+          "notes": "First year issue from San Francisco. Mint mark on obverse. Lower mintage.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1917-P",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Transition year. Early 1917 mint mark on obverse, later on reverse."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1917",
+            "philadelphia",
+            "transition"
+          ],
+          "mint": "P",
+          "notes": "Transition year for mint mark location. Mid-1917 change from obverse to reverse.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1921-D",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1921",
+            "denver",
+            "key",
+            "date"
+          ],
+          "mint": "D",
+          "notes": "Key date of series. Very low mintage, extremely scarce in high grades.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1921
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1921-P",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1921",
+            "philadelphia",
+            "key",
+            "date"
+          ],
+          "mint": "P",
+          "notes": "Key date of series. Low mintage and heavy melting during silver run-up.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1921
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1921-S",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1921",
+            "san",
+            "francisco",
+            "key",
+            "date"
+          ],
+          "mint": "S",
+          "notes": "Key date of series. Very low mintage, extremely scarce and valuable.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1921
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1938-D",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date from late period. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1938",
+            "denver",
+            "key",
+            "date"
+          ],
+          "mint": "D",
+          "notes": "Key date from later period. Low mintage of 491,600.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1943-P",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Wartime issue. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1943",
+            "philadelphia",
+            "common",
+            "wartime"
+          ],
+          "mint": "P",
+          "notes": "Representative common date from wartime period. High mintage.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1943
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1947-P",
+          "common_names": [
+            "Walking Liberty Half",
+            "Walker"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Final year of series. Mint mark on reverse below olive branch."
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "1947",
+            "philadelphia",
+            "final",
+            "year"
+          ],
+          "mint": "P",
+          "notes": "Final year of beloved series. Design later used on American Silver Eagle.",
+          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1947
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "alloy_name": "90% Silver",
+          "date_range": {
+            "end": 1947,
+            "start": 1916
+          },
+          "weight": {
+            "grams": 12.5
+          }
+        }
+      ],
+      "official_name": "Walking Liberty Half Dollar",
+      "series_id": "walking_liberty_half_dollar",
+      "series_name": "Walking Liberty Half Dollar",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1947,
+        "start": 1916
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1948-P",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "First year of issue. Mint mark above Liberty Bell on reverse."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1948",
+            "first",
+            "year",
+            "key",
+            "date",
+            "bell"
+          ],
+          "mint": "P",
+          "notes": "Key date - first year of series. Look for FBL (Full Bell Lines) designation.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1948
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1949-S",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark above Liberty Bell on reverse."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1949",
+            "san",
+            "francisco",
+            "key",
+            "date",
+            "bell"
+          ],
+          "mint": "S",
+          "notes": "Key date of series. Low mintage, scarce in all grades.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1949
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1953-P",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. No mint mark (Philadelphia)."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1953",
+            "philadelphia",
+            "key",
+            "date",
+            "bell"
+          ],
+          "mint": "P",
+          "notes": "Key date of series. Low mintage of 2,796,920.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1953
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1953-S",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. Mint mark above Liberty Bell on reverse."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1953",
+            "san",
+            "francisco",
+            "key",
+            "date",
+            "bell"
+          ],
+          "mint": "S",
+          "notes": "Key date of series. Very low mintage of 4,148,000.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1953
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1955-P",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Key date. \"Bugs Bunny\" die clash variety exists."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1955",
+            "philadelphia",
+            "key",
+            "date",
+            "bugs",
+            "bunny",
+            "variety"
+          ],
+          "mint": "P",
+          "notes": "Key date with lowest mintage of series (2,498,181). Famous \"Bugs Bunny\" die clash variety.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1955
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1961-P",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Common date. Doubled-die reverse proof variety exists."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1961",
+            "philadelphia",
+            "common",
+            "bell",
+            "doubled",
+            "die"
+          ],
+          "mint": "P",
+          "notes": "Representative common date. High mintage. 1961 proof has doubled-die reverse variety.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1961
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1963-D",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Final year Denver mint. Mint mark above Liberty Bell."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1963",
+            "denver",
+            "final",
+            "year",
+            "bell"
+          ],
+          "mint": "D",
+          "notes": "Final year Denver issue. High mintage of 67,069,292.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1963
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-FRHD-1963-P",
+          "common_names": [
+            "Franklin Half",
+            "Frankie"
+          ],
+          "composition": {
+            "alloy": {
+              "copper": 0.1,
+              "silver": 0.9
+            },
+            "alloy_name": "90% Silver"
+          },
+          "diameter_mm": 30.6,
+          "distinguishing_features": [
+            "Final year of Franklin Half Dollar series."
+          ],
+          "identification_keywords": [
+            "franklin",
+            "half",
+            "dollar",
+            "1963",
+            "philadelphia",
+            "final",
+            "year",
+            "bell"
+          ],
+          "mint": "P",
+          "notes": "Final year of series. Replaced by Kennedy Half Dollar in 1964.",
+          "obverse_description": "Benjamin Franklin portrait facing right with LIBERTY around",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Liberty Bell with small eagle to right",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1963
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "alloy_name": "90% Silver",
+          "date_range": {
+            "end": 1963,
+            "start": 1948
+          },
+          "weight": {
+            "grams": 12.5
+          }
+        }
+      ],
+      "official_name": "Franklin Half Dollar",
+      "series_id": "franklin_half_dollar",
+      "series_name": "Franklin Half Dollar",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1963,
+        "start": 1948
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 156205446,
+          "coin_id": "US-KHDO-1964-D",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "1964-D Silver Kennedy"
+          ],
+          "composition": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "D mint mark",
+            "90% silver composition",
+            "12.50g weight",
+            "first year Denver issue"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1964 kennedy",
+            "denver mint",
+            "silver half dollar",
+            "jfk half",
+            "d mint mark"
+          ],
+          "mint": "D",
+          "notes": "First year Denver issue, 90% silver composition",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1964
+        },
+        {
+          "business_strikes": 273304004,
+          "coin_id": "US-KHDO-1964-P",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "1964 Silver Kennedy"
+          ],
+          "composition": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "First year Kennedy design",
+            "90% silver composition",
+            "12.50g weight",
+            "highest mintage year"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1964 kennedy",
+            "silver half dollar",
+            "jfk half",
+            "presidential seal",
+            "first year kennedy"
+          ],
+          "mint": "P",
+          "notes": "First year of issue, 90% silver composition",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1964
+        },
+        {
+          "business_strikes": 65879366,
+          "coin_id": "US-KHDO-1965-P",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "40% Silver Kennedy"
+          ],
+          "composition": {
+            "copper": 0.6,
+            "silver": 0.4
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "40% silver clad composition",
+            "11.50g weight",
+            "no mint mark",
+            "first year clad silver"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1965 kennedy",
+            "40% silver",
+            "silver clad",
+            "jfk half",
+            "coinage act 1965"
+          ],
+          "mint": "P",
+          "notes": "First year 40% silver clad composition",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.5,
+          "year": 1965
+        },
+        {
+          "business_strikes": 2150000,
+          "coin_id": "US-KHDO-1970-D",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "1970-D Silver Kennedy"
+          ],
+          "composition": {
+            "copper": 0.6,
+            "silver": 0.4
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "D mint mark",
+            "40% silver clad",
+            "11.50g weight",
+            "last year silver composition",
+            "special sets only"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1970 kennedy",
+            "40% silver",
+            "silver clad",
+            "denver mint",
+            "last silver year"
+          ],
+          "mint": "D",
+          "notes": "Last year 40% silver composition, special sets only",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.5,
+          "year": 1970
+        },
+        {
+          "business_strikes": 302097424,
+          "coin_id": "US-KHDO-1971-D",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "1971-D Clad Kennedy"
+          ],
+          "composition": {
+            "copper": 0.9167,
+            "nickel": 0.0833
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "D mint mark",
+            "copper-nickel clad",
+            "highest mintage year",
+            "11.34g weight"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1971 kennedy",
+            "denver mint",
+            "copper nickel clad",
+            "highest mintage",
+            "d mint mark"
+          ],
+          "mint": "D",
+          "notes": "Highest single year mintage in series",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.34,
+          "year": 1971
+        },
+        {
+          "business_strikes": 155164000,
+          "coin_id": "US-KHDO-1971-P",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "Clad Kennedy"
+          ],
+          "composition": {
+            "copper": 0.9167,
+            "nickel": 0.0833
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "Copper-nickel clad composition",
+            "11.34g weight",
+            "no silver content",
+            "first year clad"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "1971 kennedy",
+            "copper nickel clad",
+            "no silver",
+            "jfk half",
+            "clad composition"
+          ],
+          "mint": "P",
+          "notes": "First year copper-nickel clad composition",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.34,
+          "year": 1971
+        },
+        {
+          "business_strikes": 234308000,
+          "coin_id": "US-KHDO-1976-P",
+          "common_names": [
+            "Bicentennial Kennedy Half Dollar",
+            "1776-1976 Kennedy",
+            "Independence Hall Kennedy"
+          ],
+          "composition": {
+            "copper": 0.9167,
+            "nickel": 0.0833
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "Dual date 1776-1976",
+            "Independence Hall reverse",
+            "special Bicentennial design",
+            "copper-nickel clad"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "bicentennial kennedy",
+            "1776-1976",
+            "independence hall",
+            "bicentennial design",
+            "special reverse"
+          ],
+          "mint": "P",
+          "notes": "Bicentennial special design with Independence Hall reverse",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, dual date 1776-1976 below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Independence Hall in Philadelphia, UNITED STATES OF AMERICA above, HALF DOLLAR below, 200 YEARS OF FREEDOM inscription",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [
+            {
+              "description": "Special Independence Hall reverse design with 1776-1976 dual date",
+              "name": "Bicentennial Design",
+              "variety_id": "KHDO-1976-P-BICENT-01"
+            }
+          ],
+          "weight_grams": 11.34,
+          "year": 1976
+        },
+        {
+          "business_strikes": 7700000,
+          "coin_id": "US-KHDO-2013-D",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "2013-D Modern Kennedy"
+          ],
+          "composition": {
+            "copper": 0.9167,
+            "nickel": 0.0833
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "D mint mark",
+            "modern copper-nickel clad",
+            "11.34g weight",
+            "NO SILVER",
+            "collector issue only"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "2013 kennedy",
+            "denver mint",
+            "modern kennedy",
+            "copper nickel clad",
+            "no silver",
+            "d mint mark"
+          ],
+          "mint": "D",
+          "notes": "Modern collector issue, NO SILVER CONTENT",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.34,
+          "year": 2013
+        },
+        {
+          "business_strikes": 5400000,
+          "coin_id": "US-KHDO-2013-P",
+          "common_names": [
+            "Kennedy Half Dollar",
+            "JFK Half Dollar",
+            "Modern Kennedy"
+          ],
+          "composition": {
+            "copper": 0.9167,
+            "nickel": 0.0833
+          },
+          "diameter_mm": 30.61,
+          "distinguishing_features": [
+            "Modern copper-nickel clad",
+            "11.34g weight",
+            "collector issue only",
+            "no silver content"
+          ],
+          "identification_keywords": [
+            "kennedy half dollar",
+            "2013 kennedy",
+            "modern kennedy",
+            "copper nickel clad",
+            "no silver",
+            "collector issue"
+          ],
+          "mint": "P",
+          "notes": "Modern collector issue, no silver content",
+          "obverse_description": "John F. Kennedy bust facing left, LIBERTY around rim, IN GOD WE TRUST to left, date below",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Presidential Seal with heraldic eagle holding arrows and olive branch, UNITED STATES OF AMERICA above, HALF DOLLAR below",
+          "source_citation": "US Mint, PCGS CoinFacts",
+          "varieties": [],
+          "weight_grams": 11.34,
+          "year": 2013
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 2013,
+            "start": 1964
+          },
+          "weight": {
+            "grams": 12.5
+          }
+        }
+      ],
+      "official_name": "Kennedy Half Dollar",
+      "series_id": "kennedy_half_dollar",
+      "series_name": "Kennedy Half Dollar",
+      "specifications": {
+        "diameter_mm": 30.61,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2013,
+        "start": 1964
+      }
     }
   ]
 }

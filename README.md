@@ -1,31 +1,50 @@
 # United States Coin Taxonomy Database
 
-A comprehensive, structured database of US coin series, mintages, varieties, and key dates from 1793 to present.
+**A Professional-Grade Numismatic Database for the Digital Age**
 
-**🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface for collectors
+This is a comprehensive, structured database containing 426+ US coins from 1793 to present, with complete mintage data, composition tracking, and variety documentation. Built specifically for coin professionals, researchers, and AI applications.
 
-## Project Goals
+**🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface
 
-The goal of this project is to create a **unified taxonomy structure** that enables AI systems to accurately classify coins and better connect buyers and sellers in the age of artificial intelligence. 
+## Why This Database Exists
 
-**The core innovation is standardized coin IDs** - consistent, parseable identifiers that make machine learning and database operations reliable. By providing these stable identifiers along with comprehensive metadata, this database serves as a foundation for:
+The numismatic world needs **standardized, machine-readable coin data**. This project solves three critical problems:
 
-- **AI-powered coin identification** and classification systems (includes [token-optimized format](data/ai-optimized/us_taxonomy.json) with comprehensive visual descriptions)
-- **Automated marketplace matching** between buyer needs and seller inventory
-- **Price analysis and market research** with reliable historical data
-- **Numismatic education** through structured, validated information
+1. **Inconsistent coin identification** across marketplaces and databases
+2. **Scattered composition data** making silver content verification difficult  
+3. **Lack of parseable identifiers** for AI and automated systems
 
-## Overview
+**The Solution: Standardized Coin IDs** - Every coin gets a consistent `COUNTRY-TYPE-YEAR-MINT` identifier (like `US-LWCT-1909-S`) that both humans and machines can reliably parse and understand.
 
-This project provides a machine-readable taxonomy of United States coins with:
+## Applications
 
-- **Standardized coin IDs**: Every coin has a consistent `COUNTRY-TYPE-YEAR-MINT` identifier (e.g., `US-INCH-1877-P`, `US-LWCT-1909-S`) that can be reliably parsed by software systems
-- **Complete series coverage**: All major US coin denominations from cents to dollars
-- **Detailed mintage data**: Business strikes and proof mintages from authoritative sources
-- **Key date identification**: Coins marked by rarity status (key, semi-key, scarce, common)
-- **Variety tracking**: Major overdates, doubled dies, and mint errors properly separated from main coin IDs
-- **Composition periods**: Accurate metal content through time
-- **Source attribution**: Citations from PCGS CoinFacts, NGC, Red Book, US Mint records
+- **AI-powered coin identification** from photos using computer vision
+- **Marketplace automation** connecting buyers and sellers with precise matching
+- **Academic research** with reliable, structured numismatic data
+- **Professional attribution** using consistent terminology and standards
+
+## What This Project Provides
+
+This is a **machine-readable numismatic database** designed for the age of AI and digital marketplaces. For coin experts and taxonomy professionals, this project offers:
+
+### Core Numismatic Data
+- **Complete US coin coverage**: All major series from 1793-present (cents through dollars)
+- **Authoritative mintage figures**: Business strikes and proof mintages from PCGS, NGC, Red Book, US Mint
+- **Verified key dates**: 39 confirmed key dates with rarity classifications based on market data
+- **Major varieties documented**: 33 varieties including overdates, doubled dies, design changes
+- **Precise composition data**: Accurate metal content with exact transition dates (e.g., 1965 silver-to-clad)
+
+### Technology Innovation for Numismatics
+- **Standardized coin IDs**: Every coin has a consistent `COUNTRY-TYPE-YEAR-MINT` identifier that software can parse reliably
+- **AI-optimized formats**: Token-efficient exports for machine learning and computer vision applications
+- **Database architecture**: SQLite backend enables complex queries and analysis of numismatic patterns
+- **Version-controlled taxonomy**: Git tracking of all changes with full audit trail
+
+### Quality Standards
+- **Source attribution**: Every data point cites authoritative numismatic sources
+- **Schema validation**: JSON Schema ensures structural consistency across all data
+- **Composition accuracy**: Metal content matches official US Mint specifications
+- **Professional verification**: Data cross-referenced against multiple expert sources
 
 ## Project Structure
 
@@ -47,22 +66,40 @@ coin-taxonomy/
 
 ## Key Features
 
-### Comprehensive Data Coverage
+### Current Database Statistics
 
-- **20 major series** across 5 denominations
-- **99 individual coin entries** with full attribution and standardized IDs
-- **39 key dates** identified with rarity status
-- **33 major varieties** documented with descriptions
+- **426+ coins** across all major US denominations
+- **20+ coin series** from Large Cents (1793) to modern issues
+- **Comprehensive silver periods**: War nickels (1942-1945), dimes (1946-1964), quarters, half dollars
+- **Complete composition tracking**: Every metal change from 1793 copper to modern clad
+- **Key date coverage**: All major rarities including 1909-S VDB, 1916-D Mercury, 1932-D Washington
 
 ### Database-First Architecture
 
-The SQLite database serves as the source of truth, with JSON files for version control:
+⚠️ **CRITICAL**: SQLite database is the SINGLE SOURCE OF TRUTH for all coin data.
 
-1. **Migration scripts**: Version-controlled schema and data definitions (source of truth)
-2. **SQLite database**: Generated build artifact optimized for queries and analysis
-3. **JSON exports**: Generated files for distribution and compatibility
+⚠️ **NEVER EDIT JSON FILES DIRECTLY** - They are generated artifacts!
 
-**Important**: The `database/coins.db` file is treated as a **build artifact** and is not committed to git. Developers generate their local database by running the migration scripts.
+### Data Flow (READ THIS CAREFULLY):
+```
+SQLite Database → JSON Export Files  
+      ↑                    ↑
+SOURCE OF TRUTH      GENERATED FILES
+(version controlled)  (version controlled)
+```
+
+### Pre-Commit Hook Integration:
+- **All commits trigger automatic export** from SQLite database
+- **JSON files regenerated** automatically via pre-commit hooks
+- **Database is version controlled** and committed to git
+- **Add new coins directly to database** using migration scripts
+
+### Workflow Rules:
+1. **SQLite database is the source of truth** - version controlled and committed to git
+2. **JSON files are generated artifacts** - exported from database via pre-commit hooks
+3. **Add new coins using migration scripts** - modify database directly
+4. **NEVER edit JSON files manually** - they will be overwritten on next commit
+5. **Export JSON files from database**: `uv run python scripts/export_from_database.py`
 
 ### Validation and Quality Control
 
@@ -142,39 +179,39 @@ uv run python scripts/data_integrity_check.py
 
 ⚠️ **CRITICAL**: Never edit JSON files directly! They are generated artifacts.
 
-### Data Flow
-```
-JSON Files  →  Database  →  JSON Exports
- (source)     (build)       (generated)
-```
 
-**IMPORTANT**: The database is a **build artifact** - it's generated from the JSON source files and should not be committed to git.
 
-### Complete Database Rebuild Process
+### Database Export Process (DATABASE-FIRST)
 
-The canonical way to rebuild the entire system from source:
+The canonical way to export JSON files from the SQLite database:
 
 ```bash
-# Full rebuild - use this for clean deployment
-uv run python scripts/rebuild_and_export.py
+# Export JSON files from database (DATABASE-FIRST PIPELINE)
+uv run python scripts/export_from_database.py
 ```
 
-This comprehensive script:
-1. 🗑️ **Removes existing database** (`database/coins.db`)
-2. 📖 **Initializes database from JSON data** (`scripts/init_database_from_json.py`)
-3. 🔄 **Runs universal migration** (`scripts/migrate_to_universal_v1_1.py`)
-4. ✅ **Validates data integrity** (`scripts/data_integrity_check.py`)
-5. 📁 **Exports JSON files** (`scripts/export_db_v1_1.py`)
-6. 🧪 **Validates exports** (`scripts/validate.py`)
-7. 🌐 **Copies universal data to docs folder** for GitHub Pages
+This script performs the database-first export:
+1. 📊 Reads coins from SQLite database (source of truth)
+2. 📁 Generates JSON files by denomination (`data/us/coins/*.json`)
+3. 📄 Creates complete taxonomy file (`data/us/us_coins_complete.json`)
+4. 🔄 Runs universal migration (`scripts/migrate_to_universal_v1_1.py`)
+5. 📁 Exports universal format (`scripts/export_db_v1_1.py`)
+6. 🧪 Validates exports (`scripts/validate.py`)
+7. 🌐 Copies universal data to docs folder
 
-### Making Changes
-1. **Update JSON source files**: Edit denomination files in `data/us/coins/*.json`
-2. **Rebuild everything**: `uv run python scripts/rebuild_and_export.py`
-3. **Verify changes**: Check that data integrity passes
-4. **Commit JSON files**: `git add data/ docs/data/ && git commit`
-   - ✅ **DO commit**: JSON source files and exports
-   - ❌ **DON'T commit**: The database file (`database/coins.db`)
+⚠️ **IMPORTANT**: After adding coins to database, run export and commit ALL generated files with `git add . && git commit`. The export process updates JSON files, universal data, and docs folder - ALL must be committed together.
+
+### Safe Change Process (DATABASE-FIRST)
+1. **Add coins to database** using migration scripts (e.g., `scripts/backfill_historical_coins.py`)
+2. **Run database export**: `uv run python scripts/export_from_database.py`
+3. **Verify export succeeded** - check that all steps pass
+4. **Commit ALL changes**: `git add . && git commit` (includes database and generated JSON files)
+5. **Database is now version controlled** - commit database changes to git
+
+### Emergency Restore:
+- JSON backups: `backups/json_files_*/`
+- Database backups: `backups/coins_backup_*.db`
+- **Regenerate from migration scripts** if database is lost (best practice)
 
 ### Coin ID Format: The Foundation of Everything
 
@@ -241,11 +278,47 @@ In the age of AI and automated marketplaces, **consistent, parseable identifiers
    - `CC` = Carson City (historical)
    - `W` = West Point
    - `O` = New Orleans (historical)
+   - `X` = Unknown mint mark (when uncertain or not visible)
+
+#### Mapping Conventions for Unknown Data
+
+When exact information is unknown or uncertain:
+
+- **Unknown Year**: Use `YYYY` as placeholder (e.g., `US-LWCT-YYYY-P`)
+- **Unknown Mint Mark**: Use `X` as placeholder (e.g., `US-LWCT-1909-X`)
+- **Both Unknown**: Use both placeholders (e.g., `US-LWCT-YYYY-X`)
+
+This enables consistent mapping of incomplete coin data while maintaining the standardized format.
 
 **Examples:**
-- `US-INCH-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
-- `US-LWCT-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint  
+- `US-INCH-1877-P` = US Indian Head Cent, 1877, Philadelphia mint  
+- `US-LWCT-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint (famous VDB variety)
 - `US-MERC-1942-D` = US Mercury Dime (Winged Liberty Head), 1942, Denver mint
+- `US-LWCT-YYYY-X` = Lincoln Wheat Cent with unknown year and mint (for damaged coins)
+
+## For Coin Experts: Why This Matters
+
+This database solves real problems facing the numismatic community:
+
+### **Marketplace Identification Crisis**
+- eBay listings often misidentify coins due to inconsistent naming
+- This database provides **standardized identifiers** that sellers and buyers can rely on
+- AI-powered classification can automatically match photos to correct entries
+
+### **Research and Analysis**
+- **Composition tracking**: Instantly identify silver content periods for any denomination
+- **Mintage analysis**: Compare production figures across series and years
+- **Key date verification**: Authoritative rarity classifications based on market data
+
+### **Educational Applications**
+- **Systematic learning**: Structured progression through coin series
+- **Visual identification**: Detailed descriptions help distinguish similar coins
+- **Historical context**: Design periods and composition changes in chronological order
+
+### **Professional Tools**
+- **Database queries**: Find all coins from specific years, mints, or composition periods
+- **Variety tracking**: Separate major varieties from base coin types
+- **Attribution standards**: Consistent terminology across the entire hobby
 
 **Validation Rules:**
 - **Exactly 4 parts** separated by **exactly 3 dashes**
