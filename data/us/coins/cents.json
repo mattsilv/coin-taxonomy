@@ -10121,14 +10121,18 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1959-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1959
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1960-D-LD",
+          "coin_id": "US-LMCT-1960-D",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -10162,96 +10166,31 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1960-D Large Date variety"
+            {
+              "description": "1960-D D over D Large Date (semi-key)",
+              "name": "1960-D D over D Large Date (semi-key)",
+              "variety_id": "US-LMCT-1960-D-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: RPM",
+                "name": "RPM",
+                "variety_id": "US-LMCT-1960-D-RPM"
+              },
+              "name": {
+                "description": "Variety: RPM",
+                "name": "RPM",
+                "variety_id": "US-LMCT-1960-D-RPM"
+              },
+              "variety_id": "US-LMCT-1960-D-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1960
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1960-D-SD",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "D",
-          "notes": "1960-D Small Date variety",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1960-D Small Date variety"
-          ],
-          "weight_grams": 3.11,
-          "year": 1960
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1960-D-RPM",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Large Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "large",
-            "date"
-          ],
-          "mint": "D",
-          "notes": "1960-D D over D Large Date (semi-key)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1960-D D over D Large Date (semi-key)"
-          ],
-          "weight_grams": 3.11,
-          "year": 1960
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1960-P-LD",
+          "coin_id": "US-LMCT-1960-P",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -10285,48 +10224,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1960 Large Date variety"
-          ],
-          "weight_grams": 3.11,
-          "year": 1960
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1960-P-SD",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "P",
-          "notes": "1960 Small Date variety (scarce)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1960 Small Date variety (scarce)"
+            {
+              "description": "1960 Small Date variety (scarce)",
+              "name": "1960 Small Date variety (scarce)",
+              "variety_id": "US-LMCT-1960-P-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: SD",
+                "name": "SD",
+                "variety_id": "US-LMCT-1960-P-SD"
+              },
+              "name": {
+                "description": "Variety: SD",
+                "name": "SD",
+                "variety_id": "US-LMCT-1960-P-SD"
+              },
+              "variety_id": "US-LMCT-1960-P-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1960
@@ -10364,7 +10279,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1960-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1960
@@ -10472,7 +10391,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1961-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1961
@@ -10580,7 +10503,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1962-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1962
@@ -10688,7 +10615,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1963-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1963
@@ -10796,7 +10727,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1964-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1964
@@ -10869,7 +10804,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular circulation strike"
+            {
+              "description": "Regular circulation strike",
+              "name": "Regular circulation strike",
+              "variety_id": "US-LMCT-1965-P-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1965
@@ -10907,45 +10846,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1965
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1965-SMS",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass"
-          ],
-          "mint": "SMS",
-          "notes": "1965 Special Mint Set (special finish, no mint mark)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1965 Special Mint Set (special finish, no mint mark)"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1965-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1965
@@ -11018,7 +10923,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular circulation strike"
+            {
+              "description": "Regular circulation strike",
+              "name": "Regular circulation strike",
+              "variety_id": "US-LMCT-1966-P-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1966
@@ -11056,45 +10965,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1966
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1966-SMS",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass"
-          ],
-          "mint": "SMS",
-          "notes": "1966 Special Mint Set (special finish, no mint mark)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1966 Special Mint Set (special finish, no mint mark)"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1966-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1966
@@ -11167,7 +11042,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular circulation strike"
+            {
+              "description": "Regular circulation strike",
+              "name": "Regular circulation strike",
+              "variety_id": "US-LMCT-1967-P-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1967
@@ -11205,45 +11084,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1967
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1967-SMS",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass"
-          ],
-          "mint": "SMS",
-          "notes": "1967 Special Mint Set (special finish, no mint mark)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1967 Special Mint Set (special finish, no mint mark)"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1967-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1967
@@ -11351,7 +11196,11 @@
           "rarity": "semi-key",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1968-S (lowest mintage Memorial cent)"
+            {
+              "description": "1968-S (lowest mintage Memorial cent)",
+              "name": "1968-S (lowest mintage Memorial cent)",
+              "variety_id": "US-LMCT-1968-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1968
@@ -11424,7 +11273,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
+            {
+              "description": "Regular strike",
+              "name": "Regular strike",
+              "variety_id": "US-LMCT-1969-P-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1969
@@ -11462,50 +11315,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1969
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1969-S-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent",
-            "1969-S Double Die"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "S",
-          "notes": "1969-S Doubled Die Obverse (key date, 30-50 known)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1969-S Doubled Die Obverse (key date, 30-50 known)"
+            {
+              "description": "1969-S Doubled Die Obverse (key date, 30-50 known)",
+              "name": "1969-S Doubled Die Obverse (key date, 30-50 known)",
+              "variety_id": "US-LMCT-1969-S-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1969-S-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1969-S-DDO"
+              },
+              "variety_id": "US-LMCT-1969-S-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1969
@@ -11582,7 +11409,7 @@
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1970-S-LD",
+          "coin_id": "US-LMCT-1970-S",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -11616,48 +11443,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1970-S Large Date 'Low 7'"
-          ],
-          "weight_grams": 3.11,
-          "year": 1970
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1970-S-SD",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "S",
-          "notes": "1970-S Small Date 'High 7' (semi-key)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1970-S Small Date 'High 7' (semi-key)"
+            {
+              "description": "1970-S Small Date 'High 7' (semi-key)",
+              "name": "1970-S Small Date 'High 7' (semi-key)",
+              "variety_id": "US-LMCT-1970-S-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: SD",
+                "name": "SD",
+                "variety_id": "US-LMCT-1970-S-SD"
+              },
+              "name": {
+                "description": "Variety: SD",
+                "name": "SD",
+                "variety_id": "US-LMCT-1970-S-SD"
+              },
+              "variety_id": "US-LMCT-1970-S-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1970
@@ -11730,49 +11533,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1971
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1971-P-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "P",
-          "notes": "1971 Doubled Die Obverse (key date)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1971 Doubled Die Obverse (key date)"
+            {
+              "description": "1971 Doubled Die Obverse (key date)",
+              "name": "1971 Doubled Die Obverse (key date)",
+              "variety_id": "US-LMCT-1971-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1971-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1971-P-DDO"
+              },
+              "variety_id": "US-LMCT-1971-P-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1971
@@ -11810,7 +11588,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1971-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1971
@@ -11883,50 +11665,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 3.11,
-          "year": 1972
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1972-P-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent",
-            "1972 Double Die"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "P",
-          "notes": "1972 Doubled Die Obverse Type 1 (key date)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1972 Doubled Die Obverse Type 1 (key date)"
+            {
+              "description": "1972 Doubled Die Obverse Type 1 (key date)",
+              "name": "1972 Doubled Die Obverse Type 1 (key date)",
+              "variety_id": "US-LMCT-1972-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1972-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1972-P-DDO"
+              },
+              "variety_id": "US-LMCT-1972-P-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1972
@@ -11964,7 +11720,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1972-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1972
@@ -12072,7 +11832,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1973-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1973
@@ -12180,7 +11944,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Business strike"
+            {
+              "description": "Business strike",
+              "name": "Business strike",
+              "variety_id": "US-LMCT-1974-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1974
@@ -12288,7 +12056,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1975-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1975
@@ -12396,7 +12168,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1976-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1976
@@ -12504,7 +12280,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1977-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1977
@@ -12612,7 +12392,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1978-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1978
@@ -12720,7 +12504,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1979-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1979
@@ -12828,7 +12616,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1980-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1980
@@ -12936,14 +12728,18 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1981-S-V1"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1981
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1982-D-LD-Cu",
+          "coin_id": "US-LMCT-1982-D",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -12977,137 +12773,31 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1982-D Large Date Copper"
+            {
+              "description": "1982-D Small Date Zinc",
+              "name": "1982-D Small Date Zinc",
+              "variety_id": "US-LMCT-1982-D-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: SD-Zn",
+                "name": "SD-Zn",
+                "variety_id": "US-LMCT-1982-D-SD-Zn"
+              },
+              "name": {
+                "description": "Variety: SD-Zn",
+                "name": "SD-Zn",
+                "variety_id": "US-LMCT-1982-D-SD-Zn"
+              },
+              "variety_id": "US-LMCT-1982-D-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1982
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1982-D-SD-Cu",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "D",
-          "notes": "1982-D Small Date Copper (extremely rare, 2 known) | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982-D Small Date Copper (extremely rare, 2 known)"
-          ],
-          "weight_grams": 3.11,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-D-LD-Zn",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Large Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "large",
-            "date"
-          ],
-          "mint": "D",
-          "notes": "1982-D Large Date Zinc (most common 1982) | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982-D Large Date Zinc (most common 1982)"
-          ],
-          "weight_grams": 2.5,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-D-SD-Zn",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "D",
-          "notes": "1982-D Small Date Zinc | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982-D Small Date Zinc"
-          ],
-          "weight_grams": 2.5,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-P-LD-Cu",
+          "coin_id": "US-LMCT-1982-P",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -13141,137 +12831,31 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1982 Large Date Copper"
+            {
+              "description": "1982 Small Date Zinc (very rare)",
+              "name": "1982 Small Date Zinc (very rare)",
+              "variety_id": "US-LMCT-1982-P-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: SD-Zn",
+                "name": "SD-Zn",
+                "variety_id": "US-LMCT-1982-P-SD-Zn"
+              },
+              "name": {
+                "description": "Variety: SD-Zn",
+                "name": "SD-Zn",
+                "variety_id": "US-LMCT-1982-P-SD-Zn"
+              },
+              "variety_id": "US-LMCT-1982-P-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1982
         },
         {
           "business_strikes": null,
-          "coin_id": "US-LMCT-1982-P-SD-Cu",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Brass",
-            "copper": 0.95,
-            "zinc": 0.05
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "P",
-          "notes": "1982 Small Date Copper (scarce) | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982 Small Date Copper (scarce)"
-          ],
-          "weight_grams": 3.11,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-P-LD-Zn",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Large Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "large",
-            "date"
-          ],
-          "mint": "P",
-          "notes": "1982 Large Date Zinc | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982 Large Date Zinc"
-          ],
-          "weight_grams": 2.5,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-P-SD-Zn",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "95% copper composition",
-            "Small Date variety"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "copper",
-            "brass",
-            "small",
-            "date"
-          ],
-          "mint": "P",
-          "notes": "1982 Small Date Zinc (very rare) | Transition year - both copper and zinc compositions exist",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1982 Small Date Zinc (very rare)"
-          ],
-          "weight_grams": 2.5,
-          "year": 1982
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1982-S-Cu",
+          "coin_id": "US-LMCT-1982-S",
           "common_names": [
             "Lincoln Cent",
             "Lincoln Penny",
@@ -13302,7 +12886,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "1982-S Copper (Proof only)"
+            {
+              "description": "1982-S Copper (Proof only)",
+              "name": "1982-S Copper (Proof only)",
+              "variety_id": "US-LMCT-1982-S-V1"
+            },
+            {
+              "description": {
+                "description": "Variety: Cu",
+                "name": "Cu",
+                "variety_id": "US-LMCT-1982-S-Cu"
+              },
+              "name": {
+                "description": "Variety: Cu",
+                "name": "Cu",
+                "variety_id": "US-LMCT-1982-S-Cu"
+              },
+              "variety_id": "US-LMCT-1982-S-V2"
+            }
           ],
           "weight_grams": 3.11,
           "year": 1982
@@ -13375,91 +12976,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 2.5,
-          "year": 1983
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1983-P-DDR",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "Copper-plated zinc composition",
-            "Doubled Die Reverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "zinc",
-            "copper-plated",
-            "doubled",
-            "die",
-            "reverse"
-          ],
-          "mint": "P",
-          "notes": "1983 Doubled Die Reverse (semi-key)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1983 Doubled Die Reverse (semi-key)"
-          ],
-          "weight_grams": 2.5,
-          "year": 1983
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1983-P-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "Copper-plated zinc composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "zinc",
-            "copper-plated",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "P",
-          "notes": "1983 Doubled Die Obverse",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1983 Doubled Die Obverse"
+            {
+              "description": "1983 Doubled Die Obverse",
+              "name": "1983 Doubled Die Obverse",
+              "variety_id": "US-LMCT-1983-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1983-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1983-P-DDO"
+              },
+              "variety_id": "US-LMCT-1983-P-V2"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1983
@@ -13497,7 +13031,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1983-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1983
@@ -13570,49 +13108,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 2.5,
-          "year": 1984
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1984-P-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "Copper-plated zinc composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "zinc",
-            "copper-plated",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "P",
-          "notes": "1984 Doubled Die Obverse 'Double Ear' (semi-key)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1984 Doubled Die Obverse 'Double Ear' (semi-key)"
+            {
+              "description": "1984 Doubled Die Obverse 'Double Ear' (semi-key)",
+              "name": "1984 Doubled Die Obverse 'Double Ear' (semi-key)",
+              "variety_id": "US-LMCT-1984-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1984-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1984-P-DDO"
+              },
+              "variety_id": "US-LMCT-1984-P-V2"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1984
@@ -13650,7 +13163,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1984-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1984
@@ -13758,7 +13275,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1985-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1985
@@ -13866,7 +13387,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1986-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1986
@@ -13974,7 +13499,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1987-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1987
@@ -14082,7 +13611,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1988-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1988
@@ -14190,7 +13723,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1989-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1989
@@ -14298,7 +13835,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1990-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1990
@@ -14406,7 +13947,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1991-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1991
@@ -14514,7 +14059,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1992-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1992
@@ -14622,7 +14171,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1993-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1993
@@ -14730,7 +14283,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1994-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1994
@@ -14768,49 +14325,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 2.5,
-          "year": 1995
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1995-D-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "Copper-plated zinc composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "zinc",
-            "copper-plated",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "D",
-          "notes": "1995-D Doubled Die Obverse (scarce)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1995-D Doubled Die Obverse (scarce)"
+            {
+              "description": "1995-D Doubled Die Obverse (scarce)",
+              "name": "1995-D Doubled Die Obverse (scarce)",
+              "variety_id": "US-LMCT-1995-D-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1995-D-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1995-D-DDO"
+              },
+              "variety_id": "US-LMCT-1995-D-V2"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1995
@@ -14848,49 +14380,24 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Regular strike"
-          ],
-          "weight_grams": 2.5,
-          "year": 1995
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-LMCT-1995-P-DDO",
-          "common_names": [
-            "Lincoln Cent",
-            "Lincoln Penny",
-            "Memorial Cent"
-          ],
-          "composition": {
-            "alloy_name": "Copper-plated Zinc",
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "distinguishing_features": [
-            "Lincoln Memorial reverse",
-            "Lincoln portrait obverse",
-            "Copper-plated zinc composition",
-            "Doubled Die Obverse"
-          ],
-          "identification_keywords": [
-            "lincoln",
-            "memorial",
-            "cent",
-            "penny",
-            "zinc",
-            "copper-plated",
-            "doubled",
-            "die",
-            "obverse"
-          ],
-          "mint": "P",
-          "notes": "1995 Doubled Die Obverse (semi-key)",
-          "obverse_description": "Abraham Lincoln facing right, with 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
-          "proof_strikes": null,
-          "rarity": "semi-key",
-          "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
-          "varieties": [
-            "1995 Doubled Die Obverse (semi-key)"
+            {
+              "description": "1995 Doubled Die Obverse (semi-key)",
+              "name": "1995 Doubled Die Obverse (semi-key)",
+              "variety_id": "US-LMCT-1995-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1995-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LMCT-1995-P-DDO"
+              },
+              "variety_id": "US-LMCT-1995-P-V2"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1995
@@ -14928,7 +14435,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1995-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1995
@@ -15036,7 +14547,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1996-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1996
@@ -15144,7 +14659,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1997-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1997
@@ -15252,7 +14771,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1998-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1998
@@ -15360,7 +14883,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-1999-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 1999
@@ -15468,7 +14995,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2000-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2000
@@ -15576,7 +15107,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2001-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2001
@@ -15684,7 +15219,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2002-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2002
@@ -15792,7 +15331,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2003-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2003
@@ -15900,7 +15443,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2004-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2004
@@ -16008,7 +15555,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2005-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2005
@@ -16116,7 +15667,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2006-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2006
@@ -16224,7 +15779,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2007-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2007
@@ -16332,7 +15891,11 @@
           "rarity": "common",
           "reverse_description": "Lincoln Memorial building with steps and columns, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' and 'ONE CENT' below",
           "varieties": [
-            "Proof only"
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LMCT-2008-S-V1"
+            }
           ],
           "weight_grams": 2.5,
           "year": 2008
@@ -16355,7 +15918,7 @@
           "alloy_name": "Copper-plated Zinc",
           "date_range": {
             "end": 2008,
-            "start": 1982
+            "start": 1983
           },
           "weight": {
             "grams": 2.5
@@ -16510,104 +16073,2153 @@
     {
       "coins": [
         {
-          "business_strikes": 4040000000,
-          "coin_id": "US-LSCT-2017-P",
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2010-D",
           "common_names": [
-            "Lincoln Shield Cent",
-            "Shield Penny",
-            "Union Shield Cent"
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.025,
-              "zinc": 0.975
-            },
-            "alloy_name": "Copper-Plated Zinc"
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
           },
-          "diameter_mm": 19.05,
           "distinguishing_features": [
-            "Zinc core with copper plating",
-            "19.05mm diameter",
-            "Shield represents Lincoln's preservation of Union",
-            "Lyndall Bass reverse design",
-            "Current design since 2010"
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
           ],
           "identification_keywords": [
-            "lincoln shield cent",
-            "shield penny",
-            "union shield cent",
-            "lincoln cent",
-            "modern penny",
-            "copper plated zinc",
-            "lyndall bass",
-            "current penny"
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "notes": "First year of Union Shield reverse design by Lyndall Bass",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2010
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2010-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
           ],
           "mint": "P",
-          "notes": "First P mintmark on cents since wartime",
-          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "notes": "First year of Union Shield reverse design by Lyndall Bass",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
           "proof_strikes": null,
-          "rarity": null,
-          "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
-          "source_citation": "US Mint records",
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2010
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2010-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only | First year of Union Shield reverse design by Lyndall Bass",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2010-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2010
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2011-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2011
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2011-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2011
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2011-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2011-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2011
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2012-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2012
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2012-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2012
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2012-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2012-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2012
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2013-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2013
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2013-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2013
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2013-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2013-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2013
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2014-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2014
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2014-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2014
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2014-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2014-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2014
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2015-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2015
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2015-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2015
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2015-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2015-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2015
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2016-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2016
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2016-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2016
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2016-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2016-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2016
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2017-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
           "varieties": [],
           "weight_grams": 2.5,
           "year": 2017
         },
         {
-          "business_strikes": 2000000,
-          "coin_id": "US-LSCT-2019-W",
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2017-P",
           "common_names": [
-            "Lincoln Shield Cent",
-            "Shield Penny",
-            "Union Shield Cent"
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent",
+            "First P Mint Mark Cent"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.025,
-              "zinc": 0.975
-            },
-            "alloy_name": "Copper-Plated Zinc"
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
           },
-          "diameter_mm": 19.05,
           "distinguishing_features": [
-            "Zinc core with copper plating",
-            "19.05mm diameter",
-            "Shield represents Lincoln's preservation of Union",
-            "Lyndall Bass reverse design",
-            "Current design since 2010"
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "First P mint mark on circulation cent"
           ],
           "identification_keywords": [
-            "lincoln shield cent",
-            "shield penny",
-            "union shield cent",
-            "lincoln cent",
-            "modern penny",
-            "copper plated zinc",
-            "lyndall bass",
-            "current penny"
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "first",
+            "philadelphia",
+            "anniversary"
           ],
-          "mint": "W",
-          "notes": "First W mintmark on cents",
-          "obverse_description": "Abraham Lincoln bust facing right, 'LIBERTY' to left, 'IN GOD WE TRUST' above, date to right",
+          "mint": "P",
+          "notes": "First and only P mint mark on circulation cents (225th Philadelphia Mint anniversary)",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
           "proof_strikes": null,
-          "rarity": null,
-          "reverse_description": "Union Shield with 13 vertical stripes, 'ONE CENT' below, 'UNITED STATES OF AMERICA' around, 'E PLURIBUS UNUM' on banner",
-          "source_citation": "US Mint records",
+          "rarity": "key",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "2017-P Doubled Die Obverse variety",
+              "name": "2017-P Doubled Die Obverse variety",
+              "variety_id": "US-LSCT-2017-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2017-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2017-P-DDO"
+              },
+              "variety_id": "US-LSCT-2017-P-V2"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2017
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2017-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2017-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2017
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2018-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2018
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2018-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "2018-P Doubled Die Obverse variety",
+              "name": "2018-P Doubled Die Obverse variety",
+              "variety_id": "US-LSCT-2018-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2018-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2018-P-DDO"
+              },
+              "variety_id": "US-LSCT-2018-P-V2"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2018
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2018-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2018-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2018
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2019-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
           "varieties": [],
           "weight_grams": 2.5,
           "year": 2019
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2019-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "2019-P Doubled Die Obverse variety",
+              "name": "2019-P Doubled Die Obverse variety",
+              "variety_id": "US-LSCT-2019-P-V1"
+            },
+            {
+              "description": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2019-P-DDO"
+              },
+              "name": {
+                "description": "Dramatic doubling visible on obverse",
+                "name": "Doubled Die Obverse",
+                "variety_id": "US-LSCT-2019-P-DDO"
+              },
+              "variety_id": "US-LSCT-2019-P-V2"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2019
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2019-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2019-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2019
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2019-W",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent",
+            "West Point Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "West Point mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "west",
+            "point",
+            "special"
+          ],
+          "mint": "W",
+          "notes": "First W mint mark on cents (110th Lincoln Cent anniversary)",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "First W mint mark on cents (110th Lincoln Cent anniversary)",
+              "name": "First W mint mark on cents (110th Lincoln Cent anniversary)",
+              "variety_id": "US-LSCT-2019-W-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2019
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2020-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2020
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2020-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2020
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2020-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2020-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2020
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2020-W",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent",
+            "West Point Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "West Point mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "west",
+            "point",
+            "special"
+          ],
+          "mint": "W",
+          "notes": "West Point mint mark continuation",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "West Point mint mark continuation",
+              "name": "West Point mint mark continuation",
+              "variety_id": "US-LSCT-2020-W-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2020
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2021-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2021
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2021-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2021
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2021-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2021-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2021
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2021-W",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent",
+            "West Point Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "West Point mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "west",
+            "point",
+            "special"
+          ],
+          "mint": "W",
+          "notes": "West Point mint mark continuation",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "West Point mint mark continuation",
+              "name": "West Point mint mark continuation",
+              "variety_id": "US-LSCT-2021-W-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2021
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2022-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2022
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2022-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2022
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2022-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2022-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2022
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2022-W",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent",
+            "West Point Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "West Point mint mark"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "west",
+            "point",
+            "special"
+          ],
+          "mint": "W",
+          "notes": "West Point mint mark continuation",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "West Point mint mark continuation",
+              "name": "West Point mint mark continuation",
+              "variety_id": "US-LSCT-2022-W-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2022
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2023-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2023
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2023-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2023
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2023-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2023-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2023
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2024-D",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "D",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2024
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2024-P",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc"
+          ],
+          "mint": "P",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 2024
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-LSCT-2024-S",
+          "common_names": [
+            "Lincoln Cent",
+            "Lincoln Penny",
+            "Shield Cent"
+          ],
+          "composition": {
+            "alloy_name": "Copper-plated Zinc",
+            "copper": 0.025,
+            "zinc": 0.975
+          },
+          "distinguishing_features": [
+            "Lincoln portrait obverse",
+            "Union Shield reverse",
+            "Lyndall Bass shield design",
+            "Copper-plated zinc composition",
+            "Proof strike only"
+          ],
+          "identification_keywords": [
+            "lincoln",
+            "shield",
+            "cent",
+            "penny",
+            "union",
+            "copper",
+            "plated",
+            "zinc",
+            "proof",
+            "san",
+            "francisco"
+          ],
+          "mint": "S",
+          "notes": "Proof only",
+          "obverse_description": "Abraham Lincoln facing right, 'LIBERTY' to left, date below, 'IN GOD WE TRUST' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
+          "varieties": [
+            {
+              "description": "Proof only",
+              "name": "Proof only",
+              "variety_id": "US-LSCT-2024-S-V1"
+            }
+          ],
+          "weight_grams": 2.5,
+          "year": 2024
         }
       ],
       "composition_periods": [
         {
-          "alloy": {
-            "copper": 0.025,
-            "zinc": 0.975
-          },
-          "alloy_name": "Copper-Plated Zinc",
+          "alloy": {},
+          "alloy_name": "Copper-plated Zinc",
           "date_range": {
-            "end": 2019,
-            "start": 2017
+            "end": 2024,
+            "start": 2010
           },
           "weight": {
             "grams": 2.5
@@ -16618,12 +18230,11 @@
       "series_id": "lincoln_shield_cent",
       "series_name": "Lincoln Shield Cent",
       "specifications": {
-        "diameter_mm": 19.05,
         "edge": "plain"
       },
       "years": {
-        "end": 2019,
-        "start": 2017
+        "end": 2024,
+        "start": 2010
       }
     }
   ]

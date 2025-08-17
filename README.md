@@ -2,7 +2,7 @@
 
 **A Professional-Grade Numismatic Database for the Digital Age**
 
-This is a comprehensive, structured database containing 963+ US coins from 1793 to present, with complete mintage data, composition tracking, and variety documentation. Built specifically for coin professionals, researchers, and AI applications.
+This is a comprehensive, structured database containing 1,539+ US coins from 1793 to present, with complete mintage data, composition tracking, and variety documentation. Built specifically for coin professionals, researchers, and AI applications.
 
 **🌐 [View Live Demo](https://mattsilv.github.io/coin-taxonomy/)** - Interactive search and filtering interface
 
@@ -68,11 +68,15 @@ coin-taxonomy/
 
 ### Current Database Statistics
 
-- **426+ coins** across all major US denominations
-- **20+ coin series** from Large Cents (1793) to modern issues
-- **Comprehensive silver periods**: War nickels (1942-1945), dimes (1946-1964), quarters, half dollars
-- **Complete composition tracking**: Every metal change from 1793 copper to modern clad
-- **Key date coverage**: All major rarities including 1909-S VDB, 1916-D Mercury, 1932-D Washington
+- **1,539+ coins** across all major US denominations
+- **48+ coin series** from Large Cents (1793) to modern issues  
+- **Major circulation series coverage**:
+  - **Jefferson Nickels (209 varieties)**: Complete 1938-2024 including wartime silver (1942-1945) and key dates like 1950-D
+  - **Roosevelt Dimes (270 varieties)**: Complete 1946-2024 silver to clad transition with Full Bands varieties  
+  - **Lincoln Shield Cents (52 varieties)**: Complete 2010-2024 modern series with special P and W mint marks
+  - **Walking Liberty Half Dollars (74 varieties)**: Complete 1916-1947 classic silver series by Adolph Weinman
+- **Complete composition tracking**: Every metal change from 1793 copper to modern clad including wartime silver nickels
+- **Key date coverage**: All major rarities including 1909-S VDB, 1916-D Mercury, 1932-D Washington, 1950-D Jefferson, 1921-D Walking Liberty
 
 ### Database-First Architecture
 
