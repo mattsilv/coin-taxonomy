@@ -2511,192 +2511,592 @@
       "coins": [
         {
           "business_strikes": null,
-          "coin_id": "US-WLHD-1916-D",
-          "common_names": [
-            "Walking Liberty Half",
-            "Walker"
-          ],
-          "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
-          },
-          "diameter_mm": 30.6,
-          "distinguishing_features": [
-            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
-          ],
-          "identification_keywords": [
-            "walking",
-            "liberty",
-            "half",
-            "dollar",
-            "1916",
-            "denver",
-            "first",
-            "year"
-          ],
-          "mint": "D",
-          "notes": "First year issue from Denver. Mint mark on obverse. Scarcer than Philadelphia.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
-          "weight_grams": 12.5,
-          "year": 1916
-        },
-        {
-          "business_strikes": null,
-          "coin_id": "US-WLHD-1916-P",
-          "common_names": [
-            "Walking Liberty Half",
-            "Walker"
-          ],
-          "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
-          },
-          "diameter_mm": 30.6,
-          "distinguishing_features": [
-            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
-          ],
-          "identification_keywords": [
-            "walking",
-            "liberty",
-            "half",
-            "dollar",
-            "1916",
-            "first",
-            "year",
-            "key",
-            "date"
-          ],
-          "mint": "P",
-          "notes": "Key date - first year of series. Mint mark location on obverse. Very popular design.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
-          "weight_grams": 12.5,
-          "year": 1916
-        },
-        {
-          "business_strikes": null,
           "coin_id": "US-WLHD-1916-S",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking",
+            "First Year Walker"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "First year. Mint mark on obverse below \"IN GOD WE TRUST\"."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "First year of issue - San Francisco only"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1916",
-            "san",
-            "francisco",
+            "eagle",
+            "silver",
+            "weinman",
             "first",
             "year"
           ],
           "mint": "S",
-          "notes": "First year issue from San Francisco. Mint mark on obverse. Lower mintage.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "notes": "Low mintage of 508,000 - highly sought after first year | First year of iconic Adolph Weinman design",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Low mintage of 508,000 - highly sought after first year",
+              "name": "Low mintage of 508,000 - highly sought after first year",
+              "variety_id": "US-WLHD-1916-S-V1"
+            }
+          ],
           "weight_grams": 12.5,
           "year": 1916
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1917-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking",
+            "Obverse Mint Mark Walker"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Mint mark on obverse under IN GOD WE TRUST"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "obverse",
+            "mint",
+            "mark"
+          ],
+          "mint": "D",
+          "notes": "1917-D Obverse mint mark - only 765,400 minted",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "1917-D Reverse mint mark (Type 2)",
+              "name": "1917-D Reverse mint mark (Type 2)",
+              "variety_id": "US-WLHD-1917-D-V1"
+            },
+            {
+              "description": {
+                "description": "Mint mark on reverse (late 1917)",
+                "name": "Reverse Mint Mark",
+                "variety_id": "US-WLHD-1917-D-Rev"
+              },
+              "name": {
+                "description": "Mint mark on reverse (late 1917)",
+                "name": "Reverse Mint Mark",
+                "variety_id": "US-WLHD-1917-D-Rev"
+              },
+              "variety_id": "US-WLHD-1917-D-V2"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1917
         },
         {
           "business_strikes": null,
           "coin_id": "US-WLHD-1917-P",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Transition year. Early 1917 mint mark on obverse, later on reverse."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1917",
-            "philadelphia",
-            "transition"
+            "eagle",
+            "silver",
+            "weinman"
           ],
           "mint": "P",
-          "notes": "Transition year for mint mark location. Mid-1917 change from obverse to reverse.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "common",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1917
         },
         {
           "business_strikes": null,
-          "coin_id": "US-WLHD-1921-D",
+          "coin_id": "US-WLHD-1917-S",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking",
+            "Obverse Mint Mark Walker"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Key date. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Mint mark on obverse under IN GOD WE TRUST"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1921",
-            "denver",
-            "key",
-            "date"
+            "eagle",
+            "silver",
+            "weinman",
+            "obverse",
+            "mint",
+            "mark"
+          ],
+          "mint": "S",
+          "notes": "1917-S Obverse mint mark variety",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "1917-S Reverse mint mark (Type 2)",
+              "name": "1917-S Reverse mint mark (Type 2)",
+              "variety_id": "US-WLHD-1917-S-V1"
+            },
+            {
+              "description": {
+                "description": "Mint mark on reverse (late 1917)",
+                "name": "Reverse Mint Mark",
+                "variety_id": "US-WLHD-1917-S-Rev"
+              },
+              "name": {
+                "description": "Mint mark on reverse (late 1917)",
+                "name": "Reverse Mint Mark",
+                "variety_id": "US-WLHD-1917-S-Rev"
+              },
+              "variety_id": "US-WLHD-1917-S-V2"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1918-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
           ],
           "mint": "D",
-          "notes": "Key date of series. Very low mintage, extremely scarce in high grades.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1918-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1918-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1918
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1919-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "notes": "Low mintage 1.2 million",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Low mintage 1.2 million",
+              "name": "Low mintage 1.2 million",
+              "variety_id": "US-WLHD-1919-D-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1919-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1919-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "notes": "Low mintage 1.6 million",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Low mintage 1.6 million",
+              "name": "Low mintage 1.6 million",
+              "variety_id": "US-WLHD-1919-S-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1919
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1920-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1920-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1920-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1920
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1921-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking",
+            "King of Walking Liberty Halves"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Key date - extremely low mintage"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "key",
+            "date",
+            "rare"
+          ],
+          "mint": "D",
+          "notes": "Lowest series mintage at 208,000 - ultimate key date",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "key",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Lowest series mintage at 208,000 - ultimate key date",
+              "name": "Lowest series mintage at 208,000 - ultimate key date",
+              "variety_id": "US-WLHD-1921-D-V1"
+            }
+          ],
           "weight_grams": 12.5,
           "year": 1921
         },
@@ -2704,37 +3104,46 @@
           "business_strikes": null,
           "coin_id": "US-WLHD-1921-P",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Key date. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Key date - extremely low mintage"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1921",
-            "philadelphia",
+            "eagle",
+            "silver",
+            "weinman",
             "key",
-            "date"
+            "date",
+            "rare"
           ],
           "mint": "P",
-          "notes": "Key date of series. Low mintage and heavy melting during silver run-up.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "notes": "Second-lowest mintage at 246,000",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "key",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Second-lowest mintage at 246,000",
+              "name": "Second-lowest mintage at 246,000",
+              "variety_id": "US-WLHD-1921-P-V1"
+            }
+          ],
           "weight_grams": 12.5,
           "year": 1921
         },
@@ -2742,162 +3151,2131 @@
           "business_strikes": null,
           "coin_id": "US-WLHD-1921-S",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Key date. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Key date - extremely low mintage"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1921",
-            "san",
-            "francisco",
+            "eagle",
+            "silver",
+            "weinman",
             "key",
-            "date"
+            "date",
+            "rare"
           ],
           "mint": "S",
-          "notes": "Key date of series. Very low mintage, extremely scarce and valuable.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "notes": "Third-lowest mintage at 548,000",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "key",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Third-lowest mintage at 548,000",
+              "name": "Third-lowest mintage at 548,000",
+              "variety_id": "US-WLHD-1921-S-V1"
+            }
+          ],
           "weight_grams": 12.5,
           "year": 1921
         },
         {
           "business_strikes": null,
-          "coin_id": "US-WLHD-1938-D",
+          "coin_id": "US-WLHD-1923-D",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Key date from late period. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1938",
-            "denver",
-            "key",
-            "date"
+            "eagle",
+            "silver",
+            "weinman"
           ],
           "mint": "D",
-          "notes": "Key date from later period. Low mintage of 491,600.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1923-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1923-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1923
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1927-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1927-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1927-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1927
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1928-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1928-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1928-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1928
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1929-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1929-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1929-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1929
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1933-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1933
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1933-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1933
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1933-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1933
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1934-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1934-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1934-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1935-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1935-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1935-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1936-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1936-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1936-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1937-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1937-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1937-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1938-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "notes": "Modern era key date - only 491,600 minted",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "key",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Modern era key date - only 491,600 minted",
+              "name": "Modern era key date - only 491,600 minted",
+              "variety_id": "US-WLHD-1938-D-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1938-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
         },
         {
           "business_strikes": null,
-          "coin_id": "US-WLHD-1943-P",
+          "coin_id": "US-WLHD-1938-S",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Wartime issue. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1943",
-            "philadelphia",
-            "common",
-            "wartime"
+            "eagle",
+            "silver",
+            "weinman"
           ],
-          "mint": "P",
-          "notes": "Representative common date from wartime period. High mintage.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
           "rarity": "common",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1939-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1939-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1939-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1940-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1940-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1940-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1940
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1941-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1941-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1941-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1941
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1942-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1942-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1942-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1942
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1943-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1943
         },
         {
           "business_strikes": null,
-          "coin_id": "US-WLHD-1947-P",
+          "coin_id": "US-WLHD-1943-P",
           "common_names": [
-            "Walking Liberty Half",
-            "Walker"
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
           ],
           "composition": {
-            "alloy": {
-              "copper": 0.1,
-              "silver": 0.9
-            },
-            "alloy_name": "90% Silver"
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
           },
-          "diameter_mm": 30.6,
           "distinguishing_features": [
-            "Final year of series. Mint mark on reverse below olive branch."
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
           ],
           "identification_keywords": [
             "walking",
             "liberty",
             "half",
             "dollar",
-            "1947",
-            "philadelphia",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1943
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1943-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1943
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1944-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1944
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1944-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1944
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1944-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1944
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1945-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "D",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1945-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1945-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman"
+          ],
+          "mint": "S",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1945
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1946-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Final years of series"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
             "final",
+            "last",
+            "year"
+          ],
+          "mint": "D",
+          "notes": "Lower mintage for final year",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Lower mintage for final year",
+              "name": "Lower mintage for final year",
+              "variety_id": "US-WLHD-1946-D-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1946-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Final years of series"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "final",
+            "last",
             "year"
           ],
           "mint": "P",
-          "notes": "Final year of beloved series. Design later used on American Silver Eagle.",
-          "obverse_description": "Liberty walking left draped in American flag with rising sun behind",
+          "notes": "Last year of series - lower mintage",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Eagle perched on mountain crag with wings partially spread",
-          "varieties": [],
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Last year of series - lower mintage",
+              "name": "Last year of series - lower mintage",
+              "variety_id": "US-WLHD-1946-P-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1946-S",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Final years of series"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "final",
+            "last",
+            "year"
+          ],
+          "mint": "S",
+          "notes": "Lower mintage for final year",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Lower mintage for final year",
+              "name": "Lower mintage for final year",
+              "variety_id": "US-WLHD-1946-S-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1947-D",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Final years of series"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "final",
+            "last",
+            "year"
+          ],
+          "mint": "D",
+          "notes": "Final year Denver mint | Final year of Walking Liberty design",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Final year Denver mint",
+              "name": "Final year Denver mint",
+              "variety_id": "US-WLHD-1947-D-V1"
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1947
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-WLHD-1947-P",
+          "common_names": [
+            "Walking Liberty Half Dollar",
+            "Walking Half",
+            "Liberty Walking"
+          ],
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "distinguishing_features": [
+            "Walking Liberty obverse by Adolph Weinman",
+            "Eagle with rising sun reverse",
+            "90% silver composition",
+            "Final years of series"
+          ],
+          "identification_keywords": [
+            "walking",
+            "liberty",
+            "half",
+            "dollar",
+            "eagle",
+            "silver",
+            "weinman",
+            "final",
+            "last",
+            "year"
+          ],
+          "mint": "P",
+          "notes": "Final year of series | Final year of Walking Liberty design",
+          "obverse_description": "Liberty striding toward dawn carrying olive branches and American flag, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Eagle perched on mountain crag with wings spread, rising sun behind, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' on left, 'HALF DOLLAR' below",
+          "varieties": [
+            {
+              "description": "Final year of series",
+              "name": "Final year of series",
+              "variety_id": "US-WLHD-1947-P-V1"
+            }
+          ],
           "weight_grams": 12.5,
           "year": 1947
         }
       ],
       "composition_periods": [
         {
-          "alloy": {
-            "copper": 0.1,
-            "silver": 0.9
-          },
+          "alloy": {},
           "alloy_name": "90% Silver",
           "date_range": {
             "end": 1947,
@@ -2912,7 +5290,6 @@
       "series_id": "walking_liberty_half_dollar",
       "series_name": "Walking Liberty Half Dollar",
       "specifications": {
-        "diameter_mm": 30.6,
         "edge": "plain"
       },
       "years": {
