@@ -64,7 +64,8 @@ class DatabaseExporter:
                         varieties, source_citation, notes,
                         country, obverse_description, reverse_description,
                         distinguishing_features, identification_keywords, common_names,
-                        category, issuer, series_year, calendar_type, original_date
+                        category, issuer, series_year, calendar_type, original_date,
+                        seller_name
                     FROM coins
                     WHERE denomination = ?
                     ORDER BY year, series_name, mint
@@ -126,6 +127,8 @@ class DatabaseExporter:
                         coin["source_citation"] = row[12]
                     if row[13] and row[13].strip():  # notes
                         coin["notes"] = row[13]
+                    if row[25] and row[25].strip():  # seller_name
+                        coin["seller_name"] = row[25]
                     
                     series_data[series_id]['coins'].append(coin)
                     series_data[series_id]['years'].append(row[3])

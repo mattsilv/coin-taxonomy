@@ -313,6 +313,8 @@ def export_issues_by_country(conn, output_dir):
                 issue['source_citation'] = row[21]
             if row[22]:  # notes
                 issue['notes'] = row[22]
+            if row[25]:  # seller_name
+                issue['seller_name'] = row[25]
             
             issues.append(issue)
         
