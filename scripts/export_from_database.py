@@ -65,10 +65,10 @@ class DatabaseExporter:
                         country, obverse_description, reverse_description,
                         distinguishing_features, identification_keywords, common_names,
                         category, issuer, series_year, calendar_type, original_date,
-                        seller_name
+                        seller_name, COALESCE(variety_suffix, '') as variety_suffix
                     FROM coins
                     WHERE denomination = ?
-                    ORDER BY year, series_name, mint
+                    ORDER BY year, series_name, mint, variety_suffix
                 ''', (denom_name,))
                 
                 rows = cursor.fetchall()
@@ -338,9 +338,10 @@ class DatabaseExporter:
                     composition, weight_grams, diameter_mm,
                     varieties, source_citation, notes, country,
                     obverse_description, reverse_description,
-                    distinguishing_features, identification_keywords, common_names
+                    distinguishing_features, identification_keywords, common_names,
+                    COALESCE(variety_suffix, '') as variety_suffix
                 FROM coins
-                ORDER BY year, denomination, series_name, mint
+                ORDER BY year, denomination, series_name, mint, variety_suffix
             ''')
             
             coins = []
