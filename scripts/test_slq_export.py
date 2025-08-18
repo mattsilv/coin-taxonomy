@@ -94,9 +94,9 @@ def test_slq_export():
     for coin in type2_coins:
         print(f"  📍 {coin[0]}: {coin[2]}-{coin[3]} ({coin[4]:,} minted)")
     
-    print(f"\nPrice tracking benefits:")
-    print(f"- Accurate Type I vs Type II pricing")
-    print(f"- 1917 dual types enable precise market values")
+    print(f"\nTaxonomic identification benefits:")
+    print(f"- Accurate Type I vs Type II classification")
+    print(f"- 1917 dual types enable precise variety identification")
     print(f"- Each type has distinct design characteristics")
 
 if __name__ == "__main__":

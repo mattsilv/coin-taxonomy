@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Seated Liberty Half Dimes Backfill (1837-1873)
-Based on dealer demand and market values provided
+Based on mintage figures and rarity classifications
 """
 
 import sqlite3
@@ -34,11 +34,11 @@ class SeatedHalfDimesBackfill:
             print(f"✅ Backup created: {backup_path}")
     
     def get_seated_half_dimes(self) -> List[Dict]:
-        """Get all Seated Liberty Half Dimes with market-based rarity."""
+        """Get all Seated Liberty Half Dimes with mintage-based rarity."""
         coins = []
         
-        # Market data with Good condition values to determine rarity
-        # Key: >$100=key, $30-100=scarce, <$30=common
+        # NOTE: This script contains pricing data that should be converted to rarity classifications
+        # See scripts/convert_pricing_to_rarity.py for proper taxonomy-only approach
         market_data = {
             # Philadelphia Mint (no mintmark)
             1837: {"strikes": 1405000, "good_value": 40, "note": "First year of series"},
