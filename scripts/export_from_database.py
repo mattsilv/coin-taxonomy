@@ -192,6 +192,7 @@ class DatabaseExporter:
             'Dimes': 0.10,
             'Twenty Cents': 0.20,
             'Quarters': 0.25,
+            'Quarter Dollar': 0.25,  # Support both naming conventions
             'Half Dollars': 0.50,
             'Dollars': 1.00,
             'Trade Dollars': 1.00
@@ -235,6 +236,7 @@ class DatabaseExporter:
             'Dimes': 'dimes.json',
             'Twenty Cents': 'twenty_cents.json',
             'Quarters': 'quarters.json',
+            'Quarter Dollar': 'quarters.json',  # Support both naming conventions
             'Half Dollars': 'half_dollars.json',
             'Dollars': 'dollars.json',
             'Trade Dollars': 'trade_dollars.json'
