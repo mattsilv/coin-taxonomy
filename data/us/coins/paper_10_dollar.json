@@ -7,6 +7,298 @@
     {
       "banknotes": [
         {
+          "authority_code": "P",
+          "distinguishing_features": "Brown back design, Charter #1 First National Bank of New York, Franklin portrait, brown seal",
+          "identification_keywords": "series 1882, brown back, first national new york, charter 1, franklin portrait, brown seal",
+          "issue_id": "US-NBN10-1882-NYC",
+          "issuing_authority": "First National Bank of New York",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Charter #1 First National Bank of New York - historic first national bank",
+          "rarity": "scarce",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $10 Brown Back - First National Bank of New York obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Brown back design",
+                "Charter #1 First National Bank of New York",
+                "Franklin portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $10 Brown Back - First National Bank of New York reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1",
+              "description": "Brown back design, Charter #1 First National Bank of New York, Franklin portrait, brown seal",
+              "friedberg_number": "Fr.487",
+              "issuing_bank": "First National Bank of New York",
+              "name": "Series 1882 $10 Brown Back - First National Bank of New York",
+              "variety_id": "nyc"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Date back design with charter date 1863, Charter #1 Philadelphia, Franklin portrait, brown seal",
+          "identification_keywords": "series 1882, date back, first national philadelphia, charter date 1863, franklin portrait",
+          "issue_id": "US-NBN10-1882-PHL",
+          "issuing_authority": "First National Bank of Philadelphia",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Date Back variety with charter date prominently displayed on reverse",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $10 Date Back - First National Bank of Philadelphia obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Date back design with charter date 1863",
+                "Charter #1 Philadelphia",
+                "Franklin portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $10 Date Back - First National Bank of Philadelphia reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1 Philadelphia",
+              "description": "Date back design with charter date 1863, Charter #1 Philadelphia, Franklin portrait, brown seal",
+              "friedberg_number": "Fr.539",
+              "issuing_bank": "First National Bank of Philadelphia",
+              "name": "Series 1882 $10 Date Back - First National Bank of Philadelphia",
+              "variety_id": "phl"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Value back design with large \"TEN\" denomination, Charter #1 Boston, Franklin portrait, brown seal",
+          "identification_keywords": "series 1882, value back, first national boston, large ten, franklin portrait",
+          "issue_id": "US-NBN10-1882-BOS",
+          "issuing_authority": "First National Bank of Boston",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Value Back variety with large \"TEN\" prominently displayed on reverse",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $10 Value Back - First National Bank of Boston obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Value back design with large \"TEN\" denomination",
+                "Charter #1 Boston",
+                "Franklin portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $10 Value Back - First National Bank of Boston reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1 Boston",
+              "description": "Value back design with large \"TEN\" denomination, Charter #1 Boston, Franklin portrait, brown seal",
+              "friedberg_number": "Fr.577",
+              "issuing_bank": "First National Bank of Boston",
+              "name": "Series 1882 $10 Value Back - First National Bank of Boston",
+              "variety_id": "bos"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Date back design with charter date, Charter #12 Boatmens Bank, Franklin portrait, brown seal",
+          "identification_keywords": "series 1882, date back, boatmens bank st louis, charter 12, franklin portrait",
+          "issue_id": "US-NBN10-1882-STL",
+          "issuing_authority": "Boatmens Bank of St. Louis",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Boatmens Bank of St. Louis - historic river commerce banking institution",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Date back design with charter date",
+                "Charter #12 Boatmens Bank",
+                "Franklin portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "12",
+              "description": "Date back design with charter date, Charter #12 Boatmens Bank, Franklin portrait, brown seal",
+              "friedberg_number": "Fr.539",
+              "issuing_bank": "Boatmens Bank of St. Louis",
+              "name": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis",
+              "variety_id": "stl"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Date back design with charter date, Charter #1413 Merchants National, Franklin portrait, brown seal",
+          "identification_keywords": "series 1882, date back, merchants national baltimore, charter 1413, franklin portrait",
+          "issue_id": "US-NBN10-1882-BAL",
+          "issuing_authority": "Merchants National Bank of Baltimore",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Merchants National Bank of Baltimore - major Mid-Atlantic banking institution",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Date back design with charter date",
+                "Charter #1413 Merchants National",
+                "Franklin portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1413",
+              "description": "Date back design with charter date, Charter #1413 Merchants National, Franklin portrait, brown seal",
+              "friedberg_number": "Fr.539",
+              "issuing_bank": "Merchants National Bank of Baltimore",
+              "name": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore",
+              "variety_id": "bal"
+            }
+          ],
+          "year": 1882
+        }
+      ],
+      "defining_characteristics": "US National Bank Note $10 including Series 1882 Brown/Date/Value Back varieties",
+      "official_name": "US National Bank Note $10",
+      "series_id": "us_national_bank_10_dollar",
+      "series_name": "National Bank Note $10",
+      "years": {
+        "end": 1882,
+        "start": 1882
+      }
+    },
+    {
+      "banknotes": [
+        {
           "authority_code": "A",
           "distinguishing_features": "Red seal and serials typical of Legal Tender, Central bison vignette (Pablo), Nine signature combinations Fr.114-Fr.122",
           "identification_keywords": "bison note, legal tender, red seal, pablo, signature combinations, fr114 fr122",
@@ -201,6 +493,429 @@
       "years": {
         "end": 1901,
         "start": 1901
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Bison vignette, gold overprints",
+          "identification_keywords": "1905 technicolor, gold certificate, parker treat, bison vignette, gold overprint, gold seal",
+          "issue_id": "US-GC10-1905-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Famous 1905 Technicolor series with distinctive gold coloring and artistic design elements",
+          "rarity": "rare",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1905 Technicolor $10 Gold Certificate - Parker/Treat obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Technicolor gold tinting",
+                "Gold Treasury seal",
+                "Parker/Treat signatures",
+                "Bison vignette",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "1905 Technicolor $10 Gold Certificate - Parker/Treat reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "Alton B. Parker (Treasurer) / Charles H. Treat (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Bison vignette, gold overprints",
+              "design_notes": "Technicolor printing process with gold tinting throughout",
+              "friedberg_number": "Fr.1167",
+              "name": "1905 Technicolor $10 Gold Certificate - Parker/Treat",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1905
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Hillegas portrait, gold overprints",
+          "identification_keywords": "series 1922, gold certificate, speelman white, hillegas portrait, gold overprint, gold seal",
+          "issue_id": "US-GC10-1922-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Final series of large-size Gold Certificates, features Michael Hillegas first Treasurer of US",
+          "rarity": "common",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1922 $10 Gold Certificate - Speelman/White obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Series 1922 design",
+                "Gold Treasury seal",
+                "Speelman/White signatures",
+                "Hillegas portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1922 $10 Gold Certificate - Speelman/White reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "Frank O. Speelman (Treasurer) / Andrew W. Mellon (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Hillegas portrait, gold overprints",
+              "design_notes": "Last large-size gold certificate design",
+              "friedberg_number": "Fr.1168",
+              "name": "Series 1922 $10 Gold Certificate - Speelman/White",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1922
+        }
+      ],
+      "defining_characteristics": "US Gold Certificate $10 including 1905 Technicolor and Series 1882/1922 varieties",
+      "official_name": "US Gold Certificate $10",
+      "series_id": "us_gold_certificate_10_dollar",
+      "series_name": "Gold Certificate $10",
+      "years": {
+        "end": 1922,
+        "start": 1905
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Red Treasury seal, Red serial numbers, District C Philadelphia, Jackson portrait, Type I plate layout",
+          "identification_keywords": "series 1914, red seal, philadelphia district c, jackson portrait, type 1 plate, red serial",
+          "issue_id": "US-FRN10-1914-C",
+          "issuing_authority": "Federal Reserve Bank of Philadelphia",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1914 $10 from Philadelphia District with red seal and serials",
+          "rarity": "scarce",
+          "seal_color": "Red",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Red Treasury seal",
+                "Red serial numbers",
+                "District C Philadelphia",
+                "Jackson portrait",
+                "Type I plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Burke-McAdoo (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Red Treasury seal, Red serial numbers, District C Philadelphia, Jackson portrait, Type I plate layout",
+              "district_letter": "C",
+              "friedberg_number": "Fr.895c",
+              "issuing_bank": "Federal Reserve Bank of Philadelphia",
+              "name": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia",
+              "variety_id": "c"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District E Richmond, Jackson portrait, Type II plate layout",
+          "identification_keywords": "series 1914, blue seal, richmond district e, jackson portrait, type 2 plate, blue serial",
+          "issue_id": "US-FRN10-1915-E",
+          "issuing_authority": "Federal Reserve Bank of Richmond",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1914 $10 from Richmond District with blue seal transition",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District E Richmond",
+                "Jackson portrait",
+                "Type II plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "White-Mellon (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District E Richmond, Jackson portrait, Type II plate layout",
+              "district_letter": "E",
+              "friedberg_number": "Fr.906e",
+              "issuing_bank": "Federal Reserve Bank of Richmond",
+              "name": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond",
+              "variety_id": "e"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District H St. Louis, Jackson portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, st louis district h, jackson portrait, blue serial",
+          "issue_id": "US-FRN10-1918-H",
+          "issuing_authority": "Federal Reserve Bank of St. Louis",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 $10 from St. Louis District with standard blue seal format",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of St. Louis obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District H St. Louis",
+                "Jackson portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of St. Louis reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District H St. Louis, Jackson portrait, Series 1918 design",
+              "district_letter": "H",
+              "friedberg_number": "Fr.908h",
+              "issuing_bank": "Federal Reserve Bank of St. Louis",
+              "name": "Series 1918 $10 - Federal Reserve Bank of St. Louis",
+              "variety_id": "h"
+            }
+          ],
+          "year": 1918
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District J Kansas City, Jackson portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, kansas city district j, jackson portrait, blue serial",
+          "issue_id": "US-FRN10-1918-J",
+          "issuing_authority": "Federal Reserve Bank of Kansas City",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 $10 from Kansas City District serving Great Plains region",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of Kansas City obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District J Kansas City",
+                "Jackson portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of Kansas City reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District J Kansas City, Jackson portrait, Series 1918 design",
+              "district_letter": "J",
+              "friedberg_number": "Fr.908j",
+              "issuing_bank": "Federal Reserve Bank of Kansas City",
+              "name": "Series 1918 $10 - Federal Reserve Bank of Kansas City",
+              "variety_id": "j"
+            }
+          ],
+          "year": 1918
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Jackson portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, san francisco district l, jackson portrait, blue serial",
+          "issue_id": "US-FRN10-1918-L",
+          "issuing_authority": "Federal Reserve Bank of San Francisco",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 $10 from San Francisco District with West Coast distribution",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of San Francisco obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District L San Francisco",
+                "Jackson portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $10 - Federal Reserve Bank of San Francisco reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Jackson portrait, Series 1918 design",
+              "district_letter": "L",
+              "friedberg_number": "Fr.908l",
+              "issuing_bank": "Federal Reserve Bank of San Francisco",
+              "name": "Series 1918 $10 - Federal Reserve Bank of San Francisco",
+              "variety_id": "l"
+            }
+          ],
+          "year": 1918
+        }
+      ],
+      "defining_characteristics": "US Federal Reserve Note $10 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "official_name": "US Federal Reserve Note $10",
+      "series_id": "us_federal_reserve_10_dollar",
+      "series_name": "Federal Reserve Note $10",
+      "years": {
+        "end": 1918,
+        "start": 1914
       }
     }
   ]

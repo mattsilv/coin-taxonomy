@@ -1,6 +1,6 @@
 {
   "country_code": "US",
-  "total_issues": 284,
+  "total_issues": 323,
   "issues": [
     {
       "issue_id": "US-FUGC-1787-A",
@@ -8767,6 +8767,1098 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-NBN5-1882-NYC",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of New York",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $5"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $5 Brown Back - First National Bank of New York obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Brown back design",
+            "Charter #1 First National Bank of New York",
+            "Garfield portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $5 Brown Back - First National Bank of New York reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "nyc",
+          "name": "Series 1882 $5 Brown Back - First National Bank of New York",
+          "description": "Brown back design, Charter #1 First National Bank of New York, Garfield portrait, brown seal",
+          "friedberg_number": "Fr.467",
+          "charter_number": "1",
+          "issuing_bank": "First National Bank of New York"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Charter #1 First National Bank of New York - the very first national bank chartered in 1863",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN5-1882-PHL",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Philadelphia",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $5"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $5 Date Back - First National Bank of Philadelphia obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Date back design with charter date 1863",
+            "Charter #1 Philadelphia",
+            "Garfield portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $5 Date Back - First National Bank of Philadelphia reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "phl",
+          "name": "Series 1882 $5 Date Back - First National Bank of Philadelphia",
+          "description": "Date back design with charter date 1863, Charter #1 Philadelphia, Garfield portrait, brown seal",
+          "friedberg_number": "Fr.533",
+          "charter_number": "1 Philadelphia",
+          "issuing_bank": "First National Bank of Philadelphia"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Date Back notes show the charter date of the issuing bank on the reverse",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN5-1882-BOS",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Boston",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $5"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $5 Value Back - First National Bank of Boston obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Value back design with large \"FIVE\" denomination",
+            "Charter #1 Boston",
+            "Garfield portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $5 Value Back - First National Bank of Boston reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "bos",
+          "name": "Series 1882 $5 Value Back - First National Bank of Boston",
+          "description": "Value back design with large \"FIVE\" denomination, Charter #1 Boston, Garfield portrait, brown seal",
+          "friedberg_number": "Fr.574",
+          "charter_number": "1 Boston",
+          "issuing_bank": "First National Bank of Boston"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Value Back notes feature large denomination words prominently displayed on reverse",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN5-1882-CHI",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Chicago",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $5"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $5 Brown Back - First National Bank of Chicago obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Brown back design",
+            "Charter #8 First National Bank of Chicago",
+            "Garfield portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $5 Brown Back - First National Bank of Chicago reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "chi",
+          "name": "Series 1882 $5 Brown Back - First National Bank of Chicago",
+          "description": "Brown back design, Charter #8 First National Bank of Chicago, Garfield portrait, brown seal",
+          "friedberg_number": "Fr.467",
+          "charter_number": "8",
+          "issuing_bank": "First National Bank of Chicago"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Charter #8 First National Bank of Chicago - major Midwest banking center",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN5-1882-DET",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Detroit National Bank",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $5"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $5 Brown Back - Detroit National Bank obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Brown back design",
+            "Charter #2707 Detroit National Bank",
+            "Garfield portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $5 Brown Back - Detroit National Bank reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "det",
+          "name": "Series 1882 $5 Brown Back - Detroit National Bank",
+          "description": "Brown back design, Charter #2707 Detroit National Bank, Garfield portrait, brown seal",
+          "friedberg_number": "Fr.467",
+          "charter_number": "2707",
+          "issuing_bank": "Detroit National Bank"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Detroit National Bank - important Great Lakes region banking center",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN10-1882-NYC",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of New York",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $10"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $10 Brown Back - First National Bank of New York obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Brown back design",
+            "Charter #1 First National Bank of New York",
+            "Franklin portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $10 Brown Back - First National Bank of New York reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "nyc",
+          "name": "Series 1882 $10 Brown Back - First National Bank of New York",
+          "description": "Brown back design, Charter #1 First National Bank of New York, Franklin portrait, brown seal",
+          "friedberg_number": "Fr.487",
+          "charter_number": "1",
+          "issuing_bank": "First National Bank of New York"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Charter #1 First National Bank of New York - historic first national bank",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN10-1882-PHL",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Philadelphia",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $10"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $10 Date Back - First National Bank of Philadelphia obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Date back design with charter date 1863",
+            "Charter #1 Philadelphia",
+            "Franklin portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $10 Date Back - First National Bank of Philadelphia reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "phl",
+          "name": "Series 1882 $10 Date Back - First National Bank of Philadelphia",
+          "description": "Date back design with charter date 1863, Charter #1 Philadelphia, Franklin portrait, brown seal",
+          "friedberg_number": "Fr.539",
+          "charter_number": "1 Philadelphia",
+          "issuing_bank": "First National Bank of Philadelphia"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Date Back variety with charter date prominently displayed on reverse",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN10-1882-BOS",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Boston",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $10"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $10 Value Back - First National Bank of Boston obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Value back design with large \"TEN\" denomination",
+            "Charter #1 Boston",
+            "Franklin portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $10 Value Back - First National Bank of Boston reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "bos",
+          "name": "Series 1882 $10 Value Back - First National Bank of Boston",
+          "description": "Value back design with large \"TEN\" denomination, Charter #1 Boston, Franklin portrait, brown seal",
+          "friedberg_number": "Fr.577",
+          "charter_number": "1 Boston",
+          "issuing_bank": "First National Bank of Boston"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Value Back variety with large \"TEN\" prominently displayed on reverse",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN10-1882-STL",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Boatmens Bank of St. Louis",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $10"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Date back design with charter date",
+            "Charter #12 Boatmens Bank",
+            "Franklin portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "stl",
+          "name": "Series 1882 $10 Date Back - Boatmens Bank of St. Louis",
+          "description": "Date back design with charter date, Charter #12 Boatmens Bank, Franklin portrait, brown seal",
+          "friedberg_number": "Fr.539",
+          "charter_number": "12",
+          "issuing_bank": "Boatmens Bank of St. Louis"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Boatmens Bank of St. Louis - historic river commerce banking institution",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN10-1882-BAL",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Merchants National Bank of Baltimore",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $10"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Date back design with charter date",
+            "Charter #1413 Merchants National",
+            "Franklin portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "bal",
+          "name": "Series 1882 $10 Date Back - Merchants National Bank of Baltimore",
+          "description": "Date back design with charter date, Charter #1413 Merchants National, Franklin portrait, brown seal",
+          "friedberg_number": "Fr.539",
+          "charter_number": "1413",
+          "issuing_bank": "Merchants National Bank of Baltimore"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Merchants National Bank of Baltimore - major Mid-Atlantic banking institution",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN20-1882-NYC",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of New York",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $20"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $20 Brown Back - First National Bank of New York obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Brown back design",
+            "Charter #1 First National Bank of New York",
+            "McCulloch portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $20 Brown Back - First National Bank of New York reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "nyc",
+          "name": "Series 1882 $20 Brown Back - First National Bank of New York",
+          "description": "Brown back design, Charter #1 First National Bank of New York, McCulloch portrait, brown seal",
+          "friedberg_number": "Fr.505",
+          "charter_number": "1",
+          "issuing_bank": "First National Bank of New York"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Charter #1 First National Bank of New York - highest denomination brown back",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN20-1882-BOS",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Bank of Boston",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $20"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $20 Value Back - First National Bank of Boston obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Value back design with large \"TWENTY\" denomination",
+            "Charter #1 Boston",
+            "McCulloch portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $20 Value Back - First National Bank of Boston reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "bos",
+          "name": "Series 1882 $20 Value Back - First National Bank of Boston",
+          "description": "Value back design with large \"TWENTY\" denomination, Charter #1 Boston, McCulloch portrait, brown seal",
+          "friedberg_number": "Fr.580",
+          "charter_number": "1 Boston",
+          "issuing_bank": "First National Bank of Boston"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "Value Back variety with large \"TWENTY\" prominently displayed on reverse",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-NBN20-1882-SF",
+      "object_type": "banknote",
+      "series_id": "us_national_bank_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "First National Gold Bank of San Francisco",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "National Bank $20"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Value back design with large \"TWENTY\"",
+            "Charter #1741 Gold Bank",
+            "McCulloch portrait",
+            "brown seal"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "bank charter information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "sf",
+          "name": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco",
+          "description": "Value back design with large \"TWENTY\", Charter #1741 Gold Bank, McCulloch portrait, brown seal",
+          "friedberg_number": "Fr.580",
+          "charter_number": "1741",
+          "issuing_bank": "First National Gold Bank of San Francisco"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 National Bank Note Research",
+      "notes": "First National Gold Bank of San Francisco - issued gold-backed national currency",
+      "seller_name": "2025-08-18 13:21:41"
+    },
+    {
+      "issue_id": "US-GC20-1882-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $20"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $20 Gold Certificate - Tillman/Morgan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1882 design",
+            "Gold Treasury seal",
+            "Tillman/Morgan signatures",
+            "Washington portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $20 Gold Certificate - Tillman/Morgan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1882 $20 Gold Certificate - Tillman/Morgan",
+          "description": "Series 1882 design, Gold Treasury seal, Tillman/Morgan signatures, Washington portrait, gold overprints",
+          "friedberg_number": "Fr.1175",
+          "design_notes": "Classic Series 1882 design with gold backing"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Early Series 1882 Gold Certificate with Tillman/Morgan signature combination",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC20-1883-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $20"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1882 design",
+            "Gold Treasury seal",
+            "Rosecrans/Jordan signatures",
+            "Washington portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan",
+          "description": "Series 1882 design, Gold Treasury seal, Rosecrans/Jordan signatures, Washington portrait, gold overprints",
+          "friedberg_number": "Fr.1176",
+          "design_notes": "Series 1882 with different signature combination"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Series 1882 Gold Certificate with Rosecrans/Jordan signature combination",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC50-1882-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_50_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 50.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $50"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $50 Gold Certificate - Bruce/Gilfillan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1882 design",
+            "Gold Treasury seal",
+            "Bruce/Gilfillan signatures",
+            "Silas Wright portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $50 Gold Certificate - Bruce/Gilfillan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1882 $50 Gold Certificate - Bruce/Gilfillan",
+          "description": "Series 1882 design, Gold Treasury seal, Bruce/Gilfillan signatures, Silas Wright portrait, gold overprints",
+          "friedberg_number": "Fr.1190",
+          "design_notes": "High denomination Series 1882 with distinctive portrait"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Series 1882 $50 Gold Certificate with Bruce/Gilfillan signatures, features Silas Wright",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC100-1882-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_100_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 100.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $100"
+      },
+      "issue_year": 1882,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1882 $100 Gold Certificate - Bruce/Gilfillan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1882 design",
+            "Gold Treasury seal",
+            "Bruce/Gilfillan signatures",
+            "Benton portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1882 $100 Gold Certificate - Bruce/Gilfillan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "very_rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1882 $100 Gold Certificate - Bruce/Gilfillan",
+          "description": "Series 1882 design, Gold Treasury seal, Bruce/Gilfillan signatures, Benton portrait, gold overprints",
+          "friedberg_number": "Fr.1206",
+          "design_notes": "Premium denomination with distinctive Benton portrait"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Highest denomination Series 1882 Gold Certificate, features Thomas Hart Benton portrait",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
       "issue_id": "US-UNK-1883-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
@@ -11387,6 +12479,201 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-GC10-1905-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $10"
+      },
+      "issue_year": 1905,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "1905 Technicolor $10 Gold Certificate - Parker/Treat obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Technicolor gold tinting",
+            "Gold Treasury seal",
+            "Parker/Treat signatures",
+            "Bison vignette",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "1905 Technicolor $10 Gold Certificate - Parker/Treat reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1905 Technicolor $10 Gold Certificate - Parker/Treat",
+          "description": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Bison vignette, gold overprints",
+          "friedberg_number": "Fr.1167",
+          "design_notes": "Technicolor printing process with gold tinting throughout"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Famous 1905 Technicolor series with distinctive gold coloring and artistic design elements",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC20-1905-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $20"
+      },
+      "issue_year": 1905,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "1905 Technicolor $20 Gold Certificate - Parker/Treat obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Technicolor gold tinting",
+            "Gold Treasury seal",
+            "Parker/Treat signatures",
+            "Washington portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "1905 Technicolor $20 Gold Certificate - Parker/Treat reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1905 Technicolor $20 Gold Certificate - Parker/Treat",
+          "description": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Washington portrait, gold overprints",
+          "friedberg_number": "Fr.1180",
+          "design_notes": "Technicolor printing with distinctive gold artistic elements"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Part of acclaimed 1905 Technicolor series, among the most artistic US currency designs",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC50-1905-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_50_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 50.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $50"
+      },
+      "issue_year": 1905,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "1905 Technicolor $50 Gold Certificate - Parker/Treat obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Technicolor gold tinting",
+            "Gold Treasury seal",
+            "Parker/Treat signatures",
+            "Grant portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "1905 Technicolor $50 Gold Certificate - Parker/Treat reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "very_rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1905 Technicolor $50 Gold Certificate - Parker/Treat",
+          "description": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Grant portrait, gold overprints",
+          "friedberg_number": "Fr.1197",
+          "design_notes": "Technicolor process with extensive gold artistic elements"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "High denomination Technicolor note with exceptional artistic design and gold coloring",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
       "issue_id": "US-UNK-1906-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
@@ -12406,6 +13693,396 @@
       "seller_name": "2025-08-18 01:53:17"
     },
     {
+      "issue_id": "US-FRN5-1914-A",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Boston",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Red Treasury seal",
+            "Red serial numbers",
+            "District A Boston",
+            "Lincoln portrait",
+            "Type I plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "a",
+          "name": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston",
+          "description": "Red Treasury seal, Red serial numbers, District A Boston, Lincoln portrait, Type I plate layout",
+          "friedberg_number": "Fr.832a",
+          "district_letter": "A",
+          "issuing_bank": "Federal Reserve Bank of Boston"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "First Federal Reserve Notes issued in 1914 with red seals and serials, District A Boston",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN5-1914-B",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of New York",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Red Treasury seal",
+            "Red serial numbers",
+            "District B New York",
+            "Lincoln portrait",
+            "Type I plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "b",
+          "name": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York",
+          "description": "Red Treasury seal, Red serial numbers, District B New York, Lincoln portrait, Type I plate layout",
+          "friedberg_number": "Fr.832b",
+          "district_letter": "B",
+          "issuing_bank": "Federal Reserve Bank of New York"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "First Federal Reserve Notes from New York District, red seal variety",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN5-1915-D",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Cleveland",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District D Cleveland",
+            "Lincoln portrait",
+            "Type II plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "d",
+          "name": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland",
+          "description": "Blue Treasury seal, Blue serial numbers, District D Cleveland, Lincoln portrait, Type II plate layout",
+          "friedberg_number": "Fr.847d",
+          "district_letter": "D",
+          "issuing_bank": "Federal Reserve Bank of Cleveland"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Later 1914 series with blue seals, more common than red seal varieties",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN10-1914-C",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Philadelphia",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $10"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Red Treasury seal",
+            "Red serial numbers",
+            "District C Philadelphia",
+            "Jackson portrait",
+            "Type I plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "c",
+          "name": "Series 1914 $10 Red Seal - Federal Reserve Bank of Philadelphia",
+          "description": "Red Treasury seal, Red serial numbers, District C Philadelphia, Jackson portrait, Type I plate layout",
+          "friedberg_number": "Fr.895c",
+          "district_letter": "C",
+          "issuing_bank": "Federal Reserve Bank of Philadelphia"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1914 $10 from Philadelphia District with red seal and serials",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN10-1915-E",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Richmond",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $10"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District E Richmond",
+            "Jackson portrait",
+            "Type II plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "e",
+          "name": "Series 1914 $10 Blue Seal - Federal Reserve Bank of Richmond",
+          "description": "Blue Treasury seal, Blue serial numbers, District E Richmond, Jackson portrait, Type II plate layout",
+          "friedberg_number": "Fr.906e",
+          "district_letter": "E",
+          "issuing_bank": "Federal Reserve Bank of Richmond"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1914 $10 from Richmond District with blue seal transition",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN20-1915-F",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Atlanta",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $20"
+      },
+      "issue_year": 1914,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District F Atlanta",
+            "Cleveland portrait",
+            "Type II plate layout"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "f",
+          "name": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta",
+          "description": "Blue Treasury seal, Blue serial numbers, District F Atlanta, Cleveland portrait, Type II plate layout",
+          "friedberg_number": "Fr.962f",
+          "district_letter": "F",
+          "issuing_bank": "Federal Reserve Bank of Atlanta"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1914 $20 from Atlanta District with blue seal and serials",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
       "issue_id": "US-UNK-1916-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
@@ -12747,6 +14424,461 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-FRN5-1918-G",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Chicago",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of Chicago obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District G Chicago",
+            "Lincoln portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of Chicago reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "g",
+          "name": "Series 1918 $5 - Federal Reserve Bank of Chicago",
+          "description": "Blue Treasury seal, Blue serial numbers, District G Chicago, Lincoln portrait, Series 1918 design",
+          "friedberg_number": "Fr.849g",
+          "district_letter": "G",
+          "issuing_bank": "Federal Reserve Bank of Chicago"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 continuation with standardized blue seals across all districts",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN5-1918-I",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Minneapolis",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of Minneapolis obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District I Minneapolis",
+            "Lincoln portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of Minneapolis reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "i",
+          "name": "Series 1918 $5 - Federal Reserve Bank of Minneapolis",
+          "description": "Blue Treasury seal, Blue serial numbers, District I Minneapolis, Lincoln portrait, Series 1918 design",
+          "friedberg_number": "Fr.849i",
+          "district_letter": "I",
+          "issuing_bank": "Federal Reserve Bank of Minneapolis"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 from Minneapolis District covering upper Midwest region",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN5-1918-L",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of San Francisco",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $5"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of San Francisco obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District L San Francisco",
+            "Lincoln portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $5 - Federal Reserve Bank of San Francisco reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "l",
+          "name": "Series 1918 $5 - Federal Reserve Bank of San Francisco",
+          "description": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Lincoln portrait, Series 1918 design",
+          "friedberg_number": "Fr.849l",
+          "district_letter": "L",
+          "issuing_bank": "Federal Reserve Bank of San Francisco"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 from San Francisco District covering Western states",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN10-1918-H",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of St. Louis",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $10"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of St. Louis obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District H St. Louis",
+            "Jackson portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of St. Louis reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "h",
+          "name": "Series 1918 $10 - Federal Reserve Bank of St. Louis",
+          "description": "Blue Treasury seal, Blue serial numbers, District H St. Louis, Jackson portrait, Series 1918 design",
+          "friedberg_number": "Fr.908h",
+          "district_letter": "H",
+          "issuing_bank": "Federal Reserve Bank of St. Louis"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 $10 from St. Louis District with standard blue seal format",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN10-1918-J",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Kansas City",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $10"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of Kansas City obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District J Kansas City",
+            "Jackson portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of Kansas City reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "j",
+          "name": "Series 1918 $10 - Federal Reserve Bank of Kansas City",
+          "description": "Blue Treasury seal, Blue serial numbers, District J Kansas City, Jackson portrait, Series 1918 design",
+          "friedberg_number": "Fr.908j",
+          "district_letter": "J",
+          "issuing_bank": "Federal Reserve Bank of Kansas City"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 $10 from Kansas City District serving Great Plains region",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN10-1918-L",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of San Francisco",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $10"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of San Francisco obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District L San Francisco",
+            "Jackson portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $10 - Federal Reserve Bank of San Francisco reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "l",
+          "name": "Series 1918 $10 - Federal Reserve Bank of San Francisco",
+          "description": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Jackson portrait, Series 1918 design",
+          "friedberg_number": "Fr.908l",
+          "district_letter": "L",
+          "issuing_bank": "Federal Reserve Bank of San Francisco"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 $10 from San Francisco District with West Coast distribution",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
+      "issue_id": "US-FRN20-1918-K",
+      "object_type": "banknote",
+      "series_id": "us_federal_reserve_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Dallas",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Federal Reserve $20"
+      },
+      "issue_year": 1918,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1918 $20 - Federal Reserve Bank of Dallas obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "District K Dallas",
+            "Cleveland portrait",
+            "Series 1918 design"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1918 $20 - Federal Reserve Bank of Dallas reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "Federal Reserve district information",
+            "Treasury seal"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "k",
+          "name": "Series 1918 $20 - Federal Reserve Bank of Dallas",
+          "description": "Blue Treasury seal, Blue serial numbers, District K Dallas, Cleveland portrait, Series 1918 design",
+          "friedberg_number": "Fr.964k",
+          "district_letter": "K",
+          "issuing_bank": "Federal Reserve Bank of Dallas"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+      "notes": "Series 1918 $20 from Dallas District covering Texas and surrounding states",
+      "seller_name": "2025-08-18 13:23:32"
+    },
+    {
       "issue_id": "US-UNK-1921-D",
       "object_type": "coin",
       "series_id": "mercury_dime",
@@ -12909,6 +15041,396 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-GC10-1922-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $10"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $10 Gold Certificate - Speelman/White obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Speelman/White signatures",
+            "Hillegas portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $10 Gold Certificate - Speelman/White reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $10 Gold Certificate - Speelman/White",
+          "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Hillegas portrait, gold overprints",
+          "friedberg_number": "Fr.1168",
+          "design_notes": "Last large-size gold certificate design"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Final series of large-size Gold Certificates, features Michael Hillegas first Treasurer of US",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC20-1922-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $20"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $20 Gold Certificate - Speelman/White obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Speelman/White signatures",
+            "Washington portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $20 Gold Certificate - Speelman/White reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $20 Gold Certificate - Speelman/White",
+          "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Washington portrait, gold overprints",
+          "friedberg_number": "Fr.1187",
+          "design_notes": "Standard Series 1922 design with Washington portrait"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Most common large-size Gold Certificate, final series before small-size transition",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC20-1924-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $20"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $20 Gold Certificate - Woods/White obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Woods/White signatures",
+            "Washington portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $20 Gold Certificate - Woods/White reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $20 Gold Certificate - Woods/White",
+          "description": "Series 1922 design, Gold Treasury seal, Woods/White signatures, Washington portrait, gold overprints",
+          "friedberg_number": "Fr.1187a",
+          "design_notes": "Later signature combination for Series 1922"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Series 1922 Gold Certificate with Woods/White signature combination",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC50-1922-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_50_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 50.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $50"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $50 Gold Certificate - Speelman/White obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Speelman/White signatures",
+            "Grant portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $50 Gold Certificate - Speelman/White reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $50 Gold Certificate - Speelman/White",
+          "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Grant portrait, gold overprints",
+          "friedberg_number": "Fr.1200",
+          "design_notes": "Higher denomination Series 1922 with Grant portrait"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Series 1922 $50 Gold Certificate, higher denomination of final large-size series",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC100-1922-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_100_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 100.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $100"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $100 Gold Certificate - Speelman/White obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Speelman/White signatures",
+            "Benton portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $100 Gold Certificate - Speelman/White reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $100 Gold Certificate - Speelman/White",
+          "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Benton portrait, gold overprints",
+          "friedberg_number": "Fr.1215",
+          "design_notes": "Premium denomination final large-size gold certificate"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Highest denomination Series 1922 Gold Certificate, features Thomas Hart Benton",
+      "seller_name": "2025-08-18 13:25:23"
+    },
+    {
+      "issue_id": "US-GC100-1924-P",
+      "object_type": "banknote",
+      "series_id": "us_gold_certificate_100_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 100.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Gold Certificate $100"
+      },
+      "issue_year": 1922,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1922 $100 Gold Certificate - Woods/Mellon obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Series 1922 design",
+            "Gold Treasury seal",
+            "Woods/Mellon signatures",
+            "Benton portrait",
+            "gold overprints"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1922 $100 Gold Certificate - Woods/Mellon reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "gold certificate text",
+            "Treasury seal",
+            "gold overprints"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1922 $100 Gold Certificate - Woods/Mellon",
+          "description": "Series 1922 design, Gold Treasury seal, Woods/Mellon signatures, Benton portrait, gold overprints",
+          "friedberg_number": "Fr.1215a",
+          "design_notes": "Final signature combination before gold certificate suspension"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Gold Certificate Research",
+      "notes": "Series 1922 $100 Gold Certificate with Woods/Mellon signatures, final large-size gold certificate",
+      "seller_name": "2025-08-18 13:25:23"
     },
     {
       "issue_id": "US-UNK-1926-S",

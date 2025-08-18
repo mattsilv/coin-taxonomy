@@ -7,6 +7,483 @@
     {
       "banknotes": [
         {
+          "authority_code": "P",
+          "distinguishing_features": "Series 1882 design, Gold Treasury seal, Tillman/Morgan signatures, Washington portrait, gold overprints",
+          "identification_keywords": "series 1882, gold certificate, tillman morgan, washington portrait, gold overprint, gold seal",
+          "issue_id": "US-GC20-1882-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Early Series 1882 Gold Certificate with Tillman/Morgan signature combination",
+          "rarity": "scarce",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $20 Gold Certificate - Tillman/Morgan obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Series 1882 design",
+                "Gold Treasury seal",
+                "Tillman/Morgan signatures",
+                "Washington portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $20 Gold Certificate - Tillman/Morgan reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "John G. Tillman (Treasurer) / Daniel Morgan (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Series 1882 design, Gold Treasury seal, Tillman/Morgan signatures, Washington portrait, gold overprints",
+              "design_notes": "Classic Series 1882 design with gold backing",
+              "friedberg_number": "Fr.1175",
+              "name": "Series 1882 $20 Gold Certificate - Tillman/Morgan",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Series 1882 design, Gold Treasury seal, Rosecrans/Jordan signatures, Washington portrait, gold overprints",
+          "identification_keywords": "series 1882, gold certificate, rosecrans jordan, washington portrait, gold overprint, gold seal",
+          "issue_id": "US-GC20-1883-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1882 Gold Certificate with Rosecrans/Jordan signature combination",
+          "rarity": "scarce",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Series 1882 design",
+                "Gold Treasury seal",
+                "Rosecrans/Jordan signatures",
+                "Washington portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "William S. Rosecrans (Treasurer) / John Jay Knox Jordan (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Series 1882 design, Gold Treasury seal, Rosecrans/Jordan signatures, Washington portrait, gold overprints",
+              "design_notes": "Series 1882 with different signature combination",
+              "friedberg_number": "Fr.1176",
+              "name": "Series 1882 $20 Gold Certificate - Rosecrans/Jordan",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Washington portrait, gold overprints",
+          "identification_keywords": "1905 technicolor, gold certificate, parker treat, washington portrait, gold overprint, gold seal",
+          "issue_id": "US-GC20-1905-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Part of acclaimed 1905 Technicolor series, among the most artistic US currency designs",
+          "rarity": "rare",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1905 Technicolor $20 Gold Certificate - Parker/Treat obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Technicolor gold tinting",
+                "Gold Treasury seal",
+                "Parker/Treat signatures",
+                "Washington portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "1905 Technicolor $20 Gold Certificate - Parker/Treat reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "Alton B. Parker (Treasurer) / Charles H. Treat (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Technicolor gold tinting, Gold Treasury seal, Parker/Treat signatures, Washington portrait, gold overprints",
+              "design_notes": "Technicolor printing with distinctive gold artistic elements",
+              "friedberg_number": "Fr.1180",
+              "name": "1905 Technicolor $20 Gold Certificate - Parker/Treat",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1905
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Washington portrait, gold overprints",
+          "identification_keywords": "series 1922, gold certificate, speelman white, washington portrait, gold overprint, gold seal",
+          "issue_id": "US-GC20-1922-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Most common large-size Gold Certificate, final series before small-size transition",
+          "rarity": "common",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1922 $20 Gold Certificate - Speelman/White obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Series 1922 design",
+                "Gold Treasury seal",
+                "Speelman/White signatures",
+                "Washington portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1922 $20 Gold Certificate - Speelman/White reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "Frank O. Speelman (Treasurer) / Andrew W. Mellon (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Series 1922 design, Gold Treasury seal, Speelman/White signatures, Washington portrait, gold overprints",
+              "design_notes": "Standard Series 1922 design with Washington portrait",
+              "friedberg_number": "Fr.1187",
+              "name": "Series 1922 $20 Gold Certificate - Speelman/White",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1922
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Series 1922 design, Gold Treasury seal, Woods/White signatures, Washington portrait, gold overprints",
+          "identification_keywords": "series 1922, gold certificate, woods white, washington portrait, gold overprint, gold seal",
+          "issue_id": "US-GC20-1924-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1922 Gold Certificate with Woods/White signature combination",
+          "rarity": "common",
+          "seal_color": "Gold",
+          "seller_name": "2025-08-18 09:25:23",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1922 $20 Gold Certificate - Woods/White obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Series 1922 design",
+                "Gold Treasury seal",
+                "Woods/White signatures",
+                "Washington portrait",
+                "gold overprints"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1922 $20 Gold Certificate - Woods/White reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "gold certificate text",
+                "Treasury seal",
+                "gold overprints"
+              ]
+            }
+          },
+          "signature_combination": "Walter O. Woods (Treasurer) / Andrew W. Mellon (Secretary)",
+          "source_citation": "GitHub Issue #31 Gold Certificate Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Series 1922 design, Gold Treasury seal, Woods/White signatures, Washington portrait, gold overprints",
+              "design_notes": "Later signature combination for Series 1922",
+              "friedberg_number": "Fr.1187a",
+              "name": "Series 1922 $20 Gold Certificate - Woods/White",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1922
+        }
+      ],
+      "defining_characteristics": "US Gold Certificate $20 including 1905 Technicolor and Series 1882/1922 varieties",
+      "official_name": "US Gold Certificate $20",
+      "series_id": "us_gold_certificate_20_dollar",
+      "series_name": "Gold Certificate $20",
+      "years": {
+        "end": 1922,
+        "start": 1882
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Brown back design, Charter #1 First National Bank of New York, McCulloch portrait, brown seal",
+          "identification_keywords": "series 1882, brown back, first national new york, charter 1, mcculloch portrait, brown seal",
+          "issue_id": "US-NBN20-1882-NYC",
+          "issuing_authority": "First National Bank of New York",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Charter #1 First National Bank of New York - highest denomination brown back",
+          "rarity": "scarce",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $20 Brown Back - First National Bank of New York obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Brown back design",
+                "Charter #1 First National Bank of New York",
+                "McCulloch portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $20 Brown Back - First National Bank of New York reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1",
+              "description": "Brown back design, Charter #1 First National Bank of New York, McCulloch portrait, brown seal",
+              "friedberg_number": "Fr.505",
+              "issuing_bank": "First National Bank of New York",
+              "name": "Series 1882 $20 Brown Back - First National Bank of New York",
+              "variety_id": "nyc"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Value back design with large \"TWENTY\" denomination, Charter #1 Boston, McCulloch portrait, brown seal",
+          "identification_keywords": "series 1882, value back, first national boston, large twenty, mcculloch portrait",
+          "issue_id": "US-NBN20-1882-BOS",
+          "issuing_authority": "First National Bank of Boston",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Value Back variety with large \"TWENTY\" prominently displayed on reverse",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $20 Value Back - First National Bank of Boston obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Value back design with large \"TWENTY\" denomination",
+                "Charter #1 Boston",
+                "McCulloch portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $20 Value Back - First National Bank of Boston reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1 Boston",
+              "description": "Value back design with large \"TWENTY\" denomination, Charter #1 Boston, McCulloch portrait, brown seal",
+              "friedberg_number": "Fr.580",
+              "issuing_bank": "First National Bank of Boston",
+              "name": "Series 1882 $20 Value Back - First National Bank of Boston",
+              "variety_id": "bos"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Value back design with large \"TWENTY\", Charter #1741 Gold Bank, McCulloch portrait, brown seal",
+          "identification_keywords": "series 1882, value back, gold bank san francisco, charter 1741, mcculloch portrait",
+          "issue_id": "US-NBN20-1882-SF",
+          "issuing_authority": "First National Gold Bank of San Francisco",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "First National Gold Bank of San Francisco - issued gold-backed national currency",
+          "rarity": "scarce",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Value back design with large \"TWENTY\"",
+                "Charter #1741 Gold Bank",
+                "McCulloch portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1741",
+              "description": "Value back design with large \"TWENTY\", Charter #1741 Gold Bank, McCulloch portrait, brown seal",
+              "friedberg_number": "Fr.580",
+              "issuing_bank": "First National Gold Bank of San Francisco",
+              "name": "Series 1882 $20 Value Back - First National Gold Bank of San Francisco",
+              "variety_id": "sf"
+            }
+          ],
+          "year": 1882
+        }
+      ],
+      "defining_characteristics": "US National Bank Note $20 including Series 1882 Brown/Date/Value Back varieties",
+      "official_name": "US National Bank Note $20",
+      "series_id": "us_national_bank_20_dollar",
+      "series_name": "National Bank Note $20",
+      "years": {
+        "end": 1882,
+        "start": 1882
+      }
+    },
+    {
+      "banknotes": [
+        {
           "authority_code": "A",
           "distinguishing_features": "Gold Treasury seal, Gold overprints typical of Gold Certificates, Multiple signature pairs with some notably scarce",
           "identification_keywords": "gold certificate, gold seal, gold overprint, signature combinations, twenty dollar",
@@ -151,6 +628,132 @@
       "years": {
         "end": 1906,
         "start": 1906
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District F Atlanta, Cleveland portrait, Type II plate layout",
+          "identification_keywords": "series 1914, blue seal, atlanta district f, cleveland portrait, type 2 plate, blue serial",
+          "issue_id": "US-FRN20-1915-F",
+          "issuing_authority": "Federal Reserve Bank of Atlanta",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1914 $20 from Atlanta District with blue seal and serials",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District F Atlanta",
+                "Cleveland portrait",
+                "Type II plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "White-Mellon (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District F Atlanta, Cleveland portrait, Type II plate layout",
+              "district_letter": "F",
+              "friedberg_number": "Fr.962f",
+              "issuing_bank": "Federal Reserve Bank of Atlanta",
+              "name": "Series 1914 $20 Blue Seal - Federal Reserve Bank of Atlanta",
+              "variety_id": "f"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District K Dallas, Cleveland portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, dallas district k, cleveland portrait, blue serial",
+          "issue_id": "US-FRN20-1918-K",
+          "issuing_authority": "Federal Reserve Bank of Dallas",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 $20 from Dallas District covering Texas and surrounding states",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $20 - Federal Reserve Bank of Dallas obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District K Dallas",
+                "Cleveland portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $20 - Federal Reserve Bank of Dallas reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District K Dallas, Cleveland portrait, Series 1918 design",
+              "district_letter": "K",
+              "friedberg_number": "Fr.964k",
+              "issuing_bank": "Federal Reserve Bank of Dallas",
+              "name": "Series 1918 $20 - Federal Reserve Bank of Dallas",
+              "variety_id": "k"
+            }
+          ],
+          "year": 1918
+        }
+      ],
+      "defining_characteristics": "US Federal Reserve Note $20 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "official_name": "US Federal Reserve Note $20",
+      "series_id": "us_federal_reserve_20_dollar",
+      "series_name": "Federal Reserve Note $20",
+      "years": {
+        "end": 1918,
+        "start": 1914
       }
     }
   ]

@@ -8,6 +8,298 @@
       "banknotes": [
         {
           "authority_code": "P",
+          "distinguishing_features": "Brown back design, Charter #1 First National Bank of New York, Garfield portrait, brown seal",
+          "identification_keywords": "series 1882, brown back, first national new york, charter 1, garfield portrait, brown seal",
+          "issue_id": "US-NBN5-1882-NYC",
+          "issuing_authority": "First National Bank of New York",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Charter #1 First National Bank of New York - the very first national bank chartered in 1863",
+          "rarity": "scarce",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $5 Brown Back - First National Bank of New York obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Brown back design",
+                "Charter #1 First National Bank of New York",
+                "Garfield portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $5 Brown Back - First National Bank of New York reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1",
+              "description": "Brown back design, Charter #1 First National Bank of New York, Garfield portrait, brown seal",
+              "friedberg_number": "Fr.467",
+              "issuing_bank": "First National Bank of New York",
+              "name": "Series 1882 $5 Brown Back - First National Bank of New York",
+              "variety_id": "nyc"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Date back design with charter date 1863, Charter #1 Philadelphia, Garfield portrait, brown seal",
+          "identification_keywords": "series 1882, date back, first national philadelphia, charter date 1863, garfield portrait",
+          "issue_id": "US-NBN5-1882-PHL",
+          "issuing_authority": "First National Bank of Philadelphia",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Date Back notes show the charter date of the issuing bank on the reverse",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $5 Date Back - First National Bank of Philadelphia obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Date back design with charter date 1863",
+                "Charter #1 Philadelphia",
+                "Garfield portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $5 Date Back - First National Bank of Philadelphia reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1 Philadelphia",
+              "description": "Date back design with charter date 1863, Charter #1 Philadelphia, Garfield portrait, brown seal",
+              "friedberg_number": "Fr.533",
+              "issuing_bank": "First National Bank of Philadelphia",
+              "name": "Series 1882 $5 Date Back - First National Bank of Philadelphia",
+              "variety_id": "phl"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Value back design with large \"FIVE\" denomination, Charter #1 Boston, Garfield portrait, brown seal",
+          "identification_keywords": "series 1882, value back, first national boston, large five, garfield portrait",
+          "issue_id": "US-NBN5-1882-BOS",
+          "issuing_authority": "First National Bank of Boston",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Value Back notes feature large denomination words prominently displayed on reverse",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $5 Value Back - First National Bank of Boston obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Value back design with large \"FIVE\" denomination",
+                "Charter #1 Boston",
+                "Garfield portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $5 Value Back - First National Bank of Boston reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "1 Boston",
+              "description": "Value back design with large \"FIVE\" denomination, Charter #1 Boston, Garfield portrait, brown seal",
+              "friedberg_number": "Fr.574",
+              "issuing_bank": "First National Bank of Boston",
+              "name": "Series 1882 $5 Value Back - First National Bank of Boston",
+              "variety_id": "bos"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Brown back design, Charter #8 First National Bank of Chicago, Garfield portrait, brown seal",
+          "identification_keywords": "series 1882, brown back, first national chicago, charter 8, garfield portrait",
+          "issue_id": "US-NBN5-1882-CHI",
+          "issuing_authority": "First National Bank of Chicago",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Charter #8 First National Bank of Chicago - major Midwest banking center",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $5 Brown Back - First National Bank of Chicago obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Brown back design",
+                "Charter #8 First National Bank of Chicago",
+                "Garfield portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $5 Brown Back - First National Bank of Chicago reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "8",
+              "description": "Brown back design, Charter #8 First National Bank of Chicago, Garfield portrait, brown seal",
+              "friedberg_number": "Fr.467",
+              "issuing_bank": "First National Bank of Chicago",
+              "name": "Series 1882 $5 Brown Back - First National Bank of Chicago",
+              "variety_id": "chi"
+            }
+          ],
+          "year": 1882
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Brown back design, Charter #2707 Detroit National Bank, Garfield portrait, brown seal",
+          "identification_keywords": "series 1882, brown back, detroit national bank, charter 2707, garfield portrait",
+          "issue_id": "US-NBN5-1882-DET",
+          "issuing_authority": "Detroit National Bank",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Detroit National Bank - important Great Lakes region banking center",
+          "rarity": "common",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-18 09:21:41",
+          "series_designation": "National Bank Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1882 $5 Brown Back - Detroit National Bank obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Brown back design",
+                "Charter #2707 Detroit National Bank",
+                "Garfield portrait",
+                "brown seal"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1882 $5 Brown Back - Detroit National Bank reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "bank charter information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Various Register/Treasurer combinations",
+          "source_citation": "GitHub Issue #31 National Bank Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "charter_number": "2707",
+              "description": "Brown back design, Charter #2707 Detroit National Bank, Garfield portrait, brown seal",
+              "friedberg_number": "Fr.467",
+              "issuing_bank": "Detroit National Bank",
+              "name": "Series 1882 $5 Brown Back - Detroit National Bank",
+              "variety_id": "det"
+            }
+          ],
+          "year": 1882
+        }
+      ],
+      "defining_characteristics": "US National Bank Note $5 including Series 1882 Brown/Date/Value Back varieties",
+      "official_name": "US National Bank Note $5",
+      "series_id": "us_national_bank_5_dollar",
+      "series_name": "National Bank Note $5",
+      "years": {
+        "end": 1882,
+        "start": 1882
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
           "distinguishing_features": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Tillman/Morgan signatures",
           "identification_keywords": "educational series, electricity certificate, allegorical design, tillman morgan, blue seal, 1896",
           "issue_id": "US-SC5-1896-P",
@@ -589,6 +881,360 @@
       "years": {
         "end": 1963,
         "start": 1899
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Red Treasury seal, Red serial numbers, District A Boston, Lincoln portrait, Type I plate layout",
+          "identification_keywords": "series 1914, red seal, boston district a, lincoln portrait, type 1 plate, red serial",
+          "issue_id": "US-FRN5-1914-A",
+          "issuing_authority": "Federal Reserve Bank of Boston",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "First Federal Reserve Notes issued in 1914 with red seals and serials, District A Boston",
+          "rarity": "scarce",
+          "seal_color": "Red",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Red Treasury seal",
+                "Red serial numbers",
+                "District A Boston",
+                "Lincoln portrait",
+                "Type I plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Burke-McAdoo (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Red Treasury seal, Red serial numbers, District A Boston, Lincoln portrait, Type I plate layout",
+              "district_letter": "A",
+              "friedberg_number": "Fr.832a",
+              "issuing_bank": "Federal Reserve Bank of Boston",
+              "name": "Series 1914 $5 Red Seal - Federal Reserve Bank of Boston",
+              "variety_id": "a"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Red Treasury seal, Red serial numbers, District B New York, Lincoln portrait, Type I plate layout",
+          "identification_keywords": "series 1914, red seal, new york district b, lincoln portrait, type 1 plate, red serial",
+          "issue_id": "US-FRN5-1914-B",
+          "issuing_authority": "Federal Reserve Bank of New York",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "First Federal Reserve Notes from New York District, red seal variety",
+          "rarity": "scarce",
+          "seal_color": "Red",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Red Treasury seal",
+                "Red serial numbers",
+                "District B New York",
+                "Lincoln portrait",
+                "Type I plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Burke-McAdoo (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Red Treasury seal, Red serial numbers, District B New York, Lincoln portrait, Type I plate layout",
+              "district_letter": "B",
+              "friedberg_number": "Fr.832b",
+              "issuing_bank": "Federal Reserve Bank of New York",
+              "name": "Series 1914 $5 Red Seal - Federal Reserve Bank of New York",
+              "variety_id": "b"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District D Cleveland, Lincoln portrait, Type II plate layout",
+          "identification_keywords": "series 1914, blue seal, cleveland district d, lincoln portrait, type 2 plate, blue serial",
+          "issue_id": "US-FRN5-1915-D",
+          "issuing_authority": "Federal Reserve Bank of Cleveland",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Later 1914 series with blue seals, more common than red seal varieties",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District D Cleveland",
+                "Lincoln portrait",
+                "Type II plate layout"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "White-Mellon (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District D Cleveland, Lincoln portrait, Type II plate layout",
+              "district_letter": "D",
+              "friedberg_number": "Fr.847d",
+              "issuing_bank": "Federal Reserve Bank of Cleveland",
+              "name": "Series 1914 $5 Blue Seal - Federal Reserve Bank of Cleveland",
+              "variety_id": "d"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District G Chicago, Lincoln portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, chicago district g, lincoln portrait, blue serial",
+          "issue_id": "US-FRN5-1918-G",
+          "issuing_authority": "Federal Reserve Bank of Chicago",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 continuation with standardized blue seals across all districts",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of Chicago obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District G Chicago",
+                "Lincoln portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of Chicago reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District G Chicago, Lincoln portrait, Series 1918 design",
+              "district_letter": "G",
+              "friedberg_number": "Fr.849g",
+              "issuing_bank": "Federal Reserve Bank of Chicago",
+              "name": "Series 1918 $5 - Federal Reserve Bank of Chicago",
+              "variety_id": "g"
+            }
+          ],
+          "year": 1918
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District I Minneapolis, Lincoln portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, minneapolis district i, lincoln portrait, blue serial",
+          "issue_id": "US-FRN5-1918-I",
+          "issuing_authority": "Federal Reserve Bank of Minneapolis",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 from Minneapolis District covering upper Midwest region",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of Minneapolis obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District I Minneapolis",
+                "Lincoln portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of Minneapolis reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District I Minneapolis, Lincoln portrait, Series 1918 design",
+              "district_letter": "I",
+              "friedberg_number": "Fr.849i",
+              "issuing_bank": "Federal Reserve Bank of Minneapolis",
+              "name": "Series 1918 $5 - Federal Reserve Bank of Minneapolis",
+              "variety_id": "i"
+            }
+          ],
+          "year": 1918
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Lincoln portrait, Series 1918 design",
+          "identification_keywords": "series 1918, blue seal, san francisco district l, lincoln portrait, blue serial",
+          "issue_id": "US-FRN5-1918-L",
+          "issuing_authority": "Federal Reserve Bank of San Francisco",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1918 from San Francisco District covering Western states",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-18 09:23:32",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of San Francisco obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "District L San Francisco",
+                "Lincoln portrait",
+                "Series 1918 design"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1918 $5 - Federal Reserve Bank of San Francisco reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "Federal Reserve district information",
+                "Treasury seal"
+              ]
+            }
+          },
+          "signature_combination": "Elliott-White (Register-Secretary)",
+          "source_citation": "GitHub Issue #31 Federal Reserve Note Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, District L San Francisco, Lincoln portrait, Series 1918 design",
+              "district_letter": "L",
+              "friedberg_number": "Fr.849l",
+              "issuing_bank": "Federal Reserve Bank of San Francisco",
+              "name": "Series 1918 $5 - Federal Reserve Bank of San Francisco",
+              "variety_id": "l"
+            }
+          ],
+          "year": 1918
+        }
+      ],
+      "defining_characteristics": "US Federal Reserve Note $5 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "official_name": "US Federal Reserve Note $5",
+      "series_id": "us_federal_reserve_5_dollar",
+      "series_name": "Federal Reserve Note $5",
+      "years": {
+        "end": 1918,
+        "start": 1914
       }
     }
   ]

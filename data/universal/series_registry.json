@@ -179,6 +179,39 @@
       "type": "US fifty cent fractional currency"
     },
     {
+      "series_id": "us_national_bank_5_dollar",
+      "series_name": "National Bank Note $5",
+      "country_code": "NBN5",
+      "denomination": "US",
+      "start_year": "National Bank $5",
+      "end_year": 1863,
+      "defining_characteristics": 1929,
+      "official_name": "US National Bank Note $5 including Series 1882 Brown/Date/Value Back varieties",
+      "type": "US National Bank Note $5"
+    },
+    {
+      "series_id": "us_national_bank_10_dollar",
+      "series_name": "National Bank Note $10",
+      "country_code": "NBN10",
+      "denomination": "US",
+      "start_year": "National Bank $10",
+      "end_year": 1863,
+      "defining_characteristics": 1929,
+      "official_name": "US National Bank Note $10 including Series 1882 Brown/Date/Value Back varieties",
+      "type": "US National Bank Note $10"
+    },
+    {
+      "series_id": "us_national_bank_20_dollar",
+      "series_name": "National Bank Note $20",
+      "country_code": "NBN20",
+      "denomination": "US",
+      "start_year": "National Bank $20",
+      "end_year": 1863,
+      "defining_characteristics": 1929,
+      "official_name": "US National Bank Note $20 including Series 1882 Brown/Date/Value Back varieties",
+      "type": "US National Bank Note $20"
+    },
+    {
       "series_id": "us_silver_certificate_1_dollar",
       "series_name": "One Dollar Silver Certificate",
       "country_code": "SC1",
@@ -201,6 +234,50 @@
       "type": "US ten dollar silver certificate"
     },
     {
+      "series_id": "us_gold_certificate_10_dollar",
+      "series_name": "Gold Certificate $10",
+      "country_code": "GC10",
+      "denomination": "US",
+      "start_year": "Gold Certificate $10",
+      "end_year": 1882,
+      "defining_characteristics": 1933,
+      "official_name": "US Gold Certificate $10 including 1905 Technicolor and Series 1882/1922 varieties",
+      "type": "US Gold Certificate $10"
+    },
+    {
+      "series_id": "us_gold_certificate_20_dollar",
+      "series_name": "Gold Certificate $20",
+      "country_code": "GC20",
+      "denomination": "US",
+      "start_year": "Gold Certificate $20",
+      "end_year": 1882,
+      "defining_characteristics": 1933,
+      "official_name": "US Gold Certificate $20 including 1905 Technicolor and Series 1882/1922 varieties",
+      "type": "US Gold Certificate $20"
+    },
+    {
+      "series_id": "us_gold_certificate_50_dollar",
+      "series_name": "Gold Certificate $50",
+      "country_code": "GC50",
+      "denomination": "US",
+      "start_year": "Gold Certificate $50",
+      "end_year": 1882,
+      "defining_characteristics": 1933,
+      "official_name": "US Gold Certificate $50 including 1905 Technicolor and Series 1882/1922 varieties",
+      "type": "US Gold Certificate $50"
+    },
+    {
+      "series_id": "us_gold_certificate_100_dollar",
+      "series_name": "Gold Certificate $100",
+      "country_code": "GC100",
+      "denomination": "US",
+      "start_year": "Gold Certificate $100",
+      "end_year": 1882,
+      "defining_characteristics": 1933,
+      "official_name": "US Gold Certificate $100 including 1905 Technicolor and Series 1882/1922 varieties",
+      "type": "US Gold Certificate $100"
+    },
+    {
       "series_id": "us_silver_certificate_2_dollar",
       "series_name": "Two Dollar Silver Certificate",
       "country_code": "SC2",
@@ -221,6 +298,36 @@
       "defining_characteristics": 1953,
       "official_name": "US five dollar silver certificates redeemable for silver coin",
       "type": "US five dollar silver certificate"
+    },
+    {
+      "series_id": "us_federal_reserve_5_dollar",
+      "series_name": "Federal Reserve Note $5",
+      "country_code": "FRN5",
+      "denomination": "US",
+      "start_year": "Federal Reserve $5",
+      "end_year": 1914,
+      "official_name": "US Federal Reserve Note $5 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "type": "US Federal Reserve Note $5"
+    },
+    {
+      "series_id": "us_federal_reserve_10_dollar",
+      "series_name": "Federal Reserve Note $10",
+      "country_code": "FRN10",
+      "denomination": "US",
+      "start_year": "Federal Reserve $10",
+      "end_year": 1914,
+      "official_name": "US Federal Reserve Note $10 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "type": "US Federal Reserve Note $10"
+    },
+    {
+      "series_id": "us_federal_reserve_20_dollar",
+      "series_name": "Federal Reserve Note $20",
+      "country_code": "FRN20",
+      "denomination": "US",
+      "start_year": "Federal Reserve $20",
+      "end_year": 1914,
+      "official_name": "US Federal Reserve Note $20 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
+      "type": "US Federal Reserve Note $20"
     }
   ]
 }
