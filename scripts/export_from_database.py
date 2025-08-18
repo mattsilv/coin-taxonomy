@@ -313,6 +313,214 @@ class DatabaseExporter:
         
         return periods
     
+    def export_paper_currency(self):
+        """Export paper currency from issues table to JSON files."""
+        print("💵 Exporting paper currency from database...")
+        
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+        
+        try:
+            # Get all paper currency grouped by denomination
+            cursor.execute('''
+                SELECT DISTINCT 
+                    CASE 
+                        WHEN face_value = 1.0 THEN 'Paper $1'
+                        WHEN face_value = 2.0 THEN 'Paper $2'  
+                        WHEN face_value = 5.0 THEN 'Paper $5'
+                        WHEN face_value = 10.0 THEN 'Paper $10'
+                        WHEN face_value = 20.0 THEN 'Paper $20'
+                        WHEN face_value = 50.0 THEN 'Paper $50'
+                        WHEN face_value = 100.0 THEN 'Paper $100'
+                        WHEN face_value = 500.0 THEN 'Paper $500'
+                        WHEN face_value = 1000.0 THEN 'Paper $1000'
+                        ELSE 'Paper $' || CAST(face_value AS TEXT)
+                    END as denomination,
+                    face_value,
+                    COUNT(*) as count
+                FROM issues 
+                WHERE object_type = 'banknote'
+                GROUP BY face_value
+                ORDER BY face_value
+            ''')
+            
+            denominations = cursor.fetchall()
+            
+            for denom_name, face_value, count in denominations:
+                print(f"💵 Exporting {denom_name}: {count} banknotes")
+                
+                # Get all banknotes for this denomination
+                cursor.execute('''
+                    SELECT 
+                        issue_id, series_id, authority_name, issue_year, mint_id,
+                        specifications, sides, mintage, rarity, varieties,
+                        source_citation, notes, signature_combination, seal_color,
+                        block_letter, serial_number_type, size_format, paper_type,
+                        series_designation, obverse_description, reverse_description,
+                        distinguishing_features, identification_keywords, common_names,
+                        seller_name
+                    FROM issues
+                    WHERE object_type = 'banknote' AND face_value = ?
+                    ORDER BY issue_year, series_designation, mint_id
+                ''', (face_value,))
+                
+                rows = cursor.fetchall()
+                
+                # Group banknotes by series
+                series_data = {}
+                
+                for row in rows:
+                    series_id = row[1]
+                    
+                    if series_id not in series_data:
+                        series_data[series_id] = {
+                            'banknotes': [],
+                            'years': []
+                        }
+                    
+                    # Parse JSON fields safely
+                    def safe_json_parse(field_value, default=None):
+                        if not field_value:
+                            return default if default is not None else []
+                        try:
+                            if isinstance(field_value, str) and not field_value.startswith(('[', '{')):
+                                # String field that's not JSON
+                                return [field_value] if default is None else field_value
+                            return json.loads(field_value)
+                        except (json.JSONDecodeError, TypeError):
+                            return default if default is not None else []
+                    
+                    specifications = safe_json_parse(row[5], {})
+                    sides = safe_json_parse(row[6], {})
+                    mintage = safe_json_parse(row[7], {})
+                    varieties = safe_json_parse(row[9], [])
+                    distinguishing_features = safe_json_parse(row[21], [])
+                    identification_keywords = safe_json_parse(row[22], [])
+                    common_names = safe_json_parse(row[23], [])
+                    
+                    banknote = {
+                        "issue_id": row[0],
+                        "year": row[3],
+                        "issuing_authority": row[2],
+                        "authority_code": row[4],  # mint_id field used for authority code
+                        "series_designation": row[18],
+                        "rarity": row[8],
+                        "specifications": specifications,
+                        "sides": sides,
+                        "mintage": mintage,
+                        "varieties": varieties
+                    }
+                    
+                    # Add paper currency specific fields
+                    if row[12]:  # signature_combination
+                        banknote["signature_combination"] = row[12]
+                    if row[13]:  # seal_color
+                        banknote["seal_color"] = row[13]
+                    if row[14]:  # block_letter
+                        banknote["block_letter"] = row[14]
+                    if row[15]:  # serial_number_type
+                        banknote["serial_number_type"] = row[15]
+                    if row[16]:  # size_format
+                        banknote["size_format"] = row[16]
+                    if row[17]:  # paper_type
+                        banknote["paper_type"] = row[17]
+                    
+                    # Add visual description fields
+                    if row[19]:  # obverse_description
+                        banknote["obverse_description"] = row[19]
+                    if row[20]:  # reverse_description
+                        banknote["reverse_description"] = row[20]
+                    if distinguishing_features:
+                        banknote["distinguishing_features"] = distinguishing_features
+                    if identification_keywords:
+                        banknote["identification_keywords"] = identification_keywords
+                    if common_names:
+                        banknote["common_names"] = common_names
+                    
+                    # Only include non-null values
+                    if row[10] and row[10].strip():  # source_citation
+                        banknote["source_citation"] = row[10]
+                    if row[11] and row[11].strip():  # notes
+                        banknote["notes"] = row[11]
+                    if row[24] and row[24].strip():  # seller_name
+                        banknote["seller_name"] = row[24]
+                    
+                    series_data[series_id]['banknotes'].append(banknote)
+                    series_data[series_id]['years'].append(row[3])
+                
+                # Create series entries for banknotes
+                series_list = []
+                for series_id, data in series_data.items():
+                    years = data['years']
+                    banknotes = data['banknotes']
+                    
+                    # Get series info from series_registry
+                    cursor.execute('''
+                        SELECT series_name, official_name, start_year, end_year, defining_characteristics
+                        FROM series_registry WHERE series_id = ?
+                    ''', (series_id,))
+                    series_info = cursor.fetchone()
+                    
+                    if series_info:
+                        series_entry = {
+                            "series_id": series_id,
+                            "series_name": series_info[0],
+                            "official_name": series_info[1] or series_info[0],
+                            "years": {
+                                "start": min(years),
+                                "end": max(years)
+                            },
+                            "defining_characteristics": series_info[4],
+                            "banknotes": banknotes
+                        }
+                        series_list.append(series_entry)
+                
+                # Sort series by start year
+                series_list.sort(key=lambda x: x['years']['start'])
+                
+                # Create file structure for paper currency
+                file_data = {
+                    "country": "US",
+                    "denomination": denom_name,
+                    "face_value": face_value,
+                    "currency_type": "paper_currency",
+                    "series": series_list
+                }
+                
+                # Write JSON file for paper currency
+                filename = self.get_paper_currency_filename(denom_name)
+                filepath = Path(self.output_dir) / filename
+                
+                if self.validator.safe_json_write(file_data, filepath):
+                    print(f"   ✅ {filepath}")
+                else:
+                    print(f"   ❌ {filepath} - JSON validation failed")
+                    self.validator.print_errors()
+                    return False
+                    
+        except sqlite3.Error as e:
+            print(f"❌ Error exporting paper currency: {e}")
+            return False
+        finally:
+            conn.close()
+        
+        return True
+    
+    def get_paper_currency_filename(self, denomination: str) -> str:
+        """Get filename for paper currency denomination."""
+        filenames = {
+            'Paper $1': 'paper_1_dollar.json',
+            'Paper $2': 'paper_2_dollar.json', 
+            'Paper $5': 'paper_5_dollar.json',
+            'Paper $10': 'paper_10_dollar.json',
+            'Paper $20': 'paper_20_dollar.json',
+            'Paper $50': 'paper_50_dollar.json',
+            'Paper $100': 'paper_100_dollar.json',
+            'Paper $500': 'paper_500_dollar.json',
+            'Paper $1000': 'paper_1000_dollar.json'
+        }
+        return filenames.get(denomination, f"{denomination.lower().replace(' ', '_').replace('$', 'dollar_')}.json")
+    
     def export_complete_file(self):
         """Export complete us_coins_complete.json file."""
         print("📄 Exporting complete US coins file...")
@@ -442,19 +650,25 @@ class DatabaseExporter:
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
         cursor.execute('SELECT COUNT(*) FROM coins')
-        count = cursor.fetchone()[0]
+        coin_count = cursor.fetchone()[0]
+        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote'")
+        banknote_count = cursor.fetchone()[0]
         conn.close()
         
-        if count == 0:
+        if coin_count == 0 and banknote_count == 0:
             print("❌ Database is empty")
             return False
             
-        print(f"📊 Found {count} coins in database")
+        print(f"📊 Found {coin_count} coins and {banknote_count} banknotes in database")
         
         self.ensure_output_dir()
         
         # Export by denomination
         self.export_coins_by_denomination()
+        
+        # Export paper currency if any exists
+        if banknote_count > 0:
+            self.export_paper_currency()
         
         # Export complete file
         self.export_complete_file()
@@ -468,7 +682,7 @@ class DatabaseExporter:
         
         if validate_exports() == 0:
             print(f"\n✅ Database-first export completed with valid JSON!")
-            print(f"📁 {count} coins exported to JSON files")
+            print(f"📁 {coin_count} coins and {banknote_count} banknotes exported to JSON files")
             return True
         else:
             print(f"\n❌ Database-first export completed but JSON validation failed!")

@@ -1,0 +1,207 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $10",
+  "face_value": 10.0,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "A",
+          "distinguishing_features": "Red seal and serials typical of Legal Tender, Central bison vignette (Pablo), Nine signature combinations Fr.114-Fr.122",
+          "identification_keywords": "bison note, legal tender, red seal, pablo, signature combinations, fr114 fr122",
+          "issue_id": "US-P010-1901-A-BISON_SIG",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Nine signature combinations collected as Fr.114-Fr.122; some combinations notably scarcer in high grades",
+          "rarity": "varies_by_signature",
+          "seal_color": "Red seal and serials typical of Legal Tender",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Legal Tender",
+          "sides": {
+            "obverse": {
+              "design": "Bison Note Nine Signature Combinations obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Red seal and serials typical of Legal Tender",
+                "Central bison vignette (Pablo)",
+                "Nine signature combinations Fr.114-Fr.122"
+              ]
+            },
+            "reverse": {
+              "design": "Bison Note Nine Signature Combinations reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Red seal and serials typical of Legal Tender, Central bison vignette (Pablo), Nine signature combinations Fr.114-Fr.122",
+              "name": "Bison Note Nine Signature Combinations",
+              "variety_id": "bison_sig"
+            }
+          ],
+          "year": 1901
+        },
+        {
+          "authority_code": "A",
+          "distinguishing_features": "Star prefix/suffix in serials (replacement notes), Red seal Legal Tender type, Central bison vignette",
+          "identification_keywords": "bison star note, legal tender star, replacement note, star serial",
+          "issue_id": "US-P010-1901-A-BISON_STAR",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Star replacement notes exist across six signature combinations; notably scarcer than regular issues",
+          "rarity": "scarce",
+          "seal_color": "Star prefix/suffix in serials (replacement notes)",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Legal Tender",
+          "sides": {
+            "obverse": {
+              "design": "Bison Note Star Replacement Varieties obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Star prefix/suffix in serials (replacement notes)",
+                "Red seal Legal Tender type",
+                "Central bison vignette"
+              ]
+            },
+            "reverse": {
+              "design": "Bison Note Star Replacement Varieties reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Star prefix/suffix in serials (replacement notes), Red seal Legal Tender type, Central bison vignette",
+              "name": "Bison Note Star Replacement Varieties",
+              "variety_id": "bison_star"
+            }
+          ],
+          "year": 1901
+        },
+        {
+          "authority_code": "A",
+          "block_letter": "A",
+          "common_names": [
+            "Bison Note",
+            "Buffalo Bill",
+            "Lewis and Clark Note"
+          ],
+          "distinguishing_features": [
+            "American bison center vignette",
+            "Lewis and Clark explorer portraits",
+            "Only federal note with bison",
+            "Red treasury seal",
+            "Plains landscape setting",
+            "Series 1901 designation"
+          ],
+          "identification_keywords": [
+            "bison note",
+            "buffalo bill",
+            "american bison",
+            "lewis and clark",
+            "legal tender",
+            "red seal",
+            "explorers"
+          ],
+          "issue_id": "US-P010-1901-A",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": 4000,
+            "total_printed": 8000000
+          },
+          "notes": "Only federally issued note featuring American bison. Commemorates Lewis and Clark expedition",
+          "obverse_description": "Large American bison in center plains setting, portrait of Meriwether Lewis on left, portrait of William Clark on right, small red Treasury seal",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "scarce",
+          "reverse_description": "Female allegorical figure of Columbia in center, ornate scrollwork and geometric designs, 'Ten Dollars' denomination markers",
+          "seal_color": "red",
+          "seller_name": "Chicago Gold Gallery",
+          "serial_number_type": "8_digit_alpha_numeric",
+          "series_designation": "Series 1901",
+          "sides": {
+            "obverse": {
+              "design": "American bison with Lewis and Clark portraits",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "american bison center",
+                "meriwether lewis portrait left",
+                "william clark portrait right",
+                "red seal"
+              ]
+            },
+            "reverse": {
+              "design": "Female figure representing Columbia",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "columbia figure",
+                "allegorical design",
+                "denomination ten",
+                "ornate borders"
+              ]
+            }
+          },
+          "signature_combination": "Lyons-Roberts",
+          "size_format": "large_size",
+          "source_citation": "100 Greatest American Currency Notes by Q. David Bowers",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Early signature combination",
+              "estimated_mintage": 4000000,
+              "name": "Lyons-Roberts Signatures",
+              "variety_id": "1901_lyons_roberts"
+            },
+            {
+              "description": "Later signature combination",
+              "estimated_mintage": 4000000,
+              "name": "Lyons-Treat Signatures",
+              "variety_id": "1901_lyons_treat"
+            }
+          ],
+          "year": 1901
+        }
+      ],
+      "defining_characteristics": "US ten dollar paper currency",
+      "official_name": "United States Ten Dollar Bill",
+      "series_id": "us_paper_10_dollar",
+      "series_name": "Ten Dollar Bill",
+      "years": {
+        "end": 1901,
+        "start": 1901
+      }
+    }
+  ]
+}

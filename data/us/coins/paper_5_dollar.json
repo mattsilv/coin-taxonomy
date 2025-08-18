@@ -1,0 +1,595 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $5",
+  "face_value": 5.0,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Tillman/Morgan signatures",
+          "identification_keywords": "educational series, electricity certificate, allegorical design, tillman morgan, blue seal, 1896",
+          "issue_id": "US-SC5-1896-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Educational Series $5 featuring \"Electricity as the Dominant Force in the World\" allegorical scene. Most coveted of Educational Series.",
+          "rarity": "extremely rare",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Educational Series design featuring allegorical \"Electricity\" scene",
+                "blue seal",
+                "Tillman/Morgan signatures"
+              ]
+            },
+            "reverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Tillman/Morgan",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 79,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 190
+          },
+          "varieties": [
+            {
+              "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Tillman/Morgan signatures",
+              "friedberg_number": "Fr.268",
+              "name": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1896
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Bruce/Roberts signatures",
+          "identification_keywords": "educational series, electricity certificate, allegorical design, bruce roberts, blue seal, 1896",
+          "issue_id": "US-SC5-1897-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Educational Series $5 with Bruce/Roberts signatures. Pinnacle of 19th century currency design and artistry.",
+          "rarity": "extremely rare",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Educational Series design featuring allegorical \"Electricity\" scene",
+                "blue seal",
+                "Bruce/Roberts signatures"
+              ]
+            },
+            "reverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Bruce/Roberts",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 79,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 190
+          },
+          "varieties": [
+            {
+              "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Bruce/Roberts signatures",
+              "friedberg_number": "Fr.269",
+              "name": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1897
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Lyons/Roberts signatures",
+          "identification_keywords": "educational series, electricity certificate, allegorical design, lyons roberts, blue seal, 1896",
+          "issue_id": "US-SC5-1898-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Educational Series $5 with Lyons/Roberts signature combination. Final signature variety of this iconic design.",
+          "rarity": "extremely rare",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Educational Series design featuring allegorical \"Electricity\" scene",
+                "blue seal",
+                "Lyons/Roberts signatures"
+              ]
+            },
+            "reverse": {
+              "design": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Lyons/Roberts",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 79,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 190
+          },
+          "varieties": [
+            {
+              "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Lyons/Roberts signatures",
+              "friedberg_number": "Fr.270",
+              "name": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1898
+        }
+      ],
+      "defining_characteristics": "US five dollar silver certificates redeemable for silver coin",
+      "official_name": "US five dollar silver certificate",
+      "series_id": "us_silver_certificate_5_dollar",
+      "series_name": "Five Dollar Silver Certificate",
+      "years": {
+        "end": 1898,
+        "start": 1896
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "A",
+          "block_letter": "A",
+          "common_names": [
+            "Indian Chief Note",
+            "Running Antelope",
+            "five dollar silver certificate"
+          ],
+          "distinguishing_features": [
+            "Chief Running Antelope portrait",
+            "War bonnet headdress",
+            "Only Native American on federal currency",
+            "Large Roman numeral V design",
+            "Blue treasury seal",
+            "Series 1899 designation"
+          ],
+          "identification_keywords": [
+            "indian chief",
+            "running antelope",
+            "native american",
+            "silver certificate",
+            "war bonnet",
+            "roman numeral v",
+            "series 1899"
+          ],
+          "issue_id": "US-P005-1899-A",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": 25000,
+            "total_printed": 30000000
+          },
+          "notes": "Only U.S. federal paper currency featuring a named Native American. Running Antelope was head chief of the Hunkpapa Lakota",
+          "obverse_description": "Portrait of Chief Running Antelope in war bonnet on left, large Roman numeral 'V' in blue center, blue Treasury seal on right, blue serial numbers",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "common",
+          "reverse_description": "Large Roman numeral 'V' in ornate center design, silver certificate obligation text, decorative scrollwork borders",
+          "seal_color": "blue",
+          "seller_name": "Littleton Coin Company",
+          "serial_number_type": "8_digit_alpha_numeric",
+          "series_designation": "Series 1899",
+          "sides": {
+            "obverse": {
+              "design": "Portrait of Sioux Chief Running Antelope",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Running Antelope portrait",
+                "war bonnet headdress",
+                "roman numeral V",
+                "blue seal"
+              ]
+            },
+            "reverse": {
+              "design": "Ornate border with large Roman numeral V",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "large roman numeral V",
+                "silver certificate obligation text",
+                "ornate scrollwork"
+              ]
+            }
+          },
+          "signature_combination": "Lyons-Roberts",
+          "size_format": "large_size",
+          "source_citation": "A Guide Book of United States Paper Money, 6th Edition",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Early signature combination, most common",
+              "estimated_mintage": 18000000,
+              "name": "Lyons-Roberts Signatures",
+              "variety_id": "1899_lyons_roberts"
+            },
+            {
+              "description": "Later signature combination",
+              "estimated_mintage": 12000000,
+              "name": "Lyons-Treat Signatures",
+              "variety_id": "1899_lyons_treat"
+            }
+          ],
+          "year": 1899
+        },
+        {
+          "authority_code": "A",
+          "distinguishing_features": "Blue Treasury seal, Blue serials, Chief Running Antelope central portrait, Eleven signature combinations Fr.271-Fr.281",
+          "identification_keywords": "running antelope, silver certificate, blue seal, indian chief, signature combinations",
+          "issue_id": "US-P005-1899-A-ANTELOPE_SIG",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Eleven signature combinations across fiscal years 1900-1926, with gaps in FY1919-FY1920; spans Fr.271-Fr.281",
+          "rarity": "varies_by_signature",
+          "seal_color": "Blue Treasury seal",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Running Antelope Eleven Signature Combinations obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serials",
+                "Chief Running Antelope central portrait",
+                "Eleven signature combinations Fr.271-Fr.281"
+              ]
+            },
+            "reverse": {
+              "design": "Running Antelope Eleven Signature Combinations reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serials, Chief Running Antelope central portrait, Eleven signature combinations Fr.271-Fr.281",
+              "name": "Running Antelope Eleven Signature Combinations",
+              "variety_id": "antelope_sig"
+            }
+          ],
+          "year": 1899
+        },
+        {
+          "authority_code": "G",
+          "distinguishing_features": "Red Treasury seal, Red serial numbers, Type 1 plate layout with 2 large district letters, Burke-McAdoo signatures",
+          "identification_keywords": "federal reserve note red seal, burke mcadoo, type 1 plate, red serial",
+          "issue_id": "US-P005-1914-G-RED_SEAL",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Early 1914 FRNs with red seals; Type 1 plates used Burke-McAdoo signatures; scarcer than blue seal varieties",
+          "rarity": "scarcer_than_blue_seal",
+          "seal_color": "Red Treasury seal",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Type 1 Red Seal Burke-McAdoo obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Red Treasury seal",
+                "Red serial numbers",
+                "Type 1 plate layout with 2 large district letters",
+                "Burke-McAdoo signatures"
+              ]
+            },
+            "reverse": {
+              "design": "Type 1 Red Seal Burke-McAdoo reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Red Treasury seal, Red serial numbers, Type 1 plate layout with 2 large district letters, Burke-McAdoo signatures",
+              "name": "Type 1 Red Seal Burke-McAdoo",
+              "variety_id": "red_seal"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "G",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, Plate type diagnostics by district letters and seal placement",
+          "identification_keywords": "federal reserve note blue seal, type 2 type 3 type 4, blue serial, plate types",
+          "issue_id": "US-P005-1914-G-BLUE_SEAL",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Subsequent 1914 FRNs transitioned to blue seals and different plate types (Type 2-4); more common than red seals",
+          "rarity": "more_common_than_red_seal",
+          "seal_color": "Blue Treasury seal",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Federal Reserve Note",
+          "sides": {
+            "obverse": {
+              "design": "Blue Seal Later Types 2-4 obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "Plate type diagnostics by district letters and seal placement"
+              ]
+            },
+            "reverse": {
+              "design": "Blue Seal Later Types 2-4 reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, Plate type diagnostics by district letters and seal placement",
+              "name": "Blue Seal Later Types 2-4",
+              "variety_id": "blue_seal"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "G",
+          "block_letter": "G",
+          "common_names": [
+            "five dollar federal reserve note",
+            "lincoln note",
+            "federal reserve bank note"
+          ],
+          "distinguishing_features": [
+            "Abraham Lincoln portrait",
+            "First Federal Reserve Bank Notes",
+            "Dual bank and treasury seals",
+            "Chicago Federal Reserve Bank G designation",
+            "Columbus and Pilgrim vignettes on reverse",
+            "Series 1914 designation"
+          ],
+          "identification_keywords": [
+            "federal reserve bank note",
+            "abraham lincoln",
+            "chicago federal reserve",
+            "series 1914",
+            "columbus vignette",
+            "pilgrim landing",
+            "blue seal"
+          ],
+          "issue_id": "US-P005-1914-G",
+          "issuing_authority": "Federal Reserve Bank of Chicago",
+          "mintage": {
+            "chicago_bank_printing": 1500000,
+            "estimated_surviving": 8000,
+            "total_printed": 12000000
+          },
+          "notes": "First Federal Reserve Bank Notes issued. Red seal varieties much scarcer than blue seal",
+          "obverse_description": "Portrait of Abraham Lincoln in center, Federal Reserve Bank of Chicago seal on left, blue Treasury seal on right, bank charter and district information",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "common",
+          "reverse_description": "Vignette of Columbus sighting land on left, Landing of Pilgrims vignette on right, 'Five Dollars' denomination text",
+          "seal_color": "blue",
+          "seller_name": "Golden Eagle Coins",
+          "serial_number_type": "8_digit_alpha_numeric",
+          "series_designation": "Series 1914",
+          "sides": {
+            "obverse": {
+              "design": "Portrait of Abraham Lincoln",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "abraham lincoln portrait",
+                "federal reserve bank seal",
+                "red or blue treasury seal",
+                "bank charter information"
+              ]
+            },
+            "reverse": {
+              "design": "Vignettes of Columbus in sight of land and Landing of Pilgrims",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "columbus vignette",
+                "pilgrim landing vignette",
+                "denomination five",
+                "federal reserve text"
+              ]
+            }
+          },
+          "signature_combination": "Burke-McAdoo",
+          "size_format": "large_size",
+          "source_citation": "Federal Reserve Bank Historical Records",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Earlier red seal version, scarcer",
+              "estimated_mintage": 3000000,
+              "name": "Red Seal Variety",
+              "variety_id": "1914_red_seal"
+            },
+            {
+              "description": "Later blue seal version, more common",
+              "estimated_mintage": 9000000,
+              "name": "Blue Seal Variety",
+              "variety_id": "1914_blue_seal"
+            }
+          ],
+          "year": 1914
+        },
+        {
+          "authority_code": "B",
+          "block_letter": "B",
+          "common_names": [
+            "five dollar bill",
+            "fiver",
+            "lincoln"
+          ],
+          "distinguishing_features": [
+            "Green treasury seal",
+            "Green serial numbers",
+            "Series 1963 designation",
+            "Federal Reserve Bank of New York seal",
+            "Lincoln Memorial on reverse"
+          ],
+          "identification_keywords": [
+            "federal reserve note",
+            "abraham lincoln",
+            "green seal",
+            "series 1963",
+            "lincoln memorial",
+            "federal reserve new york"
+          ],
+          "issue_id": "US-P005-1963-B",
+          "issuing_authority": "Federal Reserve Bank of New York",
+          "mintage": {
+            "series_1963": 800000000,
+            "total_printed": 800000000
+          },
+          "notes": "Last series before 1976 bicentennial modifications",
+          "obverse_description": "Portrait of Abraham Lincoln in center, Federal Reserve Bank seal on left, Treasury seal on right, serial numbers in green ink",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "common",
+          "reverse_description": "Lincoln Memorial building with Lincoln statue visible inside, ornate border design",
+          "seal_color": "green",
+          "seller_name": "Stack's Bowers",
+          "serial_number_type": "8_digit_standard",
+          "series_designation": "Series 1963",
+          "sides": {
+            "obverse": {
+              "design": "Abraham Lincoln portrait",
+              "designer": "Daniel Chester French (portrait basis)",
+              "elements": [
+                "presidential portrait",
+                "serial numbers",
+                "treasury seal",
+                "federal reserve seal"
+              ]
+            },
+            "reverse": {
+              "design": "Lincoln Memorial",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "lincoln memorial building",
+                "lincoln statue inside",
+                "wreath design"
+              ]
+            }
+          },
+          "signature_combination": "Kathryn O'Hay Granahan / C. Douglas Dillon",
+          "size_format": "small_size",
+          "source_citation": "Federal Reserve Bank of New York Records",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Standard Federal Reserve Note",
+              "estimated_mintage": 800000000,
+              "name": "Series 1963",
+              "variety_id": "1963_regular"
+            }
+          ],
+          "year": 1963
+        }
+      ],
+      "defining_characteristics": "US five dollar paper currency",
+      "official_name": "United States Five Dollar Bill",
+      "series_id": "us_paper_5_dollar",
+      "series_name": "Five Dollar Bill",
+      "years": {
+        "end": 1963,
+        "start": 1899
+      }
+    }
+  ]
+}

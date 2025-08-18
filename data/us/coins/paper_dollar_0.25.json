@@ -1,0 +1,176 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $0.25",
+  "face_value": 0.25,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Bronze overprint \"25\" surcharge, Washington portrait, purple back",
+          "identification_keywords": "second issue, bronze surcharge, washington, purple back, twenty five cent",
+          "issue_id": "US-FRAC25-1863-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Quarter denomination fractional currency from Second Issue series",
+          "rarity": "common",
+          "seal_color": "Bronze",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Second Issue 25¢ Bronze Surcharge obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Bronze overprint \"25\" surcharge",
+                "Washington portrait",
+                "purple back"
+              ]
+            },
+            "reverse": {
+              "design": "Second Issue 25¢ Bronze Surcharge reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Bronze overprint \"25\" surcharge, Washington portrait, purple back",
+              "friedberg_number": "Fr.1283",
+              "name": "Second Issue 25¢ Bronze Surcharge",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1863
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Large red Treasury seal, Washington portrait, green back",
+          "identification_keywords": "fourth issue, large red seal, washington, green back, twenty five cent",
+          "issue_id": "US-FRAC25-1869-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Most common Fourth Issue fractional currency note",
+          "rarity": "common",
+          "seal_color": "Red",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Fourth Issue 25¢ Large Red Seal obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Large red Treasury seal",
+                "Washington portrait",
+                "green back"
+              ]
+            },
+            "reverse": {
+              "design": "Fourth Issue 25¢ Large Red Seal reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Large red Treasury seal, Washington portrait, green back",
+              "friedberg_number": "Fr.1302",
+              "name": "Fourth Issue 25¢ Large Red Seal",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1869
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Large brown Treasury seal, Washington portrait, green back",
+          "identification_keywords": "fourth issue, large brown seal, washington, green back, twenty five cent",
+          "issue_id": "US-FRAC25-1870-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Brown seal variety is scarcer than red seal version",
+          "rarity": "scarce",
+          "seal_color": "Brown",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Fourth Issue 25¢ Large Brown Seal obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Large brown Treasury seal",
+                "Washington portrait",
+                "green back"
+              ]
+            },
+            "reverse": {
+              "design": "Fourth Issue 25¢ Large Brown Seal reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Large brown Treasury seal, Washington portrait, green back",
+              "friedberg_number": "Fr.1303",
+              "name": "Fourth Issue 25¢ Large Brown Seal",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1870
+        }
+      ],
+      "defining_characteristics": "US twenty-five cent fractional currency notes",
+      "official_name": "US twenty-five cent fractional currency",
+      "series_id": "us_fractional_25_cent",
+      "series_name": "Twenty-Five Cent Fractional Currency",
+      "years": {
+        "end": 1870,
+        "start": 1863
+      }
+    }
+  ]
+}

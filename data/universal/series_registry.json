@@ -19,6 +19,208 @@
       "start_year": "Quarters",
       "end_year": 1787,
       "defining_characteristics": 2020
+    },
+    {
+      "series_id": "us_paper_5_dollar",
+      "series_name": "Five Dollar Bill",
+      "country_code": "P005",
+      "denomination": "US",
+      "start_year": "Paper $5",
+      "end_year": 1861,
+      "official_name": "US five dollar paper currency",
+      "type": "United States Five Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_10_dollar",
+      "series_name": "Ten Dollar Bill",
+      "country_code": "P010",
+      "denomination": "US",
+      "start_year": "Paper $10",
+      "end_year": 1861,
+      "official_name": "US ten dollar paper currency",
+      "type": "United States Ten Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_20_dollar",
+      "series_name": "Twenty Dollar Bill",
+      "country_code": "P020",
+      "denomination": "US",
+      "start_year": "Paper $20",
+      "end_year": 1861,
+      "official_name": "US twenty dollar paper currency",
+      "type": "United States Twenty Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_1_dollar",
+      "series_name": "One Dollar Bill",
+      "country_code": "P001",
+      "denomination": "US",
+      "start_year": "Paper $1",
+      "end_year": 1862,
+      "official_name": "US one dollar paper currency",
+      "type": "United States One Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_2_dollar",
+      "series_name": "Two Dollar Bill",
+      "country_code": "P002",
+      "denomination": "US",
+      "start_year": "Paper $2",
+      "end_year": 1862,
+      "official_name": "US two dollar paper currency",
+      "type": "United States Two Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_50_dollar",
+      "series_name": "Fifty Dollar Bill",
+      "country_code": "P050",
+      "denomination": "US",
+      "start_year": "Paper $50",
+      "end_year": 1862,
+      "official_name": "US fifty dollar paper currency",
+      "type": "United States Fifty Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_100_dollar",
+      "series_name": "One Hundred Dollar Bill",
+      "country_code": "P100",
+      "denomination": "US",
+      "start_year": "Paper $100",
+      "end_year": 1862,
+      "official_name": "US one hundred dollar paper currency",
+      "type": "United States One Hundred Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_500_dollar",
+      "series_name": "Five Hundred Dollar Bill",
+      "country_code": "P500",
+      "denomination": "US",
+      "start_year": "Paper $500",
+      "end_year": 1862,
+      "defining_characteristics": 1969,
+      "official_name": "US five hundred dollar paper currency (discontinued)",
+      "type": "United States Five Hundred Dollar Bill"
+    },
+    {
+      "series_id": "us_paper_1000_dollar",
+      "series_name": "One Thousand Dollar Bill",
+      "country_code": "P1000",
+      "denomination": "US",
+      "start_year": "Paper $1000",
+      "end_year": 1862,
+      "defining_characteristics": 1969,
+      "official_name": "US one thousand dollar paper currency (discontinued)",
+      "type": "United States One Thousand Dollar Bill"
+    },
+    {
+      "series_id": "us_fractional_3_cent",
+      "series_name": "Three Cent Fractional Currency",
+      "country_code": "FRAC3",
+      "denomination": "US",
+      "start_year": "Fractional 3\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US three cent fractional currency notes",
+      "type": "US three cent fractional currency"
+    },
+    {
+      "series_id": "us_fractional_5_cent",
+      "series_name": "Five Cent Fractional Currency",
+      "country_code": "FRAC5",
+      "denomination": "US",
+      "start_year": "Fractional 5\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US five cent fractional currency notes",
+      "type": "US five cent fractional currency"
+    },
+    {
+      "series_id": "us_fractional_10_cent",
+      "series_name": "Ten Cent Fractional Currency",
+      "country_code": "FRAC10",
+      "denomination": "US",
+      "start_year": "Fractional 10\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US ten cent fractional currency notes",
+      "type": "US ten cent fractional currency"
+    },
+    {
+      "series_id": "us_fractional_15_cent",
+      "series_name": "Fifteen Cent Fractional Currency",
+      "country_code": "FRAC15",
+      "denomination": "US",
+      "start_year": "Fractional 15\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US fifteen cent fractional currency notes",
+      "type": "US fifteen cent fractional currency"
+    },
+    {
+      "series_id": "us_fractional_25_cent",
+      "series_name": "Twenty-Five Cent Fractional Currency",
+      "country_code": "FRAC25",
+      "denomination": "US",
+      "start_year": "Fractional 25\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US twenty-five cent fractional currency notes",
+      "type": "US twenty-five cent fractional currency"
+    },
+    {
+      "series_id": "us_fractional_50_cent",
+      "series_name": "Fifty Cent Fractional Currency",
+      "country_code": "FRAC50",
+      "denomination": "US",
+      "start_year": "Fractional 50\u00a2",
+      "end_year": 1863,
+      "defining_characteristics": 1875,
+      "official_name": "US fifty cent fractional currency notes",
+      "type": "US fifty cent fractional currency"
+    },
+    {
+      "series_id": "us_silver_certificate_1_dollar",
+      "series_name": "One Dollar Silver Certificate",
+      "country_code": "SC1",
+      "denomination": "US",
+      "start_year": "$1 Silver Certificate",
+      "end_year": 1878,
+      "defining_characteristics": 1964,
+      "official_name": "US one dollar silver certificates redeemable for silver coin",
+      "type": "US one dollar silver certificate"
+    },
+    {
+      "series_id": "us_silver_certificate_10_dollar",
+      "series_name": "Ten Dollar Silver Certificate",
+      "country_code": "SC10",
+      "denomination": "US",
+      "start_year": "$10 Silver Certificate",
+      "end_year": 1878,
+      "defining_characteristics": 1953,
+      "official_name": "US ten dollar silver certificates redeemable for silver coin",
+      "type": "US ten dollar silver certificate"
+    },
+    {
+      "series_id": "us_silver_certificate_2_dollar",
+      "series_name": "Two Dollar Silver Certificate",
+      "country_code": "SC2",
+      "denomination": "US",
+      "start_year": "$2 Silver Certificate",
+      "end_year": 1886,
+      "defining_characteristics": 1899,
+      "official_name": "US two dollar silver certificates redeemable for silver coin",
+      "type": "US two dollar silver certificate"
+    },
+    {
+      "series_id": "us_silver_certificate_5_dollar",
+      "series_name": "Five Dollar Silver Certificate",
+      "country_code": "SC5",
+      "denomination": "US",
+      "start_year": "$5 Silver Certificate",
+      "end_year": 1886,
+      "defining_characteristics": 1953,
+      "official_name": "US five dollar silver certificates redeemable for silver coin",
+      "type": "US five dollar silver certificate"
     }
   ]
 }

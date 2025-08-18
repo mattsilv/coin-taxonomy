@@ -1,6 +1,6 @@
 {
   "country_code": "US",
-  "total_issues": 241,
+  "total_issues": 284,
   "issues": [
     {
       "issue_id": "US-FUGC-1787-A",
@@ -6091,6 +6091,307 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-FRAC3-1863-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_3_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.03,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 3\u00a2"
+      },
+      "issue_year": 1863,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 3\u00a2 Bronze Surcharge Light Background obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"3\" surcharge",
+            "light pink/lilac background",
+            "Washington portrait",
+            "red back"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 3\u00a2 Bronze Surcharge Light Background reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 3\u00a2 Bronze Surcharge Light Background",
+          "description": "Bronze overprint \"3\" surcharge, light pink/lilac background, Washington portrait, red back",
+          "friedberg_number": "Fr.1226"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Part of Second Issue fractional currency series produced during Civil War coin shortage",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC5-1863-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_5_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.05,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 5\u00a2"
+      },
+      "issue_year": 1863,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 5\u00a2 Bronze Surcharge obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"5\" surcharge",
+            "Clark portrait",
+            "red back with ornate design"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 5\u00a2 Bronze Surcharge reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 5\u00a2 Bronze Surcharge",
+          "description": "Bronze overprint \"5\" surcharge, Clark portrait, red back with ornate design",
+          "friedberg_number": "Fr.1232"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Spencer M. Clark portrait caused controversy as living persons were not supposed to appear on currency",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC10-1863-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_10_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.1,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 10\u00a2"
+      },
+      "issue_year": 1863,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 10\u00a2 Bronze Surcharge obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"10\" surcharge",
+            "Washington portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 10\u00a2 Bronze Surcharge reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 10\u00a2 Bronze Surcharge",
+          "description": "Bronze overprint \"10\" surcharge, Washington portrait, green back",
+          "friedberg_number": "Fr.1245"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Most common denomination of Second Issue fractional currency",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC25-1863-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_25_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 25\u00a2"
+      },
+      "issue_year": 1863,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 25\u00a2 Bronze Surcharge obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"25\" surcharge",
+            "Washington portrait",
+            "purple back"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 25\u00a2 Bronze Surcharge reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 25\u00a2 Bronze Surcharge",
+          "description": "Bronze overprint \"25\" surcharge, Washington portrait, purple back",
+          "friedberg_number": "Fr.1283"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Quarter denomination fractional currency from Second Issue series",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC50-1863-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_50_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.5,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 50\u00a2"
+      },
+      "issue_year": 1863,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 50\u00a2 Bronze Surcharge obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"50\" surcharge",
+            "Washington portrait",
+            "red back"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 50\u00a2 Bronze Surcharge reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 50\u00a2 Bronze Surcharge",
+          "description": "Bronze overprint \"50\" surcharge, Washington portrait, red back",
+          "friedberg_number": "Fr.1317"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Highest denomination of Second Issue fractional currency",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
       "issue_id": "US-UNK-1864-P",
       "object_type": "coin",
       "series_id": "seated_liberty_half_dime",
@@ -6209,6 +6510,67 @@
       "source_citation": "Red Book 2024, Dealer Market Values",
       "notes": "San Francisco Mint. Good condition value: $45",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-FRAC3-1864-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_3_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.03,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 3\u00a2"
+      },
+      "issue_year": 1864,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Second Issue 3\u00a2 Bronze Surcharge Dark Background obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Bronze overprint \"3\" surcharge",
+            "dark violet background",
+            "Washington portrait",
+            "red back"
+          ]
+        },
+        "reverse": {
+          "design": "Second Issue 3\u00a2 Bronze Surcharge Dark Background reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Second Issue 3\u00a2 Bronze Surcharge Dark Background",
+          "description": "Bronze overprint \"3\" surcharge, dark violet background, Washington portrait, red back",
+          "friedberg_number": "Fr.1227"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Background color variation within Second Issue 3\u00a2 series",
+      "seller_name": "2025-08-18 02:34:09"
     },
     {
       "issue_id": "US-UNK-1865-P",
@@ -6811,6 +7173,246 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-FRAC10-1869-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_10_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.1,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 10\u00a2"
+      },
+      "issue_year": 1869,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 10\u00a2 Large Red Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large red Treasury seal",
+            "Liberty bust portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 10\u00a2 Large Red Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 10\u00a2 Large Red Seal",
+          "description": "Large red Treasury seal, Liberty bust portrait, green back",
+          "friedberg_number": "Fr.1257"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Fourth Issue introduced Treasury seals to fractional currency",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC15-1869-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_15_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.15,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 15\u00a2"
+      },
+      "issue_year": 1869,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 15\u00a2 Large Red Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large red Treasury seal",
+            "Columbia bust portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 15\u00a2 Large Red Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 15\u00a2 Large Red Seal",
+          "description": "Large red Treasury seal, Columbia bust portrait, green back",
+          "friedberg_number": "Fr.1267"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Only issue to feature 15\u00a2 denomination in fractional currency series",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC25-1869-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_25_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 25\u00a2"
+      },
+      "issue_year": 1869,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 25\u00a2 Large Red Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large red Treasury seal",
+            "Washington portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 25\u00a2 Large Red Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 25\u00a2 Large Red Seal",
+          "description": "Large red Treasury seal, Washington portrait, green back",
+          "friedberg_number": "Fr.1302"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Most common Fourth Issue fractional currency note",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC50-1869-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_50_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.5,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 50\u00a2"
+      },
+      "issue_year": 1869,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 50\u00a2 Large Red Seal Lincoln obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large red Treasury seal",
+            "Lincoln portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 50\u00a2 Large Red Seal Lincoln reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 50\u00a2 Large Red Seal Lincoln",
+          "description": "Large red Treasury seal, Lincoln portrait, green back",
+          "friedberg_number": "Fr.1374"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Features Abraham Lincoln portrait on Fourth Issue fifty cent note",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
       "issue_id": "US-UNK-1870-P",
       "object_type": "coin",
       "series_id": "seated_liberty_half_dime",
@@ -6869,6 +7471,246 @@
       "source_citation": "Red Book 2024, Dealer Market Values",
       "notes": ". Good condition value: $16",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-FRAC10-1870-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_10_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.1,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 10\u00a2"
+      },
+      "issue_year": 1870,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 10\u00a2 Large Brown Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large brown Treasury seal",
+            "Liberty bust portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 10\u00a2 Large Brown Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 10\u00a2 Large Brown Seal",
+          "description": "Large brown Treasury seal, Liberty bust portrait, green back",
+          "friedberg_number": "Fr.1258"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Brown seal variety is scarcer than red seal version",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC15-1870-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_15_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.15,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 15\u00a2"
+      },
+      "issue_year": 1870,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 15\u00a2 Large Brown Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large brown Treasury seal",
+            "Columbia bust portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 15\u00a2 Large Brown Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 15\u00a2 Large Brown Seal",
+          "description": "Large brown Treasury seal, Columbia bust portrait, green back",
+          "friedberg_number": "Fr.1268"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Brown seal variety is scarcer than red seal version",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC25-1870-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_25_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 25\u00a2"
+      },
+      "issue_year": 1870,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 25\u00a2 Large Brown Seal obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large brown Treasury seal",
+            "Washington portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 25\u00a2 Large Brown Seal reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 25\u00a2 Large Brown Seal",
+          "description": "Large brown Treasury seal, Washington portrait, green back",
+          "friedberg_number": "Fr.1303"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Brown seal variety is scarcer than red seal version",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
+      "issue_id": "US-FRAC50-1870-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_50_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.5,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 50\u00a2"
+      },
+      "issue_year": 1870,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 50\u00a2 Large Brown Seal Lincoln obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large brown Treasury seal",
+            "Lincoln portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 50\u00a2 Large Brown Seal Lincoln reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 50\u00a2 Large Brown Seal Lincoln",
+          "description": "Large brown Treasury seal, Lincoln portrait, green back",
+          "friedberg_number": "Fr.1375"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Brown seal variety with Lincoln portrait, scarcer than red seal version",
+      "seller_name": "2025-08-18 02:34:09"
     },
     {
       "issue_id": "US-UNK-1871-P",
@@ -6991,6 +7833,66 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-FRAC50-1871-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_50_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.5,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 50\u00a2"
+      },
+      "issue_year": 1871,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 50\u00a2 Large Red Seal Stanton obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large red Treasury seal",
+            "Edwin Stanton portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 50\u00a2 Large Red Seal Stanton reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 50\u00a2 Large Red Seal Stanton",
+          "description": "Large red Treasury seal, Edwin Stanton portrait, green back",
+          "friedberg_number": "Fr.1376"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Features Edwin Stanton, Secretary of War during Civil War",
+      "seller_name": "2025-08-18 02:34:09"
+    },
+    {
       "issue_id": "US-UNK-1872-P",
       "object_type": "coin",
       "series_id": "seated_liberty_half_dime",
@@ -7109,6 +8011,66 @@
       "source_citation": "Red Book 2024, Dealer Market Values",
       "notes": "San Francisco Mint. Good condition value: $20",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-FRAC50-1872-P",
+      "object_type": "banknote",
+      "series_id": "us_fractional_50_cent",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.5,
+        "unit_name": "cent",
+        "common_names": [],
+        "system_fraction": "Fractional 50\u00a2"
+      },
+      "issue_year": 1872,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 105,
+        "height_mm": 72,
+        "thickness_mm": 0.1,
+        "weight_grams": 0.8
+      },
+      "sides": {
+        "obverse": {
+          "design": "Fourth Issue 50\u00a2 Large Brown Seal Stanton obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Large brown Treasury seal",
+            "Edwin Stanton portrait",
+            "green back"
+          ]
+        },
+        "reverse": {
+          "design": "Fourth Issue 50\u00a2 Large Brown Seal Stanton reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Fourth Issue 50\u00a2 Large Brown Seal Stanton",
+          "description": "Large brown Treasury seal, Edwin Stanton portrait, green back",
+          "friedberg_number": "Fr.1377"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Fractional Currency Research",
+      "notes": "Brown seal variety with Stanton portrait, scarcer than red seal version",
+      "seller_name": "2025-08-18 02:34:09"
     },
     {
       "issue_id": "US-UNK-1873-P",
@@ -8853,6 +9815,189 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-SC1-1896-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1896,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $1 Educational Series \"History\" Tillman/Morgan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"History\" scene",
+            "blue seal",
+            "Tillman/Morgan signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $1 Educational Series \"History\" Tillman/Morgan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $1 Educational Series \"History\" Tillman/Morgan",
+          "description": "Educational Series design featuring allegorical \"History\" scene, blue seal, Tillman/Morgan signatures",
+          "friedberg_number": "Fr.224"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Part of famous Educational Series with significant art historical value. Features \"History Instructing Youth\" allegorical scene.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC2-1896-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_2_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 2.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$2 Silver Certificate"
+      },
+      "issue_year": 1896,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $2 Educational Series \"Science\" Tillman/Morgan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"Science\" scene",
+            "blue seal",
+            "Tillman/Morgan signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $2 Educational Series \"Science\" Tillman/Morgan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "very rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $2 Educational Series \"Science\" Tillman/Morgan",
+          "description": "Educational Series design featuring allegorical \"Science\" scene, blue seal, Tillman/Morgan signatures",
+          "friedberg_number": "Fr.247"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series $2 featuring \"Science Presenting Steam and Electricity to Commerce and Manufacture\" allegorical scene.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC5-1896-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$5 Silver Certificate"
+      },
+      "issue_year": 1896,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"Electricity\" scene",
+            "blue seal",
+            "Tillman/Morgan signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "extremely rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $5 Educational Series \"Electricity\" Tillman/Morgan",
+          "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Tillman/Morgan signatures",
+          "friedberg_number": "Fr.268"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series $5 featuring \"Electricity as the Dominant Force in the World\" allegorical scene. Most coveted of Educational Series.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
       "issue_id": "US-UNK-1897-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
@@ -8903,6 +10048,189 @@
       "varieties": [],
       "source_citation": "Red Book 2024, PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-SC1-1897-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1897,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $1 Educational Series \"History\" Bruce/Roberts obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"History\" scene",
+            "blue seal",
+            "Bruce/Roberts signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $1 Educational Series \"History\" Bruce/Roberts reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $1 Educational Series \"History\" Bruce/Roberts",
+          "description": "Educational Series design featuring allegorical \"History\" scene, blue seal, Bruce/Roberts signatures",
+          "friedberg_number": "Fr.225"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series with Bruce/Roberts signature combination. Same iconic design with different treasury officials.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC2-1897-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_2_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 2.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$2 Silver Certificate"
+      },
+      "issue_year": 1897,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $2 Educational Series \"Science\" Bruce/Roberts obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"Science\" scene",
+            "blue seal",
+            "Bruce/Roberts signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $2 Educational Series \"Science\" Bruce/Roberts reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "very rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $2 Educational Series \"Science\" Bruce/Roberts",
+          "description": "Educational Series design featuring allegorical \"Science\" scene, blue seal, Bruce/Roberts signatures",
+          "friedberg_number": "Fr.248"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series $2 with Bruce/Roberts signatures. Highly sought after by collectors for artistic significance.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC5-1897-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$5 Silver Certificate"
+      },
+      "issue_year": 1897,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"Electricity\" scene",
+            "blue seal",
+            "Bruce/Roberts signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "extremely rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $5 Educational Series \"Electricity\" Bruce/Roberts",
+          "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Bruce/Roberts signatures",
+          "friedberg_number": "Fr.269"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series $5 with Bruce/Roberts signatures. Pinnacle of 19th century currency design and artistry.",
+      "seller_name": "2025-08-18 02:53:46"
     },
     {
       "issue_id": "US-UNK-1898-P",
@@ -8957,6 +10285,67 @@
       "seller_name": "2025-08-12 18:31:27"
     },
     {
+      "issue_id": "US-SC5-1898-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$5 Silver Certificate"
+      },
+      "issue_year": 1898,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 190,
+        "height_mm": 79,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Educational Series design featuring allegorical \"Electricity\" scene",
+            "blue seal",
+            "Lyons/Roberts signatures"
+          ]
+        },
+        "reverse": {
+          "design": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "extremely rare",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "1896 $5 Educational Series \"Electricity\" Lyons/Roberts",
+          "description": "Educational Series design featuring allegorical \"Electricity\" scene, blue seal, Lyons/Roberts signatures",
+          "friedberg_number": "Fr.270"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Educational Series $5 with Lyons/Roberts signature combination. Final signature variety of this iconic design.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
       "issue_id": "US-UNK-1899-P",
       "object_type": "coin",
       "series_id": "liberty_head_nickel",
@@ -9007,6 +10396,281 @@
       "varieties": [],
       "source_citation": "Red Book 2024, PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-P001-1899-A",
+      "object_type": "banknote",
+      "series_id": "us_paper_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "Black Eagle",
+          "one dollar silver certificate",
+          "large size note"
+        ],
+        "system_fraction": "1 dollar"
+      },
+      "issue_year": 1899,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Portrait of Martha Washington with black eagle",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Martha Washington portrait",
+            "black eagle vignette",
+            "ornate borders",
+            "blue seal",
+            "blue serial numbers"
+          ]
+        },
+        "reverse": {
+          "design": "Ornate geometric patterns",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "complex geometric design",
+            "large denomination markers",
+            "silver certificate text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 35000000,
+        "estimated_surviving": 8000
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "1899_lyons_roberts",
+          "name": "Lyons-Roberts Signatures",
+          "description": "Earlier signature combination",
+          "estimated_mintage": 15000000
+        },
+        {
+          "variety_id": "1899_lyons_treat",
+          "name": "Lyons-Treat Signatures",
+          "description": "Mid-period signature combination",
+          "estimated_mintage": 12000000
+        },
+        {
+          "variety_id": "1899_vernon_treat",
+          "name": "Vernon-Treat Signatures",
+          "description": "Later signature combination",
+          "estimated_mintage": 8000000
+        }
+      ],
+      "date_range_start": 1899,
+      "date_range_end": 1923,
+      "source_citation": "Friedberg Paper Money of the United States, 20th Edition",
+      "notes": "Famous 'Black Eagle' note, last of the large-size ornate designs. Ranked #16 in '100 Greatest American Currency Notes'",
+      "seller_name": "2025-08-18 00:56:08"
+    },
+    {
+      "issue_id": "US-P001-1899-A-MULTI_SIG",
+      "object_type": "banknote",
+      "series_id": "us_paper_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $1"
+      },
+      "issue_year": 1899,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Black Eagle Multiple Signature Combinations obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "Lincoln and Grant portraits",
+            "11-13 signature varieties"
+          ]
+        },
+        "reverse": {
+          "design": "Black Eagle Multiple Signature Combinations reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 3604239600,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "multi_sig",
+          "name": "Black Eagle Multiple Signature Combinations",
+          "description": "Blue Treasury seal, Blue serial numbers, Lincoln and Grant portraits, 11-13 signature varieties"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Produced with 11-13 Register/Treasurer signature pairs; references vary by cataloging approach. Total printed: 3,604,239,600",
+      "seller_name": "2025-08-18 01:53:17"
+    },
+    {
+      "issue_id": "US-P005-1899-A",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "Indian Chief Note",
+          "Running Antelope",
+          "five dollar silver certificate"
+        ],
+        "system_fraction": "5 dollars"
+      },
+      "issue_year": 1899,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Portrait of Sioux Chief Running Antelope",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Running Antelope portrait",
+            "war bonnet headdress",
+            "roman numeral V",
+            "blue seal"
+          ]
+        },
+        "reverse": {
+          "design": "Ornate border with large Roman numeral V",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "large roman numeral V",
+            "silver certificate obligation text",
+            "ornate scrollwork"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 30000000,
+        "estimated_surviving": 25000
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "1899_lyons_roberts",
+          "name": "Lyons-Roberts Signatures",
+          "description": "Early signature combination, most common",
+          "estimated_mintage": 18000000
+        },
+        {
+          "variety_id": "1899_lyons_treat",
+          "name": "Lyons-Treat Signatures",
+          "description": "Later signature combination",
+          "estimated_mintage": 12000000
+        }
+      ],
+      "date_range_start": 1899,
+      "date_range_end": 1923,
+      "source_citation": "A Guide Book of United States Paper Money, 6th Edition",
+      "notes": "Only U.S. federal paper currency featuring a named Native American. Running Antelope was head chief of the Hunkpapa Lakota",
+      "seller_name": "2025-08-18 00:56:08"
+    },
+    {
+      "issue_id": "US-P005-1899-A-ANTELOPE_SIG",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $5"
+      },
+      "issue_year": 1899,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Running Antelope Eleven Signature Combinations obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serials",
+            "Chief Running Antelope central portrait",
+            "Eleven signature combinations Fr.271-Fr.281"
+          ]
+        },
+        "reverse": {
+          "design": "Running Antelope Eleven Signature Combinations reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "varies_by_signature",
+      "varieties": [
+        {
+          "variety_id": "antelope_sig",
+          "name": "Running Antelope Eleven Signature Combinations",
+          "description": "Blue Treasury seal, Blue serials, Chief Running Antelope central portrait, Eleven signature combinations Fr.271-Fr.281"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Eleven signature combinations across fiscal years 1900-1926, with gaps in FY1919-FY1920; spans Fr.271-Fr.281",
+      "seller_name": "2025-08-18 01:53:17"
     },
     {
       "issue_id": "US-UNK-1900-P",
@@ -9163,6 +10827,199 @@
       "varieties": [],
       "source_citation": "PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-P010-1901-A",
+      "object_type": "banknote",
+      "series_id": "us_paper_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "Bison Note",
+          "Buffalo Bill",
+          "Lewis and Clark Note"
+        ],
+        "system_fraction": "10 dollars"
+      },
+      "issue_year": 1901,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "American bison with Lewis and Clark portraits",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "american bison center",
+            "meriwether lewis portrait left",
+            "william clark portrait right",
+            "red seal"
+          ]
+        },
+        "reverse": {
+          "design": "Female figure representing Columbia",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "columbia figure",
+            "allegorical design",
+            "denomination ten",
+            "ornate borders"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 8000000,
+        "estimated_surviving": 4000
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "1901_lyons_roberts",
+          "name": "Lyons-Roberts Signatures",
+          "description": "Early signature combination",
+          "estimated_mintage": 4000000
+        },
+        {
+          "variety_id": "1901_lyons_treat",
+          "name": "Lyons-Treat Signatures",
+          "description": "Later signature combination",
+          "estimated_mintage": 4000000
+        }
+      ],
+      "date_range_start": 1901,
+      "date_range_end": 1923,
+      "source_citation": "100 Greatest American Currency Notes by Q. David Bowers",
+      "notes": "Only federally issued note featuring American bison. Commemorates Lewis and Clark expedition",
+      "seller_name": "2025-08-18 00:56:08"
+    },
+    {
+      "issue_id": "US-P010-1901-A-BISON_SIG",
+      "object_type": "banknote",
+      "series_id": "us_paper_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $10"
+      },
+      "issue_year": 1901,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Bison Note Nine Signature Combinations obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Red seal and serials typical of Legal Tender",
+            "Central bison vignette (Pablo)",
+            "Nine signature combinations Fr.114-Fr.122"
+          ]
+        },
+        "reverse": {
+          "design": "Bison Note Nine Signature Combinations reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "varies_by_signature",
+      "varieties": [
+        {
+          "variety_id": "bison_sig",
+          "name": "Bison Note Nine Signature Combinations",
+          "description": "Red seal and serials typical of Legal Tender, Central bison vignette (Pablo), Nine signature combinations Fr.114-Fr.122"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Nine signature combinations collected as Fr.114-Fr.122; some combinations notably scarcer in high grades",
+      "seller_name": "2025-08-18 01:53:17"
+    },
+    {
+      "issue_id": "US-P010-1901-A-BISON_STAR",
+      "object_type": "banknote",
+      "series_id": "us_paper_10_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 10.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $10"
+      },
+      "issue_year": 1901,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Bison Note Star Replacement Varieties obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Star prefix/suffix in serials (replacement notes)",
+            "Red seal Legal Tender type",
+            "Central bison vignette"
+          ]
+        },
+        "reverse": {
+          "design": "Bison Note Star Replacement Varieties reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "bison_star",
+          "name": "Bison Note Star Replacement Varieties",
+          "description": "Star prefix/suffix in serials (replacement notes), Red seal Legal Tender type, Central bison vignette"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Star replacement notes exist across six signature combinations; notably scarcer than regular issues",
+      "seller_name": "2025-08-18 01:53:17"
     },
     {
       "issue_id": "US-UNK-1902-P",
@@ -9580,6 +11437,140 @@
       "varieties": [],
       "source_citation": "Red Book 2024, PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-P020-1906-A",
+      "object_type": "banknote",
+      "series_id": "us_paper_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "twenty dollar gold certificate",
+          "horse blanket",
+          "large size note"
+        ],
+        "system_fraction": "20 dollars"
+      },
+      "issue_year": 1906,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Portrait of George Washington",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "George Washington portrait",
+            "gold seal",
+            "gold serial numbers",
+            "ornate borders"
+          ]
+        },
+        "reverse": {
+          "design": "Great Seal of the United States in golden orange",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "great seal eagle",
+            "shield design",
+            "golden orange background",
+            "denomination twenty"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 15000000,
+        "estimated_surviving": 12000
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "1906_lyons_treat",
+          "name": "Lyons-Treat Signatures",
+          "description": "Early signature combination",
+          "estimated_mintage": 8000000
+        },
+        {
+          "variety_id": "1906_vernon_treat",
+          "name": "Vernon-Treat Signatures",
+          "description": "Later signature combination",
+          "estimated_mintage": 7000000
+        }
+      ],
+      "date_range_start": 1906,
+      "date_range_end": 1922,
+      "source_citation": "Standard Catalog of United States Paper Money, 30th Edition",
+      "notes": "Third most common large size $20 bill. Part of last large-size gold certificate series",
+      "seller_name": "2025-08-18 00:56:08"
+    },
+    {
+      "issue_id": "US-P020-1906-A-GOLD_SIG",
+      "object_type": "banknote",
+      "series_id": "us_paper_20_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 20.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $20"
+      },
+      "issue_year": 1906,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Gold Certificate Multiple Signature Combinations obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Gold Treasury seal",
+            "Gold overprints typical of Gold Certificates",
+            "Multiple signature pairs with some notably scarce"
+          ]
+        },
+        "reverse": {
+          "design": "Gold Certificate Multiple Signature Combinations reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "varies_by_signature",
+      "varieties": [
+        {
+          "variety_id": "gold_sig",
+          "name": "Gold Certificate Multiple Signature Combinations",
+          "description": "Gold Treasury seal, Gold overprints typical of Gold Certificates, Multiple signature pairs with some notably scarce"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Series 1906 $20 Gold Certificates exist with multiple signature pairs; some combinations notably scarce, especially among replacement notes",
+      "seller_name": "2025-08-18 01:53:17"
     },
     {
       "issue_id": "US-UNK-1907-P",
@@ -10218,6 +12209,201 @@
       "source_citation": "PCGS CoinFacts",
       "notes": "Second most valuable regular issue",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-P005-1914-G",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Chicago",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "five dollar federal reserve note",
+          "lincoln note",
+          "federal reserve bank note"
+        ],
+        "system_fraction": "5 dollars"
+      },
+      "issue_year": 1914,
+      "mint_id": "G",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Portrait of Abraham Lincoln",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "abraham lincoln portrait",
+            "federal reserve bank seal",
+            "red or blue treasury seal",
+            "bank charter information"
+          ]
+        },
+        "reverse": {
+          "design": "Vignettes of Columbus in sight of land and Landing of Pilgrims",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "columbus vignette",
+            "pilgrim landing vignette",
+            "denomination five",
+            "federal reserve text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 12000000,
+        "chicago_bank_printing": 1500000,
+        "estimated_surviving": 8000
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "1914_red_seal",
+          "name": "Red Seal Variety",
+          "description": "Earlier red seal version, scarcer",
+          "estimated_mintage": 3000000
+        },
+        {
+          "variety_id": "1914_blue_seal",
+          "name": "Blue Seal Variety",
+          "description": "Later blue seal version, more common",
+          "estimated_mintage": 9000000
+        }
+      ],
+      "date_range_start": 1914,
+      "date_range_end": 1918,
+      "source_citation": "Federal Reserve Bank Historical Records",
+      "notes": "First Federal Reserve Bank Notes issued. Red seal varieties much scarcer than blue seal",
+      "seller_name": "2025-08-18 00:56:08"
+    },
+    {
+      "issue_id": "US-P005-1914-G-RED_SEAL",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $5"
+      },
+      "issue_year": 1914,
+      "mint_id": "G",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Type 1 Red Seal Burke-McAdoo obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Red Treasury seal",
+            "Red serial numbers",
+            "Type 1 plate layout with 2 large district letters",
+            "Burke-McAdoo signatures"
+          ]
+        },
+        "reverse": {
+          "design": "Type 1 Red Seal Burke-McAdoo reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarcer_than_blue_seal",
+      "varieties": [
+        {
+          "variety_id": "red_seal",
+          "name": "Type 1 Red Seal Burke-McAdoo",
+          "description": "Red Treasury seal, Red serial numbers, Type 1 plate layout with 2 large district letters, Burke-McAdoo signatures"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Early 1914 FRNs with red seals; Type 1 plates used Burke-McAdoo signatures; scarcer than blue seal varieties",
+      "seller_name": "2025-08-18 01:53:17"
+    },
+    {
+      "issue_id": "US-P005-1914-G-BLUE_SEAL",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "Paper $5"
+      },
+      "issue_year": 1914,
+      "mint_id": "G",
+      "specifications": {
+        "width_mm": 187,
+        "height_mm": 81,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.2
+      },
+      "sides": {
+        "obverse": {
+          "design": "Blue Seal Later Types 2-4 obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Blue Treasury seal",
+            "Blue serial numbers",
+            "Plate type diagnostics by district letters and seal placement"
+          ]
+        },
+        "reverse": {
+          "design": "Blue Seal Later Types 2-4 reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "series text"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "more_common_than_red_seal",
+      "varieties": [
+        {
+          "variety_id": "blue_seal",
+          "name": "Blue Seal Later Types 2-4",
+          "description": "Blue Treasury seal, Blue serial numbers, Plate type diagnostics by district letters and seal placement"
+        }
+      ],
+      "source_citation": "GitHub Issue #30 Large Note Variety Research",
+      "notes": "Subsequent 1914 FRNs transitioned to blue seals and different plate types (Type 2-4); more common than red seals",
+      "seller_name": "2025-08-18 01:53:17"
     },
     {
       "issue_id": "US-UNK-1916-D",
@@ -11962,6 +14148,524 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-P001-1957-A",
+      "object_type": "banknote",
+      "series_id": "us_paper_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of Boston",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "one dollar bill",
+          "single",
+          "buck"
+        ],
+        "system_fraction": "1 dollar"
+      },
+      "issue_year": 1957,
+      "mint_id": "A",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "George Washington portrait",
+          "designer": "Gilbert Stuart (portrait basis)",
+          "elements": [
+            "presidential portrait",
+            "serial numbers",
+            "treasury seal",
+            "federal reserve seal"
+          ]
+        },
+        "reverse": {
+          "design": "Great Seal of the United States",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "pyramid with eye",
+            "eagle with shield",
+            "IN GOD WE TRUST motto"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 500000000,
+        "series_1957": 350000000,
+        "series_1957A": 150000000
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "1957_regular",
+          "name": "Series 1957",
+          "description": "Original series 1957 issue",
+          "estimated_mintage": 350000000
+        },
+        {
+          "variety_id": "1957A_star",
+          "name": "Series 1957A Star Note",
+          "description": "Replacement note with star in serial number",
+          "estimated_mintage": 2000000
+        }
+      ],
+      "date_range_start": 1957,
+      "date_range_end": 1963,
+      "source_citation": "Bureau of Engraving and Printing Production Records",
+      "notes": "First small-size silver certificate series to feature 'IN GOD WE TRUST'",
+      "seller_name": "2025-08-18 00:47:14"
+    },
+    {
+      "issue_id": "US-SC1-1957-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1957,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957 $1 Silver Certificate Priest/Anderson obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate",
+            "blue seal",
+            "Washington portrait",
+            "Priest/Anderson signatures"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957 $1 Silver Certificate Priest/Anderson reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1957 $1 Silver Certificate Priest/Anderson",
+          "description": "Small-size silver certificate, blue seal, Washington portrait, Priest/Anderson signatures",
+          "friedberg_number": "Fr.1619"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "First of the final series of silver certificates before discontinuation. Last $1 silver certificates redeemable for silver.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC1-1957-S",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1957,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate star note",
+            "blue seal",
+            "Washington portrait",
+            "Priest/Anderson signatures",
+            "star in serial number"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "s",
+          "name": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson",
+          "description": "Small-size silver certificate star note, blue seal, Washington portrait, Priest/Anderson signatures, star in serial number",
+          "friedberg_number": "Fr.1619*"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Star note replacement variety for Series 1957. Star notes were printed to replace defective notes in currency packs.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC1-1958-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1958,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957A $1 Silver Certificate Smith/Dillon obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate",
+            "blue seal",
+            "Washington portrait",
+            "Smith/Dillon signatures"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957A $1 Silver Certificate Smith/Dillon reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1957A $1 Silver Certificate Smith/Dillon",
+          "description": "Small-size silver certificate, blue seal, Washington portrait, Smith/Dillon signatures",
+          "friedberg_number": "Fr.1620"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Series 1957A with Smith/Dillon signatures. Continued production of final silver certificate series.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC1-1958-S",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1958,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate star note",
+            "blue seal",
+            "Washington portrait",
+            "Smith/Dillon signatures",
+            "star in serial number"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "s",
+          "name": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon",
+          "description": "Small-size silver certificate star note, blue seal, Washington portrait, Smith/Dillon signatures, star in serial number",
+          "friedberg_number": "Fr.1620*"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Star note replacement variety for Series 1957A with Smith/Dillon signatures.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC1-1959-P",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1959,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957B $1 Silver Certificate Granahan/Dillon obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate",
+            "blue seal",
+            "Washington portrait",
+            "Granahan/Dillon signatures"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957B $1 Silver Certificate Granahan/Dillon reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "p",
+          "name": "Series 1957B $1 Silver Certificate Granahan/Dillon",
+          "description": "Small-size silver certificate, blue seal, Washington portrait, Granahan/Dillon signatures",
+          "friedberg_number": "Fr.1621"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Final series of $1 silver certificates with Granahan/Dillon signatures before discontinuation in 1964.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-SC1-1959-S",
+      "object_type": "banknote",
+      "series_id": "us_silver_certificate_1_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Treasury",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 1.0,
+        "unit_name": "dollar",
+        "common_names": [],
+        "system_fraction": "$1 Silver Certificate"
+      },
+      "issue_year": 1959,
+      "mint_id": "P",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon obverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "Small-size silver certificate star note",
+            "blue seal",
+            "Washington portrait",
+            "Granahan/Dillon signatures",
+            "star in serial number"
+          ]
+        },
+        "reverse": {
+          "design": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon reverse design",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "denomination markers",
+            "ornate back design",
+            "silver certificate backing"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": null,
+        "estimated_surviving": null
+      },
+      "rarity": "scarce",
+      "varieties": [
+        {
+          "variety_id": "s",
+          "name": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon",
+          "description": "Small-size silver certificate star note, blue seal, Washington portrait, Granahan/Dillon signatures, star in serial number",
+          "friedberg_number": "Fr.1621*"
+        }
+      ],
+      "source_citation": "GitHub Issue #31 Silver Certificate Research",
+      "notes": "Final star note variety of $1 silver certificates with Granahan/Dillon signatures.",
+      "seller_name": "2025-08-18 02:53:46"
+    },
+    {
+      "issue_id": "US-P005-1963-B",
+      "object_type": "banknote",
+      "series_id": "us_paper_5_dollar",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "Federal Reserve Bank of New York",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 5.0,
+        "unit_name": "dollar",
+        "common_names": [
+          "five dollar bill",
+          "fiver",
+          "lincoln"
+        ],
+        "system_fraction": "5 dollars"
+      },
+      "issue_year": 1963,
+      "mint_id": "B",
+      "specifications": {
+        "width_mm": 156,
+        "height_mm": 66,
+        "thickness_mm": 0.11,
+        "weight_grams": 1.0
+      },
+      "sides": {
+        "obverse": {
+          "design": "Abraham Lincoln portrait",
+          "designer": "Daniel Chester French (portrait basis)",
+          "elements": [
+            "presidential portrait",
+            "serial numbers",
+            "treasury seal",
+            "federal reserve seal"
+          ]
+        },
+        "reverse": {
+          "design": "Lincoln Memorial",
+          "designer": "Bureau of Engraving and Printing",
+          "elements": [
+            "lincoln memorial building",
+            "lincoln statue inside",
+            "wreath design"
+          ]
+        }
+      },
+      "mintage": {
+        "total_printed": 800000000,
+        "series_1963": 800000000
+      },
+      "rarity": "common",
+      "varieties": [
+        {
+          "variety_id": "1963_regular",
+          "name": "Series 1963",
+          "description": "Standard Federal Reserve Note",
+          "estimated_mintage": 800000000
+        }
+      ],
+      "date_range_start": 1963,
+      "date_range_end": 1969,
+      "source_citation": "Federal Reserve Bank of New York Records",
+      "notes": "Last series before 1976 bicentennial modifications",
+      "seller_name": "2025-08-18 00:47:14"
     },
     {
       "issue_id": "US-UNK-1964-D",

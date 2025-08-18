@@ -1,0 +1,126 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $0.03",
+  "face_value": 0.03,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Bronze overprint \"3\" surcharge, light pink/lilac background, Washington portrait, red back",
+          "identification_keywords": "second issue, bronze surcharge, light background, washington, pink lilac back, red back",
+          "issue_id": "US-FRAC3-1863-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Part of Second Issue fractional currency series produced during Civil War coin shortage",
+          "rarity": "common",
+          "seal_color": "Bronze",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Second Issue 3¢ Bronze Surcharge Light Background obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Bronze overprint \"3\" surcharge",
+                "light pink/lilac background",
+                "Washington portrait",
+                "red back"
+              ]
+            },
+            "reverse": {
+              "design": "Second Issue 3¢ Bronze Surcharge Light Background reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Bronze overprint \"3\" surcharge, light pink/lilac background, Washington portrait, red back",
+              "friedberg_number": "Fr.1226",
+              "name": "Second Issue 3¢ Bronze Surcharge Light Background",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1863
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Bronze overprint \"3\" surcharge, dark violet background, Washington portrait, red back",
+          "identification_keywords": "second issue, bronze surcharge, dark background, washington, violet back, red back",
+          "issue_id": "US-FRAC3-1864-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Background color variation within Second Issue 3¢ series",
+          "rarity": "common",
+          "seal_color": "Bronze",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Second Issue 3¢ Bronze Surcharge Dark Background obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Bronze overprint \"3\" surcharge",
+                "dark violet background",
+                "Washington portrait",
+                "red back"
+              ]
+            },
+            "reverse": {
+              "design": "Second Issue 3¢ Bronze Surcharge Dark Background reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Bronze overprint \"3\" surcharge, dark violet background, Washington portrait, red back",
+              "friedberg_number": "Fr.1227",
+              "name": "Second Issue 3¢ Bronze Surcharge Dark Background",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1864
+        }
+      ],
+      "defining_characteristics": "US three cent fractional currency notes",
+      "official_name": "US three cent fractional currency",
+      "series_id": "us_fractional_3_cent",
+      "series_name": "Three Cent Fractional Currency",
+      "years": {
+        "end": 1864,
+        "start": 1863
+      }
+    }
+  ]
+}

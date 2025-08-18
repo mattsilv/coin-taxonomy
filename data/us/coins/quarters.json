@@ -348,7 +348,81 @@
           "year": 1916
         },
         {
-          "business_strikes": 8792000,
+          "business_strikes": null,
+          "coin_id": "US-SLIQ-1917-D-TYPE1",
+          "common_names": [
+            "Standing Liberty Quarter Type I",
+            "Standing Quarter"
+          ],
+          "composition": {},
+          "distinguishing_features": [
+            "Liberty's right breast exposed",
+            "Eagle positioned lower on reverse",
+            "Original 13 stars under eagle"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "type i",
+            "type 1 quarter",
+            "bare breast",
+            "exposed liberty"
+          ],
+          "mint": "D",
+          "notes": "Standing Liberty Quarter Type I - January-February 1917",
+          "obverse_description": "Standing Liberty Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "varieties": [
+            {
+              "description": "Bare breast Liberty, eagle lower on reverse, 13 stars only",
+              "design_period": "January-February 1917",
+              "name": "Type I",
+              "variety_id": "type_type_i"
+            }
+          ],
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-SLIQ-1917-D-TYPE2",
+          "common_names": [
+            "Standing Liberty Quarter Type II",
+            "Standing Quarter"
+          ],
+          "composition": {},
+          "distinguishing_features": [
+            "Chainmail covering Liberty's torso",
+            "Eagle repositioned higher",
+            "Three additional stars below eagle"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "type ii",
+            "type 2 quarter",
+            "chainmail",
+            "covered liberty"
+          ],
+          "mint": "D",
+          "notes": "Standing Liberty Quarter Type II - Mid-February 1917 onward",
+          "obverse_description": "Standing Liberty Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "varieties": [
+            {
+              "description": "Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+              "design_period": "Mid-February 1917 onward",
+              "name": "Type II",
+              "variety_id": "type_type_ii"
+            }
+          ],
+          "year": 1917
+        },
+        {
+          "business_strikes": 8740000,
           "coin_id": "US-SLIQ-1917-P-TYPE1",
           "common_names": [
             "Standing Liberty Quarter",
@@ -379,7 +453,7 @@
             "macneil quarter"
           ],
           "mint": "P",
-          "notes": "1917 Type I - Bare-breasted Liberty",
+          "notes": "Type I: Bare breast Liberty, struck January-February 1917 before design change",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": null,
@@ -390,7 +464,7 @@
           "year": 1917
         },
         {
-          "business_strikes": 0,
+          "business_strikes": 13880000,
           "coin_id": "US-SLIQ-1917-P-TYPE2",
           "common_names": [
             "Standing Liberty Quarter",
@@ -406,22 +480,20 @@
           },
           "diameter_mm": 24.3,
           "distinguishing_features": [
-            "Liberty covered with chain mail",
-            "Eagle repositioned higher on reverse",
-            "Three additional stars under eagle (16 total)"
+            "Chainmail covering Liberty's torso",
+            "Eagle repositioned higher",
+            "Three additional stars below eagle"
           ],
           "identification_keywords": [
             "standing liberty quarter",
             "standing quarter",
-            "liberty gateway",
-            "flying eagle quarter",
-            "type 1 quarter",
+            "type ii",
             "type 2 quarter",
-            "silver quarter",
-            "macneil quarter"
+            "chainmail",
+            "covered liberty"
           ],
           "mint": "P",
-          "notes": "1917 Type II - Chain mail added",
+          "notes": "Type II: Chainmail covering torso, struck mid-February 1917 onward",
           "obverse_description": "Liberty standing in gateway holding shield and olive branch, 'LIBERTY' above, date below, 13 stars around",
           "proof_strikes": null,
           "rarity": null,
@@ -429,6 +501,80 @@
           "source_citation": "PCGS CoinFacts",
           "varieties": [],
           "weight_grams": 6.25,
+          "year": 1917
+        },
+        {
+          "business_strikes": null,
+          "coin_id": "US-SLIQ-1917-S-TYPE1",
+          "common_names": [
+            "Standing Liberty Quarter Type I",
+            "Standing Quarter"
+          ],
+          "composition": {},
+          "distinguishing_features": [
+            "Liberty's right breast exposed",
+            "Eagle positioned lower on reverse",
+            "Original 13 stars under eagle"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "type i",
+            "type 1 quarter",
+            "bare breast",
+            "exposed liberty"
+          ],
+          "mint": "S",
+          "notes": "Standing Liberty Quarter Type I - January-February 1917",
+          "obverse_description": "Standing Liberty Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "varieties": [
+            {
+              "description": "Bare breast Liberty, eagle lower on reverse, 13 stars only",
+              "design_period": "January-February 1917",
+              "name": "Type I",
+              "variety_id": "type_type_i"
+            }
+          ],
+          "year": 1917
+        },
+        {
+          "business_strikes": 5522000,
+          "coin_id": "US-SLIQ-1917-S-TYPE2",
+          "common_names": [
+            "Standing Liberty Quarter Type II",
+            "Standing Quarter"
+          ],
+          "composition": {},
+          "distinguishing_features": [
+            "Chainmail covering Liberty's torso",
+            "Eagle repositioned higher",
+            "Three additional stars below eagle"
+          ],
+          "identification_keywords": [
+            "standing liberty quarter",
+            "standing quarter",
+            "type ii",
+            "type 2 quarter",
+            "chainmail",
+            "covered liberty"
+          ],
+          "mint": "S",
+          "notes": "Standing Liberty Quarter Type II - Mid-February 1917 onward",
+          "obverse_description": "Standing Liberty Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "varieties": [
+            {
+              "description": "Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+              "design_period": "Mid-February 1917 onward",
+              "name": "Type II",
+              "variety_id": "type_type_ii"
+            }
+          ],
           "year": 1917
         },
         {

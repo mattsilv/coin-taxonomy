@@ -1,0 +1,157 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $20",
+  "face_value": 20.0,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "A",
+          "distinguishing_features": "Gold Treasury seal, Gold overprints typical of Gold Certificates, Multiple signature pairs with some notably scarce",
+          "identification_keywords": "gold certificate, gold seal, gold overprint, signature combinations, twenty dollar",
+          "issue_id": "US-P020-1906-A-GOLD_SIG",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1906 $20 Gold Certificates exist with multiple signature pairs; some combinations notably scarce, especially among replacement notes",
+          "rarity": "varies_by_signature",
+          "seal_color": "Gold Treasury seal",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Gold Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Gold Certificate Multiple Signature Combinations obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Gold Treasury seal",
+                "Gold overprints typical of Gold Certificates",
+                "Multiple signature pairs with some notably scarce"
+              ]
+            },
+            "reverse": {
+              "design": "Gold Certificate Multiple Signature Combinations reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Gold Treasury seal, Gold overprints typical of Gold Certificates, Multiple signature pairs with some notably scarce",
+              "name": "Gold Certificate Multiple Signature Combinations",
+              "variety_id": "gold_sig"
+            }
+          ],
+          "year": 1906
+        },
+        {
+          "authority_code": "A",
+          "block_letter": "A",
+          "common_names": [
+            "twenty dollar gold certificate",
+            "horse blanket",
+            "large size note"
+          ],
+          "distinguishing_features": [
+            "George Washington portrait",
+            "Gold seal and serial numbers",
+            "Large size format",
+            "Golden orange reverse design",
+            "Great Seal eagle on reverse",
+            "Series 1906 designation"
+          ],
+          "identification_keywords": [
+            "gold certificate",
+            "george washington",
+            "twenty dollars",
+            "gold seal",
+            "series 1906",
+            "large size",
+            "great seal"
+          ],
+          "issue_id": "US-P020-1906-A",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": 12000,
+            "total_printed": 15000000
+          },
+          "notes": "Third most common large size $20 bill. Part of last large-size gold certificate series",
+          "obverse_description": "Portrait of George Washington in center, gold Treasury seal on right, gold serial numbers, ornate border design",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "common",
+          "reverse_description": "Great Seal of the United States in center with golden orange background, eagle with shield, 'Twenty Dollars' text around border",
+          "seal_color": "gold",
+          "seller_name": "APMEX",
+          "serial_number_type": "8_digit_alpha_numeric",
+          "series_designation": "Series 1906",
+          "sides": {
+            "obverse": {
+              "design": "Portrait of George Washington",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "George Washington portrait",
+                "gold seal",
+                "gold serial numbers",
+                "ornate borders"
+              ]
+            },
+            "reverse": {
+              "design": "Great Seal of the United States in golden orange",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "great seal eagle",
+                "shield design",
+                "golden orange background",
+                "denomination twenty"
+              ]
+            }
+          },
+          "signature_combination": "Vernon-Treat",
+          "size_format": "large_size",
+          "source_citation": "Standard Catalog of United States Paper Money, 30th Edition",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Early signature combination",
+              "estimated_mintage": 8000000,
+              "name": "Lyons-Treat Signatures",
+              "variety_id": "1906_lyons_treat"
+            },
+            {
+              "description": "Later signature combination",
+              "estimated_mintage": 7000000,
+              "name": "Vernon-Treat Signatures",
+              "variety_id": "1906_vernon_treat"
+            }
+          ],
+          "year": 1906
+        }
+      ],
+      "defining_characteristics": "US twenty dollar paper currency",
+      "official_name": "United States Twenty Dollar Bill",
+      "series_id": "us_paper_20_dollar",
+      "series_name": "Twenty Dollar Bill",
+      "years": {
+        "end": 1906,
+        "start": 1906
+      }
+    }
+  ]
+}

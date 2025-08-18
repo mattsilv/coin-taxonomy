@@ -1,0 +1,72 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $0.05",
+  "face_value": 0.05,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Bronze overprint \"5\" surcharge, Clark portrait, red back with ornate design",
+          "identification_keywords": "second issue, bronze surcharge, clark portrait, red back, five cent",
+          "issue_id": "US-FRAC5-1863-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Spencer M. Clark portrait caused controversy as living persons were not supposed to appear on currency",
+          "rarity": "common",
+          "seal_color": "Bronze",
+          "seller_name": "2025-08-17 22:34:09",
+          "series_designation": "Fractional Currency",
+          "sides": {
+            "obverse": {
+              "design": "Second Issue 5¢ Bronze Surcharge obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Bronze overprint \"5\" surcharge",
+                "Clark portrait",
+                "red back with ornate design"
+              ]
+            },
+            "reverse": {
+              "design": "Second Issue 5¢ Bronze Surcharge reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design"
+              ]
+            }
+          },
+          "signature_combination": "None (no signatures on fractional currency)",
+          "source_citation": "GitHub Issue #31 Fractional Currency Research",
+          "specifications": {
+            "height_mm": 72,
+            "thickness_mm": 0.1,
+            "weight_grams": 0.8,
+            "width_mm": 105
+          },
+          "varieties": [
+            {
+              "description": "Bronze overprint \"5\" surcharge, Clark portrait, red back with ornate design",
+              "friedberg_number": "Fr.1232",
+              "name": "Second Issue 5¢ Bronze Surcharge",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1863
+        }
+      ],
+      "defining_characteristics": "US five cent fractional currency notes",
+      "official_name": "US five cent fractional currency",
+      "series_id": "us_fractional_5_cent",
+      "series_name": "Five Cent Fractional Currency",
+      "years": {
+        "end": 1863,
+        "start": 1863
+      }
+    }
+  ]
+}

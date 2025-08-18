@@ -1,0 +1,692 @@
+{
+  "country": "US",
+  "currency_type": "paper_currency",
+  "denomination": "Paper $1",
+  "face_value": 1.0,
+  "series": [
+    {
+      "banknotes": [
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Educational Series design featuring allegorical \"History\" scene, blue seal, Tillman/Morgan signatures",
+          "identification_keywords": "educational series, history certificate, allegorical design, tillman morgan, blue seal, 1896",
+          "issue_id": "US-SC1-1896-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Part of famous Educational Series with significant art historical value. Features \"History Instructing Youth\" allegorical scene.",
+          "rarity": "rare",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1896 $1 Educational Series \"History\" Tillman/Morgan obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Educational Series design featuring allegorical \"History\" scene",
+                "blue seal",
+                "Tillman/Morgan signatures"
+              ]
+            },
+            "reverse": {
+              "design": "1896 $1 Educational Series \"History\" Tillman/Morgan reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Tillman/Morgan",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 79,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 190
+          },
+          "varieties": [
+            {
+              "description": "Educational Series design featuring allegorical \"History\" scene, blue seal, Tillman/Morgan signatures",
+              "friedberg_number": "Fr.224",
+              "name": "1896 $1 Educational Series \"History\" Tillman/Morgan",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1896
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Educational Series design featuring allegorical \"History\" scene, blue seal, Bruce/Roberts signatures",
+          "identification_keywords": "educational series, history certificate, allegorical design, bruce roberts, blue seal, 1896",
+          "issue_id": "US-SC1-1897-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Educational Series with Bruce/Roberts signature combination. Same iconic design with different treasury officials.",
+          "rarity": "rare",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "1896 $1 Educational Series \"History\" Bruce/Roberts obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Educational Series design featuring allegorical \"History\" scene",
+                "blue seal",
+                "Bruce/Roberts signatures"
+              ]
+            },
+            "reverse": {
+              "design": "1896 $1 Educational Series \"History\" Bruce/Roberts reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Bruce/Roberts",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 79,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 190
+          },
+          "varieties": [
+            {
+              "description": "Educational Series design featuring allegorical \"History\" scene, blue seal, Bruce/Roberts signatures",
+              "friedberg_number": "Fr.225",
+              "name": "1896 $1 Educational Series \"History\" Bruce/Roberts",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1897
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate, blue seal, Washington portrait, Priest/Anderson signatures",
+          "identification_keywords": "series 1957, small size, washington portrait, priest anderson, blue seal, final silver certificates",
+          "issue_id": "US-SC1-1957-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "First of the final series of silver certificates before discontinuation. Last $1 silver certificates redeemable for silver.",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957 $1 Silver Certificate Priest/Anderson obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate",
+                "blue seal",
+                "Washington portrait",
+                "Priest/Anderson signatures"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957 $1 Silver Certificate Priest/Anderson reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Priest/Anderson",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate, blue seal, Washington portrait, Priest/Anderson signatures",
+              "friedberg_number": "Fr.1619",
+              "name": "Series 1957 $1 Silver Certificate Priest/Anderson",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1957
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate star note, blue seal, Washington portrait, Priest/Anderson signatures, star in serial number",
+          "identification_keywords": "series 1957, star note, replacement note, priest anderson, blue seal, star serial number",
+          "issue_id": "US-SC1-1957-S",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Star note replacement variety for Series 1957. Star notes were printed to replace defective notes in currency packs.",
+          "rarity": "scarce",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate star note",
+                "blue seal",
+                "Washington portrait",
+                "Priest/Anderson signatures",
+                "star in serial number"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Priest/Anderson",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate star note, blue seal, Washington portrait, Priest/Anderson signatures, star in serial number",
+              "friedberg_number": "Fr.1619*",
+              "name": "Series 1957 $1 Silver Certificate Star Note Priest/Anderson",
+              "variety_id": "s"
+            }
+          ],
+          "year": 1957
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate, blue seal, Washington portrait, Smith/Dillon signatures",
+          "identification_keywords": "series 1957a, small size, washington portrait, smith dillon, blue seal, final silver certificates",
+          "issue_id": "US-SC1-1958-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Series 1957A with Smith/Dillon signatures. Continued production of final silver certificate series.",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957A $1 Silver Certificate Smith/Dillon obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate",
+                "blue seal",
+                "Washington portrait",
+                "Smith/Dillon signatures"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957A $1 Silver Certificate Smith/Dillon reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Smith/Dillon",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate, blue seal, Washington portrait, Smith/Dillon signatures",
+              "friedberg_number": "Fr.1620",
+              "name": "Series 1957A $1 Silver Certificate Smith/Dillon",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1958
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate star note, blue seal, Washington portrait, Smith/Dillon signatures, star in serial number",
+          "identification_keywords": "series 1957a, star note, replacement note, smith dillon, blue seal, star serial number",
+          "issue_id": "US-SC1-1958-S",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Star note replacement variety for Series 1957A with Smith/Dillon signatures.",
+          "rarity": "scarce",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate star note",
+                "blue seal",
+                "Washington portrait",
+                "Smith/Dillon signatures",
+                "star in serial number"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Smith/Dillon",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate star note, blue seal, Washington portrait, Smith/Dillon signatures, star in serial number",
+              "friedberg_number": "Fr.1620*",
+              "name": "Series 1957A $1 Silver Certificate Star Note Smith/Dillon",
+              "variety_id": "s"
+            }
+          ],
+          "year": 1958
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate, blue seal, Washington portrait, Granahan/Dillon signatures",
+          "identification_keywords": "series 1957b, small size, washington portrait, granahan dillon, blue seal, final silver certificates",
+          "issue_id": "US-SC1-1959-P",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Final series of $1 silver certificates with Granahan/Dillon signatures before discontinuation in 1964.",
+          "rarity": "common",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957B $1 Silver Certificate Granahan/Dillon obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate",
+                "blue seal",
+                "Washington portrait",
+                "Granahan/Dillon signatures"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957B $1 Silver Certificate Granahan/Dillon reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Granahan/Dillon",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate, blue seal, Washington portrait, Granahan/Dillon signatures",
+              "friedberg_number": "Fr.1621",
+              "name": "Series 1957B $1 Silver Certificate Granahan/Dillon",
+              "variety_id": "p"
+            }
+          ],
+          "year": 1959
+        },
+        {
+          "authority_code": "P",
+          "distinguishing_features": "Small-size silver certificate star note, blue seal, Washington portrait, Granahan/Dillon signatures, star in serial number",
+          "identification_keywords": "series 1957b, star note, replacement note, granahan dillon, blue seal, star serial number",
+          "issue_id": "US-SC1-1959-S",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": null
+          },
+          "notes": "Final star note variety of $1 silver certificates with Granahan/Dillon signatures.",
+          "rarity": "scarce",
+          "seal_color": "Blue",
+          "seller_name": "2025-08-17 22:53:46",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Small-size silver certificate star note",
+                "blue seal",
+                "Washington portrait",
+                "Granahan/Dillon signatures",
+                "star in serial number"
+              ]
+            },
+            "reverse": {
+              "design": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "ornate back design",
+                "silver certificate backing"
+              ]
+            }
+          },
+          "signature_combination": "Granahan/Dillon",
+          "source_citation": "GitHub Issue #31 Silver Certificate Research",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Small-size silver certificate star note, blue seal, Washington portrait, Granahan/Dillon signatures, star in serial number",
+              "friedberg_number": "Fr.1621*",
+              "name": "Series 1957B $1 Silver Certificate Star Note Granahan/Dillon",
+              "variety_id": "s"
+            }
+          ],
+          "year": 1959
+        }
+      ],
+      "defining_characteristics": "US one dollar silver certificates redeemable for silver coin",
+      "official_name": "US one dollar silver certificate",
+      "series_id": "us_silver_certificate_1_dollar",
+      "series_name": "One Dollar Silver Certificate",
+      "years": {
+        "end": 1959,
+        "start": 1896
+      }
+    },
+    {
+      "banknotes": [
+        {
+          "authority_code": "A",
+          "block_letter": "A",
+          "common_names": [
+            "Black Eagle",
+            "one dollar silver certificate",
+            "large size note"
+          ],
+          "distinguishing_features": [
+            "Black eagle vignette (namesake feature)",
+            "Martha Washington portrait",
+            "Large size format (7.38 x 3.18 inches)",
+            "Blue treasury seal and serial numbers",
+            "Ornate geometric reverse design",
+            "Series 1899 designation"
+          ],
+          "identification_keywords": [
+            "black eagle",
+            "martha washington",
+            "silver certificate",
+            "large size",
+            "series 1899",
+            "blue seal",
+            "ornate design"
+          ],
+          "issue_id": "US-P001-1899-A",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": 8000,
+            "total_printed": 35000000
+          },
+          "notes": "Famous 'Black Eagle' note, last of the large-size ornate designs. Ranked #16 in '100 Greatest American Currency Notes'",
+          "obverse_description": "Portrait of Martha Washington in center-left, large black eagle vignette on right, ornate scrollwork throughout, blue Treasury seal lower left, blue serial numbers",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "scarce",
+          "reverse_description": "Complex geometric pattern with large Roman numeral 'I' in center, ornate borders and flourishes, silver certificate obligation text",
+          "seal_color": "blue",
+          "seller_name": "Heritage Auctions",
+          "serial_number_type": "8_digit_alpha_numeric",
+          "series_designation": "Series 1899",
+          "sides": {
+            "obverse": {
+              "design": "Portrait of Martha Washington with black eagle",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Martha Washington portrait",
+                "black eagle vignette",
+                "ornate borders",
+                "blue seal",
+                "blue serial numbers"
+              ]
+            },
+            "reverse": {
+              "design": "Ornate geometric patterns",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "complex geometric design",
+                "large denomination markers",
+                "silver certificate text"
+              ]
+            }
+          },
+          "signature_combination": "Vernon-Treat",
+          "size_format": "large_size",
+          "source_citation": "Friedberg Paper Money of the United States, 20th Edition",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Earlier signature combination",
+              "estimated_mintage": 15000000,
+              "name": "Lyons-Roberts Signatures",
+              "variety_id": "1899_lyons_roberts"
+            },
+            {
+              "description": "Mid-period signature combination",
+              "estimated_mintage": 12000000,
+              "name": "Lyons-Treat Signatures",
+              "variety_id": "1899_lyons_treat"
+            },
+            {
+              "description": "Later signature combination",
+              "estimated_mintage": 8000000,
+              "name": "Vernon-Treat Signatures",
+              "variety_id": "1899_vernon_treat"
+            }
+          ],
+          "year": 1899
+        },
+        {
+          "authority_code": "A",
+          "distinguishing_features": "Blue Treasury seal, Blue serial numbers, Lincoln and Grant portraits, 11-13 signature varieties",
+          "identification_keywords": "black eagle, silver certificate, blue seal, signature combinations, lincoln grant",
+          "issue_id": "US-P001-1899-A-MULTI_SIG",
+          "issuing_authority": "United States Treasury",
+          "mintage": {
+            "estimated_surviving": null,
+            "total_printed": 3604239600
+          },
+          "notes": "Produced with 11-13 Register/Treasurer signature pairs; references vary by cataloging approach. Total printed: 3,604,239,600",
+          "rarity": "common",
+          "seal_color": "Blue Treasury seal",
+          "seller_name": "2025-08-17 21:53:17",
+          "series_designation": "Silver Certificate",
+          "sides": {
+            "obverse": {
+              "design": "Black Eagle Multiple Signature Combinations obverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "Blue Treasury seal",
+                "Blue serial numbers",
+                "Lincoln and Grant portraits",
+                "11-13 signature varieties"
+              ]
+            },
+            "reverse": {
+              "design": "Black Eagle Multiple Signature Combinations reverse design",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "denomination markers",
+                "series text"
+              ]
+            }
+          },
+          "source_citation": "GitHub Issue #30 Large Note Variety Research",
+          "specifications": {
+            "height_mm": 81,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.2,
+            "width_mm": 187
+          },
+          "varieties": [
+            {
+              "description": "Blue Treasury seal, Blue serial numbers, Lincoln and Grant portraits, 11-13 signature varieties",
+              "name": "Black Eagle Multiple Signature Combinations",
+              "variety_id": "multi_sig"
+            }
+          ],
+          "year": 1899
+        },
+        {
+          "authority_code": "A",
+          "block_letter": "A",
+          "common_names": [
+            "one dollar bill",
+            "single",
+            "buck"
+          ],
+          "distinguishing_features": [
+            "Blue treasury seal",
+            "Blue serial numbers",
+            "Series 1957A designation",
+            "Federal Reserve Bank of Boston seal"
+          ],
+          "identification_keywords": [
+            "silver certificate",
+            "george washington",
+            "blue seal",
+            "series 1957A",
+            "federal reserve boston"
+          ],
+          "issue_id": "US-P001-1957-A",
+          "issuing_authority": "Federal Reserve Bank of Boston",
+          "mintage": {
+            "series_1957": 350000000,
+            "series_1957A": 150000000,
+            "total_printed": 500000000
+          },
+          "notes": "First small-size silver certificate series to feature 'IN GOD WE TRUST'",
+          "obverse_description": "Portrait of George Washington in center, Federal Reserve Bank seal on left, Treasury seal on right, serial numbers in green ink",
+          "paper_type": "cotton_linen_blend",
+          "rarity": "common",
+          "reverse_description": "Great Seal of the United States with pyramid and all-seeing eye on left, eagle with shield and banner on right",
+          "seal_color": "blue",
+          "seller_name": "Heritage Auctions",
+          "serial_number_type": "8_digit_standard",
+          "series_designation": "Series 1957A",
+          "sides": {
+            "obverse": {
+              "design": "George Washington portrait",
+              "designer": "Gilbert Stuart (portrait basis)",
+              "elements": [
+                "presidential portrait",
+                "serial numbers",
+                "treasury seal",
+                "federal reserve seal"
+              ]
+            },
+            "reverse": {
+              "design": "Great Seal of the United States",
+              "designer": "Bureau of Engraving and Printing",
+              "elements": [
+                "pyramid with eye",
+                "eagle with shield",
+                "IN GOD WE TRUST motto"
+              ]
+            }
+          },
+          "signature_combination": "Ivy Baker Priest / George M. Humphrey",
+          "size_format": "small_size",
+          "source_citation": "Bureau of Engraving and Printing Production Records",
+          "specifications": {
+            "height_mm": 66,
+            "thickness_mm": 0.11,
+            "weight_grams": 1.0,
+            "width_mm": 156
+          },
+          "varieties": [
+            {
+              "description": "Original series 1957 issue",
+              "estimated_mintage": 350000000,
+              "name": "Series 1957",
+              "variety_id": "1957_regular"
+            },
+            {
+              "description": "Replacement note with star in serial number",
+              "estimated_mintage": 2000000,
+              "name": "Series 1957A Star Note",
+              "variety_id": "1957A_star"
+            }
+          ],
+          "year": 1957
+        }
+      ],
+      "defining_characteristics": "US one dollar paper currency",
+      "official_name": "United States One Dollar Bill",
+      "series_id": "us_paper_1_dollar",
+      "series_name": "One Dollar Bill",
+      "years": {
+        "end": 1957,
+        "start": 1899
+      }
+    }
+  ]
+}
