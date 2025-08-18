@@ -1,6 +1,6 @@
 {
   "country_code": "US",
-  "total_issues": 323,
+  "total_issues": 329,
   "issues": [
     {
       "issue_id": "US-FUGC-1787-A",
@@ -14303,6 +14303,258 @@
       ],
       "source_citation": "PCGS CoinFacts",
       "seller_name": "2025-08-12 18:31:27"
+    },
+    {
+      "issue_id": "US-SLQ-1917-D-T1",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "D",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with exposed right breast, stars around border",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle in flight lower on reverse, 13 stars around legends",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": null
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "Denver mint Type I variety, produced early 1917 before redesign",
+      "seller_name": "2025-08-18 18:48:34"
+    },
+    {
+      "issue_id": "US-SLQ-1917-D-T2",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "D",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with chainmail shirt covering torso",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle repositioned higher/centered, three additional stars below eagle",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": null
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "Denver mint Type II variety, produced mid-1917 after redesign",
+      "seller_name": "2025-08-18 18:48:34"
+    },
+    {
+      "issue_id": "US-SLQ-1917-P-T1",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with exposed right breast, stars around border",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle in flight lower on reverse, 13 stars around legends",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": 8740000
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "Original design released January 17, 1917, produced until mid-February redesign",
+      "seller_name": "2025-08-18 18:48:34"
+    },
+    {
+      "issue_id": "US-SLQ-1917-P-T2",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "P",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with chainmail shirt covering torso",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle repositioned higher/centered, three additional stars below eagle",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": 13880000
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "Redesigned mid-February 1917 after Congressional authorization July 9, 1917",
+      "seller_name": "2025-08-18 18:48:34"
+    },
+    {
+      "issue_id": "US-SLQ-1917-S-T1",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "S",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with exposed right breast, stars around border",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle in flight lower on reverse, 13 stars around legends",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": null
+      },
+      "rarity": "scarce",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "San Francisco mint Type I variety, preceded Type II redesign",
+      "seller_name": "2025-08-18 18:48:34"
+    },
+    {
+      "issue_id": "US-SLQ-1917-S-T2",
+      "object_type": "coin",
+      "series_id": "us_standing_liberty_quarter",
+      "issuing_entity": {
+        "country_code": "US",
+        "authority_name": "United States Mint",
+        "monetary_system": "decimal",
+        "currency_unit": "USD"
+      },
+      "denomination": {
+        "face_value": 0.25,
+        "unit_name": "Quarter Dollar",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": 1917,
+      "mint_id": "S",
+      "specifications": {
+        "weight_grams": 6.25,
+        "diameter_mm": 24.3,
+        "edge": "Reeded"
+      },
+      "sides": {
+        "obverse": {
+          "design": "Standing Liberty with chainmail shirt covering torso",
+          "designer": "Hermon Atkins MacNeil"
+        },
+        "reverse": {
+          "design": "Eagle repositioned higher/centered, three additional stars below eagle",
+          "designer": "Hermon Atkins MacNeil"
+        }
+      },
+      "mintage": {
+        "business_strikes": 5522000
+      },
+      "rarity": "common",
+      "varieties": [],
+      "source_citation": "GitHub Issue #28 Standing Liberty Quarter Research",
+      "notes": "San Francisco mint Type II variety, 5,522,000 post-redesign mintage",
+      "seller_name": "2025-08-18 18:48:34"
     },
     {
       "issue_id": "US-UNK-1918-D",

@@ -328,6 +328,17 @@
       "end_year": 1914,
       "official_name": "US Federal Reserve Note $20 including Series 1914 Red/Blue Seal and Series 1918 district varieties",
       "type": "US Federal Reserve Note $20"
+    },
+    {
+      "series_id": "us_standing_liberty_quarter",
+      "series_name": "Standing Liberty Quarter",
+      "country_code": "SLQ",
+      "denomination": "US",
+      "start_year": "Quarter Dollar",
+      "end_year": 1916,
+      "defining_characteristics": 1930,
+      "official_name": "Features Type I (1916-early 1917) and Type II (mid-1917-1930) varieties with different Full Head criteria",
+      "type": "Standing Liberty Quarter"
     }
   ]
 }
