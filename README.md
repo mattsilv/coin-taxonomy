@@ -1,8 +1,10 @@
 # United States Coin Taxonomy Database
 
-**The standardized taxonomy for mapping coin databases to universal identifiers**
+**The universal translator between different auction sites and marketplaces**
 
-A comprehensive database of 1,539+ US coins (1793-present) with standardized `COUNTRY-TYPE-YEAR-MINT` identifiers for marketplace integration and AI applications.
+The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.
+
+With 1,539+ US coins (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database.
 
 **🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#mapping-your-database)**
 
