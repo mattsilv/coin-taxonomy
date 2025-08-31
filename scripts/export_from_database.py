@@ -42,10 +42,11 @@ class DatabaseExporter:
         try:
             print("📊 Exporting coins by denomination from database...")
             
-            # Get all denominations
+            # Get US denominations only
             cursor.execute('''
                 SELECT DISTINCT denomination, COUNT(*) as count
                 FROM coins 
+                WHERE coin_id LIKE 'US-%'
                 GROUP BY denomination 
                 ORDER BY denomination
             ''')
@@ -354,7 +355,7 @@ class DatabaseExporter:
                     face_value,
                     COUNT(*) as count
                 FROM issues 
-                WHERE object_type = 'banknote'
+                WHERE object_type = 'banknote' AND country_code = 'US'
                 GROUP BY face_value
                 ORDER BY face_value
             ''')
