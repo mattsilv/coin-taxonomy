@@ -2601,16 +2601,8 @@
               "variety_id": "US-WLHD-1917-D-V1"
             },
             {
-              "description": {
-                "description": "Mint mark on reverse (late 1917)",
-                "name": "Reverse Mint Mark",
-                "variety_id": "US-WLHD-1917-D-Rev"
-              },
-              "name": {
-                "description": "Mint mark on reverse (late 1917)",
-                "name": "Reverse Mint Mark",
-                "variety_id": "US-WLHD-1917-D-Rev"
-              },
+              "description": "Mint mark on reverse (late 1917)",
+              "name": "Reverse Mint Mark",
               "variety_id": "US-WLHD-1917-D-V2"
             }
           ],
@@ -2698,16 +2690,8 @@
               "variety_id": "US-WLHD-1917-S-V1"
             },
             {
-              "description": {
-                "description": "Mint mark on reverse (late 1917)",
-                "name": "Reverse Mint Mark",
-                "variety_id": "US-WLHD-1917-S-Rev"
-              },
-              "name": {
-                "description": "Mint mark on reverse (late 1917)",
-                "name": "Reverse Mint Mark",
-                "variety_id": "US-WLHD-1917-S-Rev"
-              },
+              "description": "Mint mark on reverse (late 1917)",
+              "name": "Reverse Mint Mark",
               "variety_id": "US-WLHD-1917-S-V2"
             }
           ],

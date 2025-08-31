@@ -9,7 +9,12 @@
     },
     "denomination": {
       "type": "string",
-      "enum": ["Cents", "Two Cents", "Three Cents", "Nickels", "Half Dimes", "Dimes", "Twenty Cents", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars"]
+      "enum": [
+        "Cents", "Two Cents", "Three Cents", "Nickels", "Half Dimes", "Dimes", 
+        "Twenty Cents", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars",
+        "Paper $0.03", "Paper $0.05", "Paper $0.1", "Paper $0.15", "Paper $0.25", "Paper $0.5",
+        "Paper $1", "Paper $2", "Paper $5", "Paper $10", "Paper $20", "Paper $50", "Paper $100"
+      ]
     },
     "face_value": {
       "type": "number",
@@ -19,11 +24,11 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["series_id", "series_name", "years"],
+        "required": ["series_id", "series_name"],
         "properties": {
           "series_id": {
             "type": "string",
-            "pattern": "^[a-z_]+$"
+            "pattern": "^[a-z_0-9]+$"
           },
           "series_name": {
             "type": "string"
@@ -37,11 +42,11 @@
             "properties": {
               "start": {
                 "type": "integer",
-                "minimum": 1787
+                "minimum": 1773
               },
               "end": {
                 "oneOf": [
-                  {"type": "integer", "minimum": 1787},
+                  {"type": "integer", "minimum": 1773},
                   {"type": "string", "const": "present"}
                 ]
               }
@@ -75,7 +80,7 @@
                     "start": {"type": "integer", "minimum": 1787},
                     "end": {
                       "oneOf": [
-                        {"type": "integer", "minimum": 1787},
+                        {"type": "integer", "minimum": 1773},
                         {"type": "string", "const": "present"}
                       ]
                     }
@@ -116,9 +121,9 @@
               "properties": {
                 "coin_id": {
                   "type": "string",
-                  "pattern": "^[A-Z]{2,3}-[A-Z]{4}-\\d{4}-[A-Z]{1,2}$"
+                  "pattern": "^[A-Z]{2,3}-[A-Z]{4}-\\d{4}-[A-Z]{1,2}(-[A-Z0-9]+)?$"
                 },
-                "year": {"type": "integer", "minimum": 1787},
+                "year": {"type": "integer", "minimum": 1773},
                 "mint": {"type": "string", "pattern": "^[A-Z]+$"},
                 "business_strikes": {"type": ["integer", "null"]},
                 "proof_strikes": {"type": ["integer", "null"]},
