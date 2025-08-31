@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["country", "denomination", "face_value", "series"],
+  "properties": {
+    "country": {
+      "type": "string",
+      "const": "CA"
+    },
+    "denomination": {
+      "type": "string",
+      "enum": [
+        "Cents", "Five Cents", "Ten Cents", "Twenty Cents", "Twenty-Five Cents",
+        "Fifty Cents", "Dollars", "Two Dollars", "Five Dollars", "Ten Dollars",
+        "Gold Maple Leaf", "Silver Maple Leaf", "Platinum Maple Leaf", "Palladium Maple Leaf",
+        "Sovereign"
+      ]
+    },
+    "face_value": {
+      "type": "number",
+      "minimum": 0
+    },
+    "series": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["series_id", "series_name"],
+        "properties": {
+          "series_id": {
+            "type": "string",
+            "pattern": "^[a-z_0-9]+$"
+          },
+          "series_name": {
+            "type": "string"
+          },
+          "official_name": {
+            "type": "string"
+          },
+          "years": {
+            "type": "object",
+            "required": ["start"],
+            "properties": {
+              "start": {
+                "type": "integer",
+                "minimum": 1858
+              },
+              "end": {
+                "oneOf": [
+                  {"type": "integer", "minimum": 1858},
+                  {"type": "string", "const": "present"}
+                ]
+              }
+            }
+          },
+          "designers": {
+            "type": "object",
+            "properties": {
+              "obverse": {"type": "string"},
+              "reverse": {"type": "string"}
+            }
+          },
+          "specifications": {
+            "type": "object",
+            "properties": {
+              "diameter_mm": {"type": ["number", "null"], "minimum": 0},
+              "edge": {"type": ["string", "null"]},
+              "edge_reeds": {"type": ["integer", "null"], "minimum": 0}
+            }
+          },
+          "composition_periods": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["date_range"],
+              "properties": {
+                "date_range": {
+                  "type": "object",
+                  "required": ["start"],
+                  "properties": {
+                    "start": {"type": "integer", "minimum": 1858},
+                    "end": {
+                      "oneOf": [
+                        {"type": "integer", "minimum": 1858},
+                        {"type": "string", "const": "present"}
+                      ]
+                    }
+                  }
+                },
+                "composition_key": {
+                  "type": "string",
+                  "pattern": "^[a-z_0-9-]+$"
+                },
+                "alloy_name": {
+                  "type": "string"
+                },
+                "alloy": {
+                  "type": "object",
+                  "patternProperties": {
+                    "^[a-z_]+$": {"type": "number", "minimum": 0, "maximum": 1}
+                  }
+                },
+                "weight_grams": {
+                  "type": ["number", "null"],
+                  "minimum": 0
+                },
+                "weight_grains": {
+                  "type": ["number", "null"],
+                  "minimum": 0
+                }
+              }
+            }
+          },
+          "design_periods": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["date_range", "obverse", "reverse"],
+              "properties": {
+                "date_range": {
+                  "type": "object",
+                  "required": ["start"],
+                  "properties": {
+                    "start": {"type": "integer", "minimum": 1858},
+                    "end": {
+                      "oneOf": [
+                        {"type": "integer", "minimum": 1858},
+                        {"type": "string", "const": "present"}
+                      ]
+                    }
+                  }
+                },
+                "obverse": {
+                  "type": "string"
+                },
+                "reverse": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "mints": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["mint_mark", "years"],
+              "properties": {
+                "mint_mark": {
+                  "type": "string",
+                  "pattern": "^[A-Z]+$"
+                },
+                "years": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer",
+                    "minimum": 1858
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

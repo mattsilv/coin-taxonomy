@@ -1,0 +1,31 @@
+{
+  "country": "CA",
+  "denomination": "Twenty Cents",
+  "face_value": 0.2,
+  "coins": [
+    {
+      "coin_id": "CA-TWTY-1858-RM",
+      "series_id": "ca_20c",
+      "denomination": "Twenty Cents",
+      "series_name": "20 Cents",
+      "year": 1858,
+      "mint": "RM",
+      "business_strikes": 730392,
+      "rarity": "scarce",
+      "composition": {
+        "silver": 0.925,
+        "copper": 0.075
+      },
+      "weight_grams": 4.648,
+      "diameter_mm": 23.3,
+      "varieties": [],
+      "source_citation": "Issue #11 research",
+      "notes": "Only issued in 1858, replaced by 25-cent coin",
+      "obverse_description": "Queen Victoria laureate bust left",
+      "reverse_description": "Two maple leaves with denomination",
+      "distinguishing_features": "Single year issue, discontinued due to confusion with US quarter",
+      "identification_keywords": "Victoria, maple leaves, twenty cents",
+      "common_names": "1858 Twenty Cents"
+    }
+  ]
+}

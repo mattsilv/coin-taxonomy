@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["grades"],
+  "properties": {
+    "grades": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["grade", "abbreviation", "numeric_value", "category"],
+        "properties": {
+          "grade": {
+            "type": "string"
+          },
+          "abbreviation": {
+            "type": "string"
+          },
+          "numeric_value": {
+            "type": ["number", "null"]
+          },
+          "category": {
+            "type": "string",
+            "enum": ["Poor", "Fair", "Good", "Very Good", "Fine", "Very Fine", "Extremely Fine", "About Uncirculated", "Uncirculated", "Proof"]
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

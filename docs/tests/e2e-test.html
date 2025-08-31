@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E2E Test - Coin Taxonomy</title>
+    <style>
+        body {
+            font-family: monospace;
+            padding: 20px;
+            background: #1a1a1a;
+            color: #0f0;
+        }
+        .test-result {
+            margin: 10px 0;
+            padding: 5px;
+        }
+        .pass {
+            color: #0f0;
+        }
+        .fail {
+            color: #f00;
+        }
+        .pending {
+            color: #ff0;
+        }
+        #summary {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #0f0;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧪 E2E Test Suite - Coin Taxonomy</h1>
+    <div id="test-results"></div>
+    <div id="summary"></div>
+
+    <script>
+        const results = [];
+        const testResults = document.getElementById('test-results');
+        
+        function log(message, status = 'pending') {
+            const div = document.createElement('div');
+            div.className = `test-result ${status}`;
+            div.textContent = message;
+            testResults.appendChild(div);
+            results.push({ message, status });
+        }
+
+        async function runTests() {
+            log('Starting E2E tests...');
+            
+            // Test 1: Check if app.js loads
+            try {
+                const appResponse = await fetch('../app.js');
+                if (appResponse.ok) {
+                    log('✅ Test 1: app.js loads successfully', 'pass');
+                } else {
+                    log('❌ Test 1: Failed to load app.js', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 1: Error loading app.js: ${e.message}`, 'fail');
+            }
+
+            // Test 2: Check if US data exists
+            try {
+                const usResponse = await fetch('../data/universal/us_issues.json');
+                if (usResponse.ok) {
+                    const usData = await usResponse.json();
+                    if (usData.country === 'US' && usData.issues && usData.issues.length > 0) {
+                        log(`✅ Test 2: US data loaded (${usData.issues.length} issues)`, 'pass');
+                    } else {
+                        log('❌ Test 2: US data format incorrect', 'fail');
+                    }
+                } else {
+                    log('❌ Test 2: Failed to load US data', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 2: Error loading US data: ${e.message}`, 'fail');
+            }
+
+            // Test 3: Check if Canada data exists
+            try {
+                const caResponse = await fetch('../data/universal/ca_issues.json');
+                if (caResponse.ok) {
+                    const caData = await caResponse.json();
+                    if (caData.country === 'CA' && caData.issues && caData.issues.length > 0) {
+                        log(`✅ Test 3: Canada data loaded (${caData.issues.length} issues)`, 'pass');
+                    } else {
+                        log('❌ Test 3: Canada data format incorrect', 'fail');
+                    }
+                } else {
+                    log('❌ Test 3: Failed to load Canada data', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 3: Error loading Canada data: ${e.message}`, 'fail');
+            }
+
+            // Test 4: Check taxonomy summary
+            try {
+                const summaryResponse = await fetch('../data/universal/taxonomy_summary.json');
+                if (summaryResponse.ok) {
+                    const summary = await summaryResponse.json();
+                    if (summary.issue_files && 
+                        summary.issue_files.includes('us_issues.json') && 
+                        summary.issue_files.includes('ca_issues.json')) {
+                        log(`✅ Test 4: Taxonomy summary includes both US and Canada (${summary.countries} countries)`, 'pass');
+                    } else {
+                        log('❌ Test 4: Taxonomy summary missing country data', 'fail');
+                    }
+                } else {
+                    log('❌ Test 4: Failed to load taxonomy summary', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 4: Error loading taxonomy summary: ${e.message}`, 'fail');
+            }
+
+            // Test 5: Verify Canada coin data structure
+            try {
+                const caResponse = await fetch('../data/universal/ca_issues.json');
+                const caData = await caResponse.json();
+                
+                // Check for required fields in first coin
+                if (caData.issues && caData.issues.length > 0) {
+                    const firstCoin = caData.issues[0];
+                    const requiredFields = ['issueId', 'country', 'denomination', 'year', 'mint', 'seriesName'];
+                    const missingFields = requiredFields.filter(field => !(field in firstCoin));
+                    
+                    if (missingFields.length === 0) {
+                        log('✅ Test 5: Canada coin data structure valid', 'pass');
+                    } else {
+                        log(`❌ Test 5: Canada coins missing fields: ${missingFields.join(', ')}`, 'fail');
+                    }
+                } else {
+                    log('❌ Test 5: No Canada coins found', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 5: Error validating Canada data: ${e.message}`, 'fail');
+            }
+
+            // Test 6: Check app.js includes Canada in country list
+            try {
+                const appResponse = await fetch('../app.js');
+                const appCode = await appResponse.text();
+                
+                if (appCode.includes("{ code: 'CA', name: 'Canada'") || 
+                    appCode.includes('{ code: "CA", name: "Canada"')) {
+                    log('✅ Test 6: app.js includes Canada in country list', 'pass');
+                } else {
+                    log('❌ Test 6: app.js does not include Canada in country list', 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 6: Error checking app.js: ${e.message}`, 'fail');
+            }
+
+            // Test 7: Validate some specific Canada coins
+            try {
+                const caResponse = await fetch('../data/universal/ca_issues.json');
+                const caData = await caResponse.json();
+                
+                // Check for key Canadian coins
+                const keyCoins = [
+                    { id: 'CA-CENT-1858-RM', name: '1858 Large Cent' },
+                    { id: 'CA-DOLR-1987-P', name: 'Loonie' },
+                    { id: 'CA-TWOD-1996-P', name: 'Toonie' }
+                ];
+                
+                let found = 0;
+                for (const keyCoin of keyCoins) {
+                    if (caData.issues.some(coin => coin.issueId === keyCoin.id)) {
+                        found++;
+                    }
+                }
+                
+                if (found === keyCoins.length) {
+                    log(`✅ Test 7: Key Canadian coins found (${found}/${keyCoins.length})`, 'pass');
+                } else {
+                    log(`⚠️ Test 7: Only ${found}/${keyCoins.length} key Canadian coins found`, 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 7: Error checking key coins: ${e.message}`, 'fail');
+            }
+
+            // Test 8: Check if frontend can parse both countries
+            try {
+                // Simulate what the frontend does
+                const countries = [
+                    { code: 'US', name: 'United States', file: 'data/universal/us_issues.json' },
+                    { code: 'CA', name: 'Canada', file: 'data/universal/ca_issues.json' }
+                ];
+                
+                let loadedCountries = 0;
+                for (const country of countries) {
+                    const response = await fetch(`../${country.file}`);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (data.issues && data.issues.length > 0) {
+                            loadedCountries++;
+                        }
+                    }
+                }
+                
+                if (loadedCountries === countries.length) {
+                    log(`✅ Test 8: Frontend can load all ${loadedCountries} countries`, 'pass');
+                } else {
+                    log(`❌ Test 8: Frontend can only load ${loadedCountries}/${countries.length} countries`, 'fail');
+                }
+            } catch (e) {
+                log(`❌ Test 8: Error simulating frontend: ${e.message}`, 'fail');
+            }
+
+            // Generate summary
+            const passed = results.filter(r => r.status === 'pass').length;
+            const failed = results.filter(r => r.status === 'fail').length;
+            const total = passed + failed;
+            
+            const summaryDiv = document.getElementById('summary');
+            summaryDiv.innerHTML = `
+                <h2>Test Summary</h2>
+                <p>Total Tests: ${total}</p>
+                <p class="pass">Passed: ${passed}</p>
+                <p class="fail">Failed: ${failed}</p>
+                <p>Success Rate: ${Math.round((passed/total) * 100)}%</p>
+                <p>${failed === 0 ? '✅ All tests passed!' : '❌ Some tests failed. Check the results above.'}</p>
+            `;
+            
+            // Return results for CI/CD integration
+            return {
+                passed,
+                failed,
+                total,
+                success: failed === 0
+            };
+        }
+
+        // Run tests on load
+        window.addEventListener('load', async () => {
+            const results = await runTests();
+            
+            // Log to console for CI/CD
+            console.log('E2E Test Results:', results);
+            
+            // Set exit code for CI/CD (if running in headless browser)
+            if (window.testResults) {
+                window.testResults = results;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "country": "CA",
+  "denomination": "Dollars",
+  "face_value": 1.0,
+  "coins": [
+    {
+      "coin_id": "CA-DOLR-1935-P",
+      "series_id": "ca_silver_dollar",
+      "denomination": "Dollars",
+      "series_name": "Voyageur Silver Dollar",
+      "year": 1935,
+      "mint": "P",
+      "business_strikes": 428707,
+      "rarity": "common",
+      "composition": {
+        "silver": 0.8,
+        "copper": 0.2
+      },
+      "weight_grams": 23.33,
+      "diameter_mm": 36.0,
+      "varieties": [],
+      "source_citation": "Issue #11 research",
+      "obverse_description": "King George V bust left",
+      "reverse_description": "Voyageur canoe with bundle",
+      "distinguishing_features": "First Canadian silver dollar",
+      "identification_keywords": "George V, voyageur, canoe",
+      "common_names": "1935 Silver Dollar"
+    },
+    {
+      "coin_id": "CA-DOLR-1948-P",
+      "series_id": "ca_silver_dollar",
+      "denomination": "Dollars",
+      "series_name": "Voyageur Silver Dollar",
+      "year": 1948,
+      "mint": "P",
+      "business_strikes": 18780,
+      "rarity": "key",
+      "composition": {
+        "silver": 0.8,
+        "copper": 0.2
+      },
+      "weight_grams": 23.33,
+      "diameter_mm": 36.0,
+      "varieties": [],
+      "source_citation": "Issue #11 research",
+      "notes": "Lowest mintage of silver dollar series",
+      "obverse_description": "King George VI bust left",
+      "reverse_description": "Voyageur canoe with bundle",
+      "distinguishing_features": "King of Canadian silver dollars - lowest mintage",
+      "identification_keywords": "George VI, voyageur, key date",
+      "common_names": "1948 Silver Dollar"
+    },
+    {
+      "coin_id": "CA-DOLR-1987-P",
+      "series_id": "ca_loonie",
+      "denomination": "Dollars",
+      "series_name": "Loonie",
+      "year": 1987,
+      "mint": "P",
+      "rarity": "common",
+      "composition": {
+        "nickel": 0.915,
+        "bronze": 0.085
+      },
+      "weight_grams": 7.0,
+      "diameter_mm": 26.5,
+      "varieties": [],
+      "source_citation": "Issue #11 research",
+      "notes": "Replaced paper dollar",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "reverse_description": "Common loon swimming",
+      "distinguishing_features": "First circulation dollar coin",
+      "identification_keywords": "Elizabeth II, loon, Loonie",
+      "common_names": "Loonie"
+    }
+  ]
+}

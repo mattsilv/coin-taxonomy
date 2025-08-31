@@ -1226,6 +1226,77 @@
     {
       "coins": [
         {
+          "business_strikes": 428707,
+          "coin_id": "CA-DOLR-1935-P",
+          "common_names": "1935 Silver Dollar",
+          "composition": {
+            "copper": 0.2,
+            "silver": 0.8
+          },
+          "diameter_mm": 36.0,
+          "distinguishing_features": "First Canadian silver dollar",
+          "identification_keywords": "George V, voyageur, canoe",
+          "mint": "P",
+          "obverse_description": "King George V bust left",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Voyageur canoe with bundle",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 23.33,
+          "year": 1935
+        },
+        {
+          "business_strikes": 18780,
+          "coin_id": "CA-DOLR-1948-P",
+          "common_names": "1948 Silver Dollar",
+          "composition": {
+            "copper": 0.2,
+            "silver": 0.8
+          },
+          "diameter_mm": 36.0,
+          "distinguishing_features": "King of Canadian silver dollars - lowest mintage",
+          "identification_keywords": "George VI, voyageur, key date",
+          "mint": "P",
+          "notes": "Lowest mintage of silver dollar series",
+          "obverse_description": "King George VI bust left",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Voyageur canoe with bundle",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 23.33,
+          "year": 1948
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1948,
+            "start": 1935
+          },
+          "weight": {
+            "grams": 23.33
+          }
+        }
+      ],
+      "official_name": "Voyageur Silver Dollar",
+      "series_id": "ca_silver_dollar",
+      "series_name": "Voyageur Silver Dollar",
+      "specifications": {
+        "diameter_mm": 36.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1948,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 1769258,
           "coin_id": "US-EISE-1973-D",
           "common_names": "[\"Eisenhower Dollar\", \"Ike Dollar\", \"Moon Dollar\"]",
@@ -1457,6 +1528,56 @@
       "years": {
         "end": 1999,
         "start": 1979
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "CA-DOLR-1987-P",
+          "common_names": "Loonie",
+          "composition": {
+            "bronze": 0.085,
+            "nickel": 0.915
+          },
+          "diameter_mm": 26.5,
+          "distinguishing_features": "First circulation dollar coin",
+          "identification_keywords": "Elizabeth II, loon, Loonie",
+          "mint": "P",
+          "notes": "Replaced paper dollar",
+          "obverse_description": "Queen Elizabeth II bust right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Common loon swimming",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 7.0,
+          "year": 1987
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1987,
+            "start": 1987
+          },
+          "weight": {
+            "grams": 7.0
+          }
+        }
+      ],
+      "official_name": "Loonie",
+      "series_id": "ca_loonie",
+      "series_name": "Loonie",
+      "specifications": {
+        "diameter_mm": 26.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1987,
+        "start": 1987
       }
     },
     {

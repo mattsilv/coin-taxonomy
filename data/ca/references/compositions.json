@@ -1,0 +1,144 @@
+{
+  "compositions": [
+    {
+      "id": "sterling-silver",
+      "name": "Sterling Silver",
+      "composition": "92.5% Ag, 7.5% Cu",
+      "years_used": "1858-1919",
+      "notes": "Standard for early Canadian silver coins"
+    },
+    {
+      "id": "80-silver",
+      "name": "80% Silver",
+      "composition": "80% Ag, 20% Cu",
+      "years_used": "1920-1967",
+      "notes": "Reduced silver content after WWI"
+    },
+    {
+      "id": "50-silver",
+      "name": "50% Silver",
+      "composition": "50% Ag, 50% Cu",
+      "years_used": "1968",
+      "notes": "Transitional year composition"
+    },
+    {
+      "id": "bronze",
+      "name": "Bronze",
+      "composition": "95% Cu, 4% Sn, 1% Zn",
+      "years_used": "1858-1996",
+      "notes": "Used for cents"
+    },
+    {
+      "id": "nickel",
+      "name": "Pure Nickel",
+      "composition": "99.9% Ni",
+      "years_used": "1922-1999",
+      "notes": "Used for 5-cent coins and later for other denominations"
+    },
+    {
+      "id": "tombac",
+      "name": "Tombac",
+      "composition": "88% Cu, 12% Zn",
+      "years_used": "1942-1945",
+      "notes": "WWII emergency composition for 5-cent coins"
+    },
+    {
+      "id": "chromium-steel",
+      "name": "Chromium-plated Steel",
+      "composition": "Steel core with chromium plating",
+      "years_used": "1944-1945",
+      "notes": "WWII emergency composition"
+    },
+    {
+      "id": "copper-zinc",
+      "name": "Copper-plated Zinc",
+      "composition": "98% Zn, 2% Cu plating",
+      "years_used": "1997-1999",
+      "notes": "Late cent composition"
+    },
+    {
+      "id": "copper-steel",
+      "name": "Copper-plated Steel",
+      "composition": "94% steel, 4.5% Cu plating, 1.5% Ni",
+      "years_used": "2000-2012",
+      "notes": "Final cent composition"
+    },
+    {
+      "id": "multi-ply-steel",
+      "name": "Multi-ply Plated Steel",
+      "composition": "Steel core with nickel plating",
+      "years_used": "2000-present",
+      "notes": "Modern circulation coin composition"
+    },
+    {
+      "id": "bronze-nickel",
+      "name": "Bronze-plated Nickel",
+      "composition": "Nickel core with bronze plating",
+      "years_used": "1987-2011",
+      "notes": "Original Loonie composition"
+    },
+    {
+      "id": "bimetallic",
+      "name": "Bimetallic",
+      "composition": "Aluminum bronze core, nickel ring",
+      "years_used": "1996-2011",
+      "notes": "Original Toonie composition"
+    },
+    {
+      "id": "gold-9999",
+      "name": "Four Nines Gold",
+      "composition": "99.99% Au",
+      "years_used": "1982-present",
+      "notes": "Gold Maple Leaf standard purity"
+    },
+    {
+      "id": "gold-99999",
+      "name": "Five Nines Gold",
+      "composition": "99.999% Au",
+      "years_used": "2007-present",
+      "notes": "Ultra-high purity Gold Maple Leaf"
+    },
+    {
+      "id": "silver-9999",
+      "name": "Four Nines Silver",
+      "composition": "99.99% Ag",
+      "years_used": "1988-present",
+      "notes": "Silver Maple Leaf purity"
+    },
+    {
+      "id": "platinum-9995",
+      "name": "Platinum",
+      "composition": "99.95% Pt",
+      "years_used": "1988-2002",
+      "notes": "Original Platinum Maple Leaf purity"
+    },
+    {
+      "id": "platinum-9999",
+      "name": "Four Nines Platinum",
+      "composition": "99.99% Pt",
+      "years_used": "2009-present",
+      "notes": "Modern Platinum Maple Leaf purity"
+    },
+    {
+      "id": "palladium-9995",
+      "name": "Palladium",
+      "composition": "99.95% Pd",
+      "years_used": "2005-present",
+      "notes": "Palladium Maple Leaf purity"
+    },
+    {
+      "id": "gold-90",
+      "name": "90% Gold",
+      "composition": "90% Au, 10% Cu",
+      "years_used": "1912-1914",
+      "notes": "Used for $5 and $10 gold coins"
+    },
+    {
+      "id": "sovereign-gold",
+      "name": "Sovereign Gold",
+      "composition": "91.67% Au, 8.33% Cu",
+      "years_used": "1908-1919",
+      "notes": "British sovereign standard"
+    }
+  ]
+}

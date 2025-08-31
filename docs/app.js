@@ -90,10 +90,10 @@ class CurrencyBrowser {
 
     async loadCountries() {
         try {
-            // For now, we know we have US data
-            // This can be expanded when more countries are added
+            // Load available countries from the universal taxonomy
             const countries = [
-                { code: 'US', name: 'United States', file: 'data/universal/us_issues.json' }
+                { code: 'US', name: 'United States', file: 'data/universal/us_issues.json' },
+                { code: 'CA', name: 'Canada', file: 'data/universal/ca_issues.json' }
             ];
 
             this.populateCountryDropdown(countries);

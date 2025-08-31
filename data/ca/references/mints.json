@@ -1,0 +1,32 @@
+{
+  "mints": [
+    {
+      "mint_mark": "RM",
+      "name": "Royal Mint London",
+      "location": "Tower Hill, London, England",
+      "years_active": "1858-1907",
+      "notes": "Struck Canada's first decimal coins in 1858"
+    },
+    {
+      "mint_mark": "P",
+      "name": "Ottawa Mint",
+      "location": "Ottawa, Ontario, Canada",
+      "years_active": "1908-present",
+      "notes": "Became Royal Canadian Mint in 1969. Primary facility for circulation coins."
+    },
+    {
+      "mint_mark": "W",
+      "name": "Winnipeg Mint",
+      "location": "Winnipeg, Manitoba, Canada",
+      "years_active": "1976-present",
+      "notes": "High-volume production facility. Annual capacity ~1 billion coins."
+    },
+    {
+      "mint_mark": "C",
+      "name": "Ottawa Mint (British Sovereigns)",
+      "location": "Ottawa, Ontario, Canada",
+      "years_active": "1908-1919",
+      "notes": "Special mint mark 'C' used on British sovereigns struck in Ottawa"
+    }
+  ]
+}

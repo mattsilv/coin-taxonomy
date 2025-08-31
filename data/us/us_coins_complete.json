@@ -14519,6 +14519,46 @@
       "year": 1858
     },
     {
+      "business_strikes": 421000,
+      "coin_id": "CA-CENT-1858-RM",
+      "common_names": "1858 Large Cent",
+      "composition": {
+        "copper": 0.95,
+        "tin": 0.04,
+        "zinc": 0.01
+      },
+      "country": "CA",
+      "denomination": "Cents",
+      "diameter_mm": 25.4,
+      "distinguishing_features": "Large format cent",
+      "identification_keywords": "Victoria, maple leaves, large cent",
+      "mint": "RM",
+      "notes": null,
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Two maple leaves on twig with denomination",
+      "series_id": "ca_large_cent",
+      "series_name": "Large Cent",
+      "source_citation": "Issue #11 research",
+      "varieties": [
+        {
+          "name": "Coin alignment",
+          "premium": true
+        },
+        {
+          "name": "Full vine",
+          "premium": true
+        },
+        {
+          "name": "Broken stem",
+          "premium": false
+        }
+      ],
+      "weight_grams": 4.54,
+      "year": 1858
+    },
+    {
       "business_strikes": 1540000,
       "coin_id": "US-SLDI-1858-P",
       "common_names": "[\"Seated Liberty Dime\", \"1858 Seated Dime\", \"Liberty Seated Dime\"]",
@@ -14698,6 +14738,31 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 16.718,
+      "year": 1858
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-FIVE-1858-RM",
+      "common_names": "1858 Silver Five Cents",
+      "composition": {
+        "copper": 0.075,
+        "silver": 0.925
+      },
+      "country": "CA",
+      "denomination": "Five Cents",
+      "diameter_mm": 15.5,
+      "identification_keywords": "Victoria, maple leaves, silver",
+      "mint": "RM",
+      "notes": null,
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Two maple leaves with denomination",
+      "series_id": "ca_5c_silver",
+      "series_name": "5 Cents Silver",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": null,
       "year": 1858
     },
     {
@@ -15132,6 +15197,31 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-DIME-1858-RM",
+      "common_names": "1858 Silver Ten Cents",
+      "composition": {
+        "copper": 0.075,
+        "silver": 0.925
+      },
+      "country": "CA",
+      "denomination": "Ten Cents",
+      "diameter_mm": 18.0,
+      "identification_keywords": "Victoria, maple leaves, silver",
+      "mint": "RM",
+      "notes": null,
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Two maple leaves with denomination",
+      "series_id": "ca_10c_silver",
+      "series_name": "10 Cents Silver",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": null,
+      "year": 1858
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-TDOG-1858-P",
       "common_names": "Three Dollar Gold",
       "composition": {
@@ -15180,6 +15270,32 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 5.015,
+      "year": 1858
+    },
+    {
+      "business_strikes": 730392,
+      "coin_id": "CA-TWTY-1858-RM",
+      "common_names": "1858 Twenty Cents",
+      "composition": {
+        "copper": 0.075,
+        "silver": 0.925
+      },
+      "country": "CA",
+      "denomination": "Twenty Cents",
+      "diameter_mm": 23.3,
+      "distinguishing_features": "Single year issue, discontinued due to confusion with US quarter",
+      "identification_keywords": "Victoria, maple leaves, twenty cents",
+      "mint": "RM",
+      "notes": "Only issued in 1858, replaced by 25-cent coin",
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Two maple leaves with denomination",
+      "series_id": "ca_20c",
+      "series_name": "20 Cents",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 4.648,
       "year": 1858
     },
     {
@@ -20956,6 +21072,31 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-HALF-1870-P",
+      "common_names": "Victoria Half Dollar",
+      "composition": {
+        "copper": 0.075,
+        "silver": 0.925
+      },
+      "country": "CA",
+      "denomination": "Fifty Cents",
+      "diameter_mm": 27.13,
+      "identification_keywords": "Victoria, coat of arms",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Canadian coat of arms",
+      "series_id": "ca_50c_victoria",
+      "series_name": "Victoria Half Dollar",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 11.62,
+      "year": 1870
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-GDLC-1870-P",
       "common_names": "Gold Dollar Type III",
       "composition": {
@@ -21245,6 +21386,31 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 5.015,
+      "year": 1870
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-QRTR-1870-P",
+      "common_names": "Victoria Quarter",
+      "composition": {
+        "copper": 0.075,
+        "silver": 0.925
+      },
+      "country": "CA",
+      "denomination": "Twenty-Five Cents",
+      "diameter_mm": 23.88,
+      "identification_keywords": "Victoria, crown, wreath",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Queen Victoria laureate bust left",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Crown and wreath design",
+      "series_id": "ca_25c_victoria",
+      "series_name": "Victoria Quarter",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 5.81,
       "year": 1870
     },
     {
@@ -37913,6 +38079,32 @@
       "year": 1912
     },
     {
+      "business_strikes": 165680,
+      "coin_id": "CA-FIVE-1912-P",
+      "common_names": "$5 Gold",
+      "composition": {
+        "copper": 0.1,
+        "gold": 0.9
+      },
+      "country": "CA",
+      "denomination": "Five Dollars",
+      "diameter_mm": 21.6,
+      "distinguishing_features": "Pre-WWI gold coin",
+      "identification_keywords": "George V, shield, gold",
+      "mint": "P",
+      "notes": "Withdrawn 1914, released 2012",
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Shield with maple leaves",
+      "series_id": "ca_gold_5_dollar",
+      "series_name": "$5 Gold",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 8.36,
+      "year": 1912
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-HEIH-1912-D",
       "common_names": "Half Eagle Indian Head",
@@ -39948,6 +40140,32 @@
       "year": 1916
     },
     {
+      "business_strikes": 6111,
+      "coin_id": "CA-SOVR-1916-C",
+      "common_names": "1916C Sovereign",
+      "composition": {
+        "copper": 0.0833,
+        "gold": 0.9167
+      },
+      "country": "CA",
+      "denomination": "Sovereign",
+      "diameter_mm": 22.05,
+      "distinguishing_features": "Extremely rare, ~50 known",
+      "identification_keywords": "George V, St. George, sovereign",
+      "mint": "C",
+      "notes": "British sovereign struck in Ottawa with C mint mark",
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "St. George slaying dragon",
+      "series_id": "ca_sovereign",
+      "series_name": "Ottawa Sovereign",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 7.988,
+      "year": 1916
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LWCT-1917-D",
       "common_names": "[\"Wheat Penny\", \"Wheat Cent\", \"Lincoln Cent\"]",
@@ -41259,6 +41477,58 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 33.436,
+      "year": 1921
+    },
+    {
+      "business_strikes": 206398,
+      "coin_id": "CA-HALF-1921-P",
+      "common_names": "1921 Half Dollar (King)",
+      "composition": {
+        "copper": 0.2,
+        "silver": 0.8
+      },
+      "country": "CA",
+      "denomination": "Fifty Cents",
+      "diameter_mm": 27.13,
+      "distinguishing_features": "King of Canadian coins - <75 survive",
+      "identification_keywords": "George V, coat of arms, key date",
+      "mint": "P",
+      "notes": "Nearly all melted due to low demand",
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Canadian coat of arms",
+      "series_id": "ca_50c_george_v",
+      "series_name": "George V Half Dollar",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 11.62,
+      "year": 1921
+    },
+    {
+      "business_strikes": 2582495,
+      "coin_id": "CA-FIVE-1921-P",
+      "common_names": "1921 Silver Five Cents (Prince)",
+      "composition": {
+        "copper": 0.2,
+        "silver": 0.8
+      },
+      "country": "CA",
+      "denomination": "Five Cents",
+      "diameter_mm": 15.5,
+      "distinguishing_features": "Prince of Canadian coins - most melted, <400 survive",
+      "identification_keywords": "George V, maple leaves, key date",
+      "mint": "P",
+      "notes": "Most of mintage melted when nickel 5-cent introduced",
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Two maple leaves with denomination",
+      "series_id": "ca_5c_silver",
+      "series_name": "5 Cents Silver",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 1.16,
       "year": 1921
     },
     {
@@ -44313,6 +44583,32 @@
       "year": 1935
     },
     {
+      "business_strikes": 428707,
+      "coin_id": "CA-DOLR-1935-P",
+      "common_names": "1935 Silver Dollar",
+      "composition": {
+        "copper": 0.2,
+        "silver": 0.8
+      },
+      "country": "CA",
+      "denomination": "Dollars",
+      "diameter_mm": 36.0,
+      "distinguishing_features": "First Canadian silver dollar",
+      "identification_keywords": "George V, voyageur, canoe",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Voyageur canoe with bundle",
+      "series_id": "ca_silver_dollar",
+      "series_name": "Voyageur Silver Dollar",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 23.33,
+      "year": 1935
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-WLHD-1935-D",
       "common_names": "[\"Walking Liberty Half Dollar\", \"Walking Half\", \"Liberty Walking\"]",
@@ -44568,6 +44864,38 @@
       "source_citation": "Red Book, PCGS CoinFacts",
       "varieties": [],
       "weight_grams": 3.11,
+      "year": 1936
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-CENT-1936-P",
+      "common_names": "1936 Dot Cent",
+      "composition": {
+        "copper": 0.95,
+        "tin": 0.04,
+        "zinc": 0.01
+      },
+      "country": "CA",
+      "denomination": "Cents",
+      "diameter_mm": 19.05,
+      "distinguishing_features": "Dot below date (emergency 1937 issue), only 3 known",
+      "identification_keywords": "George V, dot variety, emergency issue",
+      "mint": "P",
+      "notes": "Struck in 1937 with 1936 dies plus dot",
+      "obverse_description": "King George V bust left",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Two maple leaves on twig",
+      "series_id": "ca_small_cent",
+      "series_name": "Small Cent",
+      "source_citation": "Issue #11 research",
+      "varieties": [
+        {
+          "name": "Dot variety",
+          "premium": true
+        }
+      ],
+      "weight_grams": 3.24,
       "year": 1936
     },
     {
@@ -49313,6 +49641,32 @@
         }
       ],
       "weight_grams": 2.5,
+      "year": 1948
+    },
+    {
+      "business_strikes": 18780,
+      "coin_id": "CA-DOLR-1948-P",
+      "common_names": "1948 Silver Dollar",
+      "composition": {
+        "copper": 0.2,
+        "silver": 0.8
+      },
+      "country": "CA",
+      "denomination": "Dollars",
+      "diameter_mm": 36.0,
+      "distinguishing_features": "King of Canadian silver dollars - lowest mintage",
+      "identification_keywords": "George VI, voyageur, key date",
+      "mint": "P",
+      "notes": "Lowest mintage of silver dollar series",
+      "obverse_description": "King George VI bust left",
+      "proof_strikes": null,
+      "rarity": "key",
+      "reverse_description": "Voyageur canoe with bundle",
+      "series_id": "ca_silver_dollar",
+      "series_name": "Voyageur Silver Dollar",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 23.33,
       "year": 1948
     },
     {
@@ -60667,6 +61021,31 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-GMPL-1979-P",
+      "common_names": "Gold Maple Leaf",
+      "composition": {
+        "gold": 0.999
+      },
+      "country": "CA",
+      "denomination": "Gold Maple Leaf",
+      "diameter_mm": 30.0,
+      "distinguishing_features": "First 24-karat bullion coin",
+      "identification_keywords": "Elizabeth II, maple leaf, gold, bullion",
+      "mint": "P",
+      "notes": "1 oz, $50 face value",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Single maple leaf",
+      "series_id": "ca_gold_maple_leaf",
+      "series_name": "Gold Maple Leaf",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1979
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-JEFF-1979-D",
       "common_names": "[\"Jefferson Nickel\", \"Five Cent Piece\"]",
       "composition": {
@@ -63174,6 +63553,32 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-DOLR-1987-P",
+      "common_names": "Loonie",
+      "composition": {
+        "bronze": 0.085,
+        "nickel": 0.915
+      },
+      "country": "CA",
+      "denomination": "Dollars",
+      "diameter_mm": 26.5,
+      "distinguishing_features": "First circulation dollar coin",
+      "identification_keywords": "Elizabeth II, loon, Loonie",
+      "mint": "P",
+      "notes": "Replaced paper dollar",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Common loon swimming",
+      "series_id": "ca_loonie",
+      "series_name": "Loonie",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 7.0,
+      "year": 1987
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-JEFF-1987-D",
       "common_names": "[\"Jefferson Nickel\", \"Five Cent Piece\"]",
       "composition": {
@@ -63545,6 +63950,31 @@
       "year": 1988
     },
     {
+      "business_strikes": null,
+      "coin_id": "CA-PMPL-1988-P",
+      "common_names": "Platinum Maple Leaf",
+      "composition": {
+        "platinum": 0.9995
+      },
+      "country": "CA",
+      "denomination": "Platinum Maple Leaf",
+      "diameter_mm": 30.0,
+      "distinguishing_features": ".9995 fine platinum",
+      "identification_keywords": "Elizabeth II, maple leaf, platinum, bullion",
+      "mint": "P",
+      "notes": "1 oz, $50 face value",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Single maple leaf",
+      "series_id": "ca_platinum_maple_leaf",
+      "series_name": "Platinum Maple Leaf",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1988
+    },
+    {
       "business_strikes": 596810688,
       "coin_id": "US-WAQT-1988-D",
       "common_names": "[\"Washington Quarter\", \"Quarter\"]",
@@ -63629,6 +64059,31 @@
       "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
       "varieties": [],
       "weight_grams": 5.67,
+      "year": 1988
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-SMPL-1988-P",
+      "common_names": "Silver Maple Leaf",
+      "composition": {
+        "silver": 0.9999
+      },
+      "country": "CA",
+      "denomination": "Silver Maple Leaf",
+      "diameter_mm": 38.0,
+      "distinguishing_features": ".9999 fine silver",
+      "identification_keywords": "Elizabeth II, maple leaf, silver, bullion",
+      "mint": "P",
+      "notes": "1 oz, $5 face value",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Single maple leaf",
+      "series_id": "ca_silver_maple_leaf",
+      "series_name": "Silver Maple Leaf",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": 1988
     },
     {
@@ -66136,6 +66591,32 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-TWOD-1996-P",
+      "common_names": "Toonie",
+      "composition": {
+        "aluminum_bronze": 0.92,
+        "nickel": 0.08
+      },
+      "country": "CA",
+      "denomination": "Two Dollars",
+      "diameter_mm": 28.0,
+      "distinguishing_features": "Bimetallic coin",
+      "identification_keywords": "Elizabeth II, polar bear, Toonie",
+      "mint": "P",
+      "notes": "Bimetallic: aluminum bronze core, nickel ring",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Polar bear on ice floe",
+      "series_id": "ca_toonie",
+      "series_name": "Toonie",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 7.3,
+      "year": 1996
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-LMCT-1997-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
       "composition": {
@@ -67249,6 +67730,33 @@
         }
       ],
       "weight_grams": 8.1,
+      "year": 2000
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-FIVE-2000-P",
+      "common_names": "Modern Nickel",
+      "composition": {
+        "copper": 0.02,
+        "nickel": 0.035,
+        "steel": 0.945
+      },
+      "country": "CA",
+      "denomination": "Five Cents",
+      "diameter_mm": 21.2,
+      "distinguishing_features": "Multi-ply plated steel",
+      "identification_keywords": "Elizabeth II, beaver, steel",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Beaver on rock",
+      "series_id": "ca_5c_steel",
+      "series_name": "5 Cents Steel",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 3.95,
       "year": 2000
     },
     {
@@ -68410,6 +68918,31 @@
         }
       ],
       "weight_grams": 5.0,
+      "year": 2005
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-PDML-2005-P",
+      "common_names": "Palladium Maple Leaf",
+      "composition": {
+        "palladium": 0.9995
+      },
+      "country": "CA",
+      "denomination": "Palladium Maple Leaf",
+      "diameter_mm": 30.0,
+      "distinguishing_features": ".9995 fine palladium",
+      "identification_keywords": "Elizabeth II, maple leaf, palladium, bullion",
+      "mint": "P",
+      "notes": "1 oz, $50 face value",
+      "obverse_description": "Queen Elizabeth II bust right",
+      "proof_strikes": null,
+      "rarity": "scarce",
+      "reverse_description": "Single maple leaf",
+      "series_id": "ca_palladium_maple_leaf",
+      "series_name": "Palladium Maple Leaf",
+      "source_citation": "Issue #11 research",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": 2005
     },
     {
@@ -73176,9 +73709,9 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-08-31T10:31:04.808077",
+  "generated_at": "2025-08-31T12:30:39.810263",
   "taxonomy_version": "1.1",
-  "total_coins": 2567,
+  "total_coins": 2587,
   "year_range": {
     "earliest": 1787,
     "latest": 2024

@@ -1,0 +1,54 @@
+{
+  "grades": {
+    "Poor": {
+      "abbreviation": "P",
+      "description": "Barely identifiable, most details worn smooth",
+      "numeric_equivalent": "1"
+    },
+    "Fair": {
+      "abbreviation": "FR",
+      "description": "Some details visible but heavily worn",
+      "numeric_equivalent": "2"
+    },
+    "Good": {
+      "abbreviation": "G",
+      "description": "Major design visible but faint, rims worn",
+      "numeric_equivalent": "4-6"
+    },
+    "Very Good": {
+      "abbreviation": "VG",
+      "description": "Design clear but flat, some detail visible",
+      "numeric_equivalent": "8-10"
+    },
+    "Fine": {
+      "abbreviation": "F",
+      "description": "Moderate even wear, all major details visible",
+      "numeric_equivalent": "12-15"
+    },
+    "Very Fine": {
+      "abbreviation": "VF",
+      "description": "Light even wear on high points, sharp details",
+      "numeric_equivalent": "20-35"
+    },
+    "Extremely Fine": {
+      "abbreviation": "XF/EF",
+      "description": "Slight wear on highest points only",
+      "numeric_equivalent": "40-45"
+    },
+    "About Uncirculated": {
+      "abbreviation": "AU",
+      "description": "Traces of wear on highest points",
+      "numeric_equivalent": "50-58"
+    },
+    "Uncirculated": {
+      "abbreviation": "UNC/MS",
+      "description": "No wear, but may have bag marks",
+      "numeric_equivalent": "60-70"
+    },
+    "Proof": {
+      "abbreviation": "PR/PF",
+      "description": "Special striking for collectors",
+      "numeric_equivalent": "60-70"
+    }
+  }
+}

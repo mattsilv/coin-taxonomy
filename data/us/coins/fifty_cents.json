@@ -1,0 +1,105 @@
+{
+  "country": "US",
+  "denomination": "Fifty Cents",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "CA-HALF-1870-P",
+          "common_names": "Victoria Half Dollar",
+          "composition": {
+            "copper": 0.075,
+            "silver": 0.925
+          },
+          "diameter_mm": 27.13,
+          "identification_keywords": "Victoria, coat of arms",
+          "mint": "P",
+          "obverse_description": "Queen Victoria laureate bust left",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Canadian coat of arms",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 11.62,
+          "year": 1870
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1870,
+            "start": 1870
+          },
+          "weight": {
+            "grams": 11.62
+          }
+        }
+      ],
+      "official_name": "Victoria Half Dollar",
+      "series_id": "ca_50c_victoria",
+      "series_name": "Victoria Half Dollar",
+      "specifications": {
+        "diameter_mm": 27.13,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1870,
+        "start": 1870
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 206398,
+          "coin_id": "CA-HALF-1921-P",
+          "common_names": "1921 Half Dollar (King)",
+          "composition": {
+            "copper": 0.2,
+            "silver": 0.8
+          },
+          "diameter_mm": 27.13,
+          "distinguishing_features": "King of Canadian coins - <75 survive",
+          "identification_keywords": "George V, coat of arms, key date",
+          "mint": "P",
+          "notes": "Nearly all melted due to low demand",
+          "obverse_description": "King George V bust left",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Canadian coat of arms",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 11.62,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1921,
+            "start": 1921
+          },
+          "weight": {
+            "grams": 11.62
+          }
+        }
+      ],
+      "official_name": "George V Half Dollar",
+      "series_id": "ca_50c_george_v",
+      "series_name": "George V Half Dollar",
+      "specifications": {
+        "diameter_mm": 27.13,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1921
+      }
+    }
+  ]
+}

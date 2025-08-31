@@ -1,0 +1,56 @@
+{
+  "country": "US",
+  "denomination": "Silver Maple Leaf",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "coin_id": "CA-SMPL-1988-P",
+          "common_names": "Silver Maple Leaf",
+          "composition": {
+            "silver": 0.9999
+          },
+          "diameter_mm": 38.0,
+          "distinguishing_features": ".9999 fine silver",
+          "identification_keywords": "Elizabeth II, maple leaf, silver, bullion",
+          "mint": "P",
+          "notes": "1 oz, $5 face value",
+          "obverse_description": "Queen Elizabeth II bust right",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Single maple leaf",
+          "source_citation": "Issue #11 research",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": 1988
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1988,
+            "start": 1988
+          },
+          "weight": {
+            "grams": 31.103
+          }
+        }
+      ],
+      "official_name": "Silver Maple Leaf",
+      "series_id": "ca_silver_maple_leaf",
+      "series_name": "Silver Maple Leaf",
+      "specifications": {
+        "diameter_mm": 38.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1988,
+        "start": 1988
+      }
+    }
+  ]
+}

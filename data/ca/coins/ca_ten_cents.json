@@ -1,0 +1,28 @@
+{
+  "country": "CA",
+  "denomination": "Ten Cents",
+  "face_value": 0.1,
+  "coins": [
+    {
+      "coin_id": "CA-DIME-1858-RM",
+      "series_id": "ca_10c_silver",
+      "denomination": "Ten Cents",
+      "series_name": "10 Cents Silver",
+      "year": 1858,
+      "mint": "RM",
+      "rarity": "scarce",
+      "composition": {
+        "silver": 0.925,
+        "copper": 0.075
+      },
+      "diameter_mm": 18.0,
+      "varieties": [],
+      "source_citation": "Issue #11 research",
+      "obverse_description": "Queen Victoria laureate bust left",
+      "reverse_description": "Two maple leaves with denomination",
+      "distinguishing_features": "",
+      "identification_keywords": "Victoria, maple leaves, silver",
+      "common_names": "1858 Silver Ten Cents"
+    }
+  ]
+}

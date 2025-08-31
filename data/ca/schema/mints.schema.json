@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["mints"],
+  "properties": {
+    "mints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mint_mark", "name", "location", "years_active"],
+        "properties": {
+          "mint_mark": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "location": {
+            "type": "string"
+          },
+          "years_active": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
