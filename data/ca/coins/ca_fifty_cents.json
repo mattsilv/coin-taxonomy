@@ -2,52 +2,68 @@
   "country": "CA",
   "denomination": "Fifty Cents",
   "face_value": 0.5,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-HALF-1870-P",
       "series_id": "ca_50c_victoria",
-      "denomination": "Fifty Cents",
       "series_name": "Victoria Half Dollar",
-      "year": 1870,
-      "mint": "P",
-      "rarity": "common",
-      "composition": {
-        "silver": 0.925,
-        "copper": 0.075
+      "official_name": "Victoria Half Dollar",
+      "years": {
+        "start": 1870,
+        "end": 1870
       },
-      "weight_grams": 11.62,
-      "diameter_mm": 27.13,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "obverse_description": "Queen Victoria laureate bust left",
-      "reverse_description": "Canadian coat of arms",
-      "distinguishing_features": "",
-      "identification_keywords": "Victoria, coat of arms",
-      "common_names": "Victoria Half Dollar"
+      "coins": [
+        {
+          "coin_id": "CA-HALF-1870-P",
+          "year": 1870,
+          "mint": "P",
+          "rarity": "common",
+          "composition": {
+            "silver": 0.925,
+            "copper": 0.075
+          },
+          "weight_grams": 11.62,
+          "diameter_mm": 27.13,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "obverse_description": "Queen Victoria laureate bust left",
+          "reverse_description": "Canadian coat of arms",
+          "distinguishing_features": "",
+          "identification_keywords": "Victoria, coat of arms",
+          "common_names": "Victoria Half Dollar"
+        }
+      ]
     },
     {
-      "coin_id": "CA-HALF-1921-P",
       "series_id": "ca_50c_george_v",
-      "denomination": "Fifty Cents",
       "series_name": "George V Half Dollar",
-      "year": 1921,
-      "mint": "P",
-      "business_strikes": 206398,
-      "rarity": "key",
-      "composition": {
-        "silver": 0.8,
-        "copper": 0.2
+      "official_name": "George V Half Dollar",
+      "years": {
+        "start": 1921,
+        "end": 1921
       },
-      "weight_grams": 11.62,
-      "diameter_mm": 27.13,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "notes": "Nearly all melted due to low demand",
-      "obverse_description": "King George V bust left",
-      "reverse_description": "Canadian coat of arms",
-      "distinguishing_features": "King of Canadian coins - <75 survive",
-      "identification_keywords": "George V, coat of arms, key date",
-      "common_names": "1921 Half Dollar (King)"
+      "coins": [
+        {
+          "coin_id": "CA-HALF-1921-P",
+          "year": 1921,
+          "mint": "P",
+          "business_strikes": 206398,
+          "rarity": "key",
+          "composition": {
+            "silver": 0.8,
+            "copper": 0.2
+          },
+          "weight_grams": 11.62,
+          "diameter_mm": 27.13,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "notes": "Nearly all melted due to low demand",
+          "obverse_description": "King George V bust left",
+          "reverse_description": "Canadian coat of arms",
+          "distinguishing_features": "King of Canadian coins - <75 survive",
+          "identification_keywords": "George V, coat of arms, key date",
+          "common_names": "1921 Half Dollar (King)"
+        }
+      ]
     }
   ]
 }

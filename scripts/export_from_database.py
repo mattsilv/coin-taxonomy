@@ -67,7 +67,7 @@ class DatabaseExporter:
                         category, issuer, series_year, calendar_type, original_date,
                         seller_name, COALESCE(variety_suffix, '') as variety_suffix
                     FROM coins
-                    WHERE denomination = ?
+                    WHERE denomination = ? AND coin_id LIKE 'US-%'
                     ORDER BY year, series_name, mint, variety_suffix
                 ''', (denom_name,))
                 
@@ -375,7 +375,7 @@ class DatabaseExporter:
                         distinguishing_features, identification_keywords, common_names,
                         seller_name
                     FROM issues
-                    WHERE object_type = 'banknote' AND face_value = ?
+                    WHERE object_type = 'banknote' AND face_value = ? AND country_code = 'US'
                     ORDER BY issue_year, series_designation, mint_id
                 ''', (face_value,))
                 
@@ -658,9 +658,9 @@ class DatabaseExporter:
         # Check database has data
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
-        cursor.execute('SELECT COUNT(*) FROM coins')
+        cursor.execute("SELECT COUNT(*) FROM coins WHERE coin_id LIKE 'US-%'")
         coin_count = cursor.fetchone()[0]
-        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote'")
+        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote' AND country_code = 'US'")
         banknote_count = cursor.fetchone()[0]
         conn.close()
         

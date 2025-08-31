@@ -2,28 +2,36 @@
   "country": "CA",
   "denomination": "Platinum Maple Leaf",
   "face_value": 50.0,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-PMPL-1988-P",
       "series_id": "ca_platinum_maple_leaf",
-      "denomination": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
-      "year": 1988,
-      "mint": "P",
-      "rarity": "scarce",
-      "composition": {
-        "platinum": 0.9995
+      "official_name": "Platinum Maple Leaf",
+      "years": {
+        "start": 1988,
+        "end": 1988
       },
-      "weight_grams": 31.103,
-      "diameter_mm": 30.0,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "notes": "1 oz, $50 face value",
-      "obverse_description": "Queen Elizabeth II bust right",
-      "reverse_description": "Single maple leaf",
-      "distinguishing_features": ".9995 fine platinum",
-      "identification_keywords": "Elizabeth II, maple leaf, platinum, bullion",
-      "common_names": "Platinum Maple Leaf"
+      "coins": [
+        {
+          "coin_id": "CA-PMPL-1988-P",
+          "year": 1988,
+          "mint": "P",
+          "rarity": "scarce",
+          "composition": {
+            "platinum": 0.9995
+          },
+          "weight_grams": 31.103,
+          "diameter_mm": 30.0,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "notes": "1 oz, $50 face value",
+          "obverse_description": "Queen Elizabeth II bust right",
+          "reverse_description": "Single maple leaf",
+          "distinguishing_features": ".9995 fine platinum",
+          "identification_keywords": "Elizabeth II, maple leaf, platinum, bullion",
+          "common_names": "Platinum Maple Leaf"
+        }
+      ]
     }
   ]
 }

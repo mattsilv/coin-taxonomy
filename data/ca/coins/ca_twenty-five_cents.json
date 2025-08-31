@@ -2,28 +2,36 @@
   "country": "CA",
   "denomination": "Twenty-Five Cents",
   "face_value": 0.25,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-QRTR-1870-P",
       "series_id": "ca_25c_victoria",
-      "denomination": "Twenty-Five Cents",
       "series_name": "Victoria Quarter",
-      "year": 1870,
-      "mint": "P",
-      "rarity": "common",
-      "composition": {
-        "silver": 0.925,
-        "copper": 0.075
+      "official_name": "Victoria Quarter",
+      "years": {
+        "start": 1870,
+        "end": 1870
       },
-      "weight_grams": 5.81,
-      "diameter_mm": 23.88,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "obverse_description": "Queen Victoria laureate bust left",
-      "reverse_description": "Crown and wreath design",
-      "distinguishing_features": "",
-      "identification_keywords": "Victoria, crown, wreath",
-      "common_names": "Victoria Quarter"
+      "coins": [
+        {
+          "coin_id": "CA-QRTR-1870-P",
+          "year": 1870,
+          "mint": "P",
+          "rarity": "common",
+          "composition": {
+            "silver": 0.925,
+            "copper": 0.075
+          },
+          "weight_grams": 5.81,
+          "diameter_mm": 23.88,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "obverse_description": "Queen Victoria laureate bust left",
+          "reverse_description": "Crown and wreath design",
+          "distinguishing_features": "",
+          "identification_keywords": "Victoria, crown, wreath",
+          "common_names": "Victoria Quarter"
+        }
+      ]
     }
   ]
 }

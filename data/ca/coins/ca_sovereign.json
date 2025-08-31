@@ -2,30 +2,38 @@
   "country": "CA",
   "denomination": "Sovereign",
   "face_value": 1.0,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-SOVR-1916-C",
       "series_id": "ca_sovereign",
-      "denomination": "Sovereign",
       "series_name": "Ottawa Sovereign",
-      "year": 1916,
-      "mint": "C",
-      "business_strikes": 6111,
-      "rarity": "key",
-      "composition": {
-        "gold": 0.9167,
-        "copper": 0.0833
+      "official_name": "Ottawa Sovereign",
+      "years": {
+        "start": 1916,
+        "end": 1916
       },
-      "weight_grams": 7.988,
-      "diameter_mm": 22.05,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "notes": "British sovereign struck in Ottawa with C mint mark",
-      "obverse_description": "King George V bust left",
-      "reverse_description": "St. George slaying dragon",
-      "distinguishing_features": "Extremely rare, ~50 known",
-      "identification_keywords": "George V, St. George, sovereign",
-      "common_names": "1916C Sovereign"
+      "coins": [
+        {
+          "coin_id": "CA-SOVR-1916-C",
+          "year": 1916,
+          "mint": "C",
+          "business_strikes": 6111,
+          "rarity": "key",
+          "composition": {
+            "gold": 0.9167,
+            "copper": 0.0833
+          },
+          "weight_grams": 7.988,
+          "diameter_mm": 22.05,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "notes": "British sovereign struck in Ottawa with C mint mark",
+          "obverse_description": "King George V bust left",
+          "reverse_description": "St. George slaying dragon",
+          "distinguishing_features": "Extremely rare, ~50 known",
+          "identification_keywords": "George V, St. George, sovereign",
+          "common_names": "1916C Sovereign"
+        }
+      ]
     }
   ]
 }

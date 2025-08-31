@@ -88,16 +88,39 @@ def export_canada_coins():
         coin = {k: v for k, v in coin.items() if v is not None}
         denominations[denom].append(coin)
     
-    # Write denomination files
+    # Write denomination files with proper series structure
     for denom, coins in denominations.items():
         filename = f"ca_{denom.lower().replace(' ', '_')}.json"
         filepath = Path('data/ca/coins') / filename
+        
+        # Group coins by series for proper structure
+        series_map = {}
+        for coin in coins:
+            series_id = coin.get('series_id', 'unknown')
+            series_name = coin.get('series_name', 'Unknown Series')
+            
+            if series_id not in series_map:
+                series_map[series_id] = {
+                    'series_id': series_id,
+                    'series_name': series_name,
+                    'official_name': series_name,
+                    'years': {'start': coin['year'], 'end': coin['year']},
+                    'coins': []
+                }
+            else:
+                # Update year range
+                series_map[series_id]['years']['start'] = min(series_map[series_id]['years']['start'], coin['year'])
+                series_map[series_id]['years']['end'] = max(series_map[series_id]['years']['end'], coin['year'])
+            
+            # Remove series fields from coin as they're at series level
+            coin_copy = {k: v for k, v in coin.items() if k not in ['series_id', 'series_name', 'denomination']}
+            series_map[series_id]['coins'].append(coin_copy)
         
         data = {
             'country': 'CA',
             'denomination': denom,
             'face_value': face_values.get(denom, 1.00),
-            'coins': coins
+            'series': list(series_map.values())
         }
         
         with open(filepath, 'w') as f:

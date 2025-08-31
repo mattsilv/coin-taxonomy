@@ -136,9 +136,9 @@
                   "type": "array",
                   "items": {
                     "type": "object",
-                    "required": ["variety_id", "name"],
+                    "required": ["name"],
                     "properties": {
-                      "variety_id": {"type": "string"},
+                      "variety_id": {"type": ["string", "null"]},
                       "name": {"type": "string"},
                       "description": {"type": ["string", "null"]},
                       "estimated_mintage": {"type": ["integer", "null"]}

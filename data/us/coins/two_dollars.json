@@ -2,56 +2,5 @@
   "country": "US",
   "denomination": "Two Dollars",
   "face_value": 1.0,
-  "series": [
-    {
-      "coins": [
-        {
-          "business_strikes": null,
-          "coin_id": "CA-TWOD-1996-P",
-          "common_names": "Toonie",
-          "composition": {
-            "aluminum_bronze": 0.92,
-            "nickel": 0.08
-          },
-          "diameter_mm": 28.0,
-          "distinguishing_features": "Bimetallic coin",
-          "identification_keywords": "Elizabeth II, polar bear, Toonie",
-          "mint": "P",
-          "notes": "Bimetallic: aluminum bronze core, nickel ring",
-          "obverse_description": "Queen Elizabeth II bust right",
-          "proof_strikes": null,
-          "rarity": "common",
-          "reverse_description": "Polar bear on ice floe",
-          "source_citation": "Issue #11 research",
-          "varieties": [],
-          "weight_grams": 7.3,
-          "year": 1996
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1996,
-            "start": 1996
-          },
-          "weight": {
-            "grams": 7.3
-          }
-        }
-      ],
-      "official_name": "Toonie",
-      "series_id": "ca_toonie",
-      "series_name": "Toonie",
-      "specifications": {
-        "diameter_mm": 28.0,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1996,
-        "start": 1996
-      }
-    }
-  ]
+  "series": []
 }

@@ -1,54 +1,284 @@
 {
-  "grades": {
-    "Poor": {
-      "abbreviation": "P",
-      "description": "Barely identifiable, most details worn smooth",
-      "numeric_equivalent": "1"
+  "grades": [
+    {
+      "grade": "Poor (P-1)",
+      "abbreviation": "P-1",
+      "numeric_value": 1,
+      "category": "Poor",
+      "description": "Barely identifiable, most details worn smooth"
     },
-    "Fair": {
-      "abbreviation": "FR",
-      "description": "Some details visible but heavily worn",
-      "numeric_equivalent": "2"
+    {
+      "grade": "Fair (FR-2)",
+      "abbreviation": "FR-2",
+      "numeric_value": 2,
+      "category": "Fair",
+      "description": "Some details visible but heavily worn"
     },
-    "Good": {
-      "abbreviation": "G",
-      "description": "Major design visible but faint, rims worn",
-      "numeric_equivalent": "4-6"
+    {
+      "grade": "Good (G-4)",
+      "abbreviation": "G-4",
+      "numeric_value": 4,
+      "category": "Good",
+      "description": "Major design visible but faint, rims worn"
     },
-    "Very Good": {
-      "abbreviation": "VG",
-      "description": "Design clear but flat, some detail visible",
-      "numeric_equivalent": "8-10"
+    {
+      "grade": "Good (G-6)",
+      "abbreviation": "G-6",
+      "numeric_value": 6,
+      "category": "Good",
+      "description": "Rims complete, major details visible"
     },
-    "Fine": {
-      "abbreviation": "F",
-      "description": "Moderate even wear, all major details visible",
-      "numeric_equivalent": "12-15"
+    {
+      "grade": "Very Good (VG-8)",
+      "abbreviation": "VG-8",
+      "numeric_value": 8,
+      "category": "Very Good",
+      "description": "Design clear but flat, some detail visible"
     },
-    "Very Fine": {
-      "abbreviation": "VF",
-      "description": "Light even wear on high points, sharp details",
-      "numeric_equivalent": "20-35"
+    {
+      "grade": "Very Good (VG-10)",
+      "abbreviation": "VG-10",
+      "numeric_value": 10,
+      "category": "Very Good",
+      "description": "Design clear with more detail"
     },
-    "Extremely Fine": {
-      "abbreviation": "XF/EF",
-      "description": "Slight wear on highest points only",
-      "numeric_equivalent": "40-45"
+    {
+      "grade": "Fine (F-12)",
+      "abbreviation": "F-12",
+      "numeric_value": 12,
+      "category": "Fine",
+      "description": "Moderate even wear, all major details visible"
     },
-    "About Uncirculated": {
-      "abbreviation": "AU",
-      "description": "Traces of wear on highest points",
-      "numeric_equivalent": "50-58"
+    {
+      "grade": "Fine (F-15)",
+      "abbreviation": "F-15",
+      "numeric_value": 15,
+      "category": "Fine",
+      "description": "Moderate wear with clearer details"
     },
-    "Uncirculated": {
-      "abbreviation": "UNC/MS",
-      "description": "No wear, but may have bag marks",
-      "numeric_equivalent": "60-70"
+    {
+      "grade": "Very Fine (VF-20)",
+      "abbreviation": "VF-20",
+      "numeric_value": 20,
+      "category": "Very Fine",
+      "description": "Light even wear on high points"
     },
-    "Proof": {
-      "abbreviation": "PR/PF",
-      "description": "Special striking for collectors",
-      "numeric_equivalent": "60-70"
+    {
+      "grade": "Very Fine (VF-25)",
+      "abbreviation": "VF-25",
+      "numeric_value": 25,
+      "category": "Very Fine",
+      "description": "Light wear with more detail"
+    },
+    {
+      "grade": "Very Fine (VF-30)",
+      "abbreviation": "VF-30",
+      "numeric_value": 30,
+      "category": "Very Fine",
+      "description": "Light wear, sharp details"
+    },
+    {
+      "grade": "Very Fine (VF-35)",
+      "abbreviation": "VF-35",
+      "numeric_value": 35,
+      "category": "Very Fine",
+      "description": "Choice very fine condition"
+    },
+    {
+      "grade": "Extremely Fine (XF-40)",
+      "abbreviation": "XF-40",
+      "numeric_value": 40,
+      "category": "Extremely Fine",
+      "description": "Slight wear on highest points only"
+    },
+    {
+      "grade": "Extremely Fine (XF-45)",
+      "abbreviation": "XF-45",
+      "numeric_value": 45,
+      "category": "Extremely Fine",
+      "description": "Choice extremely fine condition"
+    },
+    {
+      "grade": "About Uncirculated (AU-50)",
+      "abbreviation": "AU-50",
+      "numeric_value": 50,
+      "category": "About Uncirculated",
+      "description": "Traces of wear on highest points"
+    },
+    {
+      "grade": "About Uncirculated (AU-53)",
+      "abbreviation": "AU-53",
+      "numeric_value": 53,
+      "category": "About Uncirculated",
+      "description": "Very slight wear visible"
+    },
+    {
+      "grade": "About Uncirculated (AU-55)",
+      "abbreviation": "AU-55",
+      "numeric_value": 55,
+      "category": "About Uncirculated",
+      "description": "Minimal wear on high points"
+    },
+    {
+      "grade": "About Uncirculated (AU-58)",
+      "abbreviation": "AU-58",
+      "numeric_value": 58,
+      "category": "About Uncirculated",
+      "description": "Nearly full mint luster"
+    },
+    {
+      "grade": "Mint State (MS-60)",
+      "abbreviation": "MS-60",
+      "numeric_value": 60,
+      "category": "Uncirculated",
+      "description": "No wear, but may have heavy bag marks"
+    },
+    {
+      "grade": "Mint State (MS-61)",
+      "abbreviation": "MS-61",
+      "numeric_value": 61,
+      "category": "Uncirculated",
+      "description": "Uncirculated with numerous marks"
+    },
+    {
+      "grade": "Mint State (MS-62)",
+      "abbreviation": "MS-62",
+      "numeric_value": 62,
+      "category": "Uncirculated",
+      "description": "Uncirculated with moderate marks"
+    },
+    {
+      "grade": "Mint State (MS-63)",
+      "abbreviation": "MS-63",
+      "numeric_value": 63,
+      "category": "Uncirculated",
+      "description": "Choice uncirculated"
+    },
+    {
+      "grade": "Mint State (MS-64)",
+      "abbreviation": "MS-64",
+      "numeric_value": 64,
+      "category": "Uncirculated",
+      "description": "Choice uncirculated with few marks"
+    },
+    {
+      "grade": "Mint State (MS-65)",
+      "abbreviation": "MS-65",
+      "numeric_value": 65,
+      "category": "Uncirculated",
+      "description": "Gem uncirculated"
+    },
+    {
+      "grade": "Mint State (MS-66)",
+      "abbreviation": "MS-66",
+      "numeric_value": 66,
+      "category": "Uncirculated",
+      "description": "Gem plus quality"
+    },
+    {
+      "grade": "Mint State (MS-67)",
+      "abbreviation": "MS-67",
+      "numeric_value": 67,
+      "category": "Uncirculated",
+      "description": "Superb gem quality"
+    },
+    {
+      "grade": "Mint State (MS-68)",
+      "abbreviation": "MS-68",
+      "numeric_value": 68,
+      "category": "Uncirculated",
+      "description": "Superb gem with exceptional eye appeal"
+    },
+    {
+      "grade": "Mint State (MS-69)",
+      "abbreviation": "MS-69",
+      "numeric_value": 69,
+      "category": "Uncirculated",
+      "description": "Near perfect"
+    },
+    {
+      "grade": "Mint State (MS-70)",
+      "abbreviation": "MS-70",
+      "numeric_value": 70,
+      "category": "Uncirculated",
+      "description": "Perfect uncirculated"
+    },
+    {
+      "grade": "Proof (PR-60)",
+      "abbreviation": "PR-60",
+      "numeric_value": 60,
+      "category": "Proof",
+      "description": "Proof with heavy hairlines or marks"
+    },
+    {
+      "grade": "Proof (PR-61)",
+      "abbreviation": "PR-61",
+      "numeric_value": 61,
+      "category": "Proof",
+      "description": "Proof with numerous impairments"
+    },
+    {
+      "grade": "Proof (PR-62)",
+      "abbreviation": "PR-62",
+      "numeric_value": 62,
+      "category": "Proof",
+      "description": "Proof with moderate impairments"
+    },
+    {
+      "grade": "Proof (PR-63)",
+      "abbreviation": "PR-63",
+      "numeric_value": 63,
+      "category": "Proof",
+      "description": "Choice proof"
+    },
+    {
+      "grade": "Proof (PR-64)",
+      "abbreviation": "PR-64",
+      "numeric_value": 64,
+      "category": "Proof",
+      "description": "Choice proof with minor impairments"
+    },
+    {
+      "grade": "Proof (PR-65)",
+      "abbreviation": "PR-65",
+      "numeric_value": 65,
+      "category": "Proof",
+      "description": "Gem proof"
+    },
+    {
+      "grade": "Proof (PR-66)",
+      "abbreviation": "PR-66",
+      "numeric_value": 66,
+      "category": "Proof",
+      "description": "Gem proof plus"
+    },
+    {
+      "grade": "Proof (PR-67)",
+      "abbreviation": "PR-67",
+      "numeric_value": 67,
+      "category": "Proof",
+      "description": "Superb gem proof"
+    },
+    {
+      "grade": "Proof (PR-68)",
+      "abbreviation": "PR-68",
+      "numeric_value": 68,
+      "category": "Proof",
+      "description": "Superb gem proof with exceptional eye appeal"
+    },
+    {
+      "grade": "Proof (PR-69)",
+      "abbreviation": "PR-69",
+      "numeric_value": 69,
+      "category": "Proof",
+      "description": "Near perfect proof"
+    },
+    {
+      "grade": "Proof (PR-70)",
+      "abbreviation": "PR-70",
+      "numeric_value": 70,
+      "category": "Proof",
+      "description": "Perfect proof"
     }
-  }
+  ]
 }

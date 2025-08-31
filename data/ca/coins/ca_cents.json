@@ -2,72 +2,88 @@
   "country": "CA",
   "denomination": "Cents",
   "face_value": 0.01,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-CENT-1858-RM",
       "series_id": "ca_large_cent",
-      "denomination": "Cents",
       "series_name": "Large Cent",
-      "year": 1858,
-      "mint": "RM",
-      "business_strikes": 421000,
-      "rarity": "scarce",
-      "composition": {
-        "copper": 0.95,
-        "tin": 0.04,
-        "zinc": 0.01
+      "official_name": "Large Cent",
+      "years": {
+        "start": 1858,
+        "end": 1858
       },
-      "weight_grams": 4.54,
-      "diameter_mm": 25.4,
-      "varieties": [
+      "coins": [
         {
-          "name": "Coin alignment",
-          "premium": true
-        },
-        {
-          "name": "Full vine",
-          "premium": true
-        },
-        {
-          "name": "Broken stem",
-          "premium": false
+          "coin_id": "CA-CENT-1858-RM",
+          "year": 1858,
+          "mint": "RM",
+          "business_strikes": 421000,
+          "rarity": "scarce",
+          "composition": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
+          "weight_grams": 4.54,
+          "diameter_mm": 25.4,
+          "varieties": [
+            {
+              "name": "Coin alignment",
+              "premium": true
+            },
+            {
+              "name": "Full vine",
+              "premium": true
+            },
+            {
+              "name": "Broken stem",
+              "premium": false
+            }
+          ],
+          "source_citation": "Issue #11 research",
+          "obverse_description": "Queen Victoria laureate bust left",
+          "reverse_description": "Two maple leaves on twig with denomination",
+          "distinguishing_features": "Large format cent",
+          "identification_keywords": "Victoria, maple leaves, large cent",
+          "common_names": "1858 Large Cent"
         }
-      ],
-      "source_citation": "Issue #11 research",
-      "obverse_description": "Queen Victoria laureate bust left",
-      "reverse_description": "Two maple leaves on twig with denomination",
-      "distinguishing_features": "Large format cent",
-      "identification_keywords": "Victoria, maple leaves, large cent",
-      "common_names": "1858 Large Cent"
+      ]
     },
     {
-      "coin_id": "CA-CENT-1936-P",
       "series_id": "ca_small_cent",
-      "denomination": "Cents",
       "series_name": "Small Cent",
-      "year": 1936,
-      "mint": "P",
-      "rarity": "key",
-      "composition": {
-        "copper": 0.95,
-        "tin": 0.04,
-        "zinc": 0.01
+      "official_name": "Small Cent",
+      "years": {
+        "start": 1936,
+        "end": 1936
       },
-      "weight_grams": 3.24,
-      "diameter_mm": 19.05,
-      "varieties": [
+      "coins": [
         {
-          "name": "Dot variety",
-          "premium": true
+          "coin_id": "CA-CENT-1936-P",
+          "year": 1936,
+          "mint": "P",
+          "rarity": "key",
+          "composition": {
+            "copper": 0.95,
+            "tin": 0.04,
+            "zinc": 0.01
+          },
+          "weight_grams": 3.24,
+          "diameter_mm": 19.05,
+          "varieties": [
+            {
+              "name": "Dot variety",
+              "premium": true
+            }
+          ],
+          "source_citation": "Issue #11 research",
+          "notes": "Struck in 1937 with 1936 dies plus dot",
+          "obverse_description": "King George V bust left",
+          "reverse_description": "Two maple leaves on twig",
+          "distinguishing_features": "Dot below date (emergency 1937 issue), only 3 known",
+          "identification_keywords": "George V, dot variety, emergency issue",
+          "common_names": "1936 Dot Cent"
         }
-      ],
-      "source_citation": "Issue #11 research",
-      "notes": "Struck in 1937 with 1936 dies plus dot",
-      "obverse_description": "King George V bust left",
-      "reverse_description": "Two maple leaves on twig",
-      "distinguishing_features": "Dot below date (emergency 1937 issue), only 3 known",
-      "identification_keywords": "George V, dot variety, emergency issue",
-      "common_names": "1936 Dot Cent"
+      ]
     }
   ]
 }

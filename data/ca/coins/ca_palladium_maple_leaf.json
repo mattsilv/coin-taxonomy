@@ -2,28 +2,36 @@
   "country": "CA",
   "denomination": "Palladium Maple Leaf",
   "face_value": 50.0,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-PDML-2005-P",
       "series_id": "ca_palladium_maple_leaf",
-      "denomination": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
-      "year": 2005,
-      "mint": "P",
-      "rarity": "scarce",
-      "composition": {
-        "palladium": 0.9995
+      "official_name": "Palladium Maple Leaf",
+      "years": {
+        "start": 2005,
+        "end": 2005
       },
-      "weight_grams": 31.103,
-      "diameter_mm": 30.0,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "notes": "1 oz, $50 face value",
-      "obverse_description": "Queen Elizabeth II bust right",
-      "reverse_description": "Single maple leaf",
-      "distinguishing_features": ".9995 fine palladium",
-      "identification_keywords": "Elizabeth II, maple leaf, palladium, bullion",
-      "common_names": "Palladium Maple Leaf"
+      "coins": [
+        {
+          "coin_id": "CA-PDML-2005-P",
+          "year": 2005,
+          "mint": "P",
+          "rarity": "scarce",
+          "composition": {
+            "palladium": 0.9995
+          },
+          "weight_grams": 31.103,
+          "diameter_mm": 30.0,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "notes": "1 oz, $50 face value",
+          "obverse_description": "Queen Elizabeth II bust right",
+          "reverse_description": "Single maple leaf",
+          "distinguishing_features": ".9995 fine palladium",
+          "identification_keywords": "Elizabeth II, maple leaf, palladium, bullion",
+          "common_names": "Palladium Maple Leaf"
+        }
+      ]
     }
   ]
 }

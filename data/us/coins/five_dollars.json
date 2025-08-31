@@ -2,56 +2,5 @@
   "country": "US",
   "denomination": "Five Dollars",
   "face_value": 1.0,
-  "series": [
-    {
-      "coins": [
-        {
-          "business_strikes": 165680,
-          "coin_id": "CA-FIVE-1912-P",
-          "common_names": "$5 Gold",
-          "composition": {
-            "copper": 0.1,
-            "gold": 0.9
-          },
-          "diameter_mm": 21.6,
-          "distinguishing_features": "Pre-WWI gold coin",
-          "identification_keywords": "George V, shield, gold",
-          "mint": "P",
-          "notes": "Withdrawn 1914, released 2012",
-          "obverse_description": "King George V bust left",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Shield with maple leaves",
-          "source_citation": "Issue #11 research",
-          "varieties": [],
-          "weight_grams": 8.36,
-          "year": 1912
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1912,
-            "start": 1912
-          },
-          "weight": {
-            "grams": 8.36
-          }
-        }
-      ],
-      "official_name": "$5 Gold",
-      "series_id": "ca_gold_5_dollar",
-      "series_name": "$5 Gold",
-      "specifications": {
-        "diameter_mm": 21.6,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1912,
-        "start": 1912
-      }
-    }
-  ]
+  "series": []
 }

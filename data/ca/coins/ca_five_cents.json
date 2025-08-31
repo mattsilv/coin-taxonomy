@@ -2,74 +2,87 @@
   "country": "CA",
   "denomination": "Five Cents",
   "face_value": 0.05,
-  "coins": [
+  "series": [
     {
-      "coin_id": "CA-FIVE-1858-RM",
       "series_id": "ca_5c_silver",
-      "denomination": "Five Cents",
       "series_name": "5 Cents Silver",
-      "year": 1858,
-      "mint": "RM",
-      "rarity": "scarce",
-      "composition": {
-        "silver": 0.925,
-        "copper": 0.075
+      "official_name": "5 Cents Silver",
+      "years": {
+        "start": 1858,
+        "end": 1921
       },
-      "diameter_mm": 15.5,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "obverse_description": "Queen Victoria laureate bust left",
-      "reverse_description": "Two maple leaves with denomination",
-      "distinguishing_features": "",
-      "identification_keywords": "Victoria, maple leaves, silver",
-      "common_names": "1858 Silver Five Cents"
+      "coins": [
+        {
+          "coin_id": "CA-FIVE-1858-RM",
+          "year": 1858,
+          "mint": "RM",
+          "rarity": "scarce",
+          "composition": {
+            "silver": 0.925,
+            "copper": 0.075
+          },
+          "diameter_mm": 15.5,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "obverse_description": "Queen Victoria laureate bust left",
+          "reverse_description": "Two maple leaves with denomination",
+          "distinguishing_features": "",
+          "identification_keywords": "Victoria, maple leaves, silver",
+          "common_names": "1858 Silver Five Cents"
+        },
+        {
+          "coin_id": "CA-FIVE-1921-P",
+          "year": 1921,
+          "mint": "P",
+          "business_strikes": 2582495,
+          "rarity": "key",
+          "composition": {
+            "silver": 0.8,
+            "copper": 0.2
+          },
+          "weight_grams": 1.16,
+          "diameter_mm": 15.5,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "notes": "Most of mintage melted when nickel 5-cent introduced",
+          "obverse_description": "King George V bust left",
+          "reverse_description": "Two maple leaves with denomination",
+          "distinguishing_features": "Prince of Canadian coins - most melted, <400 survive",
+          "identification_keywords": "George V, maple leaves, key date",
+          "common_names": "1921 Silver Five Cents (Prince)"
+        }
+      ]
     },
     {
-      "coin_id": "CA-FIVE-1921-P",
-      "series_id": "ca_5c_silver",
-      "denomination": "Five Cents",
-      "series_name": "5 Cents Silver",
-      "year": 1921,
-      "mint": "P",
-      "business_strikes": 2582495,
-      "rarity": "key",
-      "composition": {
-        "silver": 0.8,
-        "copper": 0.2
-      },
-      "weight_grams": 1.16,
-      "diameter_mm": 15.5,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "notes": "Most of mintage melted when nickel 5-cent introduced",
-      "obverse_description": "King George V bust left",
-      "reverse_description": "Two maple leaves with denomination",
-      "distinguishing_features": "Prince of Canadian coins - most melted, <400 survive",
-      "identification_keywords": "George V, maple leaves, key date",
-      "common_names": "1921 Silver Five Cents (Prince)"
-    },
-    {
-      "coin_id": "CA-FIVE-2000-P",
       "series_id": "ca_5c_steel",
-      "denomination": "Five Cents",
       "series_name": "5 Cents Steel",
-      "year": 2000,
-      "mint": "P",
-      "rarity": "common",
-      "composition": {
-        "steel": 0.945,
-        "nickel": 0.035,
-        "copper": 0.02
+      "official_name": "5 Cents Steel",
+      "years": {
+        "start": 2000,
+        "end": 2000
       },
-      "weight_grams": 3.95,
-      "diameter_mm": 21.2,
-      "varieties": [],
-      "source_citation": "Issue #11 research",
-      "obverse_description": "Queen Elizabeth II bust right",
-      "reverse_description": "Beaver on rock",
-      "distinguishing_features": "Multi-ply plated steel",
-      "identification_keywords": "Elizabeth II, beaver, steel",
-      "common_names": "Modern Nickel"
+      "coins": [
+        {
+          "coin_id": "CA-FIVE-2000-P",
+          "year": 2000,
+          "mint": "P",
+          "rarity": "common",
+          "composition": {
+            "steel": 0.945,
+            "nickel": 0.035,
+            "copper": 0.02
+          },
+          "weight_grams": 3.95,
+          "diameter_mm": 21.2,
+          "varieties": [],
+          "source_citation": "Issue #11 research",
+          "obverse_description": "Queen Elizabeth II bust right",
+          "reverse_description": "Beaver on rock",
+          "distinguishing_features": "Multi-ply plated steel",
+          "identification_keywords": "Elizabeth II, beaver, steel",
+          "common_names": "Modern Nickel"
+        }
+      ]
     }
   ]
 }

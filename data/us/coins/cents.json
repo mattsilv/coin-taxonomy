@@ -2214,69 +2214,6 @@
     {
       "coins": [
         {
-          "business_strikes": 421000,
-          "coin_id": "CA-CENT-1858-RM",
-          "common_names": "1858 Large Cent",
-          "composition": {
-            "copper": 0.95,
-            "tin": 0.04,
-            "zinc": 0.01
-          },
-          "diameter_mm": 25.4,
-          "distinguishing_features": "Large format cent",
-          "identification_keywords": "Victoria, maple leaves, large cent",
-          "mint": "RM",
-          "obverse_description": "Queen Victoria laureate bust left",
-          "proof_strikes": null,
-          "rarity": "scarce",
-          "reverse_description": "Two maple leaves on twig with denomination",
-          "source_citation": "Issue #11 research",
-          "varieties": [
-            {
-              "name": "Coin alignment",
-              "premium": true
-            },
-            {
-              "name": "Full vine",
-              "premium": true
-            },
-            {
-              "name": "Broken stem",
-              "premium": false
-            }
-          ],
-          "weight_grams": 4.54,
-          "year": 1858
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1858,
-            "start": 1858
-          },
-          "weight": {
-            "grams": 4.54
-          }
-        }
-      ],
-      "official_name": "Large Cent",
-      "series_id": "ca_large_cent",
-      "series_name": "Large Cent",
-      "specifications": {
-        "diameter_mm": 25.4,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1858,
-        "start": 1858
-      }
-    },
-    {
-      "coins": [
-        {
           "business_strikes": 39233714,
           "coin_id": "US-INCH-1864-P",
           "common_names": "[\"Indian Head Cent\", \"Indian Head Penny\", \"Indian Penny\"]",
@@ -6237,62 +6174,6 @@
       "years": {
         "end": 1958,
         "start": 1909
-      }
-    },
-    {
-      "coins": [
-        {
-          "business_strikes": null,
-          "coin_id": "CA-CENT-1936-P",
-          "common_names": "1936 Dot Cent",
-          "composition": {
-            "copper": 0.95,
-            "tin": 0.04,
-            "zinc": 0.01
-          },
-          "diameter_mm": 19.05,
-          "distinguishing_features": "Dot below date (emergency 1937 issue), only 3 known",
-          "identification_keywords": "George V, dot variety, emergency issue",
-          "mint": "P",
-          "notes": "Struck in 1937 with 1936 dies plus dot",
-          "obverse_description": "King George V bust left",
-          "proof_strikes": null,
-          "rarity": "key",
-          "reverse_description": "Two maple leaves on twig",
-          "source_citation": "Issue #11 research",
-          "varieties": [
-            {
-              "name": "Dot variety",
-              "premium": true
-            }
-          ],
-          "weight_grams": 3.24,
-          "year": 1936
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1936,
-            "start": 1936
-          },
-          "weight": {
-            "grams": 3.24
-          }
-        }
-      ],
-      "official_name": "Small Cent",
-      "series_id": "ca_small_cent",
-      "series_name": "Small Cent",
-      "specifications": {
-        "diameter_mm": 19.05,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1936,
-        "start": 1936
       }
     },
     {
