@@ -4,13 +4,14 @@
 
 The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.
 
-With 1,539+ US coins (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database.
+With 1,539+ US coins and 82+ paper currency notes (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database. International expansion to other countries is planned.
 
 **🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#mapping-your-database)**
 
 ## What You Get
 
-- **1,539+ coins** with standardized `US-TYPE-YEAR-MINT` identifiers
+- **1,539+ coins & 82+ paper currency notes** with standardized identifiers
+- **US complete, international expansion planned** (Canada, UK, World coins coming)
 - **SQLite database** as single source of truth (version controlled)
 - **AI-optimized formats** for marketplace integration (10K-26K tokens)
 - **Complete composition data** for melt value calculations
@@ -35,11 +36,18 @@ uv run python scripts/import_listing.py
 
 ### Standard Coin ID Format: `COUNTRY-TYPE-YEAR-MINT`
 
-**Examples:**
+**Real Examples from Our Database:**
 ```
-US-LWCT-1909-S  → 1909-S Lincoln Wheat Cent
-US-MERC-1916-D  → 1916-D Mercury Dime  
-US-WASH-1932-D  → 1932-D Washington Quarter
+US-LWCT-1909-S  → 1909-S Lincoln Wheat Cent (VDB variety available)
+US-MERC-1916-D  → 1916-D Mercury Dime (Key date, only 264,000 minted)
+US-WASH-1932-D  → 1932-D Washington Quarter (First year key date)
+US-MORG-1921-D  → 1921-D Morgan Dollar (Last year of Morgans)
+US-WLHD-1916-S  → 1916-S Walking Liberty Half (First year)
+US-INCH-1877-P  → 1877 Indian Head Cent (Ultimate key date)
+US-BUFF-1937-D  → 1937-D Buffalo Nickel (3-legged variety exists)
+US-SLIQ-1916-P  → 1916 Standing Liberty Quarter (52,000 minted)
+US-JEFF-1950-D  → 1950-D Jefferson Nickel (2.6 million - lowest mintage)
+US-FRHD-1955-P  → 1955 Franklin Half Dollar (Lowest mintage)
 ```
 
 ### Handling Unknown Data
@@ -47,13 +55,27 @@ US-WASH-1932-D  → 1932-D Washington Quarter
 When mapping damaged or incomplete coins:
 ```
 US-LWCT-YYYY-X  → Lincoln Wheat Cent, unknown year & mint
-US-MERC-1942-X  → 1942 Mercury Dime, unknown mint
+US-MERC-1942-X  → 1942 Mercury Dime, unknown mint (could be P, D, or S)
 US-INCH-YYYY-P  → Indian Head Cent from Philadelphia, year unknown
+US-BUFF-1936-X  → 1936 Buffalo Nickel, mint mark worn off
+US-WASH-19XX-D  → Washington Quarter from Denver, decade visible (1940s, 1950s, etc)
+```
+
+### Common eBay Listings → Our Taxonomy IDs
+```
+"1943 Steel Penny"           → US-LWCT-1943-P (also -D, -S variants)
+"1916 Mercury Dime Denver"   → US-MERC-1916-D
+"Morgan Silver Dollar 1921"  → US-MORG-1921-P (also -D, -S variants)
+"Walking Liberty Half 1942"  → US-WLHD-1942-P (also -D, -S variants)
+"Indian Head Penny 1909"     → US-INCH-1909-P (last year)
+"Buffalo Nickel no date"     → US-BUFF-YYYY-X
+"Kennedy Half 1964 Silver"   → US-KHDO-1964-P (90% silver)
+"Wheat Penny 1909 VDB"       → US-LWCT-1909-P (VDB variety)
 ```
 
 ### Type Code Reference
 
-**Common types** (4-letter codes):
+**Common Coin Types** (4-letter codes):
 ```python
 # Cents
 INCH = Indian Head Cent       LWCT = Lincoln Wheat Cent
@@ -70,6 +92,15 @@ WASH = Washington Quarter     SLIQ = Standing Liberty Quarter
 
 # Dollars
 MORG = Morgan Dollar          PEAC = Peace Dollar
+```
+
+**Paper Currency Examples:**
+```python
+# Federal Reserve Notes
+US-FRN-1963-A-1    = $1 Federal Reserve Note Series 1963A
+US-SC-1923-P-1     = $1 Silver Certificate Series 1923
+US-LTN-1880-P-10   = $10 Legal Tender Note Series 1880
+US-FRN-1934-A-100  = $100 Federal Reserve Note Series 1934A
 ```
 
 [Full type code list](data/universal/series_registry.json)
