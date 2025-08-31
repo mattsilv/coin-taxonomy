@@ -10,8 +10,10 @@ With 2,567+ US coins (including 1,123 pre-1933 gold coins) and 82+ paper currenc
 
 ## What You Get
 
-- **2,567+ coins & 82+ paper currency notes** with standardized identifiers (includes pre-1933 gold)
-- **US complete, international expansion planned** (Canada, UK, World coins coming)
+- **2,567+ coins & 82+ paper currency notes** with standardized identifiers
+- **Complete gold & silver bullion coverage** (American Eagles, Buffalos, commemoratives)
+- **Full pre-1933 gold coins** (1,123+ coins across all denominations)
+- **Modern bullion programs** (1986-present Silver Eagles, Gold Eagles all sizes)
 - **SQLite database** as single source of truth (version controlled)
 - **AI-optimized formats** for marketplace integration (10K-26K tokens)
 - **Complete composition data** for melt value calculations
@@ -92,6 +94,16 @@ WASH = Washington Quarter     SLIQ = Standing Liberty Quarter
 
 # Dollars
 MORG = Morgan Dollar          PEAC = Peace Dollar
+TRDO = Trade Dollar
+
+# Gold Bullion (Modern)
+AGEO = American Gold Eagle 1oz    AGEH = American Gold Eagle 1/2oz
+AGEQ = American Gold Eagle 1/4oz  AGET = American Gold Eagle 1/10oz
+AGBF = American Buffalo Gold
+
+# Silver Bullion (Modern)
+ASEA = American Silver Eagle      ATBQ = America the Beautiful 5oz
+MSMC = Morgan Commemorative       PSMC = Peace Commemorative
 ```
 
 **Paper Currency Examples:**
