@@ -4,13 +4,13 @@
 
 The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.
 
-With 1,539+ US coins and 82+ paper currency notes (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database. International expansion to other countries is planned.
+With 2,567+ US coins (including 1,123 pre-1933 gold coins) and 82+ paper currency notes (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database. International expansion to other countries is planned.
 
 **🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#mapping-your-database)**
 
 ## What You Get
 
-- **1,539+ coins & 82+ paper currency notes** with standardized identifiers
+- **2,567+ coins & 82+ paper currency notes** with standardized identifiers (includes pre-1933 gold)
 - **US complete, international expansion planned** (Canada, UK, World coins coming)
 - **SQLite database** as single source of truth (version controlled)
 - **AI-optimized formats** for marketplace integration (10K-26K tokens)
@@ -45,9 +45,9 @@ US-MORG-1921-D  → 1921-D Morgan Dollar (Last year of Morgans)
 US-WLHD-1916-S  → 1916-S Walking Liberty Half (First year)
 US-INCH-1877-P  → 1877 Indian Head Cent (Ultimate key date)
 US-BUFF-1937-D  → 1937-D Buffalo Nickel (3-legged variety exists)
-US-SLIQ-1916-P  → 1916 Standing Liberty Quarter (52,000 minted)
-US-JEFF-1950-D  → 1950-D Jefferson Nickel (2.6 million - lowest mintage)
-US-FRHD-1955-P  → 1955 Franklin Half Dollar (Lowest mintage)
+US-DESG-1907-P  → 1907 Saint-Gaudens Double Eagle (High Relief)
+US-QEIH-1911-D  → 1911-D Indian Head Quarter Eagle (Key date)
+US-GDLA-1849-P  → 1849 Gold Dollar Type I (First year)
 ```
 
 ### Handling Unknown Data
