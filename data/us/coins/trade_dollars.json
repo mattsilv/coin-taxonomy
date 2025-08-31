@@ -8,30 +8,11 @@
         {
           "business_strikes": 396635,
           "coin_id": "US-TRDO-1873-P",
-          "common_names": [
-            "Trade Dollar",
-            "Export Dollar",
-            "China Trade Dollar"
-          ],
+          "common_names": "[\"Trade Dollar\", \"Export Dollar\", \"China Trade Dollar\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "90% silver composition at 420 grains",
-            "38.1mm diameter",
-            "Heavier than regular dollar for overseas trade",
-            "Eagle with weight specifications",
-            "William Barber design"
-          ],
-          "identification_keywords": [
-            "trade dollar",
-            "export dollar",
-            "420 grains",
-            "seated liberty trade",
-            "china trade dollar",
-            "silver trade dollar",
-            "william barber",
-            "overseas trade"
-          ],
+          "distinguishing_features": "[\"90% silver composition at 420 grains\", \"38.1mm diameter\", \"Heavier than regular dollar for overseas trade\", \"Eagle with weight specifications\", \"William Barber design\"]",
+          "identification_keywords": "[\"trade dollar\", \"export dollar\", \"420 grains\", \"seated liberty trade\", \"china trade dollar\", \"silver trade dollar\", \"william barber\", \"overseas trade\"]",
           "mint": "P",
           "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
           "proof_strikes": 0,
@@ -44,30 +25,11 @@
         {
           "business_strikes": 97000,
           "coin_id": "US-TRDO-1878-CC",
-          "common_names": [
-            "Trade Dollar",
-            "Export Dollar",
-            "China Trade Dollar"
-          ],
+          "common_names": "[\"Trade Dollar\", \"Export Dollar\", \"China Trade Dollar\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "90% silver composition at 420 grains",
-            "38.1mm diameter",
-            "Heavier than regular dollar for overseas trade",
-            "Eagle with weight specifications",
-            "William Barber design"
-          ],
-          "identification_keywords": [
-            "trade dollar",
-            "export dollar",
-            "420 grains",
-            "seated liberty trade",
-            "china trade dollar",
-            "silver trade dollar",
-            "william barber",
-            "overseas trade"
-          ],
+          "distinguishing_features": "[\"90% silver composition at 420 grains\", \"38.1mm diameter\", \"Heavier than regular dollar for overseas trade\", \"Eagle with weight specifications\", \"William Barber design\"]",
+          "identification_keywords": "[\"trade dollar\", \"export dollar\", \"420 grains\", \"seated liberty trade\", \"china trade dollar\", \"silver trade dollar\", \"william barber\", \"overseas trade\"]",
           "mint": "CC",
           "obverse_description": "Liberty seated on bales holding olive branch, '13' stars around, 'LIBERTY' above, date below",
           "proof_strikes": 0,

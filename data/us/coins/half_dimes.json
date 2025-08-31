@@ -8,34 +8,14 @@
         {
           "business_strikes": 1405000,
           "coin_id": "US-SLHM-1837-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1837 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1837 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1837 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1837 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "First year of series. Good condition value: $40",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -57,34 +37,14 @@
         {
           "business_strikes": 2255000,
           "coin_id": "US-SLHM-1838-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1838 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1838 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1838 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1838 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "No Drapery variety. Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -106,34 +66,14 @@
         {
           "business_strikes": 1034039,
           "coin_id": "US-SLHM-1839-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1839 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1839 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1839 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1839 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -155,34 +95,14 @@
         {
           "business_strikes": 1034039,
           "coin_id": "US-SLHM-1839-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1839 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1839 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1839 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1839 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "No Drapery variety. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -204,34 +124,14 @@
         {
           "business_strikes": 1165000,
           "coin_id": "US-SLHM-1840-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1840 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1840 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1840 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1840 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -253,34 +153,14 @@
         {
           "business_strikes": 1344085,
           "coin_id": "US-SLHM-1840-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1840 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1840 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "No Drapery",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1840 half dime",
-            "5 cents",
-            "silver half dime",
-            "no drapery",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"No Drapery\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1840 half dime\", \"5 cents\", \"silver half dime\", \"no drapery\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "No Drapery variety. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap, no drapery at elbow, 13 stars around, date below",
@@ -302,34 +182,14 @@
         {
           "business_strikes": 815000,
           "coin_id": "US-SLHM-1841-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1841 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1841 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1841 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1841 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -351,34 +211,14 @@
         {
           "business_strikes": 1150000,
           "coin_id": "US-SLHM-1841-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1841 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1841 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1841 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1841 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Drapery added. Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -400,34 +240,14 @@
         {
           "business_strikes": 350000,
           "coin_id": "US-SLHM-1842-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1842 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1842 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1842 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1842 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $30",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -449,34 +269,14 @@
         {
           "business_strikes": 815000,
           "coin_id": "US-SLHM-1842-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1842 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1842 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1842 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1842 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Standard design. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -498,34 +298,14 @@
         {
           "business_strikes": 1165000,
           "coin_id": "US-SLHM-1843-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1843 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1843 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1843 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1843 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -547,34 +327,14 @@
         {
           "business_strikes": 220000,
           "coin_id": "US-SLHM-1844-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1844 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1844 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1844 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1844 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $80",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -596,34 +356,14 @@
         {
           "business_strikes": 430000,
           "coin_id": "US-SLHM-1844-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1844 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1844 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1844 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1844 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -645,34 +385,14 @@
         {
           "business_strikes": 1564000,
           "coin_id": "US-SLHM-1845-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1845 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1845 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1845 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1845 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -694,34 +414,14 @@
         {
           "business_strikes": 27000,
           "coin_id": "US-SLHM-1846-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1846 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1846 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1846 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1846 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Very low mintage key date. Good condition value: $350",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -743,34 +443,14 @@
         {
           "business_strikes": 1274000,
           "coin_id": "US-SLHM-1847-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1847 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1847 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1847 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1847 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -792,34 +472,14 @@
         {
           "business_strikes": 600000,
           "coin_id": "US-SLHM-1848-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1848 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1848 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1848 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1848 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $22",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -841,34 +501,14 @@
         {
           "business_strikes": 668000,
           "coin_id": "US-SLHM-1848-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1848 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1848 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1848 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1848 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Medium Date variety. Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -890,34 +530,14 @@
         {
           "business_strikes": 140000,
           "coin_id": "US-SLHM-1849-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1849 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1849 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1849 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1849 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $16",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -939,34 +559,14 @@
         {
           "business_strikes": 1309000,
           "coin_id": "US-SLHM-1849-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1849 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1849 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1849 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1849 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "9 over 6 variety exists. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -988,34 +588,14 @@
         {
           "business_strikes": 690000,
           "coin_id": "US-SLHM-1850-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1850 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1850 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1850 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1850 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $25",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1037,34 +617,14 @@
         {
           "business_strikes": 955000,
           "coin_id": "US-SLHM-1850-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1850 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1850 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1850 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1850 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1086,34 +646,14 @@
         {
           "business_strikes": 860000,
           "coin_id": "US-SLHM-1851-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1851 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1851 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1851 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1851 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $25",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1135,34 +675,14 @@
         {
           "business_strikes": 781000,
           "coin_id": "US-SLHM-1851-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1851 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1851 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1851 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1851 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1184,34 +704,14 @@
         {
           "business_strikes": 260000,
           "coin_id": "US-SLHM-1852-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1852 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1852 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1852 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1852 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $30",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1233,34 +733,14 @@
         {
           "business_strikes": 1000500,
           "coin_id": "US-SLHM-1852-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1852 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1852 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1852 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1852 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1282,34 +762,14 @@
         {
           "business_strikes": 160000,
           "coin_id": "US-SLHM-1853-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1853 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1853 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1853 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "O mint",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1853 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"O mint\", \"arrows\"]",
           "mint": "O",
           "notes": "Without Arrows key date. Good condition value: $200",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1331,34 +791,14 @@
         {
           "business_strikes": 135000,
           "coin_id": "US-SLHM-1853-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1853 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1853 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1853 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "philadelphia",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1853 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"philadelphia\", \"arrows\"]",
           "mint": "P",
           "notes": "Without Arrows variety. Good condition value: $35",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1380,34 +820,14 @@
         {
           "business_strikes": 1560000,
           "coin_id": "US-SLHM-1854-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1854 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1854 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1854 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "O mint",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1854 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"O mint\", \"arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1429,34 +849,14 @@
         {
           "business_strikes": 5740000,
           "coin_id": "US-SLHM-1854-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1854 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1854 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1854 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "philadelphia",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1854 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"philadelphia\", \"arrows\"]",
           "mint": "P",
           "notes": "With Arrows. Good condition value: $20",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1478,34 +878,14 @@
         {
           "business_strikes": 600000,
           "coin_id": "US-SLHM-1855-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1855 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1855 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1855 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "O mint",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1855 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"O mint\", \"arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1527,34 +907,14 @@
         {
           "business_strikes": 1750000,
           "coin_id": "US-SLHM-1855-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1855 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1855 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "With Arrows",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1855 half dime",
-            "5 cents",
-            "silver half dime",
-            "with arrows",
-            "philadelphia",
-            "arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"With Arrows\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1855 half dime\", \"5 cents\", \"silver half dime\", \"with arrows\", \"philadelphia\", \"arrows\"]",
           "mint": "P",
           "notes": "Last year with Arrows. Good condition value: $20",
           "obverse_description": "Seated Liberty with arrows at date, holding pole with liberty cap and shield, 13 stars around",
@@ -1576,34 +936,14 @@
         {
           "business_strikes": 1100000,
           "coin_id": "US-SLHM-1856-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1856 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1856 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1856 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1856 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1625,34 +965,14 @@
         {
           "business_strikes": 4880000,
           "coin_id": "US-SLHM-1856-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1856 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1856 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1856 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1856 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1674,34 +994,14 @@
         {
           "business_strikes": 1380000,
           "coin_id": "US-SLHM-1857-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1857 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1857 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1857 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1857 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1723,34 +1023,14 @@
         {
           "business_strikes": 7280000,
           "coin_id": "US-SLHM-1857-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1857 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1857 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1857 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1857 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1772,34 +1052,14 @@
         {
           "business_strikes": 1660000,
           "coin_id": "US-SLHM-1858-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1858 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1858 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1858 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1858 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1821,34 +1081,14 @@
         {
           "business_strikes": 3500000,
           "coin_id": "US-SLHM-1858-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1858 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1858 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1858 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1858 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1870,34 +1110,14 @@
         {
           "business_strikes": 560000,
           "coin_id": "US-SLHM-1859-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1859 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1859 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1859 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1859 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $20",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1919,34 +1139,14 @@
         {
           "business_strikes": 340000,
           "coin_id": "US-SLHM-1859-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1859 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1859 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Standard",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1859 half dime",
-            "5 cents",
-            "silver half dime",
-            "standard",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Standard\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1859 half dime\", \"5 cents\", \"silver half dime\", \"standard\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $18",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield in right, drapery at elbow, 13 stars around, date below",
@@ -1968,34 +1168,14 @@
         {
           "business_strikes": 1060000,
           "coin_id": "US-SLHM-1860-O",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1860 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1860 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark O"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1860 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "O mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark O\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1860 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"O mint\", \"no arrows\"]",
           "mint": "O",
           "notes": "New Orleans Mint. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2017,34 +1197,14 @@
         {
           "business_strikes": 798000,
           "coin_id": "US-SLHM-1860-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1860 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1860 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1860 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1860 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Legend obverse begins. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2066,34 +1226,14 @@
         {
           "business_strikes": 3360000,
           "coin_id": "US-SLHM-1861-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1861 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1861 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1861 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1861 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2115,34 +1255,14 @@
         {
           "business_strikes": 1492000,
           "coin_id": "US-SLHM-1862-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1862 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1862 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1862 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1862 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Civil War year. Good condition value: $25",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2164,34 +1284,14 @@
         {
           "business_strikes": 18000,
           "coin_id": "US-SLHM-1863-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1863 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1863 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1863 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1863 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Civil War low mintage. Good condition value: $160",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2213,34 +1313,14 @@
         {
           "business_strikes": 100000,
           "coin_id": "US-SLHM-1863-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1863 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1863 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1863 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1863 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $30",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2262,34 +1342,14 @@
         {
           "business_strikes": 48000,
           "coin_id": "US-SLHM-1864-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1864 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1864 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1864 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1864 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Civil War key date. Good condition value: $325",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2311,34 +1371,14 @@
         {
           "business_strikes": 90000,
           "coin_id": "US-SLHM-1864-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1864 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1864 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1864 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1864 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $45",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2360,34 +1400,14 @@
         {
           "business_strikes": 13000,
           "coin_id": "US-SLHM-1865-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1865 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1865 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1865 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1865 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Civil War key date. Good condition value: $275",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2409,34 +1429,14 @@
         {
           "business_strikes": 120000,
           "coin_id": "US-SLHM-1865-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1865 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1865 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1865 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1865 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $30",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2458,34 +1458,14 @@
         {
           "business_strikes": 10000,
           "coin_id": "US-SLHM-1866-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1866 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1866 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1866 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1866 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Post-war low mintage. Good condition value: $325",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2507,34 +1487,14 @@
         {
           "business_strikes": 120000,
           "coin_id": "US-SLHM-1866-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1866 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1866 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1866 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1866 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $30",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2556,34 +1516,14 @@
         {
           "business_strikes": 8000,
           "coin_id": "US-SLHM-1867-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1867 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1867 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1867 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1867 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Extremely low mintage. Good condition value: $450",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2605,34 +1545,14 @@
         {
           "business_strikes": 120000,
           "coin_id": "US-SLHM-1867-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1867 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1867 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1867 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1867 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $25",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2654,34 +1574,14 @@
         {
           "business_strikes": 88600,
           "coin_id": "US-SLHM-1868-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1868 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1868 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1868 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1868 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $55",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2703,34 +1603,14 @@
         {
           "business_strikes": 280000,
           "coin_id": "US-SLHM-1868-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1868 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1868 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1868 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1868 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2752,34 +1632,14 @@
         {
           "business_strikes": 208000,
           "coin_id": "US-SLHM-1869-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1869 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1869 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1869 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1869 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2801,34 +1661,14 @@
         {
           "business_strikes": 230000,
           "coin_id": "US-SLHM-1869-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1869 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1869 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1869 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1869 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2850,34 +1690,14 @@
         {
           "business_strikes": 535000,
           "coin_id": "US-SLHM-1870-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1870 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1870 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1870 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1870 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2899,34 +1719,14 @@
         {
           "business_strikes": 1873300,
           "coin_id": "US-SLHM-1871-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1871 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1871 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1871 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1871 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": ". Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2948,34 +1748,14 @@
         {
           "business_strikes": 161000,
           "coin_id": "US-SLHM-1871-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1871 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1871 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1871 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1871 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $18",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -2997,34 +1777,14 @@
         {
           "business_strikes": 2947000,
           "coin_id": "US-SLHM-1872-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1872 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1872 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1872 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1872 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Mintmark below wreath. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -3046,34 +1806,14 @@
         {
           "business_strikes": 837000,
           "coin_id": "US-SLHM-1872-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1872 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1872 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1872 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1872 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $20",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -3095,34 +1835,14 @@
         {
           "business_strikes": 712000,
           "coin_id": "US-SLHM-1873-P",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1873 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1873 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark none (Philadelphia)"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1873 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "philadelphia",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark none (Philadelphia)\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1873 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"philadelphia\", \"no arrows\"]",
           "mint": "P",
           "notes": "Last year of series. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",
@@ -3144,34 +1864,14 @@
         {
           "business_strikes": 324000,
           "coin_id": "US-SLHM-1873-S",
-          "common_names": [
-            "Seated Liberty Half Dime",
-            "1873 Half Dime",
-            "5 Cent Silver"
-          ],
+          "common_names": "[\"Seated Liberty Half Dime\", \"1873 Half Dime\", \"5 Cent Silver\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 15.5,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver, 10% copper",
-            "15.5mm diameter",
-            "Reeded edge",
-            "Legend Obverse",
-            "Mintmark S"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "half dime",
-            "1873 half dime",
-            "5 cents",
-            "silver half dime",
-            "legend obverse",
-            "S mint",
-            "no arrows"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver, 10% copper\", \"15.5mm diameter\", \"Reeded edge\", \"Legend Obverse\", \"Mintmark S\"]",
+          "identification_keywords": "[\"seated liberty\", \"half dime\", \"1873 half dime\", \"5 cents\", \"silver half dime\", \"legend obverse\", \"S mint\", \"no arrows\"]",
           "mint": "S",
           "notes": "San Francisco Mint. Good condition value: $16",
           "obverse_description": "Seated Liberty with 'UNITED STATES OF AMERICA' legend replacing stars, date below",

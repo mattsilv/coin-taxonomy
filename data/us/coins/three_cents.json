@@ -8,10 +8,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-SLTC-1851-O",
-          "common_names": [
-            "Trime",
-            "Silver Trey"
-          ],
+          "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
             "alloy": {
               "copper": 0.25,
@@ -20,21 +17,8 @@
             "alloy_name": "75% Silver (Type I)"
           },
           "diameter_mm": 14.0,
-          "distinguishing_features": [
-            "Only New Orleans mint three-cent piece ever made. Type I."
-          ],
-          "identification_keywords": [
-            "silver",
-            "three",
-            "cent",
-            "1851",
-            "new",
-            "orleans",
-            "trime",
-            "key",
-            "date",
-            "only"
-          ],
+          "distinguishing_features": "[\"Only New Orleans mint three-cent piece ever made. Type I.\"]",
+          "identification_keywords": "[\"silver\", \"three\", \"cent\", \"1851\", \"new\", \"orleans\", \"trime\", \"key\", \"date\", \"only\"]",
           "mint": "O",
           "notes": "Only three-cent piece ever made at New Orleans mint. Very scarce.",
           "obverse_description": "Shield with single-outline six-pointed star, UNITED STATES OF AMERICA around",
@@ -48,10 +32,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-SLTC-1851-P",
-          "common_names": [
-            "Trime",
-            "Silver Trey"
-          ],
+          "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
             "alloy": {
               "copper": 0.25,
@@ -60,20 +41,8 @@
             "alloy_name": "75% Silver (Type I)"
           },
           "diameter_mm": 14.0,
-          "distinguishing_features": [
-            "Type I - single outline star. First year of issue."
-          ],
-          "identification_keywords": [
-            "silver",
-            "three",
-            "cent",
-            "1851",
-            "trime",
-            "type",
-            "1",
-            "first",
-            "year"
-          ],
+          "distinguishing_features": "[\"Type I - single outline star. First year of issue.\"]",
+          "identification_keywords": "[\"silver\", \"three\", \"cent\", \"1851\", \"trime\", \"type\", \"1\", \"first\", \"year\"]",
           "mint": "P",
           "notes": "First year of issue. Type I composition (75% silver).",
           "obverse_description": "Shield with single-outline six-pointed star, UNITED STATES OF AMERICA around",
@@ -87,10 +56,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-SLTC-1854-P",
-          "common_names": [
-            "Trime",
-            "Silver Trey"
-          ],
+          "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -99,20 +65,8 @@
             "alloy_name": "90% Silver"
           },
           "diameter_mm": 14.0,
-          "distinguishing_features": [
-            "Type II - triple outline star with olive sprig and arrows."
-          ],
-          "identification_keywords": [
-            "silver",
-            "three",
-            "cent",
-            "1854",
-            "trime",
-            "type",
-            "2",
-            "triple",
-            "outline"
-          ],
+          "distinguishing_features": "[\"Type II - triple outline star with olive sprig and arrows.\"]",
+          "identification_keywords": "[\"silver\", \"three\", \"cent\", \"1854\", \"trime\", \"type\", \"2\", \"triple\", \"outline\"]",
           "mint": "P",
           "notes": "First Type II issue. Changed to 90% silver composition.",
           "obverse_description": "Shield with triple-outline six-pointed star, olive sprig and arrows",
@@ -126,10 +80,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-SLTC-1859-P",
-          "common_names": [
-            "Trime",
-            "Silver Trey"
-          ],
+          "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -138,20 +89,8 @@
             "alloy_name": "90% Silver"
           },
           "diameter_mm": 14.0,
-          "distinguishing_features": [
-            "Type III - double outline star, no olive sprig/arrows."
-          ],
-          "identification_keywords": [
-            "silver",
-            "three",
-            "cent",
-            "1859",
-            "trime",
-            "type",
-            "3",
-            "double",
-            "outline"
-          ],
+          "distinguishing_features": "[\"Type III - double outline star, no olive sprig/arrows.\"]",
+          "identification_keywords": "[\"silver\", \"three\", \"cent\", \"1859\", \"trime\", \"type\", \"3\", \"double\", \"outline\"]",
           "mint": "P",
           "notes": "First Type III issue. Simplified design without olive sprig and arrows.",
           "obverse_description": "Shield with double-outline six-pointed star",
@@ -165,10 +104,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-SLTC-1873-P",
-          "common_names": [
-            "Trime",
-            "Silver Trey"
-          ],
+          "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -177,20 +113,8 @@
             "alloy_name": "90% Silver"
           },
           "diameter_mm": 14.0,
-          "distinguishing_features": [
-            "Final year - proof only. Type III design."
-          ],
-          "identification_keywords": [
-            "silver",
-            "three",
-            "cent",
-            "1873",
-            "trime",
-            "final",
-            "year",
-            "proof",
-            "only"
-          ],
+          "distinguishing_features": "[\"Final year - proof only. Type III design.\"]",
+          "identification_keywords": "[\"silver\", \"three\", \"cent\", \"1873\", \"trime\", \"final\", \"year\", \"proof\", \"only\"]",
           "mint": "P",
           "notes": "Final year of series. Proof only - no business strikes.",
           "obverse_description": "Shield with double-outline six-pointed star",
@@ -249,9 +173,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NLTC-1865-P",
-          "common_names": [
-            "Nickel Three-Cent"
-          ],
+          "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
             "alloy": {
               "copper": 0.75,
@@ -260,19 +182,8 @@
             "alloy_name": "Copper-Nickel"
           },
           "diameter_mm": 17.9,
-          "distinguishing_features": [
-            "First year of nickel three-cent series. Larger than silver."
-          ],
-          "identification_keywords": [
-            "nickel",
-            "three",
-            "cent",
-            "1865",
-            "first",
-            "year",
-            "copper",
-            "nickel"
-          ],
+          "distinguishing_features": "[\"First year of nickel three-cent series. Larger than silver.\"]",
+          "identification_keywords": "[\"nickel\", \"three\", \"cent\", \"1865\", \"first\", \"year\", \"copper\", \"nickel\"]",
           "mint": "P",
           "notes": "First year of nickel three-cent series. Larger and heavier than silver.",
           "obverse_description": "Liberty head left with coronet inscribed LIBERTY",
@@ -286,9 +197,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NLTC-1877-P",
-          "common_names": [
-            "Nickel Three-Cent"
-          ],
+          "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
             "alloy": {
               "copper": 0.75,
@@ -297,19 +206,8 @@
             "alloy_name": "Copper-Nickel"
           },
           "diameter_mm": 17.9,
-          "distinguishing_features": [
-            "Proof only year - no business strikes made."
-          ],
-          "identification_keywords": [
-            "nickel",
-            "three",
-            "cent",
-            "1877",
-            "proof",
-            "only",
-            "key",
-            "date"
-          ],
+          "distinguishing_features": "[\"Proof only year - no business strikes made.\"]",
+          "identification_keywords": "[\"nickel\", \"three\", \"cent\", \"1877\", \"proof\", \"only\", \"key\", \"date\"]",
           "mint": "P",
           "notes": "Key date - proof only year. No business strikes produced.",
           "obverse_description": "Liberty head left with coronet inscribed LIBERTY",
@@ -323,9 +221,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NLTC-1878-P",
-          "common_names": [
-            "Nickel Three-Cent"
-          ],
+          "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
             "alloy": {
               "copper": 0.75,
@@ -334,19 +230,8 @@
             "alloy_name": "Copper-Nickel"
           },
           "diameter_mm": 17.9,
-          "distinguishing_features": [
-            "Proof only year - no business strikes made."
-          ],
-          "identification_keywords": [
-            "nickel",
-            "three",
-            "cent",
-            "1878",
-            "proof",
-            "only",
-            "key",
-            "date"
-          ],
+          "distinguishing_features": "[\"Proof only year - no business strikes made.\"]",
+          "identification_keywords": "[\"nickel\", \"three\", \"cent\", \"1878\", \"proof\", \"only\", \"key\", \"date\"]",
           "mint": "P",
           "notes": "Key date - proof only year. No business strikes produced.",
           "obverse_description": "Liberty head left with coronet inscribed LIBERTY",
@@ -360,9 +245,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NLTC-1885-P",
-          "common_names": [
-            "Nickel Three-Cent"
-          ],
+          "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
             "alloy": {
               "copper": 0.75,
@@ -371,19 +254,8 @@
             "alloy_name": "Copper-Nickel"
           },
           "diameter_mm": 17.9,
-          "distinguishing_features": [
-            "Extremely low business strike mintage of only 1,000."
-          ],
-          "identification_keywords": [
-            "nickel",
-            "three",
-            "cent",
-            "1885",
-            "key",
-            "date",
-            "low",
-            "mintage"
-          ],
+          "distinguishing_features": "[\"Extremely low business strike mintage of only 1,000.\"]",
+          "identification_keywords": "[\"nickel\", \"three\", \"cent\", \"1885\", \"key\", \"date\", \"low\", \"mintage\"]",
           "mint": "P",
           "notes": "Key date - only 1,000 business strikes made. Extremely rare.",
           "obverse_description": "Liberty head left with coronet inscribed LIBERTY",
@@ -397,9 +269,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NLTC-1889-P",
-          "common_names": [
-            "Nickel Three-Cent"
-          ],
+          "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
             "alloy": {
               "copper": 0.75,
@@ -408,18 +278,8 @@
             "alloy_name": "Copper-Nickel"
           },
           "diameter_mm": 17.9,
-          "distinguishing_features": [
-            "Final year of three-cent denomination."
-          ],
-          "identification_keywords": [
-            "nickel",
-            "three",
-            "cent",
-            "1889",
-            "final",
-            "year",
-            "last"
-          ],
+          "distinguishing_features": "[\"Final year of three-cent denomination.\"]",
+          "identification_keywords": "[\"nickel\", \"three\", \"cent\", \"1889\", \"final\", \"year\", \"last\"]",
           "mint": "P",
           "notes": "Final year of three-cent denomination. End of era.",
           "obverse_description": "Liberty head left with coronet inscribed LIBERTY",

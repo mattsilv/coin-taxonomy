@@ -12,6 +12,7 @@
       "enum": [
         "Cents", "Two Cents", "Three Cents", "Nickels", "Half Dimes", "Dimes", 
         "Twenty Cents", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars",
+        "Gold Dollars", "Quarter Eagles", "Three Dollar Gold", "Half Eagles", "Eagles", "Double Eagles",
         "Paper $0.03", "Paper $0.05", "Paper $0.1", "Paper $0.15", "Paper $0.25", "Paper $0.5",
         "Paper $1", "Paper $2", "Paper $5", "Paper $10", "Paper $20", "Paper $50", "Paper $100"
       ]

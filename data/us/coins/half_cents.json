@@ -8,29 +8,11 @@
         {
           "business_strikes": 35334,
           "coin_id": "US-HCLC-1793-P",
-          "common_names": [
-            "Liberty Cap Half Cent",
-            "1793 Half Cent",
-            "First Half Cent"
-          ],
+          "common_names": "[\"Liberty Cap Half Cent\", \"1793 Half Cent\", \"First Half Cent\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "100% copper composition",
-            "22mm diameter",
-            "First U.S. half cent",
-            "Liberty cap design",
-            "Lettered edge"
-          ],
-          "identification_keywords": [
-            "liberty cap half cent",
-            "half cent",
-            "1793 half cent",
-            "copper half cent",
-            "liberty cap",
-            "first half cent",
-            "early american coin"
-          ],
+          "distinguishing_features": "[\"100% copper composition\", \"22mm diameter\", \"First U.S. half cent\", \"Liberty cap design\", \"Lettered edge\"]",
+          "identification_keywords": "[\"liberty cap half cent\", \"half cent\", \"1793 half cent\", \"copper half cent\", \"liberty cap\", \"first half cent\", \"early american coin\"]",
           "mint": "P",
           "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
           "proof_strikes": 0,
@@ -68,35 +50,13 @@
         {
           "business_strikes": 670000,
           "coin_id": "US-VHPW-1773-L",
-          "common_names": [
-            "Virginia Halfpenny",
-            "1773 Virginia Halfpenny",
-            "Colonial Virginia Halfpenny"
-          ],
+          "common_names": "[\"Virginia Halfpenny\", \"1773 Virginia Halfpenny\", \"Colonial Virginia Halfpenny\"]",
           "composition": {
             "copper": 1.0
           },
           "diameter_mm": 25.0,
-          "distinguishing_features": [
-            "Colonial Virginia coinage",
-            "Struck at Tower Mint, London",
-            "Authorized by Virginia Assembly 1773",
-            "Arrived in Virginia 1774",
-            "Distributed 1775",
-            "22 die pairs used",
-            "Many hoarded during Revolution",
-            "Two major obverse varieties"
-          ],
-          "identification_keywords": [
-            "virginia halfpenny",
-            "colonial virginia",
-            "1773 halfpenny",
-            "george iii",
-            "colonial copper",
-            "pre-federal",
-            "tower mint",
-            "virginia coinage"
-          ],
+          "distinguishing_features": "[\"Colonial Virginia coinage\", \"Struck at Tower Mint, London\", \"Authorized by Virginia Assembly 1773\", \"Arrived in Virginia 1774\", \"Distributed 1775\", \"22 die pairs used\", \"Many hoarded during Revolution\", \"Two major obverse varieties\"]",
+          "identification_keywords": "[\"virginia halfpenny\", \"colonial virginia\", \"1773 halfpenny\", \"george iii\", \"colonial copper\", \"pre-federal\", \"tower mint\", \"virginia coinage\"]",
           "mint": "L",
           "notes": "Colonial/Pre-Federal issue struck at Tower Mint, London",
           "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
@@ -150,29 +110,11 @@
         {
           "business_strikes": 202908,
           "coin_id": "US-HCDB-1800-P",
-          "common_names": [
-            "Draped Bust Half Cent",
-            "1800 Half Cent",
-            "Stuart Liberty Half Cent"
-          ],
+          "common_names": "[\"Draped Bust Half Cent\", \"1800 Half Cent\", \"Stuart Liberty Half Cent\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "100% copper composition",
-            "23.5mm diameter",
-            "Draped clothing on Liberty",
-            "Gilbert Stuart and Robert Scot design",
-            "Plain edge"
-          ],
-          "identification_keywords": [
-            "draped bust half cent",
-            "half cent",
-            "1800 half cent",
-            "copper half cent",
-            "draped bust",
-            "stuart liberty",
-            "early half cent"
-          ],
+          "distinguishing_features": "[\"100% copper composition\", \"23.5mm diameter\", \"Draped clothing on Liberty\", \"Gilbert Stuart and Robert Scot design\", \"Plain edge\"]",
+          "identification_keywords": "[\"draped bust half cent\", \"half cent\", \"1800 half cent\", \"copper half cent\", \"draped bust\", \"stuart liberty\", \"early half cent\"]",
           "mint": "P",
           "notes": "Designed by Gilbert Stuart and Robert Scot",
           "obverse_description": "Draped bust of Liberty facing right, 'LIBERTY' above, date below",

@@ -8,11 +8,7 @@
         {
           "business_strikes": 1758,
           "coin_id": "US-FHDO-1794-P",
-          "common_names": [
-            "Flowing Hair Dollar",
-            "1794 Silver Dollar",
-            "First Silver Dollar"
-          ],
+          "common_names": "[\"Flowing Hair Dollar\", \"1794 Silver Dollar\", \"First Silver Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1076,
@@ -21,23 +17,8 @@
             "alloy_name": "Early Silver"
           },
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "89.2% silver composition",
-            "39-40mm diameter (large)",
-            "First silver dollar",
-            "Flowing hair design",
-            "Small eagle reverse"
-          ],
-          "identification_keywords": [
-            "flowing hair dollar",
-            "1794 dollar",
-            "first silver dollar",
-            "large silver dollar",
-            "flowing hair",
-            "small eagle",
-            "early dollar",
-            "silver dollar"
-          ],
+          "distinguishing_features": "[\"89.2% silver composition\", \"39-40mm diameter (large)\", \"First silver dollar\", \"Flowing hair design\", \"Small eagle reverse\"]",
+          "identification_keywords": "[\"flowing hair dollar\", \"1794 dollar\", \"first silver dollar\", \"large silver dollar\", \"flowing hair\", \"small eagle\", \"early dollar\", \"silver dollar\"]",
           "mint": "P",
           "obverse_description": "Liberty head with flowing hair facing right, 'LIBERTY' above, 15 stars around rim, date below",
           "proof_strikes": 0,
@@ -82,11 +63,7 @@
         {
           "business_strikes": 0,
           "coin_id": "US-GBDO-1836-P",
-          "common_names": [
-            "Gobrecht Dollar",
-            "Seated Liberty Dollar",
-            "1836 Pattern Dollar"
-          ],
+          "common_names": "[\"Gobrecht Dollar\", \"Seated Liberty Dollar\", \"1836 Pattern Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1076,
@@ -95,23 +72,8 @@
             "alloy_name": "Early Silver"
           },
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Transitional pattern design",
-            "Flying eagle reverse",
-            "Christian Gobrecht designer"
-          ],
-          "identification_keywords": [
-            "gobrecht dollar",
-            "seated liberty dollar",
-            "flying eagle dollar",
-            "pattern dollar",
-            "1836 dollar",
-            "silver dollar",
-            "christian gobrecht",
-            "transitional dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Transitional pattern design\", \"Flying eagle reverse\", \"Christian Gobrecht designer\"]",
+          "identification_keywords": "[\"gobrecht dollar\", \"seated liberty dollar\", \"flying eagle dollar\", \"pattern dollar\", \"1836 dollar\", \"silver dollar\", \"christian gobrecht\", \"transitional dollar\"]",
           "mint": "P",
           "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
           "proof_strikes": 1000,
@@ -124,29 +86,11 @@
         {
           "business_strikes": 300,
           "coin_id": "US-GBDO-1838-P",
-          "common_names": [
-            "Gobrecht Dollar",
-            "1838 Seated Liberty Dollar",
-            "Gobrecht Pattern Dollar"
-          ],
+          "common_names": "[\"Gobrecht Dollar\", \"1838 Seated Liberty Dollar\", \"Gobrecht Pattern Dollar\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Limited business strike production",
-            "Flying eagle reverse",
-            "Gobrecht signature varieties"
-          ],
-          "identification_keywords": [
-            "gobrecht dollar",
-            "seated liberty dollar",
-            "flying eagle dollar",
-            "1838 dollar",
-            "silver dollar",
-            "christian gobrecht",
-            "business strike"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Limited business strike production\", \"Flying eagle reverse\", \"Gobrecht signature varieties\"]",
+          "identification_keywords": "[\"gobrecht dollar\", \"seated liberty dollar\", \"flying eagle dollar\", \"1838 dollar\", \"silver dollar\", \"christian gobrecht\", \"business strike\"]",
           "mint": "P",
           "obverse_description": "Seated Liberty facing left holding liberty pole with cap, 'LIBERTY' above, date below, stars around",
           "proof_strikes": 0,
@@ -187,36 +131,14 @@
         {
           "business_strikes": 61005,
           "coin_id": "US-SLDL-1840-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1840 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1840 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "First year of series"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1840 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"First year of series\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1840 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "First year of series",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -231,36 +153,14 @@
         {
           "business_strikes": 173000,
           "coin_id": "US-SLDL-1841-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1841 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1841 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1841 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1841 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -274,36 +174,14 @@
         {
           "business_strikes": 184618,
           "coin_id": "US-SLDL-1842-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1842 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1842 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1842 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1842 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -317,36 +195,14 @@
         {
           "business_strikes": 165100,
           "coin_id": "US-SLDL-1843-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1843 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1843 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1843 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1843 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -360,36 +216,14 @@
         {
           "business_strikes": 20000,
           "coin_id": "US-SLDL-1844-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1844 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1844 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1844 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1844 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -403,36 +237,14 @@
         {
           "business_strikes": 24500,
           "coin_id": "US-SLDL-1845-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1845 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1845 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1845 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1845 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -446,36 +258,14 @@
         {
           "business_strikes": 110600,
           "coin_id": "US-SLDL-1846-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1846 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1846 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1846 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1846 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -489,36 +279,14 @@
         {
           "business_strikes": 140750,
           "coin_id": "US-SLDL-1847-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1847 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1847 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1847 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1847 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -532,36 +300,14 @@
         {
           "business_strikes": 15000,
           "coin_id": "US-SLDL-1848-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1848 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1848 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1848 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1848 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -575,36 +321,14 @@
         {
           "business_strikes": 62600,
           "coin_id": "US-SLDL-1849-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1849 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1849 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1849 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1849 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -618,36 +342,14 @@
         {
           "business_strikes": 7500,
           "coin_id": "US-SLDL-1850-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1850 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1850 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1850 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1850 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -661,36 +363,14 @@
         {
           "business_strikes": 1300,
           "coin_id": "US-SLDL-1851-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1851 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1851 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Key date, very low mintage"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1851 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Key date, very low mintage\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1851 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "Key date, very low mintage",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -705,36 +385,14 @@
         {
           "business_strikes": 1100,
           "coin_id": "US-SLDL-1852-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1852 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1852 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Key date, extremely low mintage"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1852 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Key date, extremely low mintage\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1852 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "Key date, extremely low mintage",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -749,36 +407,14 @@
         {
           "business_strikes": 46110,
           "coin_id": "US-SLDL-1853-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1853 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1853 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1853 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1853 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -792,36 +428,14 @@
         {
           "business_strikes": 33140,
           "coin_id": "US-SLDL-1854-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1854 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1854 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1854 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1854 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -835,36 +449,14 @@
         {
           "business_strikes": 26000,
           "coin_id": "US-SLDL-1855-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1855 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1855 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1855 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1855 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -878,36 +470,14 @@
         {
           "business_strikes": 63500,
           "coin_id": "US-SLDL-1856-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1856 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1856 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1856 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1856 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -921,36 +491,14 @@
         {
           "business_strikes": 94000,
           "coin_id": "US-SLDL-1857-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1857 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1857 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1857 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1857 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -964,36 +512,14 @@
         {
           "business_strikes": 255700,
           "coin_id": "US-SLDL-1859-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1859 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1859 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1859 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1859 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1007,36 +533,14 @@
         {
           "business_strikes": 217600,
           "coin_id": "US-SLDL-1860-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1860 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1860 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "O mint available"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1860 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"O mint available\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1860 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "O mint available",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -1051,36 +555,14 @@
         {
           "business_strikes": 77500,
           "coin_id": "US-SLDL-1861-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1861 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1861 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1861 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1861 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1094,36 +576,14 @@
         {
           "business_strikes": 11540,
           "coin_id": "US-SLDL-1862-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1862 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1862 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1862 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1862 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1137,36 +597,14 @@
         {
           "business_strikes": 27200,
           "coin_id": "US-SLDL-1863-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1863 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1863 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1863 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1863 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1180,36 +618,14 @@
         {
           "business_strikes": 30700,
           "coin_id": "US-SLDL-1864-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1864 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1864 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1864 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1864 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1223,36 +639,14 @@
         {
           "business_strikes": 46500,
           "coin_id": "US-SLDL-1865-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1865 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1865 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1865 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1865 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1266,36 +660,14 @@
         {
           "business_strikes": 48900,
           "coin_id": "US-SLDL-1866-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1866 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1866 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "With Motto added"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1866 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"With Motto added\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1866 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"motto\"]",
           "mint": "P",
           "notes": "With Motto added",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -1310,36 +682,14 @@
         {
           "business_strikes": 46900,
           "coin_id": "US-SLDL-1867-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1867 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1867 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1867 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1867 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1353,36 +703,14 @@
         {
           "business_strikes": 162100,
           "coin_id": "US-SLDL-1868-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1868 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1868 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1868 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1868 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1396,36 +724,14 @@
         {
           "business_strikes": 423700,
           "coin_id": "US-SLDL-1869-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1869 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1869 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1869 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1869 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1439,36 +745,14 @@
         {
           "business_strikes": 415000,
           "coin_id": "US-SLDL-1870-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1870 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1870 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "CC mint key date"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1870 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"CC mint key date\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1870 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "CC mint key date",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -1483,36 +767,14 @@
         {
           "business_strikes": 1073800,
           "coin_id": "US-SLDL-1871-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1871 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1871 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1871 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1871 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1526,36 +788,14 @@
         {
           "business_strikes": 1105500,
           "coin_id": "US-SLDL-1872-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1872 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1872 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Standard design"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1872 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Standard design\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1872 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
           "proof_strikes": 0,
@@ -1569,36 +809,14 @@
         {
           "business_strikes": 293000,
           "coin_id": "US-SLDL-1873-P",
-          "common_names": [
-            "Seated Liberty Dollar",
-            "1873 Seated Dollar",
-            "Liberty Seated Dollar"
-          ],
+          "common_names": "[\"Seated Liberty Dollar\", \"1873 Seated Dollar\", \"Liberty Seated Dollar\"]",
           "composition": {
             "copper": 0.1,
             "silver": 0.9
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Christian Gobrecht design",
-            "90% silver composition",
-            "38.1mm diameter",
-            "Reeded edge",
-            "Liberty seated on rock",
-            "Largest regular issue silver coin",
-            "Last year, Closed 3 variety"
-          ],
-          "identification_keywords": [
-            "seated liberty",
-            "dollar",
-            "1873 dollar",
-            "silver dollar",
-            "seated dollar",
-            "liberty seated",
-            "one dollar",
-            "gobrecht design",
-            "no motto"
-          ],
+          "distinguishing_features": "[\"Christian Gobrecht design\", \"90% silver composition\", \"38.1mm diameter\", \"Reeded edge\", \"Liberty seated on rock\", \"Largest regular issue silver coin\", \"Last year, Closed 3 variety\"]",
+          "identification_keywords": "[\"seated liberty\", \"dollar\", \"1873 dollar\", \"silver dollar\", \"seated dollar\", \"liberty seated\", \"one dollar\", \"gobrecht design\", \"no motto\"]",
           "mint": "P",
           "notes": "Last year, Closed 3 variety",
           "obverse_description": "Seated figure of Liberty holding pole with liberty cap in left hand and shield with 'LIBERTY' inscription in right hand, 13 stars around border, date below",
@@ -1641,11 +859,7 @@
         {
           "business_strikes": 756000,
           "coin_id": "US-MORG-1879-CC",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1654,23 +868,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "CC",
           "notes": "Important Carson City issue",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -1686,11 +885,7 @@
         {
           "business_strikes": 350000,
           "coin_id": "US-MORG-1889-CC",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1699,23 +894,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "CC",
           "notes": "Second key date Carson City issue",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -1730,11 +910,7 @@
         {
           "business_strikes": 100000,
           "coin_id": "US-MORG-1893-S",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1743,23 +919,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "S",
           "notes": "Absolute key date",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -1775,11 +936,7 @@
         {
           "business_strikes": 110000,
           "coin_id": "US-MORG-1894-P",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1788,23 +945,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "P",
           "notes": "Philadelphia key",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -1819,11 +961,7 @@
         {
           "business_strikes": 450000,
           "coin_id": "US-MORG-1895-O",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1832,23 +970,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "O",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
           "proof_strikes": null,
@@ -1862,11 +985,7 @@
         {
           "business_strikes": 0,
           "coin_id": "US-MORG-1895-P",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1875,23 +994,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "P",
           "notes": "Proofs only - No business strikes",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -1906,11 +1010,7 @@
         {
           "business_strikes": 400000,
           "coin_id": "US-MORG-1895-S",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1919,23 +1019,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "S",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
           "proof_strikes": null,
@@ -1949,11 +1034,7 @@
         {
           "business_strikes": 4450000,
           "coin_id": "US-MORG-1903-O",
-          "common_names": [
-            "Morgan Dollar",
-            "Morgan Silver Dollar",
-            "Liberty Head Dollar"
-          ],
+          "common_names": "[\"Morgan Dollar\", \"Morgan Silver Dollar\", \"Liberty Head Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -1962,23 +1043,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "Anna Williams model for Liberty",
-            "Detailed eagle with spread wings",
-            "Heavy at 26.73 grams"
-          ],
-          "identification_keywords": [
-            "morgan dollar",
-            "silver dollar",
-            "liberty head dollar",
-            "eagle dollar",
-            "morgan silver dollar",
-            "george morgan",
-            "90% silver",
-            "large dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"Anna Williams model for Liberty\", \"Detailed eagle with spread wings\", \"Heavy at 26.73 grams\"]",
+          "identification_keywords": "[\"morgan dollar\", \"silver dollar\", \"liberty head dollar\", \"eagle dollar\", \"morgan silver dollar\", \"george morgan\", \"90% silver\", \"large dollar\"]",
           "mint": "O",
           "notes": "Treasury Release coin",
           "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' inscription, cotton and wheat in hair, 'E PLURIBUS UNUM' above, date below, designer's 'M' at neck truncation",
@@ -2024,11 +1090,7 @@
         {
           "business_strikes": 1006473,
           "coin_id": "US-PEAC-1921-P",
-          "common_names": [
-            "Peace Dollar",
-            "Peace Silver Dollar",
-            "Liberty Crown Dollar"
-          ],
+          "common_names": "[\"Peace Dollar\", \"Peace Silver Dollar\", \"Liberty Crown Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -2037,23 +1099,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "High-relief design (1921 only)",
-            "Teresa de Francisci model for Liberty",
-            "Word 'PEACE' on reverse rock"
-          ],
-          "identification_keywords": [
-            "peace dollar",
-            "silver dollar",
-            "liberty crown dollar",
-            "eagle rock dollar",
-            "peace silver dollar",
-            "anthony de francisci",
-            "1920s dollar",
-            "post-war dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"High-relief design (1921 only)\", \"Teresa de Francisci model for Liberty\", \"Word 'PEACE' on reverse rock\"]",
+          "identification_keywords": "[\"peace dollar\", \"silver dollar\", \"liberty crown dollar\", \"eagle rock dollar\", \"peace silver dollar\", \"anthony de francisci\", \"1920s dollar\", \"post-war dollar\"]",
           "mint": "P",
           "notes": "High Relief - Most artistic",
           "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
@@ -2075,11 +1122,7 @@
         {
           "business_strikes": 1268900,
           "coin_id": "US-PEAC-1927-D",
-          "common_names": [
-            "Peace Dollar",
-            "Peace Silver Dollar",
-            "Liberty Crown Dollar"
-          ],
+          "common_names": "[\"Peace Dollar\", \"Peace Silver Dollar\", \"Liberty Crown Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -2088,23 +1131,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "High-relief design (1921 only)",
-            "Teresa de Francisci model for Liberty",
-            "Word 'PEACE' on reverse rock"
-          ],
-          "identification_keywords": [
-            "peace dollar",
-            "silver dollar",
-            "liberty crown dollar",
-            "eagle rock dollar",
-            "peace silver dollar",
-            "anthony de francisci",
-            "1920s dollar",
-            "post-war dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"High-relief design (1921 only)\", \"Teresa de Francisci model for Liberty\", \"Word 'PEACE' on reverse rock\"]",
+          "identification_keywords": "[\"peace dollar\", \"silver dollar\", \"liberty crown dollar\", \"eagle rock dollar\", \"peace silver dollar\", \"anthony de francisci\", \"1920s dollar\", \"post-war dollar\"]",
           "mint": "D",
           "notes": "Scarce despite higher mintage",
           "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
@@ -2119,11 +1147,7 @@
         {
           "business_strikes": 360649,
           "coin_id": "US-PEAC-1928-P",
-          "common_names": [
-            "Peace Dollar",
-            "Peace Silver Dollar",
-            "Liberty Crown Dollar"
-          ],
+          "common_names": "[\"Peace Dollar\", \"Peace Silver Dollar\", \"Liberty Crown Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -2132,23 +1156,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "High-relief design (1921 only)",
-            "Teresa de Francisci model for Liberty",
-            "Word 'PEACE' on reverse rock"
-          ],
-          "identification_keywords": [
-            "peace dollar",
-            "silver dollar",
-            "liberty crown dollar",
-            "eagle rock dollar",
-            "peace silver dollar",
-            "anthony de francisci",
-            "1920s dollar",
-            "post-war dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"High-relief design (1921 only)\", \"Teresa de Francisci model for Liberty\", \"Word 'PEACE' on reverse rock\"]",
+          "identification_keywords": "[\"peace dollar\", \"silver dollar\", \"liberty crown dollar\", \"eagle rock dollar\", \"peace silver dollar\", \"anthony de francisci\", \"1920s dollar\", \"post-war dollar\"]",
           "mint": "P",
           "notes": "Undisputed key date",
           "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
@@ -2163,11 +1172,7 @@
         {
           "business_strikes": 1011000,
           "coin_id": "US-PEAC-1934-S",
-          "common_names": [
-            "Peace Dollar",
-            "Peace Silver Dollar",
-            "Liberty Crown Dollar"
-          ],
+          "common_names": "[\"Peace Dollar\", \"Peace Silver Dollar\", \"Liberty Crown Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.1,
@@ -2176,23 +1181,8 @@
             "alloy_name": "Silver"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "90% silver composition",
-            "38.1mm diameter",
-            "High-relief design (1921 only)",
-            "Teresa de Francisci model for Liberty",
-            "Word 'PEACE' on reverse rock"
-          ],
-          "identification_keywords": [
-            "peace dollar",
-            "silver dollar",
-            "liberty crown dollar",
-            "eagle rock dollar",
-            "peace silver dollar",
-            "anthony de francisci",
-            "1920s dollar",
-            "post-war dollar"
-          ],
+          "distinguishing_features": "[\"90% silver composition\", \"38.1mm diameter\", \"High-relief design (1921 only)\", \"Teresa de Francisci model for Liberty\", \"Word 'PEACE' on reverse rock\"]",
+          "identification_keywords": "[\"peace dollar\", \"silver dollar\", \"liberty crown dollar\", \"eagle rock dollar\", \"peace silver dollar\", \"anthony de francisci\", \"1920s dollar\", \"post-war dollar\"]",
           "mint": "S",
           "notes": "Second key date",
           "obverse_description": "Liberty head facing left wearing radiate crown, hair flowing, 'LIBERTY' above, 'IN GOD WE TRUST' across neck, date below",
@@ -2238,11 +1228,7 @@
         {
           "business_strikes": 1769258,
           "coin_id": "US-EISE-1973-D",
-          "common_names": [
-            "Eisenhower Dollar",
-            "Ike Dollar",
-            "Moon Dollar"
-          ],
+          "common_names": "[\"Eisenhower Dollar\", \"Ike Dollar\", \"Moon Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2251,23 +1237,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Copper-nickel clad composition (most dates)",
-            "38.1mm diameter (large)",
-            "Space theme design",
-            "Heavy weight at 22.68 grams",
-            "Commemorates moon landing"
-          ],
-          "identification_keywords": [
-            "eisenhower dollar",
-            "ike dollar",
-            "moon dollar",
-            "large dollar",
-            "eagle moon dollar",
-            "apollo dollar",
-            "clad dollar",
-            "1970s dollar"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition (most dates)\", \"38.1mm diameter (large)\", \"Space theme design\", \"Heavy weight at 22.68 grams\", \"Commemorates moon landing\"]",
+          "identification_keywords": "[\"eisenhower dollar\", \"ike dollar\", \"moon dollar\", \"large dollar\", \"eagle moon dollar\", \"apollo dollar\", \"clad dollar\", \"1970s dollar\"]",
           "mint": "D",
           "notes": "Lowest mintage",
           "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
@@ -2282,11 +1253,7 @@
         {
           "business_strikes": 1769258,
           "coin_id": "US-EISE-1973-P",
-          "common_names": [
-            "Eisenhower Dollar",
-            "Ike Dollar",
-            "Moon Dollar"
-          ],
+          "common_names": "[\"Eisenhower Dollar\", \"Ike Dollar\", \"Moon Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2295,23 +1262,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Copper-nickel clad composition (most dates)",
-            "38.1mm diameter (large)",
-            "Space theme design",
-            "Heavy weight at 22.68 grams",
-            "Commemorates moon landing"
-          ],
-          "identification_keywords": [
-            "eisenhower dollar",
-            "ike dollar",
-            "moon dollar",
-            "large dollar",
-            "eagle moon dollar",
-            "apollo dollar",
-            "clad dollar",
-            "1970s dollar"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition (most dates)\", \"38.1mm diameter (large)\", \"Space theme design\", \"Heavy weight at 22.68 grams\", \"Commemorates moon landing\"]",
+          "identification_keywords": "[\"eisenhower dollar\", \"ike dollar\", \"moon dollar\", \"large dollar\", \"eagle moon dollar\", \"apollo dollar\", \"clad dollar\", \"1970s dollar\"]",
           "mint": "P",
           "notes": "Lowest mintage",
           "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
@@ -2326,11 +1278,7 @@
         {
           "business_strikes": 117337000,
           "coin_id": "US-EISE-1976-P",
-          "common_names": [
-            "Eisenhower Dollar",
-            "Ike Dollar",
-            "Moon Dollar"
-          ],
+          "common_names": "[\"Eisenhower Dollar\", \"Ike Dollar\", \"Moon Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2339,23 +1287,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 38.1,
-          "distinguishing_features": [
-            "Copper-nickel clad composition (most dates)",
-            "38.1mm diameter (large)",
-            "Space theme design",
-            "Heavy weight at 22.68 grams",
-            "Commemorates moon landing"
-          ],
-          "identification_keywords": [
-            "eisenhower dollar",
-            "ike dollar",
-            "moon dollar",
-            "large dollar",
-            "eagle moon dollar",
-            "apollo dollar",
-            "clad dollar",
-            "1970s dollar"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition (most dates)\", \"38.1mm diameter (large)\", \"Space theme design\", \"Heavy weight at 22.68 grams\", \"Commemorates moon landing\"]",
+          "identification_keywords": "[\"eisenhower dollar\", \"ike dollar\", \"moon dollar\", \"large dollar\", \"eagle moon dollar\", \"apollo dollar\", \"clad dollar\", \"1970s dollar\"]",
           "mint": "P",
           "obverse_description": "Eisenhower portrait facing left, 'LIBERTY' above, 'IN GOD WE TRUST' to left, date below",
           "proof_strikes": null,
@@ -2413,11 +1346,7 @@
         {
           "business_strikes": 360222000,
           "coin_id": "US-SANT-1979-P",
-          "common_names": [
-            "Susan B. Anthony Dollar",
-            "SBA Dollar",
-            "Anthony Dollar"
-          ],
+          "common_names": "[\"Susan B. Anthony Dollar\", \"SBA Dollar\", \"Anthony Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2426,23 +1355,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Copper-nickel clad composition",
-            "26.5mm diameter (similar to quarter)",
-            "11-sided polygonal inner border",
-            "First non-allegorical woman on circulating coin",
-            "Often confused with quarter due to size"
-          ],
-          "identification_keywords": [
-            "susan b anthony dollar",
-            "sba dollar",
-            "anthony dollar",
-            "small dollar",
-            "women's rights dollar",
-            "suffrage dollar",
-            "eagle moon dollar",
-            "confused with quarter"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition\", \"26.5mm diameter (similar to quarter)\", \"11-sided polygonal inner border\", \"First non-allegorical woman on circulating coin\", \"Often confused with quarter due to size\"]",
+          "identification_keywords": "[\"susan b anthony dollar\", \"sba dollar\", \"anthony dollar\", \"small dollar\", \"women's rights dollar\", \"suffrage dollar\", \"eagle moon dollar\", \"confused with quarter\"]",
           "mint": "P",
           "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
           "proof_strikes": null,
@@ -2463,11 +1377,7 @@
         {
           "business_strikes": 0,
           "coin_id": "US-SANT-1979-S",
-          "common_names": [
-            "Susan B. Anthony Dollar",
-            "SBA Dollar",
-            "Anthony Dollar"
-          ],
+          "common_names": "[\"Susan B. Anthony Dollar\", \"SBA Dollar\", \"Anthony Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2476,23 +1386,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Copper-nickel clad composition",
-            "26.5mm diameter (similar to quarter)",
-            "11-sided polygonal inner border",
-            "First non-allegorical woman on circulating coin",
-            "Often confused with quarter due to size"
-          ],
-          "identification_keywords": [
-            "susan b anthony dollar",
-            "sba dollar",
-            "anthony dollar",
-            "small dollar",
-            "women's rights dollar",
-            "suffrage dollar",
-            "eagle moon dollar",
-            "confused with quarter"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition\", \"26.5mm diameter (similar to quarter)\", \"11-sided polygonal inner border\", \"First non-allegorical woman on circulating coin\", \"Often confused with quarter due to size\"]",
+          "identification_keywords": "[\"susan b anthony dollar\", \"sba dollar\", \"anthony dollar\", \"small dollar\", \"women's rights dollar\", \"suffrage dollar\", \"eagle moon dollar\", \"confused with quarter\"]",
           "mint": "S",
           "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
           "proof_strikes": 3677175,
@@ -2513,11 +1408,7 @@
         {
           "business_strikes": 29592000,
           "coin_id": "US-SANT-1999-P",
-          "common_names": [
-            "Susan B. Anthony Dollar",
-            "SBA Dollar",
-            "Anthony Dollar"
-          ],
+          "common_names": "[\"Susan B. Anthony Dollar\", \"SBA Dollar\", \"Anthony Dollar\"]",
           "composition": {
             "alloy": {
               "copper_core": 0.917,
@@ -2526,23 +1417,8 @@
             "alloy_name": "Clad"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Copper-nickel clad composition",
-            "26.5mm diameter (similar to quarter)",
-            "11-sided polygonal inner border",
-            "First non-allegorical woman on circulating coin",
-            "Often confused with quarter due to size"
-          ],
-          "identification_keywords": [
-            "susan b anthony dollar",
-            "sba dollar",
-            "anthony dollar",
-            "small dollar",
-            "women's rights dollar",
-            "suffrage dollar",
-            "eagle moon dollar",
-            "confused with quarter"
-          ],
+          "distinguishing_features": "[\"Copper-nickel clad composition\", \"26.5mm diameter (similar to quarter)\", \"11-sided polygonal inner border\", \"First non-allegorical woman on circulating coin\", \"Often confused with quarter due to size\"]",
+          "identification_keywords": "[\"susan b anthony dollar\", \"sba dollar\", \"anthony dollar\", \"small dollar\", \"women's rights dollar\", \"suffrage dollar\", \"eagle moon dollar\", \"confused with quarter\"]",
           "mint": "P",
           "notes": "Stopgap before Sacagawea",
           "obverse_description": "Susan B. Anthony portrait facing right, 'LIBERTY' above, 'IN GOD WE TRUST' to right, date below, 11-sided inner border",
@@ -2588,11 +1464,7 @@
         {
           "business_strikes": 518916000,
           "coin_id": "US-SACA-2000-D",
-          "common_names": [
-            "Sacagawea Dollar",
-            "Golden Dollar",
-            "Native American Dollar"
-          ],
+          "common_names": "[\"Sacagawea Dollar\", \"Golden Dollar\", \"Native American Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2603,23 +1475,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Manganese brass composition (golden color)",
-            "26.5mm diameter",
-            "Smooth edge with lettering",
-            "Native American guide theme",
-            "Golden appearance"
-          ],
-          "identification_keywords": [
-            "sacagawea dollar",
-            "golden dollar",
-            "native american dollar",
-            "lewis clark dollar",
-            "brass dollar",
-            "guide dollar",
-            "golden colored",
-            "smooth edge"
-          ],
+          "distinguishing_features": "[\"Manganese brass composition (golden color)\", \"26.5mm diameter\", \"Smooth edge with lettering\", \"Native American guide theme\", \"Golden appearance\"]",
+          "identification_keywords": "[\"sacagawea dollar\", \"golden dollar\", \"native american dollar\", \"lewis clark dollar\", \"brass dollar\", \"guide dollar\", \"golden colored\", \"smooth edge\"]",
           "mint": "D",
           "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
           "proof_strikes": null,
@@ -2633,11 +1490,7 @@
         {
           "business_strikes": 767140000,
           "coin_id": "US-SACA-2000-P",
-          "common_names": [
-            "Sacagawea Dollar",
-            "Golden Dollar",
-            "Native American Dollar"
-          ],
+          "common_names": "[\"Sacagawea Dollar\", \"Golden Dollar\", \"Native American Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2648,23 +1501,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Manganese brass composition (golden color)",
-            "26.5mm diameter",
-            "Smooth edge with lettering",
-            "Native American guide theme",
-            "Golden appearance"
-          ],
-          "identification_keywords": [
-            "sacagawea dollar",
-            "golden dollar",
-            "native american dollar",
-            "lewis clark dollar",
-            "brass dollar",
-            "guide dollar",
-            "golden colored",
-            "smooth edge"
-          ],
+          "distinguishing_features": "[\"Manganese brass composition (golden color)\", \"26.5mm diameter\", \"Smooth edge with lettering\", \"Native American guide theme\", \"Golden appearance\"]",
+          "identification_keywords": "[\"sacagawea dollar\", \"golden dollar\", \"native american dollar\", \"lewis clark dollar\", \"brass dollar\", \"guide dollar\", \"golden colored\", \"smooth edge\"]",
           "mint": "P",
           "obverse_description": "Sacagawea with baby Jean Baptiste on her back, facing right, 'LIBERTY' above, date and mint mark below",
           "proof_strikes": null,
@@ -2724,10 +1562,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-PRDO-2007-D",
-          "common_names": [
-            "Presidential Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Presidential Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2738,19 +1573,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Second president dollar. Edge lettering. Doubled edge lettering error exists."
-          ],
-          "identification_keywords": [
-            "presidential",
-            "dollar",
-            "2007",
-            "adams",
-            "second",
-            "doubled",
-            "edge",
-            "error"
-          ],
+          "distinguishing_features": "[\"Second president dollar. Edge lettering. Doubled edge lettering error exists.\"]",
+          "identification_keywords": "[\"presidential\", \"dollar\", \"2007\", \"adams\", \"second\", \"doubled\", \"edge\", \"error\"]",
           "mint": "D",
           "notes": "Second president issued. Doubled edge lettering error is valuable.",
           "obverse_description": "John Adams portrait facing right",
@@ -2764,10 +1588,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-PRDO-2007-P",
-          "common_names": [
-            "Presidential Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Presidential Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2778,18 +1599,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "First presidential dollar. Edge lettering. \"Godless Dollar\" error exists."
-          ],
-          "identification_keywords": [
-            "presidential",
-            "dollar",
-            "2007",
-            "washington",
-            "first",
-            "godless",
-            "error"
-          ],
+          "distinguishing_features": "[\"First presidential dollar. Edge lettering. \\\"Godless Dollar\\\" error exists.\"]",
+          "identification_keywords": "[\"presidential\", \"dollar\", \"2007\", \"washington\", \"first\", \"godless\", \"error\"]",
           "mint": "P",
           "notes": "First presidential dollar. Famous \"Godless Dollar\" error missing edge lettering.",
           "obverse_description": "George Washington portrait facing right",
@@ -2803,10 +1614,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-PRDO-2009-P",
-          "common_names": [
-            "Presidential Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Presidential Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2817,18 +1625,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Mint mark moved to obverse in 2009. Edge still lettered."
-          ],
-          "identification_keywords": [
-            "presidential",
-            "dollar",
-            "2009",
-            "harrison",
-            "mint",
-            "mark",
-            "obverse"
-          ],
+          "distinguishing_features": "[\"Mint mark moved to obverse in 2009. Edge still lettered.\"]",
+          "identification_keywords": "[\"presidential\", \"dollar\", \"2009\", \"harrison\", \"mint\", \"mark\", \"obverse\"]",
           "mint": "P",
           "notes": "First year with mint mark on obverse instead of edge.",
           "obverse_description": "William Henry Harrison portrait facing right",
@@ -2842,10 +1640,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-PRDO-2016-P",
-          "common_names": [
-            "Presidential Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Presidential Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2856,18 +1651,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Final year of original presidential dollar program."
-          ],
-          "identification_keywords": [
-            "presidential",
-            "dollar",
-            "2016",
-            "reagan",
-            "final",
-            "year",
-            "program"
-          ],
+          "distinguishing_features": "[\"Final year of original presidential dollar program.\"]",
+          "identification_keywords": "[\"presidential\", \"dollar\", \"2016\", \"reagan\", \"final\", \"year\", \"program\"]",
           "mint": "P",
           "notes": "Final year of original presidential dollar program before hiatus.",
           "obverse_description": "Ronald Reagan portrait facing right",
@@ -2881,10 +1666,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-PRDO-2020-P",
-          "common_names": [
-            "Presidential Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Presidential Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2895,17 +1677,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Return of series after hiatus. George H.W. Bush."
-          ],
-          "identification_keywords": [
-            "presidential",
-            "dollar",
-            "2020",
-            "bush",
-            "return",
-            "series"
-          ],
+          "distinguishing_features": "[\"Return of series after hiatus. George H.W. Bush.\"]",
+          "identification_keywords": "[\"presidential\", \"dollar\", \"2020\", \"bush\", \"return\", \"series\"]",
           "mint": "P",
           "notes": "Return of series in 2020 for George H.W. Bush after 3-year hiatus.",
           "obverse_description": "George H.W. Bush portrait facing right",
@@ -2952,10 +1725,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NADO-2009-P",
-          "common_names": [
-            "Native American Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Native American Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -2966,19 +1736,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "First Native American Dollar. Three Sisters agriculture theme."
-          ],
-          "identification_keywords": [
-            "native",
-            "american",
-            "dollar",
-            "2009",
-            "sacagawea",
-            "three",
-            "sisters",
-            "agriculture"
-          ],
+          "distinguishing_features": "[\"First Native American Dollar. Three Sisters agriculture theme.\"]",
+          "identification_keywords": "[\"native\", \"american\", \"dollar\", \"2009\", \"sacagawea\", \"three\", \"sisters\", \"agriculture\"]",
           "mint": "P",
           "notes": "First year of series. Features Three Sisters agricultural practice.",
           "obverse_description": "Sacagawea with baby Jean Baptiste",
@@ -2992,10 +1751,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NADO-2010-P",
-          "common_names": [
-            "Native American Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Native American Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -3006,20 +1762,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Great Law of Peace theme. Hiawatha belt design."
-          ],
-          "identification_keywords": [
-            "native",
-            "american",
-            "dollar",
-            "2010",
-            "great",
-            "law",
-            "peace",
-            "hiawatha",
-            "belt"
-          ],
+          "distinguishing_features": "[\"Great Law of Peace theme. Hiawatha belt design.\"]",
+          "identification_keywords": "[\"native\", \"american\", \"dollar\", \"2010\", \"great\", \"law\", \"peace\", \"hiawatha\", \"belt\"]",
           "mint": "P",
           "notes": "Second year. Honors Great Law of Peace and Iroquois Confederacy.",
           "obverse_description": "Sacagawea with baby Jean Baptiste",
@@ -3033,10 +1777,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NADO-2015-P",
-          "common_names": [
-            "Native American Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Native American Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -3047,19 +1788,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Mohawk ironworkers theme. New York skyline construction."
-          ],
-          "identification_keywords": [
-            "native",
-            "american",
-            "dollar",
-            "2015",
-            "mohawk",
-            "ironworkers",
-            "skyline",
-            "construction"
-          ],
+          "distinguishing_features": "[\"Mohawk ironworkers theme. New York skyline construction.\"]",
+          "identification_keywords": "[\"native\", \"american\", \"dollar\", \"2015\", \"mohawk\", \"ironworkers\", \"skyline\", \"construction\"]",
           "mint": "P",
           "notes": "Honors Mohawk ironworkers who built American skyscrapers.",
           "obverse_description": "Sacagawea with baby Jean Baptiste",
@@ -3073,10 +1803,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-NADO-2020-P",
-          "common_names": [
-            "Native American Dollar",
-            "Golden Dollar"
-          ],
+          "common_names": "[\"Native American Dollar\", \"Golden Dollar\"]",
           "composition": {
             "alloy": {
               "copper": 0.885,
@@ -3087,20 +1814,8 @@
             "alloy_name": "Manganese Brass"
           },
           "diameter_mm": 26.5,
-          "distinguishing_features": [
-            "Elizabeth Peratrovich civil rights theme."
-          ],
-          "identification_keywords": [
-            "native",
-            "american",
-            "dollar",
-            "2020",
-            "elizabeth",
-            "peratrovich",
-            "civil",
-            "rights",
-            "alaska"
-          ],
+          "distinguishing_features": "[\"Elizabeth Peratrovich civil rights theme.\"]",
+          "identification_keywords": "[\"native\", \"american\", \"dollar\", \"2020\", \"elizabeth\", \"peratrovich\", \"civil\", \"rights\", \"alaska\"]",
           "mint": "P",
           "notes": "Honors Elizabeth Peratrovich and Alaska Anti-Discrimination Act of 1945.",
           "obverse_description": "Sacagawea with baby Jean Baptiste",

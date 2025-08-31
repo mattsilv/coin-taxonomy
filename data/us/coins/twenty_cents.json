@@ -8,30 +8,13 @@
         {
           "business_strikes": 0,
           "coin_id": "US-VSHL-1774-L",
-          "common_names": [
-            "Virginia Shilling",
-            "1774 Virginia Shilling Pattern"
-          ],
+          "common_names": "[\"Virginia Shilling\", \"1774 Virginia Shilling Pattern\"]",
           "composition": {
             "silver": 0.925
           },
           "diameter_mm": 25.0,
-          "distinguishing_features": [
-            "Pattern/trial denomination",
-            "Extremely rare with ~6 known",
-            "Colonial Virginia coinage",
-            "Silver composition",
-            "Dated 1774",
-            "Not issued for circulation"
-          ],
-          "identification_keywords": [
-            "virginia shilling",
-            "colonial pattern",
-            "1774 shilling",
-            "virginia trial",
-            "rare colonial",
-            "silver colonial"
-          ],
+          "distinguishing_features": "[\"Pattern/trial denomination\", \"Extremely rare with ~6 known\", \"Colonial Virginia coinage\", \"Silver composition\", \"Dated 1774\", \"Not issued for circulation\"]",
+          "identification_keywords": "[\"virginia shilling\", \"colonial pattern\", \"1774 shilling\", \"virginia trial\", \"rare colonial\", \"silver colonial\"]",
           "mint": "L",
           "notes": "Extremely rare pattern/trial, approximately 6 known",
           "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
@@ -74,38 +57,11 @@
         {
           "business_strikes": 38500,
           "coin_id": "US-TWCT-1875-P",
-          "common_names": [
-            "Twenty Cent Piece",
-            "Twenty Cents",
-            "Seated Twenty"
-          ],
+          "common_names": "[\"Twenty Cent Piece\", \"Twenty Cents\", \"Seated Twenty\"]",
           "composition": {},
           "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "[\"90% silver composition\", \"22mm diameter\", \"Short-lived denomination (1875-1878)\", \"Similar to quarter but smaller\", \"William Barber design after Gobrecht\"]"
-          ],
-          "identification_keywords": [
-            "twenty",
-            "cent",
-            "piece,",
-            "twenty",
-            "cents,",
-            "seated",
-            "liberty",
-            "twenty,",
-            "short",
-            "lived",
-            "coin,",
-            "silver",
-            "twenty,",
-            "william",
-            "barber,",
-            "1875",
-            "coin,",
-            "confused",
-            "with",
-            "quarter"
-          ],
+          "distinguishing_features": "[\"[\\\"90% silver composition\\\", \\\"22mm diameter\\\", \\\"Short-lived denomination (1875-1878)\\\", \\\"Similar to quarter but smaller\\\", \\\"William Barber design after Gobrecht\\\"]\"]",
+          "identification_keywords": "[\"twenty\", \"cent\", \"piece,\", \"twenty\", \"cents,\", \"seated\", \"liberty\", \"twenty,\", \"short\", \"lived\", \"coin,\", \"silver\", \"twenty,\", \"william\", \"barber,\", \"1875\", \"coin,\", \"confused\", \"with\", \"quarter\"]",
           "mint": "P",
           "notes": "Designed by William Barber (obverse after Christian Gobrecht)",
           "obverse_description": "Liberty seated on rock facing left, holding liberty pole with cap, shield with 'LIBERTY', stars around, date below",

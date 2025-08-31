@@ -91,9 +91,10 @@ class DatabaseExporter:
                     # Parse JSON fields
                     composition = json.loads(row[8]) if row[8] else {}
                     varieties = json.loads(row[11]) if row[11] else []
-                    distinguishing_features = json.loads(row[17]) if row[17] else []
-                    identification_keywords = json.loads(row[18]) if row[18] else []
-                    common_names = json.loads(row[19]) if row[19] else []
+                    # These are text fields, not JSON
+                    distinguishing_features = row[17] if row[17] else ""
+                    identification_keywords = row[18] if row[18] else ""
+                    common_names = row[19] if row[19] else ""
                     
                     coin = {
                         "coin_id": row[0],
@@ -195,7 +196,13 @@ class DatabaseExporter:
             'Quarter Dollar': 0.25,  # Support both naming conventions
             'Half Dollars': 0.50,
             'Dollars': 1.00,
-            'Trade Dollars': 1.00
+            'Trade Dollars': 1.00,
+            'Gold Dollars': 1.00,
+            'Quarter Eagles': 2.50,
+            'Three Dollar Gold': 3.00,
+            'Half Eagles': 5.00,
+            'Eagles': 10.00,
+            'Double Eagles': 20.00
         }
         return face_values.get(denomination, 1.00)
     
@@ -239,7 +246,13 @@ class DatabaseExporter:
             'Quarter Dollar': 'quarters.json',  # Support both naming conventions
             'Half Dollars': 'half_dollars.json',
             'Dollars': 'dollars.json',
-            'Trade Dollars': 'trade_dollars.json'
+            'Trade Dollars': 'trade_dollars.json',
+            'Gold Dollars': 'gold_dollars.json',
+            'Quarter Eagles': 'quarter_eagles.json',
+            'Three Dollar Gold': 'three_dollar_gold.json',
+            'Half Eagles': 'half_eagles.json',
+            'Eagles': 'eagles.json',
+            'Double Eagles': 'double_eagles.json'
         }
         return filenames.get(denomination, f"{denomination.lower().replace(' ', '_')}.json")
     
@@ -580,18 +593,12 @@ class DatabaseExporter:
                     coin["obverse_description"] = row[16]
                 if row[17]:  # reverse_description
                     coin["reverse_description"] = row[17]
-                if row[18]:  # distinguishing_features
-                    features = json.loads(row[18])
-                    if features:
-                        coin["distinguishing_features"] = features
-                if row[19]:  # identification_keywords
-                    keywords = json.loads(row[19])
-                    if keywords:
-                        coin["identification_keywords"] = keywords
-                if row[20]:  # common_names
-                    names = json.loads(row[20])
-                    if names:
-                        coin["common_names"] = names
+                if row[18]:  # distinguishing_features (text field, not JSON)
+                    coin["distinguishing_features"] = row[18]
+                if row[19]:  # identification_keywords (text field, not JSON)
+                    coin["identification_keywords"] = row[19]
+                if row[20]:  # common_names (text field, not JSON)
+                    coin["common_names"] = row[20]
                 
                 coins.append(coin)
             

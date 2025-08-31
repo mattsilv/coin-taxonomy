@@ -8,9 +8,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-TWCT-1864-P",
-          "common_names": [
-            "Two-Cent Piece"
-          ],
+          "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
             "alloy": {
               "copper": 0.95,
@@ -20,22 +18,8 @@
             "alloy_name": "Bronze"
           },
           "diameter_mm": 23.0,
-          "distinguishing_features": [
-            "First US coin with \"IN GOD WE TRUST\". Large Motto variety."
-          ],
-          "identification_keywords": [
-            "two",
-            "cent",
-            "1864",
-            "first",
-            "year",
-            "in",
-            "god",
-            "we",
-            "trust",
-            "large",
-            "motto"
-          ],
+          "distinguishing_features": "[\"First US coin with \\\"IN GOD WE TRUST\\\". Large Motto variety.\"]",
+          "identification_keywords": "[\"two\", \"cent\", \"1864\", \"first\", \"year\", \"in\", \"god\", \"we\", \"trust\", \"large\", \"motto\"]",
           "mint": "P",
           "notes": "First year. Large Motto is common variety. Historic first use of \"IN GOD WE TRUST\".",
           "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
@@ -49,9 +33,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-TWCT-1865-P",
-          "common_names": [
-            "Two-Cent Piece"
-          ],
+          "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
             "alloy": {
               "copper": 0.95,
@@ -61,17 +43,8 @@
             "alloy_name": "Bronze"
           },
           "diameter_mm": 23.0,
-          "distinguishing_features": [
-            "Overdate variety 1865/4 exists. High mintage year."
-          ],
-          "identification_keywords": [
-            "two",
-            "cent",
-            "1865",
-            "overdate",
-            "variety",
-            "1865/4"
-          ],
+          "distinguishing_features": "[\"Overdate variety 1865/4 exists. High mintage year.\"]",
+          "identification_keywords": "[\"two\", \"cent\", \"1865\", \"overdate\", \"variety\", \"1865/4\"]",
           "mint": "P",
           "notes": "High mintage year. 1865/4 overdate variety is scarce and valuable.",
           "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
@@ -85,9 +58,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-TWCT-1869-P",
-          "common_names": [
-            "Two-Cent Piece"
-          ],
+          "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
             "alloy": {
               "copper": 0.95,
@@ -97,16 +68,8 @@
             "alloy_name": "Bronze"
           },
           "diameter_mm": 23.0,
-          "distinguishing_features": [
-            "Representative mid-period common date."
-          ],
-          "identification_keywords": [
-            "two",
-            "cent",
-            "1869",
-            "common",
-            "date"
-          ],
+          "distinguishing_features": "[\"Representative mid-period common date.\"]",
+          "identification_keywords": "[\"two\", \"cent\", \"1869\", \"common\", \"date\"]",
           "mint": "P",
           "notes": "Representative common date from middle of series run.",
           "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
@@ -120,9 +83,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-TWCT-1872-P",
-          "common_names": [
-            "Two-Cent Piece"
-          ],
+          "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
             "alloy": {
               "copper": 0.95,
@@ -132,18 +93,8 @@
             "alloy_name": "Bronze"
           },
           "diameter_mm": 23.0,
-          "distinguishing_features": [
-            "Key date with very low mintage of 65,000."
-          ],
-          "identification_keywords": [
-            "two",
-            "cent",
-            "1872",
-            "key",
-            "date",
-            "low",
-            "mintage"
-          ],
+          "distinguishing_features": "[\"Key date with very low mintage of 65,000.\"]",
+          "identification_keywords": "[\"two\", \"cent\", \"1872\", \"key\", \"date\", \"low\", \"mintage\"]",
           "mint": "P",
           "notes": "Key date with lowest business strike mintage of 65,000.",
           "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
@@ -157,9 +108,7 @@
         {
           "business_strikes": null,
           "coin_id": "US-TWCT-1873-P",
-          "common_names": [
-            "Two-Cent Piece"
-          ],
+          "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
             "alloy": {
               "copper": 0.95,
@@ -169,21 +118,8 @@
             "alloy_name": "Bronze"
           },
           "diameter_mm": 23.0,
-          "distinguishing_features": [
-            "Final year - proof only. Open 3 vs Closed 3 varieties."
-          ],
-          "identification_keywords": [
-            "two",
-            "cent",
-            "1873",
-            "final",
-            "year",
-            "proof",
-            "only",
-            "open",
-            "closed",
-            "3"
-          ],
+          "distinguishing_features": "[\"Final year - proof only. Open 3 vs Closed 3 varieties.\"]",
+          "identification_keywords": "[\"two\", \"cent\", \"1873\", \"final\", \"year\", \"proof\", \"only\", \"open\", \"closed\", \"3\"]",
           "mint": "P",
           "notes": "Final year - proof only. Open 3 and Closed 3 varieties exist.",
           "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
