@@ -1,19 +1,20 @@
-# United States Coin Taxonomy Database
+# United States & Canada Coin Taxonomy Database
 
 **The universal translator between different auction sites and marketplaces**
 
 The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.
 
-With 2,567+ US coins (including 1,123 pre-1933 gold coins) and 82+ paper currency notes (1793-present) mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database. International expansion to other countries is planned.
+With 2,567+ US coins, 558+ Canadian coins, and 82+ paper currency notes mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database.
 
-**🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#mapping-your-database)**
+**🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#integration-for-external-systems)** | **🔄 [Sync Instructions](#keeping-your-data-synchronized)**
 
 ## What You Get
 
-- **2,567+ coins & 82+ paper currency notes** with standardized identifiers
-- **Complete gold & silver bullion coverage** (American Eagles, Buffalos, commemoratives)
-- **Full pre-1933 gold coins** (1,123+ coins across all denominations)
-- **Modern bullion programs** (1986-present Silver Eagles, Gold Eagles all sizes)
+- **3,125+ coins across 2 countries** (US: 2,567, Canada: 558)
+- **82+ paper currency notes** with standardized identifiers
+- **Complete gold & silver bullion coverage** (Eagles, Maple Leafs, commemoratives)
+- **Full pre-1933 gold coins** (1,123+ US coins across all denominations)
+- **Modern bullion programs** (US & Canadian gold/silver/platinum/palladium)
 - **SQLite database** as single source of truth (version controlled)
 - **AI-optimized formats** for marketplace integration (10K-26K tokens)
 - **Complete composition data** for melt value calculations
@@ -275,6 +276,248 @@ Precise metal content with transition dates:
 - **Validation:** JSON Schema + automated tests
 - **Coverage:** 1,539+ coins, 48+ series (1793-present)
 - **Updates:** Git-tracked with full audit trail
+
+## Integration for External Systems
+
+### For E-commerce & Auction Platforms
+
+If you're using this taxonomy as a source of truth for your coin auction platform, marketplace, or pricing engine, here's how to efficiently integrate and stay synchronized:
+
+#### Recommended Integration Approach
+
+1. **Use the Universal Format** (Most Efficient)
+   ```bash
+   # Fetch the complete universal taxonomy (includes all countries)
+   curl -H "Accept: application/vnd.github.v3.raw" \
+     https://api.github.com/repos/mattsilv/coin-taxonomy/contents/data/universal/us_issues.json \
+     > us_issues.json
+   
+   curl -H "Accept: application/vnd.github.v3.raw" \
+     https://api.github.com/repos/mattsilv/coin-taxonomy/contents/data/universal/ca_issues.json \
+     > ca_issues.json
+   ```
+
+2. **Or Clone the SQLite Database** (Most Complete)
+   ```bash
+   # Download the latest database directly
+   curl -H "Accept: application/vnd.github.v3.raw" \
+     https://api.github.com/repos/mattsilv/coin-taxonomy/contents/coins.db \
+     > coins.db
+   ```
+
+3. **Or Use CDN for JSON Files** (Fastest)
+   ```javascript
+   // Use jsDelivr CDN for automatic caching
+   const US_TAXONOMY = 'https://cdn.jsdelivr.net/gh/mattsilv/coin-taxonomy@main/data/universal/us_issues.json';
+   const CA_TAXONOMY = 'https://cdn.jsdelivr.net/gh/mattsilv/coin-taxonomy@main/data/universal/ca_issues.json';
+   
+   fetch(US_TAXONOMY)
+     .then(res => res.json())
+     .then(data => console.log(`Loaded ${data.totalIssues} US coins`));
+   ```
+
+## Keeping Your Data Synchronized
+
+### Automated Sync Strategy
+
+#### Option 1: GitHub Actions (Recommended)
+Create `.github/workflows/sync-taxonomy.yml` in your repo:
+
+```yaml
+name: Sync Coin Taxonomy
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 2 AM UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fetch Latest Taxonomy
+        run: |
+          # Fetch universal format files
+          curl -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/mattsilv/coin-taxonomy/contents/data/universal/us_issues.json \
+            > data/us_issues.json
+          
+          curl -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/mattsilv/coin-taxonomy/contents/data/universal/ca_issues.json \
+            > data/ca_issues.json
+          
+          # Fetch metadata files
+          curl -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/mattsilv/coin-taxonomy/contents/data/universal/taxonomy_summary.json \
+            > data/taxonomy_summary.json
+      
+      - name: Check for Updates
+        id: check
+        run: |
+          git diff --exit-code data/ || echo "::set-output name=changed::true"
+      
+      - name: Commit Updates
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Update coin taxonomy $(date +%Y-%m-%d)"
+          git push
+```
+
+#### Option 2: Webhook Integration
+Monitor repository changes via GitHub webhooks:
+
+```python
+# Flask webhook endpoint example
+from flask import Flask, request
+import subprocess
+
+app = Flask(__name__)
+
+@app.route('/webhook', methods=['POST'])
+def handle_webhook():
+    payload = request.json
+    
+    # Check if commits affect data files
+    if any('data/' in commit['modified'] for commit in payload['commits']):
+        # Trigger your sync process
+        subprocess.run(['python', 'sync_taxonomy.py'])
+    
+    return 'OK', 200
+```
+
+#### Option 3: Simple Cron Script
+```bash
+#!/bin/bash
+# sync_taxonomy.sh - Run daily via cron
+
+# Get latest commit hash
+LATEST=$(curl -s https://api.github.com/repos/mattsilv/coin-taxonomy/commits/main | jq -r '.sha')
+CURRENT=$(cat .taxonomy_version 2>/dev/null)
+
+if [ "$LATEST" != "$CURRENT" ]; then
+  echo "Updating taxonomy from $CURRENT to $LATEST"
+  
+  # Download latest files
+  wget -q https://raw.githubusercontent.com/mattsilv/coin-taxonomy/main/data/universal/us_issues.json
+  wget -q https://raw.githubusercontent.com/mattsilv/coin-taxonomy/main/data/universal/ca_issues.json
+  wget -q https://raw.githubusercontent.com/mattsilv/coin-taxonomy/main/coins.db
+  
+  # Save version
+  echo "$LATEST" > .taxonomy_version
+  
+  # Trigger your import process
+  python import_taxonomy.py
+fi
+```
+
+### Change Detection & Versioning
+
+The taxonomy includes built-in versioning:
+
+```json
+// data/universal/taxonomy_summary.json
+{
+  "taxonomy_version": "1.1",
+  "generated_at": "2025-08-31T17:42:40.588489+00:00",
+  "total_issues": 329,
+  "countries": 2
+}
+```
+
+Monitor this file to detect updates:
+- `taxonomy_version`: Major schema changes
+- `generated_at`: Last update timestamp
+- `total_issues`: Count changes indicate new coins
+
+### API Rate Limits & Best Practices
+
+1. **GitHub API Limits**: 60 requests/hour (unauthenticated), 5000/hour (authenticated)
+2. **Use CDN for Production**: jsDelivr has no rate limits and caches files
+3. **Cache Locally**: Store files with 24-hour TTL minimum
+4. **Batch Requests**: Fetch all needed files in one sync operation
+
+### Production Integration Example
+
+```python
+import requests
+import json
+import sqlite3
+from datetime import datetime, timedelta
+
+class TaxonomySync:
+    def __init__(self, cache_hours=24):
+        self.cache_hours = cache_hours
+        self.base_url = "https://cdn.jsdelivr.net/gh/mattsilv/coin-taxonomy@main"
+        
+    def needs_update(self):
+        """Check if local cache is stale"""
+        try:
+            with open('.last_sync', 'r') as f:
+                last_sync = datetime.fromisoformat(f.read())
+                return datetime.now() - last_sync > timedelta(hours=self.cache_hours)
+        except:
+            return True
+    
+    def sync_taxonomy(self):
+        """Sync taxonomy data from GitHub"""
+        if not self.needs_update():
+            return False
+        
+        # Fetch summary first to check version
+        summary = requests.get(f"{self.base_url}/data/universal/taxonomy_summary.json").json()
+        
+        # Fetch country-specific data
+        us_data = requests.get(f"{self.base_url}/data/universal/us_issues.json").json()
+        ca_data = requests.get(f"{self.base_url}/data/universal/ca_issues.json").json()
+        
+        # Store in your database
+        self.import_to_database(us_data, ca_data)
+        
+        # Update sync timestamp
+        with open('.last_sync', 'w') as f:
+            f.write(datetime.now().isoformat())
+        
+        return True
+    
+    def import_to_database(self, us_data, ca_data):
+        """Import taxonomy into your database"""
+        conn = sqlite3.connect('your_database.db')
+        cursor = conn.cursor()
+        
+        for issue in us_data['issues'] + ca_data['issues']:
+            cursor.execute("""
+                INSERT OR REPLACE INTO coin_taxonomy 
+                (coin_id, country, denomination, year, mint, series_name, rarity)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            """, (
+                issue['issueId'],
+                issue['country'],
+                issue['denomination'],
+                issue['year'],
+                issue['mint'],
+                issue['seriesName'],
+                issue.get('rarity', 'common')
+            ))
+        
+        conn.commit()
+        conn.close()
+
+# Usage
+syncer = TaxonomySync()
+if syncer.sync_taxonomy():
+    print("Taxonomy updated successfully")
+```
+
+### Support & Updates
+
+- **Issues**: Report at [GitHub Issues](https://github.com/mattsilv/coin-taxonomy/issues)
+- **Updates**: Watch the repo for release notifications
+- **Breaking Changes**: Will increment `taxonomy_version` in summary file
+- **Data Corrections**: Submitted via pull requests with validation
 
 ## License
 
