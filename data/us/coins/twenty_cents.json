@@ -41,7 +41,7 @@
           "source_citation": "APMEX Guide, Newman Numismatic Portal",
           "varieties": [],
           "weight_grams": 5.66,
-          "year": 1774
+          "year": 1793
         }
       ],
       "composition_periods": [
@@ -49,8 +49,8 @@
           "alloy": {},
           "alloy_name": "Unknown",
           "date_range": {
-            "end": 1774,
-            "start": 1774
+            "end": 1793,
+            "start": 1793
           },
           "weight": {
             "grams": 5.66
@@ -65,8 +65,8 @@
         "edge": "plain"
       },
       "years": {
-        "end": 1774,
-        "start": 1774
+        "end": 1793,
+        "start": 1793
       }
     },
     {

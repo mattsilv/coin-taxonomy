@@ -7,71 +7,6 @@
       "coins": [
         {
           "business_strikes": 0,
-          "coin_id": "US-VPEN-1773-L",
-          "common_names": [
-            "Virginia Penny",
-            "1773 Virginia Penny Pattern"
-          ],
-          "composition": {
-            "copper": 1.0
-          },
-          "diameter_mm": 33.0,
-          "distinguishing_features": [
-            "Pattern denomination",
-            "Extremely rare with ~30 known",
-            "Colonial Virginia coinage",
-            "Struck at Tower Mint, London",
-            "Not issued for circulation"
-          ],
-          "identification_keywords": [
-            "virginia penny",
-            "colonial pattern",
-            "1773 penny",
-            "virginia pattern",
-            "rare colonial",
-            "george iii"
-          ],
-          "mint": "L",
-          "notes": "Extremely rare pattern denomination",
-          "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
-          "proof_strikes": 30,
-          "rarity": "key",
-          "reverse_description": "Crowned shield with 'VIRGINIA' and date '1773'",
-          "source_citation": "APMEX Guide, Newman Numismatic Portal",
-          "varieties": [],
-          "weight_grams": 15.56,
-          "year": 1773
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1773,
-            "start": 1773
-          },
-          "weight": {
-            "grams": 15.56
-          }
-        }
-      ],
-      "official_name": "Virginia Penny",
-      "series_id": "virginia_penny",
-      "series_name": "Virginia Penny",
-      "specifications": {
-        "diameter_mm": 33.0,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1773,
-        "start": 1773
-      }
-    },
-    {
-      "coins": [
-        {
-          "business_strikes": 0,
           "coin_id": "US-FUGC-1787-A",
           "common_names": [
             "Fugio Cent",
@@ -1180,6 +1115,71 @@
       },
       "years": {
         "end": 1796,
+        "start": 1793
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 0,
+          "coin_id": "US-VPEN-1773-L",
+          "common_names": [
+            "Virginia Penny",
+            "1773 Virginia Penny Pattern"
+          ],
+          "composition": {
+            "copper": 1.0
+          },
+          "diameter_mm": 33.0,
+          "distinguishing_features": [
+            "Pattern denomination",
+            "Extremely rare with ~30 known",
+            "Colonial Virginia coinage",
+            "Struck at Tower Mint, London",
+            "Not issued for circulation"
+          ],
+          "identification_keywords": [
+            "virginia penny",
+            "colonial pattern",
+            "1773 penny",
+            "virginia pattern",
+            "rare colonial",
+            "george iii"
+          ],
+          "mint": "L",
+          "notes": "Extremely rare pattern denomination",
+          "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+          "proof_strikes": 30,
+          "rarity": "key",
+          "reverse_description": "Crowned shield with 'VIRGINIA' and date '1773'",
+          "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "varieties": [],
+          "weight_grams": 15.56,
+          "year": 1793
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1793,
+            "start": 1793
+          },
+          "weight": {
+            "grams": 15.56
+          }
+        }
+      ],
+      "official_name": "Virginia Penny",
+      "series_id": "virginia_penny",
+      "series_name": "Virginia Penny",
+      "specifications": {
+        "diameter_mm": 33.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1793,
         "start": 1793
       }
     },

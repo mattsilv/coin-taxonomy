@@ -6,6 +6,66 @@
     {
       "coins": [
         {
+          "business_strikes": 35334,
+          "coin_id": "US-HCLC-1793-P",
+          "common_names": [
+            "Liberty Cap Half Cent",
+            "1793 Half Cent",
+            "First Half Cent"
+          ],
+          "composition": {},
+          "diameter_mm": 23.5,
+          "distinguishing_features": [
+            "100% copper composition",
+            "22mm diameter",
+            "First U.S. half cent",
+            "Liberty cap design",
+            "Lettered edge"
+          ],
+          "identification_keywords": [
+            "liberty cap half cent",
+            "half cent",
+            "1793 half cent",
+            "copper half cent",
+            "liberty cap",
+            "first half cent",
+            "early american coin"
+          ],
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
+          "proof_strikes": 0,
+          "rarity": "key",
+          "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
+          "source_citation": "Red Book 2024",
+          "varieties": [],
+          "year": 1793
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1793,
+            "start": 1793
+          }
+        }
+      ],
+      "official_name": "Liberty Cap Half Cent",
+      "series_id": "half_cent_liberty_cap",
+      "series_name": "Liberty Cap Half Cent",
+      "specifications": {
+        "diameter_mm": 23.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1793,
+        "start": 1793
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 670000,
           "coin_id": "US-VHPW-1773-L",
           "common_names": [
@@ -57,7 +117,7 @@
             }
           ],
           "weight_grams": 7.78,
-          "year": 1773
+          "year": 1793
         }
       ],
       "composition_periods": [
@@ -65,8 +125,8 @@
           "alloy": {},
           "alloy_name": "Unknown",
           "date_range": {
-            "end": 1773,
-            "start": 1773
+            "end": 1793,
+            "start": 1793
           },
           "weight": {
             "grams": 7.78
@@ -78,66 +138,6 @@
       "series_name": "Virginia Halfpenny",
       "specifications": {
         "diameter_mm": 25.0,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1773,
-        "start": 1773
-      }
-    },
-    {
-      "coins": [
-        {
-          "business_strikes": 35334,
-          "coin_id": "US-HCLC-1793-P",
-          "common_names": [
-            "Liberty Cap Half Cent",
-            "1793 Half Cent",
-            "First Half Cent"
-          ],
-          "composition": {},
-          "diameter_mm": 23.5,
-          "distinguishing_features": [
-            "100% copper composition",
-            "22mm diameter",
-            "First U.S. half cent",
-            "Liberty cap design",
-            "Lettered edge"
-          ],
-          "identification_keywords": [
-            "liberty cap half cent",
-            "half cent",
-            "1793 half cent",
-            "copper half cent",
-            "liberty cap",
-            "first half cent",
-            "early american coin"
-          ],
-          "mint": "P",
-          "obverse_description": "Liberty head facing left wearing liberty cap, 'LIBERTY' above, date '1793' below",
-          "proof_strikes": 0,
-          "rarity": "key",
-          "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
-          "source_citation": "Red Book 2024",
-          "varieties": [],
-          "year": 1793
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Historical",
-          "date_range": {
-            "end": 1793,
-            "start": 1793
-          }
-        }
-      ],
-      "official_name": "Liberty Cap Half Cent",
-      "series_id": "half_cent_liberty_cap",
-      "series_name": "Liberty Cap Half Cent",
-      "specifications": {
-        "diameter_mm": 23.5,
         "edge": "plain"
       },
       "years": {

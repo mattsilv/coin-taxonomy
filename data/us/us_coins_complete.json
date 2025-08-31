@@ -2,147 +2,6 @@
   "coins": [
     {
       "business_strikes": 0,
-      "coin_id": "US-VPEN-1773-L",
-      "common_names": [
-        "Virginia Penny",
-        "1773 Virginia Penny Pattern"
-      ],
-      "composition": {
-        "copper": 1.0
-      },
-      "country": "US",
-      "denomination": "Cents",
-      "diameter_mm": 33.0,
-      "distinguishing_features": [
-        "Pattern denomination",
-        "Extremely rare with ~30 known",
-        "Colonial Virginia coinage",
-        "Struck at Tower Mint, London",
-        "Not issued for circulation"
-      ],
-      "identification_keywords": [
-        "virginia penny",
-        "colonial pattern",
-        "1773 penny",
-        "virginia pattern",
-        "rare colonial",
-        "george iii"
-      ],
-      "mint": "L",
-      "notes": "Extremely rare pattern denomination",
-      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
-      "proof_strikes": 30,
-      "rarity": "key",
-      "reverse_description": "Crowned shield with 'VIRGINIA' and date '1773'",
-      "series_id": "virginia_penny",
-      "series_name": "Virginia Penny",
-      "source_citation": "APMEX Guide, Newman Numismatic Portal",
-      "varieties": [],
-      "weight_grams": 15.56,
-      "year": 1773
-    },
-    {
-      "business_strikes": 670000,
-      "coin_id": "US-VHPW-1773-L",
-      "common_names": [
-        "Virginia Halfpenny",
-        "1773 Virginia Halfpenny",
-        "Colonial Virginia Halfpenny"
-      ],
-      "composition": {
-        "copper": 1.0
-      },
-      "country": "US",
-      "denomination": "Half Cents",
-      "diameter_mm": 25.0,
-      "distinguishing_features": [
-        "Colonial Virginia coinage",
-        "Struck at Tower Mint, London",
-        "Authorized by Virginia Assembly 1773",
-        "Arrived in Virginia 1774",
-        "Distributed 1775",
-        "22 die pairs used",
-        "Many hoarded during Revolution",
-        "Two major obverse varieties"
-      ],
-      "identification_keywords": [
-        "virginia halfpenny",
-        "colonial virginia",
-        "1773 halfpenny",
-        "george iii",
-        "colonial copper",
-        "pre-federal",
-        "tower mint",
-        "virginia coinage"
-      ],
-      "mint": "L",
-      "notes": "Colonial/Pre-Federal issue struck at Tower Mint, London",
-      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
-      "proof_strikes": 0,
-      "rarity": "scarce",
-      "reverse_description": "Crowned shield with 'VIR-GINIA' split by crown, date split '17-73'",
-      "series_id": "virginia_halfpenny",
-      "series_name": "Virginia Halfpenny",
-      "source_citation": "APMEX Guide, Newman Numismatic Portal",
-      "varieties": [
-        {
-          "description": "Period after GEORGIVS",
-          "name": "With Period after GEORGIVS",
-          "variety_id": "VHPW-1773-L-WP-01"
-        },
-        {
-          "description": "No period after GEORGIVS",
-          "name": "No Period after GEORGIVS",
-          "variety_id": "VHPW-1773-L-NP-01"
-        }
-      ],
-      "weight_grams": 7.78,
-      "year": 1773
-    },
-    {
-      "business_strikes": 0,
-      "coin_id": "US-VSHL-1774-L",
-      "common_names": [
-        "Virginia Shilling",
-        "1774 Virginia Shilling Pattern"
-      ],
-      "composition": {
-        "silver": 0.925
-      },
-      "country": "US",
-      "denomination": "Twenty Cents",
-      "diameter_mm": 25.0,
-      "distinguishing_features": [
-        "Pattern/trial denomination",
-        "Extremely rare with ~6 known",
-        "Colonial Virginia coinage",
-        "Silver composition",
-        "Dated 1774",
-        "Not issued for circulation"
-      ],
-      "identification_keywords": [
-        "virginia shilling",
-        "colonial pattern",
-        "1774 shilling",
-        "virginia trial",
-        "rare colonial",
-        "silver colonial"
-      ],
-      "mint": "L",
-      "notes": "Extremely rare pattern/trial, approximately 6 known",
-      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
-      "proof_strikes": 6,
-      "rarity": "key",
-      "reverse_description": "Crowned shield with 'VIRGINIA' and date '1774'",
-      "series_id": "virginia_shilling",
-      "series_name": "Virginia Shilling",
-      "source_citation": "APMEX Guide, Newman Numismatic Portal",
-      "varieties": [],
-      "weight_grams": 5.66,
-      "year": 1774
-    },
-    {
-      "business_strikes": 0,
       "coin_id": "US-FUGC-1787-A",
       "common_names": [
         "Fugio Cent",
@@ -1126,6 +985,47 @@
       "year": 1793
     },
     {
+      "business_strikes": 0,
+      "coin_id": "US-VPEN-1773-L",
+      "common_names": [
+        "Virginia Penny",
+        "1773 Virginia Penny Pattern"
+      ],
+      "composition": {
+        "copper": 1.0
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 33.0,
+      "distinguishing_features": [
+        "Pattern denomination",
+        "Extremely rare with ~30 known",
+        "Colonial Virginia coinage",
+        "Struck at Tower Mint, London",
+        "Not issued for circulation"
+      ],
+      "identification_keywords": [
+        "virginia penny",
+        "colonial pattern",
+        "1773 penny",
+        "virginia pattern",
+        "rare colonial",
+        "george iii"
+      ],
+      "mint": "L",
+      "notes": "Extremely rare pattern denomination",
+      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+      "proof_strikes": 30,
+      "rarity": "key",
+      "reverse_description": "Crowned shield with 'VIRGINIA' and date '1773'",
+      "series_id": "virginia_penny",
+      "series_name": "Virginia Penny",
+      "source_citation": "APMEX Guide, Newman Numismatic Portal",
+      "varieties": [],
+      "weight_grams": 15.56,
+      "year": 1793
+    },
+    {
       "business_strikes": 63353,
       "coin_id": "US-LWRE-1793-P",
       "common_names": [
@@ -1205,6 +1105,106 @@
       "source_citation": "Red Book 2024",
       "varieties": [],
       "weight_grams": null,
+      "year": 1793
+    },
+    {
+      "business_strikes": 670000,
+      "coin_id": "US-VHPW-1773-L",
+      "common_names": [
+        "Virginia Halfpenny",
+        "1773 Virginia Halfpenny",
+        "Colonial Virginia Halfpenny"
+      ],
+      "composition": {
+        "copper": 1.0
+      },
+      "country": "US",
+      "denomination": "Half Cents",
+      "diameter_mm": 25.0,
+      "distinguishing_features": [
+        "Colonial Virginia coinage",
+        "Struck at Tower Mint, London",
+        "Authorized by Virginia Assembly 1773",
+        "Arrived in Virginia 1774",
+        "Distributed 1775",
+        "22 die pairs used",
+        "Many hoarded during Revolution",
+        "Two major obverse varieties"
+      ],
+      "identification_keywords": [
+        "virginia halfpenny",
+        "colonial virginia",
+        "1773 halfpenny",
+        "george iii",
+        "colonial copper",
+        "pre-federal",
+        "tower mint",
+        "virginia coinage"
+      ],
+      "mint": "L",
+      "notes": "Colonial/Pre-Federal issue struck at Tower Mint, London",
+      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+      "proof_strikes": 0,
+      "rarity": "scarce",
+      "reverse_description": "Crowned shield with 'VIR-GINIA' split by crown, date split '17-73'",
+      "series_id": "virginia_halfpenny",
+      "series_name": "Virginia Halfpenny",
+      "source_citation": "APMEX Guide, Newman Numismatic Portal",
+      "varieties": [
+        {
+          "description": "Period after GEORGIVS",
+          "name": "With Period after GEORGIVS",
+          "variety_id": "VHPW-1773-L-WP-01"
+        },
+        {
+          "description": "No period after GEORGIVS",
+          "name": "No Period after GEORGIVS",
+          "variety_id": "VHPW-1773-L-NP-01"
+        }
+      ],
+      "weight_grams": 7.78,
+      "year": 1793
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-VSHL-1774-L",
+      "common_names": [
+        "Virginia Shilling",
+        "1774 Virginia Shilling Pattern"
+      ],
+      "composition": {
+        "silver": 0.925
+      },
+      "country": "US",
+      "denomination": "Twenty Cents",
+      "diameter_mm": 25.0,
+      "distinguishing_features": [
+        "Pattern/trial denomination",
+        "Extremely rare with ~6 known",
+        "Colonial Virginia coinage",
+        "Silver composition",
+        "Dated 1774",
+        "Not issued for circulation"
+      ],
+      "identification_keywords": [
+        "virginia shilling",
+        "colonial pattern",
+        "1774 shilling",
+        "virginia trial",
+        "rare colonial",
+        "silver colonial"
+      ],
+      "mint": "L",
+      "notes": "Extremely rare pattern/trial, approximately 6 known",
+      "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+      "proof_strikes": 6,
+      "rarity": "key",
+      "reverse_description": "Crowned shield with 'VIRGINIA' and date '1774'",
+      "series_id": "virginia_shilling",
+      "series_name": "Virginia Shilling",
+      "source_citation": "APMEX Guide, Newman Numismatic Portal",
+      "varieties": [],
+      "weight_grams": 5.66,
       "year": 1793
     },
     {
@@ -68563,11 +68563,11 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-08-30T22:38:34.408168",
+  "generated_at": "2025-08-30T23:29:10.231652",
   "taxonomy_version": "1.1",
   "total_coins": 1444,
   "year_range": {
-    "earliest": 1773,
+    "earliest": 1787,
     "latest": 2024
   }
 }
