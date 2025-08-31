@@ -3112,7 +3112,8 @@
           "varieties": [
             {
               "description": "Ultra High Relief pattern",
-              "name": "High Relief"
+              "name": "High Relief",
+              "variety_id": "high_relief"
             }
           ],
           "weight_grams": 33.436,

@@ -10491,14 +10491,9 @@
           "reverse_description": "Union Shield (heraldic shield) with 13 stripes representing original colonies, 'UNITED STATES OF AMERICA' above, 'E PLURIBUS UNUM' banner across shield, 'ONE CENT' below",
           "varieties": [
             {
-              "description": "2019-P Doubled Die Obverse variety",
-              "name": "2019-P Doubled Die Obverse variety",
-              "variety_id": "US-LSCT-2019-P-V1"
-            },
-            {
               "description": "Dramatic doubling visible on obverse",
               "name": "Doubled Die Obverse",
-              "variety_id": "US-LSCT-2019-P-V2"
+              "variety_id": "US-LSCT-2019-P-DDO"
             }
           ],
           "weight_grams": 2.5,

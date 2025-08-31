@@ -1,3 +1,6 @@
+# Pre-Commit Hook Validation Rule
+⚠️ **CRITICAL**: Always check for pre-commit hook errors and fix them before committing. If validation fails, either fix the data issues OR update the validation schemas to accommodate our growing taxonomy system.
+
 # Senior Engineer Task Execution Rule
 
 **Applies to:** All Tasks

@@ -35903,7 +35903,8 @@
       "varieties": [
         {
           "description": "Ultra High Relief pattern",
-          "name": "High Relief"
+          "name": "High Relief",
+          "variety_id": "high_relief"
         }
       ],
       "weight_grams": 33.436,
@@ -71588,14 +71589,9 @@
       "source_citation": null,
       "varieties": [
         {
-          "description": "2019-P Doubled Die Obverse variety",
-          "name": "2019-P Doubled Die Obverse variety",
-          "variety_id": "US-LSCT-2019-P-V1"
-        },
-        {
           "description": "Dramatic doubling visible on obverse",
           "name": "Doubled Die Obverse",
-          "variety_id": "US-LSCT-2019-P-V2"
+          "variety_id": "US-LSCT-2019-P-DDO"
         }
       ],
       "weight_grams": 2.5,
@@ -73180,7 +73176,7 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-08-31T10:01:16.102936",
+  "generated_at": "2025-08-31T10:09:47.867261",
   "taxonomy_version": "1.1",
   "total_coins": 2567,
   "year_range": {

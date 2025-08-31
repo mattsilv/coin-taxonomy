@@ -1058,6 +1058,49 @@
       ]
     },
     {
+      "series_id": "virginia_penny",
+      "series_name": "Virginia Penny",
+      "coins": [
+        {
+          "coin_id": "US-VPEN-1773-L",
+          "year": 1793,
+          "mint": "L",
+          "business_strikes": 0,
+          "proof_strikes": 30,
+          "rarity": "key",
+          "composition": {
+            "copper": 1.0
+          },
+          "weight_grams": 15.56,
+          "diameter_mm": 33.0,
+          "varieties": [],
+          "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "notes": "Extremely rare pattern denomination",
+          "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+          "reverse_description": "Crowned shield with 'VIRGINIA' and date '1773'",
+          "distinguishing_features": [
+            "Pattern denomination",
+            "Extremely rare with ~30 known",
+            "Colonial Virginia coinage",
+            "Struck at Tower Mint, London",
+            "Not issued for circulation"
+          ],
+          "identification_keywords": [
+            "virginia penny",
+            "colonial pattern",
+            "1773 penny",
+            "virginia pattern",
+            "rare colonial",
+            "george iii"
+          ],
+          "common_names": [
+            "Virginia Penny",
+            "1773 Virginia Penny Pattern"
+          ]
+        }
+      ]
+    },
+    {
       "series_id": "large_cent_wreath",
       "series_name": "Wreath Cent",
       "coins": [
@@ -9970,16 +10013,8 @@
             },
             {
               "variety_id": "US-LMCT-1960-D-V2",
-              "name": {
-                "variety_id": "US-LMCT-1960-D-RPM",
-                "name": "RPM",
-                "description": "Variety: RPM"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1960-D-RPM",
-                "name": "RPM",
-                "description": "Variety: RPM"
-              }
+              "name": "RPM",
+              "description": "Variety: RPM"
             }
           ],
           "source_citation": null,
@@ -10030,16 +10065,8 @@
             },
             {
               "variety_id": "US-LMCT-1960-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1960-P-SD",
-                "name": "SD",
-                "description": "Variety: SD"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1960-P-SD",
-                "name": "SD",
-                "description": "Variety: SD"
-              }
+              "name": "SD",
+              "description": "Variety: SD"
             }
           ],
           "source_citation": null,
@@ -11194,16 +11221,8 @@
             },
             {
               "variety_id": "US-LMCT-1969-S-V2",
-              "name": {
-                "variety_id": "US-LMCT-1969-S-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1969-S-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -11327,16 +11346,8 @@
             },
             {
               "variety_id": "US-LMCT-1970-S-V2",
-              "name": {
-                "variety_id": "US-LMCT-1970-S-SD",
-                "name": "SD",
-                "description": "Variety: SD"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1970-S-SD",
-                "name": "SD",
-                "description": "Variety: SD"
-              }
+              "name": "SD",
+              "description": "Variety: SD"
             }
           ],
           "source_citation": null,
@@ -11425,16 +11436,8 @@
             },
             {
               "variety_id": "US-LMCT-1971-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1971-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1971-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -11564,16 +11567,8 @@
             },
             {
               "variety_id": "US-LMCT-1972-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1972-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1972-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -12745,16 +12740,8 @@
             },
             {
               "variety_id": "US-LMCT-1982-D-V2",
-              "name": {
-                "variety_id": "US-LMCT-1982-D-SD-Zn",
-                "name": "SD-Zn",
-                "description": "Variety: SD-Zn"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1982-D-SD-Zn",
-                "name": "SD-Zn",
-                "description": "Variety: SD-Zn"
-              }
+              "name": "SD-Zn",
+              "description": "Variety: SD-Zn"
             }
           ],
           "source_citation": null,
@@ -12805,16 +12792,8 @@
             },
             {
               "variety_id": "US-LMCT-1982-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1982-P-SD-Zn",
-                "name": "SD-Zn",
-                "description": "Variety: SD-Zn"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1982-P-SD-Zn",
-                "name": "SD-Zn",
-                "description": "Variety: SD-Zn"
-              }
+              "name": "SD-Zn",
+              "description": "Variety: SD-Zn"
             }
           ],
           "source_citation": null,
@@ -12865,16 +12844,8 @@
             },
             {
               "variety_id": "US-LMCT-1982-S-V2",
-              "name": {
-                "variety_id": "US-LMCT-1982-S-Cu",
-                "name": "Cu",
-                "description": "Variety: Cu"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1982-S-Cu",
-                "name": "Cu",
-                "description": "Variety: Cu"
-              }
+              "name": "Cu",
+              "description": "Variety: Cu"
             }
           ],
           "source_citation": null,
@@ -12960,16 +12931,8 @@
             },
             {
               "variety_id": "US-LMCT-1983-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1983-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1983-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -13099,16 +13062,8 @@
             },
             {
               "variety_id": "US-LMCT-1984-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1984-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1984-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -14400,16 +14355,8 @@
             },
             {
               "variety_id": "US-LMCT-1995-D-V2",
-              "name": {
-                "variety_id": "US-LMCT-1995-D-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1995-D-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -14457,16 +14404,8 @@
             },
             {
               "variety_id": "US-LMCT-1995-P-V2",
-              "name": {
-                "variety_id": "US-LMCT-1995-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LMCT-1995-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -17206,16 +17145,8 @@
             },
             {
               "variety_id": "US-LSCT-2017-P-V2",
-              "name": {
-                "variety_id": "US-LSCT-2017-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LSCT-2017-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -17363,16 +17294,8 @@
             },
             {
               "variety_id": "US-LSCT-2018-P-V2",
-              "name": {
-                "variety_id": "US-LSCT-2018-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LSCT-2018-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
@@ -17509,22 +17432,9 @@
           "diameter_mm": null,
           "varieties": [
             {
-              "variety_id": "US-LSCT-2019-P-V1",
-              "name": "2019-P Doubled Die Obverse variety",
-              "description": "2019-P Doubled Die Obverse variety"
-            },
-            {
-              "variety_id": "US-LSCT-2019-P-V2",
-              "name": {
-                "variety_id": "US-LSCT-2019-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              },
-              "description": {
-                "variety_id": "US-LSCT-2019-P-DDO",
-                "name": "Doubled Die Obverse",
-                "description": "Dramatic doubling visible on obverse"
-              }
+              "variety_id": "US-LSCT-2019-P-DDO",
+              "name": "Doubled Die Obverse",
+              "description": "Dramatic doubling visible on obverse"
             }
           ],
           "source_citation": null,
