@@ -6,6 +6,72 @@
     {
       "coins": [
         {
+          "business_strikes": 0,
+          "coin_id": "US-VSHL-1774-L",
+          "common_names": [
+            "Virginia Shilling",
+            "1774 Virginia Shilling Pattern"
+          ],
+          "composition": {
+            "silver": 0.925
+          },
+          "diameter_mm": 25.0,
+          "distinguishing_features": [
+            "Pattern/trial denomination",
+            "Extremely rare with ~6 known",
+            "Colonial Virginia coinage",
+            "Silver composition",
+            "Dated 1774",
+            "Not issued for circulation"
+          ],
+          "identification_keywords": [
+            "virginia shilling",
+            "colonial pattern",
+            "1774 shilling",
+            "virginia trial",
+            "rare colonial",
+            "silver colonial"
+          ],
+          "mint": "L",
+          "notes": "Extremely rare pattern/trial, approximately 6 known",
+          "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+          "proof_strikes": 6,
+          "rarity": "key",
+          "reverse_description": "Crowned shield with 'VIRGINIA' and date '1774'",
+          "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "varieties": [],
+          "weight_grams": 5.66,
+          "year": 1774
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1774,
+            "start": 1774
+          },
+          "weight": {
+            "grams": 5.66
+          }
+        }
+      ],
+      "official_name": "Virginia Shilling",
+      "series_id": "virginia_shilling",
+      "series_name": "Virginia Shilling",
+      "specifications": {
+        "diameter_mm": 25.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1774,
+        "start": 1774
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 38500,
           "coin_id": "US-TWCT-1875-P",
           "common_names": [

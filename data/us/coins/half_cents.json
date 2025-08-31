@@ -6,6 +6,88 @@
     {
       "coins": [
         {
+          "business_strikes": 670000,
+          "coin_id": "US-VHPW-1773-L",
+          "common_names": [
+            "Virginia Halfpenny",
+            "1773 Virginia Halfpenny",
+            "Colonial Virginia Halfpenny"
+          ],
+          "composition": {
+            "copper": 1.0
+          },
+          "diameter_mm": 25.0,
+          "distinguishing_features": [
+            "Colonial Virginia coinage",
+            "Struck at Tower Mint, London",
+            "Authorized by Virginia Assembly 1773",
+            "Arrived in Virginia 1774",
+            "Distributed 1775",
+            "22 die pairs used",
+            "Many hoarded during Revolution",
+            "Two major obverse varieties"
+          ],
+          "identification_keywords": [
+            "virginia halfpenny",
+            "colonial virginia",
+            "1773 halfpenny",
+            "george iii",
+            "colonial copper",
+            "pre-federal",
+            "tower mint",
+            "virginia coinage"
+          ],
+          "mint": "L",
+          "notes": "Colonial/Pre-Federal issue struck at Tower Mint, London",
+          "obverse_description": "George III bust right with 'GEORGIVS III REX' legend",
+          "proof_strikes": 0,
+          "rarity": "scarce",
+          "reverse_description": "Crowned shield with 'VIR-GINIA' split by crown, date split '17-73'",
+          "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "varieties": [
+            {
+              "description": "Period after GEORGIVS",
+              "name": "With Period after GEORGIVS",
+              "variety_id": "VHPW-1773-L-WP-01"
+            },
+            {
+              "description": "No period after GEORGIVS",
+              "name": "No Period after GEORGIVS",
+              "variety_id": "VHPW-1773-L-NP-01"
+            }
+          ],
+          "weight_grams": 7.78,
+          "year": 1773
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1773,
+            "start": 1773
+          },
+          "weight": {
+            "grams": 7.78
+          }
+        }
+      ],
+      "official_name": "Virginia Halfpenny",
+      "series_id": "virginia_halfpenny",
+      "series_name": "Virginia Halfpenny",
+      "specifications": {
+        "diameter_mm": 25.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1773,
+        "start": 1773
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 35334,
           "coin_id": "US-HCLC-1793-P",
           "common_names": [

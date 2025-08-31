@@ -2237,6 +2237,77 @@
     {
       "coins": [
         {
+          "business_strikes": 250000,
+          "coin_id": "US-HWDI-1883-S",
+          "common_names": [
+            "Hawaii Dime",
+            "1883 Hawaii Dime",
+            "Kalākaua Dime"
+          ],
+          "composition": {
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 17.9,
+          "distinguishing_features": [
+            "Kingdom of Hawaii coinage",
+            "Dated 1883 but struck 1883-1884",
+            "Designed by Charles E. Barber",
+            "Struck at San Francisco Mint",
+            "90% silver composition",
+            "Demonetized January 1, 1904",
+            "Most melted after withdrawal"
+          ],
+          "identification_keywords": [
+            "hawaii dime",
+            "kalakaua dime",
+            "1883 hawaii",
+            "hawaiian coinage",
+            "umi keneta",
+            "kingdom of hawaii",
+            "hawaiian silver",
+            "barber design"
+          ],
+          "mint": "S",
+          "notes": "Kingdom of Hawaii coinage under King Kalākaua",
+          "obverse_description": "Right-facing bust of King Kalākaua with 'KALAKAUA I.' inscription and title",
+          "proof_strikes": 26,
+          "rarity": "scarce",
+          "reverse_description": "Wreath with 'UMI KENETA' (Hawaiian) and 'ONE DIME' below, royal motto 'Ua Mau ke Ea o ka ʻĀina i ka Pono' around",
+          "source_citation": "Red Book 2024, PCGS CoinFacts, Wikipedia",
+          "varieties": [],
+          "weight_grams": 2.5,
+          "year": 1883
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1883,
+            "start": 1883
+          },
+          "weight": {
+            "grams": 2.5
+          }
+        }
+      ],
+      "official_name": "Hawaii Dime",
+      "series_id": "hawaii_dime",
+      "series_name": "Hawaii Dime",
+      "specifications": {
+        "diameter_mm": 17.9,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1883,
+        "start": 1883
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 0,
           "coin_id": "US-BARD-1894-S",
           "common_names": [
