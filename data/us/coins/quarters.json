@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": 466000,
+          "category": "coin",
           "coin_id": "US-SLQU-1838-P",
           "common_names": "[\"Seated Liberty Quarter\", \"Liberty Seated Quarter\", \"Seated Quarter\"]",
           "composition": {
@@ -25,6 +26,7 @@
           "rarity": "scarce",
           "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'QUAR. DOL.' or 'QUARTER DOLLAR' below",
           "source_citation": "Red Book 2024",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1838
@@ -62,6 +64,7 @@
       "coins": [
         {
           "business_strikes": 8237245,
+          "category": "coin",
           "coin_id": "US-BARQ-1892-P",
           "common_names": "[\"Barber Quarter\", \"Liberty Head Quarter\", \"Barber Twenty-Five Cent\"]",
           "composition": {
@@ -80,6 +83,7 @@
           "rarity": null,
           "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
           "source_citation": "Red Book",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Eagle wing coverage differs from Type II",
@@ -99,6 +103,7 @@
         },
         {
           "business_strikes": 188039,
+          "category": "coin",
           "coin_id": "US-BARQ-1896-S",
           "common_names": "[\"Barber Quarter\", \"Liberty Head Quarter\", \"Barber Twenty-Five Cent\"]",
           "composition": {
@@ -118,12 +123,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1896
         },
         {
           "business_strikes": 72664,
+          "category": "coin",
           "coin_id": "US-BARQ-1901-S",
           "common_names": "[\"Barber Quarter\", \"Liberty Head Quarter\", \"Barber Twenty-Five Cent\"]",
           "composition": {
@@ -143,12 +150,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1901
         },
         {
           "business_strikes": 40000,
+          "category": "coin",
           "coin_id": "US-BARQ-1913-S",
           "common_names": "[\"Barber Quarter\", \"Liberty Head Quarter\", \"Barber Twenty-Five Cent\"]",
           "composition": {
@@ -168,6 +177,7 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with outstretched wings, 'IN GOD WE TRUST' above eagle, 'QUARTER DOLLAR' below, mint mark below eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1913
@@ -205,6 +215,7 @@
       "coins": [
         {
           "business_strikes": 52000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1916-P",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -224,6 +235,7 @@
           "rarity": "key",
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Bare-breasted Liberty",
@@ -237,6 +249,7 @@
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-D-TYPE1",
           "common_names": "[\"Standing Liberty Quarter Type I\", \"Standing Quarter\"]",
           "composition": {},
@@ -248,6 +261,7 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle design Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Bare breast Liberty, eagle lower on reverse, 13 stars only",
@@ -260,6 +274,7 @@
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-D-TYPE2",
           "common_names": "[\"Standing Liberty Quarter Type II\", \"Standing Quarter\"]",
           "composition": {},
@@ -271,6 +286,7 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle design Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
@@ -283,6 +299,7 @@
         },
         {
           "business_strikes": 8740000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-P-TYPE1",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -302,12 +319,14 @@
           "rarity": null,
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1917
         },
         {
           "business_strikes": 13880000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-P-TYPE2",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -327,12 +346,14 @@
           "rarity": null,
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1917
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-S-TYPE1",
           "common_names": "[\"Standing Liberty Quarter Type I\", \"Standing Quarter\"]",
           "composition": {},
@@ -344,6 +365,7 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle design Type I - Bare breast Liberty, eagle lower on reverse, 13 stars only",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Bare breast Liberty, eagle lower on reverse, 13 stars only",
@@ -356,6 +378,7 @@
         },
         {
           "business_strikes": 5522000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1917-S-TYPE2",
           "common_names": "[\"Standing Liberty Quarter Type II\", \"Standing Quarter\"]",
           "composition": {},
@@ -367,6 +390,7 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle design Type II - Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Chainmail covering torso, eagle repositioned higher, 3 additional stars below eagle",
@@ -379,6 +403,7 @@
         },
         {
           "business_strikes": 11072000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1918-S",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -398,6 +423,7 @@
           "rarity": null,
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "8 over 7 overdate",
@@ -411,6 +437,7 @@
         },
         {
           "business_strikes": 1916000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1921-P",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -430,12 +457,14 @@
           "rarity": "key",
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1921
         },
         {
           "business_strikes": 396000,
+          "category": "coin",
           "coin_id": "US-SLIQ-1927-S",
           "common_names": "[\"Standing Liberty Quarter\", \"Standing Quarter\", \"Liberty Gateway Quarter\"]",
           "composition": {
@@ -455,6 +484,7 @@
           "rarity": "key",
           "reverse_description": "Eagle in flight, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below, '13' stars around eagle",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1927
@@ -492,6 +522,7 @@
       "coins": [
         {
           "business_strikes": 436800,
+          "category": "coin",
           "coin_id": "US-WASH-1932-D",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -511,12 +542,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1932
         },
         {
           "business_strikes": 436800,
+          "category": "coin",
           "coin_id": "US-WAQT-1932-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -536,12 +569,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1932
         },
         {
           "business_strikes": 5404000,
+          "category": "coin",
           "coin_id": "US-WAQT-1932-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -561,12 +596,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1932
         },
         {
           "business_strikes": 408000,
+          "category": "coin",
           "coin_id": "US-WASH-1932-S",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -586,12 +623,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "PCGS CoinFacts",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1932
         },
         {
           "business_strikes": 408000,
+          "category": "coin",
           "coin_id": "US-WAQT-1932-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -611,12 +650,14 @@
           "rarity": "key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1932
         },
         {
           "business_strikes": 3527200,
+          "category": "coin",
           "coin_id": "US-WAQT-1934-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -636,12 +677,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1934
         },
         {
           "business_strikes": 31912052,
+          "category": "coin",
           "coin_id": "US-WAQT-1934-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -661,12 +704,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1934
         },
         {
           "business_strikes": 5780000,
+          "category": "coin",
           "coin_id": "US-WAQT-1935-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -685,12 +730,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1935
         },
         {
           "business_strikes": 32484000,
+          "category": "coin",
           "coin_id": "US-WAQT-1935-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -709,12 +756,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1935
         },
         {
           "business_strikes": 5660000,
+          "category": "coin",
           "coin_id": "US-WAQT-1935-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -733,12 +782,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1935
         },
         {
           "business_strikes": 5374000,
+          "category": "coin",
           "coin_id": "US-WAQT-1936-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -757,12 +808,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1936
         },
         {
           "business_strikes": 41300000,
+          "category": "coin",
           "coin_id": "US-WAQT-1936-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -782,12 +835,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1936
         },
         {
           "business_strikes": 3828000,
+          "category": "coin",
           "coin_id": "US-WAQT-1936-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -807,12 +862,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1936
         },
         {
           "business_strikes": 7189600,
+          "category": "coin",
           "coin_id": "US-WAQT-1937-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -831,12 +888,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1937
         },
         {
           "business_strikes": 19696000,
+          "category": "coin",
           "coin_id": "US-WAQT-1937-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -855,12 +914,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1937
         },
         {
           "business_strikes": 1652000,
+          "category": "coin",
           "coin_id": "US-WAQT-1937-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -880,12 +941,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1937
         },
         {
           "business_strikes": 9472000,
+          "category": "coin",
           "coin_id": "US-WAQT-1938-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -904,12 +967,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1938
         },
         {
           "business_strikes": 2832000,
+          "category": "coin",
           "coin_id": "US-WAQT-1938-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -929,12 +994,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1938
         },
         {
           "business_strikes": 7092000,
+          "category": "coin",
           "coin_id": "US-WAQT-1939-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -953,12 +1020,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1939
         },
         {
           "business_strikes": 33540000,
+          "category": "coin",
           "coin_id": "US-WAQT-1939-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -977,12 +1046,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1939
         },
         {
           "business_strikes": 2628000,
+          "category": "coin",
           "coin_id": "US-WAQT-1939-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1002,12 +1073,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1939
         },
         {
           "business_strikes": 2797600,
+          "category": "coin",
           "coin_id": "US-WAQT-1940-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1027,12 +1100,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1940
         },
         {
           "business_strikes": 35704000,
+          "category": "coin",
           "coin_id": "US-WAQT-1940-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1051,12 +1126,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1940
         },
         {
           "business_strikes": 8244000,
+          "category": "coin",
           "coin_id": "US-WAQT-1940-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1075,12 +1152,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1940
         },
         {
           "business_strikes": 16714800,
+          "category": "coin",
           "coin_id": "US-WAQT-1941-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1099,12 +1178,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1941
         },
         {
           "business_strikes": 79032000,
+          "category": "coin",
           "coin_id": "US-WAQT-1941-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1123,12 +1204,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1941
         },
         {
           "business_strikes": 16080000,
+          "category": "coin",
           "coin_id": "US-WAQT-1941-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1147,12 +1230,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1941
         },
         {
           "business_strikes": 17487200,
+          "category": "coin",
           "coin_id": "US-WAQT-1942-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1171,12 +1256,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1942
         },
         {
           "business_strikes": 102096000,
+          "category": "coin",
           "coin_id": "US-WAQT-1942-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1195,12 +1282,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1942
         },
         {
           "business_strikes": 19384000,
+          "category": "coin",
           "coin_id": "US-WAQT-1942-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1219,12 +1308,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1942
         },
         {
           "business_strikes": 16095600,
+          "category": "coin",
           "coin_id": "US-WAQT-1943-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1243,12 +1334,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1943
         },
         {
           "business_strikes": 99700000,
+          "category": "coin",
           "coin_id": "US-WAQT-1943-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1267,12 +1360,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1943
         },
         {
           "business_strikes": 21700000,
+          "category": "coin",
           "coin_id": "US-WAQT-1943-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1291,12 +1386,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1943
         },
         {
           "business_strikes": 14600800,
+          "category": "coin",
           "coin_id": "US-WAQT-1944-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1315,12 +1412,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1944
         },
         {
           "business_strikes": 104956000,
+          "category": "coin",
           "coin_id": "US-WAQT-1944-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1339,12 +1438,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1944
         },
         {
           "business_strikes": 12560000,
+          "category": "coin",
           "coin_id": "US-WAQT-1944-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1363,12 +1464,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1944
         },
         {
           "business_strikes": 12341600,
+          "category": "coin",
           "coin_id": "US-WAQT-1945-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1387,12 +1490,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1945
         },
         {
           "business_strikes": 74372000,
+          "category": "coin",
           "coin_id": "US-WAQT-1945-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1411,12 +1516,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1945
         },
         {
           "business_strikes": 17004001,
+          "category": "coin",
           "coin_id": "US-WAQT-1945-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1435,12 +1542,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1945
         },
         {
           "business_strikes": 9072800,
+          "category": "coin",
           "coin_id": "US-WAQT-1946-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1460,12 +1569,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1946
         },
         {
           "business_strikes": 53436000,
+          "category": "coin",
           "coin_id": "US-WAQT-1946-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1484,12 +1595,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1946
         },
         {
           "business_strikes": 4204000,
+          "category": "coin",
           "coin_id": "US-WAQT-1946-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1509,12 +1622,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1946
         },
         {
           "business_strikes": 15388000,
+          "category": "coin",
           "coin_id": "US-WAQT-1947-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1533,12 +1648,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1947
         },
         {
           "business_strikes": 22556000,
+          "category": "coin",
           "coin_id": "US-WAQT-1947-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1557,12 +1674,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1947
         },
         {
           "business_strikes": 5532000,
+          "category": "coin",
           "coin_id": "US-WAQT-1947-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1581,12 +1700,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1947
         },
         {
           "business_strikes": 16766800,
+          "category": "coin",
           "coin_id": "US-WAQT-1948-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1605,12 +1726,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1948
         },
         {
           "business_strikes": 35196000,
+          "category": "coin",
           "coin_id": "US-WAQT-1948-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1629,12 +1752,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1948
         },
         {
           "business_strikes": 15960000,
+          "category": "coin",
           "coin_id": "US-WAQT-1948-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1653,12 +1778,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1948
         },
         {
           "business_strikes": 10068400,
+          "category": "coin",
           "coin_id": "US-WAQT-1949-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1678,12 +1805,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1949
         },
         {
           "business_strikes": 9312000,
+          "category": "coin",
           "coin_id": "US-WAQT-1949-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1703,12 +1832,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1949
         },
         {
           "business_strikes": 21075600,
+          "category": "coin",
           "coin_id": "US-WAQT-1950-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1727,12 +1858,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1950
         },
         {
           "business_strikes": 24920126,
+          "category": "coin",
           "coin_id": "US-WAQT-1950-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1752,12 +1885,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1950
         },
         {
           "business_strikes": 10284004,
+          "category": "coin",
           "coin_id": "US-WAQT-1950-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1776,12 +1911,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1950
         },
         {
           "business_strikes": 35354800,
+          "category": "coin",
           "coin_id": "US-WAQT-1951-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1800,12 +1937,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1951
         },
         {
           "business_strikes": 43448102,
+          "category": "coin",
           "coin_id": "US-WAQT-1951-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1824,12 +1963,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1951
         },
         {
           "business_strikes": 9048000,
+          "category": "coin",
           "coin_id": "US-WAQT-1951-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1848,12 +1989,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1951
         },
         {
           "business_strikes": 49795200,
+          "category": "coin",
           "coin_id": "US-WAQT-1952-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1872,12 +2015,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1952
         },
         {
           "business_strikes": 38780093,
+          "category": "coin",
           "coin_id": "US-WAQT-1952-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1896,12 +2041,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1952
         },
         {
           "business_strikes": 13707800,
+          "category": "coin",
           "coin_id": "US-WAQT-1952-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1920,12 +2067,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1952
         },
         {
           "business_strikes": 56112400,
+          "category": "coin",
           "coin_id": "US-WAQT-1953-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1944,12 +2093,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1953
         },
         {
           "business_strikes": 18536120,
+          "category": "coin",
           "coin_id": "US-WAQT-1953-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1968,12 +2119,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1953
         },
         {
           "business_strikes": 14016000,
+          "category": "coin",
           "coin_id": "US-WAQT-1953-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -1992,12 +2145,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1953
         },
         {
           "business_strikes": 42305500,
+          "category": "coin",
           "coin_id": "US-WAQT-1954-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2016,12 +2171,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1954
         },
         {
           "business_strikes": 54412203,
+          "category": "coin",
           "coin_id": "US-WAQT-1954-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2040,12 +2197,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1954
         },
         {
           "business_strikes": 11834722,
+          "category": "coin",
           "coin_id": "US-WAQT-1954-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2064,12 +2223,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1954
         },
         {
           "business_strikes": 3182400,
+          "category": "coin",
           "coin_id": "US-WAQT-1955-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2089,12 +2250,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1955
         },
         {
           "business_strikes": 18180181,
+          "category": "coin",
           "coin_id": "US-WAQT-1955-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2113,12 +2276,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1955
         },
         {
           "business_strikes": 32334500,
+          "category": "coin",
           "coin_id": "US-WAQT-1956-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2137,12 +2302,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1956
         },
         {
           "business_strikes": 44144000,
+          "category": "coin",
           "coin_id": "US-WAQT-1956-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2161,12 +2328,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1956
         },
         {
           "business_strikes": 77924160,
+          "category": "coin",
           "coin_id": "US-WAQT-1957-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2185,12 +2354,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1957
         },
         {
           "business_strikes": 46532000,
+          "category": "coin",
           "coin_id": "US-WAQT-1957-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2209,12 +2380,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1957
         },
         {
           "business_strikes": 78124900,
+          "category": "coin",
           "coin_id": "US-WAQT-1958-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2233,12 +2406,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1958
         },
         {
           "business_strikes": 6360000,
+          "category": "coin",
           "coin_id": "US-WAQT-1958-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2258,12 +2433,14 @@
           "rarity": "semi-key",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1958
         },
         {
           "business_strikes": 62054232,
+          "category": "coin",
           "coin_id": "US-WAQT-1959-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2282,12 +2459,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1959
         },
         {
           "business_strikes": 24384000,
+          "category": "coin",
           "coin_id": "US-WAQT-1959-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2306,12 +2485,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1959
         },
         {
           "business_strikes": 63000324,
+          "category": "coin",
           "coin_id": "US-WAQT-1960-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2330,12 +2511,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1960
         },
         {
           "business_strikes": 29164000,
+          "category": "coin",
           "coin_id": "US-WAQT-1960-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2354,12 +2537,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1960
         },
         {
           "business_strikes": 83656928,
+          "category": "coin",
           "coin_id": "US-WAQT-1961-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2378,12 +2563,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1961
         },
         {
           "business_strikes": 37036000,
+          "category": "coin",
           "coin_id": "US-WAQT-1961-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2402,12 +2589,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1961
         },
         {
           "business_strikes": 127554756,
+          "category": "coin",
           "coin_id": "US-WAQT-1962-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2426,12 +2615,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1962
         },
         {
           "business_strikes": 36156000,
+          "category": "coin",
           "coin_id": "US-WAQT-1962-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2450,12 +2641,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1962
         },
         {
           "business_strikes": 135288184,
+          "category": "coin",
           "coin_id": "US-WAQT-1963-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2474,12 +2667,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1963
         },
         {
           "business_strikes": 74316000,
+          "category": "coin",
           "coin_id": "US-WAQT-1963-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2498,12 +2693,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1963
         },
         {
           "business_strikes": 704135528,
+          "category": "coin",
           "coin_id": "US-WAQT-1964-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2523,12 +2720,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1964
         },
         {
           "business_strikes": 560390585,
+          "category": "coin",
           "coin_id": "US-WAQT-1964-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2548,12 +2747,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.25,
           "year": 1964
         },
         {
           "business_strikes": 1817717540,
+          "category": "coin",
           "coin_id": "US-WASH-1965-P",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -2572,12 +2773,14 @@
           "rarity": null,
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "US Mint records",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1965
         },
         {
           "business_strikes": 1819717540,
+          "category": "coin",
           "coin_id": "US-WAQT-1965-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2597,12 +2800,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1965
         },
         {
           "business_strikes": 821101500,
+          "category": "coin",
           "coin_id": "US-WAQT-1966-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2622,12 +2827,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1966
         },
         {
           "business_strikes": 1524031848,
+          "category": "coin",
           "coin_id": "US-WAQT-1967-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2647,12 +2854,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1967
         },
         {
           "business_strikes": 101534000,
+          "category": "coin",
           "coin_id": "US-WAQT-1968-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2671,12 +2880,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1968
         },
         {
           "business_strikes": 220731500,
+          "category": "coin",
           "coin_id": "US-WAQT-1968-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2696,12 +2907,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1968
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1968-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2721,12 +2934,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1968
         },
         {
           "business_strikes": 114372000,
+          "category": "coin",
           "coin_id": "US-WAQT-1969-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2745,12 +2960,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1969
         },
         {
           "business_strikes": 176212000,
+          "category": "coin",
           "coin_id": "US-WAQT-1969-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2769,12 +2986,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1969
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1969-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2794,12 +3013,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1969
         },
         {
           "business_strikes": 417341364,
+          "category": "coin",
           "coin_id": "US-WAQT-1970-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2818,12 +3039,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1970
         },
         {
           "business_strikes": 136420000,
+          "category": "coin",
           "coin_id": "US-WAQT-1970-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2842,12 +3065,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1970
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1970-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2867,12 +3092,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1970
         },
         {
           "business_strikes": 258634428,
+          "category": "coin",
           "coin_id": "US-WAQT-1971-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2891,12 +3118,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1971
         },
         {
           "business_strikes": 109284000,
+          "category": "coin",
           "coin_id": "US-WAQT-1971-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2915,12 +3144,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1971
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1971-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2940,12 +3171,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1971
         },
         {
           "business_strikes": 311067732,
+          "category": "coin",
           "coin_id": "US-WAQT-1972-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2964,12 +3197,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1972
         },
         {
           "business_strikes": 215048000,
+          "category": "coin",
           "coin_id": "US-WAQT-1972-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -2988,12 +3223,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1972
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1972-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3013,12 +3250,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1972
         },
         {
           "business_strikes": 232977400,
+          "category": "coin",
           "coin_id": "US-WAQT-1973-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3037,12 +3276,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1973
         },
         {
           "business_strikes": 346924000,
+          "category": "coin",
           "coin_id": "US-WAQT-1973-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3061,12 +3302,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1973
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1973-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3086,12 +3329,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1973
         },
         {
           "business_strikes": 353160300,
+          "category": "coin",
           "coin_id": "US-WAQT-1974-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3110,12 +3355,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1974
         },
         {
           "business_strikes": 801456000,
+          "category": "coin",
           "coin_id": "US-WAQT-1974-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3134,12 +3381,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1974
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1974-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3159,12 +3408,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1974
         },
         {
           "business_strikes": 860118839,
+          "category": "coin",
           "coin_id": "US-WAQT-1976-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3184,12 +3435,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR (Bicentennial design 1976)",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1976
         },
         {
           "business_strikes": 809784016,
+          "category": "coin",
           "coin_id": "US-WAQT-1976-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3209,12 +3462,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR (Bicentennial design 1976)",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1976
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1976-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3234,12 +3489,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR (Bicentennial design 1976)",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.75,
           "year": 1976
         },
         {
           "business_strikes": 256524978,
+          "category": "coin",
           "coin_id": "US-WAQT-1977-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3258,12 +3515,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1977
         },
         {
           "business_strikes": 468556000,
+          "category": "coin",
           "coin_id": "US-WAQT-1977-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3283,12 +3542,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1977
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1977-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3308,12 +3569,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1977
         },
         {
           "business_strikes": 287373152,
+          "category": "coin",
           "coin_id": "US-WAQT-1978-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3332,12 +3595,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1978
         },
         {
           "business_strikes": 521452000,
+          "category": "coin",
           "coin_id": "US-WAQT-1978-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3357,12 +3622,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1978
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1978-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3382,12 +3649,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1978
         },
         {
           "business_strikes": 489789780,
+          "category": "coin",
           "coin_id": "US-WAQT-1979-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3406,12 +3675,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1979
         },
         {
           "business_strikes": 518708000,
+          "category": "coin",
           "coin_id": "US-WAQT-1979-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3431,12 +3702,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1979
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1979-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3456,12 +3729,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1979
         },
         {
           "business_strikes": 518327487,
+          "category": "coin",
           "coin_id": "US-WAQT-1980-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3480,12 +3755,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1980
         },
         {
           "business_strikes": 635832000,
+          "category": "coin",
           "coin_id": "US-WAQT-1980-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3505,12 +3782,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1980
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1980-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3530,12 +3809,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1980
         },
         {
           "business_strikes": 575722833,
+          "category": "coin",
           "coin_id": "US-WAQT-1981-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3554,12 +3835,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1981
         },
         {
           "business_strikes": 601716000,
+          "category": "coin",
           "coin_id": "US-WAQT-1981-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3578,12 +3861,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1981
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1981-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3603,12 +3888,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1981
         },
         {
           "business_strikes": 480042788,
+          "category": "coin",
           "coin_id": "US-WAQT-1982-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3627,12 +3914,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1982
         },
         {
           "business_strikes": 500931000,
+          "category": "coin",
           "coin_id": "US-WAQT-1982-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3652,12 +3941,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1982
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1982-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3677,12 +3968,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1982
         },
         {
           "business_strikes": 617806446,
+          "category": "coin",
           "coin_id": "US-WAQT-1983-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3701,12 +3994,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1983
         },
         {
           "business_strikes": 673535000,
+          "category": "coin",
           "coin_id": "US-WAQT-1983-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3726,12 +4021,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1983
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1983-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3751,12 +4048,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1983
         },
         {
           "business_strikes": 546483064,
+          "category": "coin",
           "coin_id": "US-WAQT-1984-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3775,12 +4074,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1984
         },
         {
           "business_strikes": 676545000,
+          "category": "coin",
           "coin_id": "US-WAQT-1984-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3799,12 +4100,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1984
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1984-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3824,12 +4127,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1984
         },
         {
           "business_strikes": 519962888,
+          "category": "coin",
           "coin_id": "US-WAQT-1985-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3848,12 +4153,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1985
         },
         {
           "business_strikes": 775818962,
+          "category": "coin",
           "coin_id": "US-WAQT-1985-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3872,12 +4179,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1985
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1985-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3897,12 +4206,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1985
         },
         {
           "business_strikes": 504298660,
+          "category": "coin",
           "coin_id": "US-WAQT-1986-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3921,12 +4232,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1986
         },
         {
           "business_strikes": 551199333,
+          "category": "coin",
           "coin_id": "US-WAQT-1986-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3945,12 +4258,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1986
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1986-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3970,12 +4285,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1986
         },
         {
           "business_strikes": 655594696,
+          "category": "coin",
           "coin_id": "US-WAQT-1987-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -3994,12 +4311,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1987
         },
         {
           "business_strikes": 582499481,
+          "category": "coin",
           "coin_id": "US-WAQT-1987-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4018,12 +4337,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1987
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1987-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4043,12 +4364,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1987
         },
         {
           "business_strikes": 596810688,
+          "category": "coin",
           "coin_id": "US-WAQT-1988-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4067,12 +4390,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1988
         },
         {
           "business_strikes": 562052000,
+          "category": "coin",
           "coin_id": "US-WAQT-1988-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4091,12 +4416,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1988
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1988-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4116,12 +4443,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1988
         },
         {
           "business_strikes": 896535597,
+          "category": "coin",
           "coin_id": "US-WAQT-1989-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4140,12 +4469,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1989
         },
         {
           "business_strikes": 512868000,
+          "category": "coin",
           "coin_id": "US-WAQT-1989-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4164,12 +4495,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1989
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1989-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4189,12 +4522,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1989
         },
         {
           "business_strikes": 927638181,
+          "category": "coin",
           "coin_id": "US-WAQT-1990-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4213,12 +4548,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1990
         },
         {
           "business_strikes": 613792000,
+          "category": "coin",
           "coin_id": "US-WAQT-1990-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4237,12 +4574,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1990
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1990-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4262,12 +4601,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1990
         },
         {
           "business_strikes": 630966693,
+          "category": "coin",
           "coin_id": "US-WAQT-1991-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4286,12 +4627,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1991
         },
         {
           "business_strikes": 570968000,
+          "category": "coin",
           "coin_id": "US-WAQT-1991-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4310,12 +4653,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1991
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1991-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4335,12 +4680,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1991
         },
         {
           "business_strikes": 389777107,
+          "category": "coin",
           "coin_id": "US-WAQT-1992-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4359,12 +4706,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1992
         },
         {
           "business_strikes": 384764000,
+          "category": "coin",
           "coin_id": "US-WAQT-1992-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4384,12 +4733,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1992
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1992-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4409,12 +4760,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1992
         },
         {
           "business_strikes": 645476128,
+          "category": "coin",
           "coin_id": "US-WAQT-1993-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4433,12 +4786,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1993
         },
         {
           "business_strikes": 639276000,
+          "category": "coin",
           "coin_id": "US-WAQT-1993-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4457,12 +4812,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1993
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1993-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4482,12 +4839,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1993
         },
         {
           "business_strikes": 880034110,
+          "category": "coin",
           "coin_id": "US-WAQT-1994-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4506,12 +4865,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1994
         },
         {
           "business_strikes": 825600000,
+          "category": "coin",
           "coin_id": "US-WAQT-1994-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4530,12 +4891,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1994
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1994-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4555,12 +4918,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1994
         },
         {
           "business_strikes": 1103216000,
+          "category": "coin",
           "coin_id": "US-WAQT-1995-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4579,12 +4944,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1995
         },
         {
           "business_strikes": 1004336000,
+          "category": "coin",
           "coin_id": "US-WAQT-1995-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4604,12 +4971,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1995
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1995-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4629,12 +4998,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1995
         },
         {
           "business_strikes": 906868000,
+          "category": "coin",
           "coin_id": "US-WAQT-1996-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4653,12 +5024,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1996
         },
         {
           "business_strikes": 925040000,
+          "category": "coin",
           "coin_id": "US-WAQT-1996-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4677,12 +5050,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1996
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1996-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4702,12 +5077,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1996
         },
         {
           "business_strikes": 599680000,
+          "category": "coin",
           "coin_id": "US-WAQT-1997-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4726,12 +5103,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1997
         },
         {
           "business_strikes": 595740000,
+          "category": "coin",
           "coin_id": "US-WAQT-1997-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4750,12 +5129,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1997
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1997-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4775,12 +5156,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1997
         },
         {
           "business_strikes": 821000000,
+          "category": "coin",
           "coin_id": "US-WAQT-1998-D",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4799,12 +5182,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1998
         },
         {
           "business_strikes": 896268000,
+          "category": "coin",
           "coin_id": "US-WAQT-1998-P",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4824,12 +5209,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1998
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-WAQT-1998-S",
           "common_names": "[\"Washington Quarter\", \"Quarter\"]",
           "composition": {
@@ -4849,12 +5236,14 @@
           "rarity": "common",
           "reverse_description": "Heraldic eagle with wings spread, arrows and olive branch, UNITED STATES OF AMERICA, QUARTER DOLLAR",
           "source_citation": "AI Research Issue #19, Washington Quarter mintage tables",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1998
         },
         {
           "business_strikes": 373400000,
+          "category": "coin",
           "coin_id": "US-WASH-1999-P",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -4874,12 +5263,14 @@
           "rarity": null,
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "US Mint records",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 1999
         },
         {
           "business_strikes": 2000000,
+          "category": "coin",
           "coin_id": "US-WASH-2019-W",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -4899,12 +5290,14 @@
           "rarity": null,
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "US Mint records",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 2019
         },
         {
           "business_strikes": 2000000,
+          "category": "coin",
           "coin_id": "US-WASH-2020-W",
           "common_names": "[\"Washington Quarter\", \"Washington Twenty-Five Cent\", \"George Washington Quarter\"]",
           "composition": {
@@ -4924,6 +5317,7 @@
           "rarity": null,
           "reverse_description": "Heraldic eagle with spread wings standing on bundle of arrows with olive branches, 'UNITED STATES OF AMERICA' above, 'QUARTER DOLLAR' below",
           "source_citation": "US Mint records",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.67,
           "year": 2020

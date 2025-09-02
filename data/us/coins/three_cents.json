@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLTC-1851-O",
           "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
@@ -25,12 +26,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Roman numeral III inside C with ornaments",
+          "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 0.8,
           "year": 1851
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLTC-1851-P",
           "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
@@ -49,12 +52,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Roman numeral III inside C with ornaments",
+          "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 0.8,
           "year": 1851
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLTC-1854-P",
           "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
@@ -73,12 +78,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Roman numeral III inside C with ornaments",
+          "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 0.75,
           "year": 1854
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLTC-1859-P",
           "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
@@ -97,12 +104,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Roman numeral III inside C with ornaments",
+          "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 0.75,
           "year": 1859
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-SLTC-1873-P",
           "common_names": "[\"Trime\", \"Silver Trey\"]",
           "composition": {
@@ -121,6 +130,7 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Roman numeral III inside C with ornaments",
+          "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 0.75,
           "year": 1873
@@ -172,6 +182,7 @@
       "coins": [
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-NLTC-1865-P",
           "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
@@ -190,12 +201,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Roman numeral III surrounded by wreath",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 1.94,
           "year": 1865
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-NLTC-1877-P",
           "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
@@ -214,12 +227,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Roman numeral III surrounded by wreath",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 1.94,
           "year": 1877
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-NLTC-1878-P",
           "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
@@ -238,12 +253,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Roman numeral III surrounded by wreath",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 1.94,
           "year": 1878
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-NLTC-1885-P",
           "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
@@ -262,12 +279,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Roman numeral III surrounded by wreath",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 1.94,
           "year": 1885
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-NLTC-1889-P",
           "common_names": "[\"Nickel Three-Cent\"]",
           "composition": {
@@ -286,6 +305,7 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Roman numeral III surrounded by wreath",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 1.94,
           "year": 1889

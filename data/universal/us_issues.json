@@ -6092,7 +6092,7 @@
     },
     {
       "issue_id": "US-FRAC3-1863-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_3_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -6153,7 +6153,7 @@
     },
     {
       "issue_id": "US-FRAC5-1863-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_5_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -6213,7 +6213,7 @@
     },
     {
       "issue_id": "US-FRAC10-1863-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_10_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -6273,7 +6273,7 @@
     },
     {
       "issue_id": "US-FRAC25-1863-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_25_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -6333,7 +6333,7 @@
     },
     {
       "issue_id": "US-FRAC50-1863-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_50_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -6513,7 +6513,7 @@
     },
     {
       "issue_id": "US-FRAC3-1864-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_3_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7174,7 +7174,7 @@
     },
     {
       "issue_id": "US-FRAC10-1869-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_10_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7234,7 +7234,7 @@
     },
     {
       "issue_id": "US-FRAC15-1869-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_15_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7294,7 +7294,7 @@
     },
     {
       "issue_id": "US-FRAC25-1869-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_25_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7354,7 +7354,7 @@
     },
     {
       "issue_id": "US-FRAC50-1869-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_50_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7474,7 +7474,7 @@
     },
     {
       "issue_id": "US-FRAC10-1870-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_10_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7534,7 +7534,7 @@
     },
     {
       "issue_id": "US-FRAC15-1870-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_15_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7594,7 +7594,7 @@
     },
     {
       "issue_id": "US-FRAC25-1870-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_25_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7654,7 +7654,7 @@
     },
     {
       "issue_id": "US-FRAC50-1870-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_50_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -7834,7 +7834,7 @@
     },
     {
       "issue_id": "US-FRAC50-1871-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_50_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -8014,7 +8014,7 @@
     },
     {
       "issue_id": "US-FRAC50-1872-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_fractional_50_cent",
       "issuing_entity": {
         "country_code": "US",
@@ -8768,7 +8768,7 @@
     },
     {
       "issue_id": "US-NBN5-1882-NYC",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -8832,7 +8832,7 @@
     },
     {
       "issue_id": "US-NBN5-1882-PHL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -8896,7 +8896,7 @@
     },
     {
       "issue_id": "US-NBN5-1882-BOS",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -8960,7 +8960,7 @@
     },
     {
       "issue_id": "US-NBN5-1882-CHI",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9024,7 +9024,7 @@
     },
     {
       "issue_id": "US-NBN5-1882-DET",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9088,7 +9088,7 @@
     },
     {
       "issue_id": "US-NBN10-1882-NYC",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9152,7 +9152,7 @@
     },
     {
       "issue_id": "US-NBN10-1882-PHL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9216,7 +9216,7 @@
     },
     {
       "issue_id": "US-NBN10-1882-BOS",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9280,7 +9280,7 @@
     },
     {
       "issue_id": "US-NBN10-1882-STL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9344,7 +9344,7 @@
     },
     {
       "issue_id": "US-NBN10-1882-BAL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9408,7 +9408,7 @@
     },
     {
       "issue_id": "US-NBN20-1882-NYC",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9472,7 +9472,7 @@
     },
     {
       "issue_id": "US-NBN20-1882-BOS",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9536,7 +9536,7 @@
     },
     {
       "issue_id": "US-NBN20-1882-SF",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_national_bank_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9600,7 +9600,7 @@
     },
     {
       "issue_id": "US-GC20-1882-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9665,7 +9665,7 @@
     },
     {
       "issue_id": "US-GC20-1883-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9730,7 +9730,7 @@
     },
     {
       "issue_id": "US-GC50-1882-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_50_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -9795,7 +9795,7 @@
     },
     {
       "issue_id": "US-GC100-1882-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_100_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -10908,7 +10908,7 @@
     },
     {
       "issue_id": "US-SC1-1896-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -10969,7 +10969,7 @@
     },
     {
       "issue_id": "US-SC2-1896-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_2_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11030,7 +11030,7 @@
     },
     {
       "issue_id": "US-SC5-1896-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11143,7 +11143,7 @@
     },
     {
       "issue_id": "US-SC1-1897-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11204,7 +11204,7 @@
     },
     {
       "issue_id": "US-SC2-1897-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_2_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11265,7 +11265,7 @@
     },
     {
       "issue_id": "US-SC5-1897-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11378,7 +11378,7 @@
     },
     {
       "issue_id": "US-SC5-1898-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11491,7 +11491,7 @@
     },
     {
       "issue_id": "US-P001-1899-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11572,7 +11572,7 @@
     },
     {
       "issue_id": "US-P001-1899-A-MULTI_SIG",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11632,7 +11632,7 @@
     },
     {
       "issue_id": "US-P005-1899-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11706,7 +11706,7 @@
     },
     {
       "issue_id": "US-P005-1899-A-ANTELOPE_SIG",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11922,7 +11922,7 @@
     },
     {
       "issue_id": "US-P010-1901-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -11997,7 +11997,7 @@
     },
     {
       "issue_id": "US-P010-1901-A-BISON_SIG",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12056,7 +12056,7 @@
     },
     {
       "issue_id": "US-P010-1901-A-BISON_STAR",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12480,7 +12480,7 @@
     },
     {
       "issue_id": "US-GC10-1905-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12545,7 +12545,7 @@
     },
     {
       "issue_id": "US-GC20-1905-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12610,7 +12610,7 @@
     },
     {
       "issue_id": "US-GC50-1905-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_50_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12727,7 +12727,7 @@
     },
     {
       "issue_id": "US-P020-1906-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -12802,7 +12802,7 @@
     },
     {
       "issue_id": "US-P020-1906-A-GOLD_SIG",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13499,7 +13499,7 @@
     },
     {
       "issue_id": "US-P005-1914-G",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13575,7 +13575,7 @@
     },
     {
       "issue_id": "US-P005-1914-G-RED_SEAL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13635,7 +13635,7 @@
     },
     {
       "issue_id": "US-P005-1914-G-BLUE_SEAL",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13694,7 +13694,7 @@
     },
     {
       "issue_id": "US-FRN5-1914-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13759,7 +13759,7 @@
     },
     {
       "issue_id": "US-FRN5-1914-B",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13824,7 +13824,7 @@
     },
     {
       "issue_id": "US-FRN5-1915-D",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13889,7 +13889,7 @@
     },
     {
       "issue_id": "US-FRN10-1914-C",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -13954,7 +13954,7 @@
     },
     {
       "issue_id": "US-FRN10-1915-E",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14019,7 +14019,7 @@
     },
     {
       "issue_id": "US-FRN20-1915-F",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14677,7 +14677,7 @@
     },
     {
       "issue_id": "US-FRN5-1918-G",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14742,7 +14742,7 @@
     },
     {
       "issue_id": "US-FRN5-1918-I",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14807,7 +14807,7 @@
     },
     {
       "issue_id": "US-FRN5-1918-L",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_5_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14872,7 +14872,7 @@
     },
     {
       "issue_id": "US-FRN10-1918-H",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -14937,7 +14937,7 @@
     },
     {
       "issue_id": "US-FRN10-1918-J",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15002,7 +15002,7 @@
     },
     {
       "issue_id": "US-FRN10-1918-L",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15067,7 +15067,7 @@
     },
     {
       "issue_id": "US-FRN20-1918-K",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_federal_reserve_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15296,7 +15296,7 @@
     },
     {
       "issue_id": "US-GC10-1922-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_10_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15361,7 +15361,7 @@
     },
     {
       "issue_id": "US-GC20-1922-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15426,7 +15426,7 @@
     },
     {
       "issue_id": "US-GC20-1924-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_20_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15491,7 +15491,7 @@
     },
     {
       "issue_id": "US-GC50-1922-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_50_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15556,7 +15556,7 @@
     },
     {
       "issue_id": "US-GC100-1922-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_100_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -15621,7 +15621,7 @@
     },
     {
       "issue_id": "US-GC100-1924-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_gold_certificate_100_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -16925,7 +16925,7 @@
     },
     {
       "issue_id": "US-P001-1957-A",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17000,7 +17000,7 @@
     },
     {
       "issue_id": "US-SC1-1957-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17062,7 +17062,7 @@
     },
     {
       "issue_id": "US-SC1-1957-S",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17125,7 +17125,7 @@
     },
     {
       "issue_id": "US-SC1-1958-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17187,7 +17187,7 @@
     },
     {
       "issue_id": "US-SC1-1958-S",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17250,7 +17250,7 @@
     },
     {
       "issue_id": "US-SC1-1959-P",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17312,7 +17312,7 @@
     },
     {
       "issue_id": "US-SC1-1959-S",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_silver_certificate_1_dollar",
       "issuing_entity": {
         "country_code": "US",
@@ -17375,7 +17375,7 @@
     },
     {
       "issue_id": "US-P005-1963-B",
-      "object_type": "banknote",
+      "object_type": "currency",
       "series_id": "us_paper_5_dollar",
       "issuing_entity": {
         "country_code": "US",

@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-TWCT-1864-P",
           "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
@@ -26,12 +27,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.22,
           "year": 1864
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-TWCT-1865-P",
           "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
@@ -51,12 +54,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.22,
           "year": 1865
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-TWCT-1869-P",
           "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
@@ -76,12 +81,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.22,
           "year": 1869
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-TWCT-1872-P",
           "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
@@ -101,12 +108,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.22,
           "year": 1872
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-TWCT-1873-P",
           "common_names": "[\"Two-Cent Piece\"]",
           "composition": {
@@ -126,6 +135,7 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Wreath with \"2 CENTS\" in center",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 6.22,
           "year": 1873

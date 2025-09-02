@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1849-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -21,12 +22,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1849
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1850-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -41,12 +44,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1850
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1850-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -61,12 +66,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1850
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1851-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -81,12 +88,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1851
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1851-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -101,12 +110,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1851
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1852-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -121,12 +132,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1852
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1852-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -141,12 +154,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1852
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1853-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -161,12 +176,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1853
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1853-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -181,12 +198,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1853
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1854-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -201,12 +220,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1854
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1854-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -221,12 +242,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1854
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1854-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -241,12 +264,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1854
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1855-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -261,12 +286,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1855
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1855-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -281,12 +308,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1855
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1855-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -301,12 +330,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1855
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1856-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -321,12 +352,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1856
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1856-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -341,12 +374,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1856
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1856-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -361,12 +396,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1856
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1857-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -381,12 +418,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1857
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1857-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -401,12 +440,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1857
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1857-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -421,12 +462,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1857
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1858-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -441,12 +484,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1858
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1858-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -461,12 +506,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1858
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1858-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -481,12 +528,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1858
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1859-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -501,12 +550,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1859
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1859-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -521,12 +572,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1859
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1859-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -541,12 +594,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1859
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1860-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -561,12 +616,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1860
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1860-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -581,12 +638,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1860
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1860-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -601,12 +660,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1860
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1861-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -621,12 +682,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1861
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1861-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -641,12 +704,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1861
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1862-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -661,12 +726,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1862
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1862-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -681,12 +748,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1862
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1863-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -701,12 +770,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1863
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1863-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -721,12 +792,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1863
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1864-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -741,12 +814,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1864
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1864-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -761,12 +836,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1864
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1865-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -781,12 +858,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1865
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1865-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -801,12 +880,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1865
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1866-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -821,12 +902,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1866
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1866-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -841,12 +924,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1866
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1867-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -861,12 +946,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1867
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1867-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -881,12 +968,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1867
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1868-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -901,12 +990,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1868
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1868-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -921,12 +1012,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1868
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1869-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -941,12 +1034,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1869
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1869-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -961,12 +1056,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1869
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1870-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -981,12 +1078,14 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1870
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1870-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1001,12 +1100,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1870
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1870-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1021,12 +1122,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1870
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1871-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1041,12 +1144,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1871
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1871-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1061,12 +1166,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1871
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1871-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1081,12 +1188,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1871
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1872-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1101,12 +1210,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1872
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1872-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1121,12 +1232,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1872
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1872-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1141,12 +1254,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1872
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1873-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1161,12 +1276,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1873
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1873-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1181,12 +1298,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1873
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1873-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1201,12 +1320,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1873
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1874-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1221,12 +1342,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1874
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1874-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1241,12 +1364,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1874
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1874-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1261,12 +1386,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1874
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1875-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1281,12 +1408,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1875
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1875-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1301,12 +1430,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1875
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1875-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1321,12 +1452,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1875
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1876-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1341,12 +1474,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1876
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1876-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1361,12 +1496,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1876
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1876-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1381,12 +1518,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1876
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1877-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1401,12 +1540,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1877
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1877-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1421,12 +1562,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1877
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1877-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1441,12 +1584,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1877
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1878-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1461,12 +1606,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1878
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1878-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1481,12 +1628,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1878
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1878-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1501,12 +1650,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1878
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1879-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1521,12 +1672,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1879
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1879-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1541,12 +1694,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1879
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1879-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1561,12 +1716,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1879
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1879-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1581,12 +1738,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1879
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1880-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1601,12 +1760,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1880
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1880-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1621,12 +1782,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1880
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1880-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1641,12 +1804,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1880
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1881-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1661,12 +1826,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1881
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1881-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1681,12 +1848,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1881
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1881-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1701,12 +1870,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1881
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1882-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1721,12 +1892,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1882
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1882-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1741,12 +1914,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1882
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1882-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1761,12 +1936,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1882
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1883-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1781,12 +1958,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1883
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1883-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1801,12 +1980,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1883
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1883-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1821,12 +2002,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1883
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1884-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1841,12 +2024,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1884
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1884-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1861,12 +2046,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1884
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1884-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1881,12 +2068,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1884
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1885-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1901,12 +2090,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1885
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1885-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1921,12 +2112,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1885
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1885-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1941,12 +2134,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1885
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1886-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1961,12 +2156,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1886
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1886-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -1981,12 +2178,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1886
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1886-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2001,12 +2200,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1886
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1887-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2021,12 +2222,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1887
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1887-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2041,12 +2244,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1887
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1887-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2061,12 +2266,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1887
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1888-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2081,12 +2288,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1888
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1888-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2101,12 +2310,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1888
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1888-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2121,12 +2332,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1888
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1889-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2141,12 +2354,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1889
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1889-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2161,12 +2376,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1889
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1889-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2181,12 +2398,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1889
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1890-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2201,12 +2420,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1890
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1890-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2221,12 +2442,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1890
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1890-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2241,12 +2464,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1890
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1891-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2261,12 +2486,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1891
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1891-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2281,12 +2508,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1891
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1891-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2301,12 +2530,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1891
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1892-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2321,12 +2552,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1892
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1892-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2341,12 +2574,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1892
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1892-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2361,12 +2596,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1892
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1893-CC",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2381,12 +2618,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1893
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1893-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2401,12 +2640,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1893
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1893-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2421,12 +2662,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1893
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1894-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2441,12 +2684,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1894
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1894-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2461,12 +2706,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1894
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1895-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2481,12 +2728,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1895
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1895-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2501,12 +2750,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1895
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1896-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2521,12 +2772,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1896
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1896-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2541,12 +2794,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1896
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1897-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2561,12 +2816,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1897
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1897-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2581,12 +2838,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1897
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1898-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2601,12 +2860,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1898
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1898-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2621,12 +2882,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1898
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1899-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2641,12 +2904,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1899
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1899-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2661,12 +2926,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1899
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1900-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2681,12 +2948,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1900
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1900-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2701,12 +2970,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1900
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1901-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2721,12 +2992,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1901
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1901-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2741,12 +3014,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1901
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1902-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2761,12 +3036,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1902
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1902-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2781,12 +3058,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1902
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1903-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2801,12 +3080,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1903
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1903-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2821,12 +3102,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1903
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1904-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2841,12 +3124,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1904
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1904-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2861,12 +3146,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1904
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1905-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2881,12 +3168,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1905
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1905-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2901,12 +3190,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1905
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1906-D",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2921,12 +3212,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1906
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1906-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2941,12 +3234,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1906
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1906-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2961,12 +3256,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1906
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1907-D",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -2981,12 +3278,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1907
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1907-O",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -3001,12 +3300,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1907
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1907-P",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -3021,12 +3322,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1907
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DELH-1907-S",
           "common_names": "Double Eagle Liberty Head",
           "composition": {
@@ -3041,6 +3344,7 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Eagle with shield, arrows, olive branch, rays, and motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1907
@@ -3075,6 +3379,7 @@
       "coins": [
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1907-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3089,12 +3394,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1907
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1907-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3109,6 +3416,7 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Ultra High Relief pattern",
@@ -3121,6 +3429,7 @@
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1908-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3135,12 +3444,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1908
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1908-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3155,12 +3466,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1908
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1909-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3175,12 +3488,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1909
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1909-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3195,12 +3510,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1909
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1909-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3215,12 +3532,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1909
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1910-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3235,12 +3554,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1910
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1910-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3255,12 +3576,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1910
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1910-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3275,12 +3598,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1910
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1911-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3295,12 +3620,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1911
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1911-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3315,12 +3642,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1911
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1911-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3335,12 +3664,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1911
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1912-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3355,12 +3686,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1912
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1912-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3375,12 +3708,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1912
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1912-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3395,12 +3730,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1912
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1913-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3415,12 +3752,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1913
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1913-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3435,12 +3774,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1913
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1913-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3455,12 +3796,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1913
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1914-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3475,12 +3818,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1914
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1914-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3495,12 +3840,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1914
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1914-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3515,12 +3862,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1914
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1915-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3535,12 +3884,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1915
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1915-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3555,12 +3906,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1915
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1915-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3575,12 +3928,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1915
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1916-D",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3595,12 +3950,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1916
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1916-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3615,12 +3972,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1916
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1916-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3635,12 +3994,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1916
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1920-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3655,12 +4016,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1920
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1920-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3675,12 +4038,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1920
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1921-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3695,12 +4060,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1921
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1922-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3715,12 +4082,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1922
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1922-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3735,12 +4104,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1922
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1923-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3755,12 +4126,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1923
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1923-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3775,12 +4148,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1923
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1924-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3795,12 +4170,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1924
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1924-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3815,12 +4192,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1924
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1925-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3835,12 +4214,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1925
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1925-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3855,12 +4236,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1925
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1926-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3875,12 +4258,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1926
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1926-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3895,12 +4280,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1926
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1927-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3915,12 +4302,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1927
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1927-S",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3935,12 +4324,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1927
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1928-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3955,12 +4346,14 @@
           "proof_strikes": null,
           "rarity": "common",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1928
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1929-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3975,12 +4368,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1929
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1930-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -3995,12 +4390,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1930
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1931-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -4015,12 +4412,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1931
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1932-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -4035,12 +4434,14 @@
           "proof_strikes": null,
           "rarity": "scarce",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1932
         },
         {
           "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-DESG-1933-P",
           "common_names": "Double Eagle Saint-Gaudens",
           "composition": {
@@ -4055,6 +4456,7 @@
           "proof_strikes": null,
           "rarity": "key",
           "reverse_description": "Flying eagle over sun rays with motto",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 33.436,
           "year": 1933

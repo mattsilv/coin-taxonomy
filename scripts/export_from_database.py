@@ -66,7 +66,8 @@ class DatabaseExporter:
                         country, obverse_description, reverse_description,
                         distinguishing_features, identification_keywords, common_names,
                         category, issuer, series_year, calendar_type, original_date,
-                        seller_name, COALESCE(variety_suffix, '') as variety_suffix
+                        seller_name, COALESCE(variety_suffix, '') as variety_suffix,
+                        subcategory
                     FROM coins
                     WHERE denomination = ? AND coin_id LIKE 'US-%'
                     ORDER BY year, series_name, mint, variety_suffix
@@ -107,6 +108,12 @@ class DatabaseExporter:
                         "composition": composition,
                         "varieties": varieties
                     }
+                    
+                    # Add category and subcategory fields
+                    if row[20]:  # category
+                        coin["category"] = row[20]
+                    if row[27]:  # subcategory
+                        coin["subcategory"] = row[27]
                     
                     # Add visual description fields
                     if row[15]:  # obverse_description

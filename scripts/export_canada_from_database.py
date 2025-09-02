@@ -28,7 +28,7 @@ def export_canada_coins():
             business_strikes, proof_strikes, rarity, composition,
             weight_grams, diameter_mm, varieties, source_citation, notes,
             obverse_description, reverse_description, distinguishing_features,
-            identification_keywords, common_names
+            identification_keywords, common_names, category, subcategory
         FROM coins
         WHERE country = 'CA'
         ORDER BY denomination, year, mint
@@ -81,7 +81,9 @@ def export_canada_coins():
             'reverse_description': row[16],
             'distinguishing_features': row[17],
             'identification_keywords': row[18],
-            'common_names': row[19]
+            'common_names': row[19],
+            'category': row[20],
+            'subcategory': row[21]
         }
         
         # Remove None values

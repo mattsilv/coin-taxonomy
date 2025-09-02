@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": 35334,
+          "category": "coin",
           "coin_id": "US-HCLC-1793-P",
           "common_names": "[\"Liberty Cap Half Cent\", \"1793 Half Cent\", \"First Half Cent\"]",
           "composition": {},
@@ -19,6 +20,7 @@
           "rarity": "key",
           "reverse_description": "Wreath enclosing 'HALF CENT' and fraction '1/200', 'UNITED STATES OF AMERICA' around rim",
           "source_citation": "Red Book 2024",
+          "subcategory": "circulation",
           "varieties": [],
           "year": 1793
         }
@@ -49,6 +51,7 @@
       "coins": [
         {
           "business_strikes": 670000,
+          "category": "coin",
           "coin_id": "US-VHPW-1773-L",
           "common_names": "[\"Virginia Halfpenny\", \"1773 Virginia Halfpenny\", \"Colonial Virginia Halfpenny\"]",
           "composition": {
@@ -64,6 +67,7 @@
           "rarity": "scarce",
           "reverse_description": "Crowned shield with 'VIR-GINIA' split by crown, date split '17-73'",
           "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "subcategory": "circulation",
           "varieties": [
             {
               "description": "Period after GEORGIVS",
@@ -109,6 +113,7 @@
       "coins": [
         {
           "business_strikes": 202908,
+          "category": "coin",
           "coin_id": "US-HCDB-1800-P",
           "common_names": "[\"Draped Bust Half Cent\", \"1800 Half Cent\", \"Stuart Liberty Half Cent\"]",
           "composition": {},
@@ -122,6 +127,7 @@
           "rarity": "scarce",
           "reverse_description": "Wreath enclosing 'HALF CENT', 'UNITED STATES OF AMERICA' around rim",
           "source_citation": "Red Book 2024",
+          "subcategory": "circulation",
           "varieties": [],
           "year": 1800
         }

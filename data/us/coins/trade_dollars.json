@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": 396635,
+          "category": "coin",
           "coin_id": "US-TRDO-1873-P",
           "common_names": "[\"Trade Dollar\", \"Export Dollar\", \"China Trade Dollar\"]",
           "composition": {},
@@ -19,11 +20,13 @@
           "rarity": "scarce",
           "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
           "source_citation": "U.S. Mint official records, Stack's Bowers",
+          "subcategory": "circulation",
           "varieties": [],
           "year": 1873
         },
         {
           "business_strikes": 97000,
+          "category": "coin",
           "coin_id": "US-TRDO-1878-CC",
           "common_names": "[\"Trade Dollar\", \"Export Dollar\", \"China Trade Dollar\"]",
           "composition": {},
@@ -36,6 +39,7 @@
           "rarity": "key",
           "reverse_description": "Eagle with wings spread, 'UNITED STATES OF AMERICA' above, 'TRADE DOLLAR' below, '420 GRAINS 900 FINE' on ribbon",
           "source_citation": "U.S. Mint official records",
+          "subcategory": "circulation",
           "varieties": [],
           "year": 1878
         }

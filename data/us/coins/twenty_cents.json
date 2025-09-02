@@ -7,6 +7,7 @@
       "coins": [
         {
           "business_strikes": 0,
+          "category": "coin",
           "coin_id": "US-VSHL-1774-L",
           "common_names": "[\"Virginia Shilling\", \"1774 Virginia Shilling Pattern\"]",
           "composition": {
@@ -22,6 +23,7 @@
           "rarity": "key",
           "reverse_description": "Crowned shield with 'VIRGINIA' and date '1774'",
           "source_citation": "APMEX Guide, Newman Numismatic Portal",
+          "subcategory": "circulation",
           "varieties": [],
           "weight_grams": 5.66,
           "year": 1793
@@ -56,6 +58,7 @@
       "coins": [
         {
           "business_strikes": 38500,
+          "category": "coin",
           "coin_id": "US-TWCT-1875-P",
           "common_names": "[\"Twenty Cent Piece\", \"Twenty Cents\", \"Seated Twenty\"]",
           "composition": {},
@@ -69,6 +72,7 @@
           "rarity": "scarce",
           "reverse_description": "Eagle with spread wings, 'UNITED STATES OF AMERICA' above, 'TWENTY CENTS' below",
           "source_citation": "Red Book 2024",
+          "subcategory": "circulation",
           "varieties": [],
           "year": 1875
         }
