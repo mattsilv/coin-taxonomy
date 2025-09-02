@@ -1,0 +1,191 @@
+{
+  "timestamp": "2025-09-02T19:39:41.479999",
+  "missing_categories": [
+    {
+      "category_id": "COLONIAL",
+      "name": "Colonial Issues",
+      "date_range": "1616-1776",
+      "priority": "MEDIUM"
+    },
+    {
+      "category_id": "CONTRACT",
+      "name": "Contract Issues and Patterns",
+      "date_range": "1792-1794",
+      "priority": "MEDIUM"
+    },
+    {
+      "category_id": "SILVER_BULLION",
+      "name": "Silver Bullion",
+      "date_range": "1986-Date",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "PRIVATE_TERRITORIAL",
+      "name": "Private and Territorial Gold",
+      "date_range": "1830-1861",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "GOLD_BULLION",
+      "name": "Gold Bullion",
+      "date_range": "1986-Date",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "PRIVATE_TOKENS",
+      "name": "Private Tokens",
+      "date_range": "Various",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "PLATINUM_PALLADIUM",
+      "name": "Platinum and Palladium Bullion",
+      "date_range": "1997-Date",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "CONFEDERATE",
+      "name": "Confederate Issues",
+      "date_range": "1861-1865",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "TWO_CENTS",
+      "name": "Two-Cent Pieces",
+      "date_range": "1864-1873",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "PHILIPPINE",
+      "name": "Philippine Issues",
+      "date_range": "1903-1945",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "THREE_CENTS",
+      "name": "Three-Cent Pieces",
+      "date_range": "1851-1889",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "ALASKA",
+      "name": "Alaska Tokens",
+      "date_range": "1935-1941",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "FOUR_DOLLAR_GOLD",
+      "name": "Four-Dollar Gold Pieces",
+      "date_range": "1879-1880",
+      "priority": "MEDIUM"
+    },
+    {
+      "category_id": "COMMEMORATIVES",
+      "name": "Commemoratives",
+      "date_range": "1892-Date",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "PROOF_MINT_SETS",
+      "name": "Proof and Mint Sets",
+      "date_range": "1936-Date",
+      "priority": "LOW"
+    }
+  ],
+  "high_priority": [
+    {
+      "category_id": "SILVER_BULLION",
+      "name": "Silver Bullion",
+      "date_range": "1986-Date",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "GOLD_BULLION",
+      "name": "Gold Bullion",
+      "date_range": "1986-Date",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "TWO_CENTS",
+      "name": "Two-Cent Pieces",
+      "date_range": "1864-1873",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "THREE_CENTS",
+      "name": "Three-Cent Pieces",
+      "date_range": "1851-1889",
+      "priority": "HIGH"
+    },
+    {
+      "category_id": "COMMEMORATIVES",
+      "name": "Commemoratives",
+      "date_range": "1892-Date",
+      "priority": "HIGH"
+    }
+  ],
+  "medium_priority": [
+    {
+      "category_id": "COLONIAL",
+      "name": "Colonial Issues",
+      "date_range": "1616-1776",
+      "priority": "MEDIUM"
+    },
+    {
+      "category_id": "CONTRACT",
+      "name": "Contract Issues and Patterns",
+      "date_range": "1792-1794",
+      "priority": "MEDIUM"
+    },
+    {
+      "category_id": "FOUR_DOLLAR_GOLD",
+      "name": "Four-Dollar Gold Pieces",
+      "date_range": "1879-1880",
+      "priority": "MEDIUM"
+    }
+  ],
+  "low_priority": [
+    {
+      "category_id": "PRIVATE_TERRITORIAL",
+      "name": "Private and Territorial Gold",
+      "date_range": "1830-1861",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "PRIVATE_TOKENS",
+      "name": "Private Tokens",
+      "date_range": "Various",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "PLATINUM_PALLADIUM",
+      "name": "Platinum and Palladium Bullion",
+      "date_range": "1997-Date",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "CONFEDERATE",
+      "name": "Confederate Issues",
+      "date_range": "1861-1865",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "PHILIPPINE",
+      "name": "Philippine Issues",
+      "date_range": "1903-1945",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "ALASKA",
+      "name": "Alaska Tokens",
+      "date_range": "1935-1941",
+      "priority": "LOW"
+    },
+    {
+      "category_id": "PROOF_MINT_SETS",
+      "name": "Proof and Mint Sets",
+      "date_range": "1936-Date",
+      "priority": "LOW"
+    }
+  ]
+}
