@@ -24494,7 +24494,7 @@
       "distinguishing_features": "[\"Bronze composition (95% copper)\", \"19.05mm diameter\", \"Caucasian Liberty in Native headdress\", \"Oak and laurel wreath with shield\", \"James Longacre design\"]",
       "identification_keywords": "[\"indian head cent\", \"indian penny\", \"bronze cent\", \"headdress cent\", \"liberty headdress\", \"oak wreath\", \"shield cent\", \"longacre cent\"]",
       "mint": "P",
-      "notes": "Ultimate key date, extremely low mintage",
+      "notes": "Test note for pre-commit validation",
       "obverse_description": "Liberty wearing Native American headdress facing left, 'LIBERTY' on headband, 'UNITED STATES OF AMERICA' around rim, date below",
       "proof_strikes": null,
       "rarity": "key",
@@ -73709,7 +73709,7 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-09-02T19:24:44.601448",
+  "generated_at": "2025-09-02T19:26:52.488636",
   "taxonomy_version": "1.1",
   "total_coins": 2587,
   "year_range": {
