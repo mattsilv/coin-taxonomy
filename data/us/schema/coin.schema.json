@@ -28,8 +28,7 @@
         "required": ["series_id", "series_name"],
         "properties": {
           "series_id": {
-            "type": "string",
-            "pattern": "^[a-z_0-9]+$"
+            "type": "string"
           },
           "series_name": {
             "type": "string"

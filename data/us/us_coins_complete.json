@@ -18424,32 +18424,41 @@
       "year": 1864
     },
     {
-      "business_strikes": null,
+      "business_strikes": 19822500,
       "coin_id": "US-TWCT-1864-P",
-      "common_names": "[\"Two-Cent Piece\"]",
+      "common_names": "Two-Cent Piece",
       "composition": {
-        "alloy": {
-          "copper": 0.95,
-          "tin": 0.04,
-          "zinc": 0.01
-        },
-        "alloy_name": "Bronze"
+        "copper": 95,
+        "tin_zinc": 5
       },
-      "country": "United States",
+      "country": "US",
       "denomination": "Two Cents",
       "diameter_mm": 23.0,
-      "distinguishing_features": "[\"First US coin with \\\"IN GOD WE TRUST\\\". Large Motto variety.\"]",
-      "identification_keywords": "[\"two\", \"cent\", \"1864\", \"first\", \"year\", \"in\", \"god\", \"we\", \"trust\", \"large\", \"motto\"]",
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
       "mint": "P",
-      "notes": "First year. Large Motto is common variety. Historic first use of \"IN GOD WE TRUST\".",
-      "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
-      "proof_strikes": null,
+      "notes": "Large Motto",
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 100,
       "rarity": "common",
-      "reverse_description": "Wreath with \"2 CENTS\" in center",
-      "series_id": "two_cent",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
       "series_name": "Two-Cent Piece",
-      "source_citation": null,
-      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "varieties": [
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Small Motto",
+          "variety_id": "small_motto"
+        },
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Large Motto",
+          "variety_id": "large_motto"
+        }
+      ],
       "weight_grams": 6.22,
       "year": 1864
     },
@@ -18913,31 +18922,27 @@
       "year": 1865
     },
     {
-      "business_strikes": null,
+      "business_strikes": 13640000,
       "coin_id": "US-TWCT-1865-P",
-      "common_names": "[\"Two-Cent Piece\"]",
+      "common_names": "Two-Cent Piece",
       "composition": {
-        "alloy": {
-          "copper": 0.95,
-          "tin": 0.04,
-          "zinc": 0.01
-        },
-        "alloy_name": "Bronze"
+        "copper": 95,
+        "tin_zinc": 5
       },
-      "country": "United States",
+      "country": "US",
       "denomination": "Two Cents",
       "diameter_mm": 23.0,
-      "distinguishing_features": "[\"Overdate variety 1865/4 exists. High mintage year.\"]",
-      "identification_keywords": "[\"two\", \"cent\", \"1865\", \"overdate\", \"variety\", \"1865/4\"]",
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
       "mint": "P",
-      "notes": "High mintage year. 1865/4 overdate variety is scarce and valuable.",
-      "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
-      "proof_strikes": null,
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 500,
       "rarity": "common",
-      "reverse_description": "Wreath with \"2 CENTS\" in center",
-      "series_id": "two_cent",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
       "series_name": "Two-Cent Piece",
-      "source_citation": null,
+      "source_citation": "Red Book 2024",
       "varieties": [],
       "weight_grams": 6.22,
       "year": 1865
@@ -19396,6 +19401,32 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 5.015,
+      "year": 1866
+    },
+    {
+      "business_strikes": 3177000,
+      "coin_id": "US-TWCT-1866-P",
+      "common_names": "Two-Cent Piece",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Two Cents",
+      "diameter_mm": 23.0,
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 725,
+      "rarity": "common",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "source_citation": "Red Book 2024",
+      "varieties": [],
+      "weight_grams": 6.22,
       "year": 1866
     },
     {
@@ -19884,6 +19915,39 @@
       "year": 1867
     },
     {
+      "business_strikes": 2938750,
+      "coin_id": "US-TWCT-1867-P",
+      "common_names": "Two-Cent Piece",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Two Cents",
+      "diameter_mm": 23.0,
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 625,
+      "rarity": "common",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "source_citation": "Red Book 2024",
+      "varieties": [
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Doubled Die Obverse",
+          "variety_id": "doubled_die_obverse"
+        }
+      ],
+      "weight_grams": 6.22,
+      "year": 1867
+    },
+    {
       "business_strikes": 464600,
       "coin_id": "US-SLDI-1868-P",
       "common_names": "[\"Seated Liberty Dime\", \"1868 Seated Dime\", \"Liberty Seated Dime\"]",
@@ -20337,6 +20401,32 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 5.015,
+      "year": 1868
+    },
+    {
+      "business_strikes": 2803750,
+      "coin_id": "US-TWCT-1868-P",
+      "common_names": "Two-Cent Piece",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Two Cents",
+      "diameter_mm": 23.0,
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 600,
+      "rarity": "common",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "source_citation": "Red Book 2024",
+      "varieties": [],
+      "weight_grams": 6.22,
       "year": 1868
     },
     {
@@ -20833,31 +20923,27 @@
       "year": 1869
     },
     {
-      "business_strikes": null,
+      "business_strikes": 1546500,
       "coin_id": "US-TWCT-1869-P",
-      "common_names": "[\"Two-Cent Piece\"]",
+      "common_names": "Two-Cent Piece",
       "composition": {
-        "alloy": {
-          "copper": 0.95,
-          "tin": 0.04,
-          "zinc": 0.01
-        },
-        "alloy_name": "Bronze"
+        "copper": 95,
+        "tin_zinc": 5
       },
-      "country": "United States",
+      "country": "US",
       "denomination": "Two Cents",
       "diameter_mm": 23.0,
-      "distinguishing_features": "[\"Representative mid-period common date.\"]",
-      "identification_keywords": "[\"two\", \"cent\", \"1869\", \"common\", \"date\"]",
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
       "mint": "P",
-      "notes": "Representative common date from middle of series run.",
-      "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
-      "proof_strikes": null,
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 600,
       "rarity": "common",
-      "reverse_description": "Wreath with \"2 CENTS\" in center",
-      "series_id": "two_cent",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
       "series_name": "Two-Cent Piece",
-      "source_citation": null,
+      "source_citation": "Red Book 2024",
       "varieties": [],
       "weight_grams": 6.22,
       "year": 1869
@@ -21414,6 +21500,32 @@
       "year": 1870
     },
     {
+      "business_strikes": 861250,
+      "coin_id": "US-TWCT-1870-P",
+      "common_names": "Two-Cent Piece",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Two Cents",
+      "diameter_mm": 23.0,
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 1000,
+      "rarity": "scarce",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "source_citation": "Red Book 2024",
+      "varieties": [],
+      "weight_grams": 6.22,
+      "year": 1870
+    },
+    {
       "business_strikes": 906750,
       "coin_id": "US-SLDI-1871-P",
       "common_names": "[\"Seated Liberty Dime\", \"1871 Seated Dime\", \"Liberty Seated Dime\"]",
@@ -21945,6 +22057,32 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 5.015,
+      "year": 1871
+    },
+    {
+      "business_strikes": 721250,
+      "coin_id": "US-TWCT-1871-P",
+      "common_names": "Two-Cent Piece",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Two Cents",
+      "diameter_mm": 23.0,
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 960,
+      "rarity": "scarce",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "source_citation": "Red Book 2024",
+      "varieties": [],
+      "weight_grams": 6.22,
       "year": 1871
     },
     {
@@ -22482,31 +22620,27 @@
       "year": 1872
     },
     {
-      "business_strikes": null,
+      "business_strikes": 65000,
       "coin_id": "US-TWCT-1872-P",
-      "common_names": "[\"Two-Cent Piece\"]",
+      "common_names": "Two-Cent Piece",
       "composition": {
-        "alloy": {
-          "copper": 0.95,
-          "tin": 0.04,
-          "zinc": 0.01
-        },
-        "alloy_name": "Bronze"
+        "copper": 95,
+        "tin_zinc": 5
       },
-      "country": "United States",
+      "country": "US",
       "denomination": "Two Cents",
       "diameter_mm": 23.0,
-      "distinguishing_features": "[\"Key date with very low mintage of 65,000.\"]",
-      "identification_keywords": "[\"two\", \"cent\", \"1872\", \"key\", \"date\", \"low\", \"mintage\"]",
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
       "mint": "P",
-      "notes": "Key date with lowest business strike mintage of 65,000.",
-      "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
-      "proof_strikes": null,
-      "rarity": "key",
-      "reverse_description": "Wreath with \"2 CENTS\" in center",
-      "series_id": "two_cent",
+      "notes": null,
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 950,
+      "rarity": "scarce",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
       "series_name": "Two-Cent Piece",
-      "source_citation": null,
+      "source_citation": "Red Book 2024",
       "varieties": [],
       "weight_grams": 6.22,
       "year": 1872
@@ -23098,32 +23232,35 @@
       "year": 1873
     },
     {
-      "business_strikes": null,
+      "business_strikes": 0,
       "coin_id": "US-TWCT-1873-P",
-      "common_names": "[\"Two-Cent Piece\"]",
+      "common_names": "Two-Cent Piece",
       "composition": {
-        "alloy": {
-          "copper": 0.95,
-          "tin": 0.04,
-          "zinc": 0.01
-        },
-        "alloy_name": "Bronze"
+        "copper": 95,
+        "tin_zinc": 5
       },
-      "country": "United States",
+      "country": "US",
       "denomination": "Two Cents",
       "diameter_mm": 23.0,
-      "distinguishing_features": "[\"Final year - proof only. Open 3 vs Closed 3 varieties.\"]",
-      "identification_keywords": "[\"two\", \"cent\", \"1873\", \"final\", \"year\", \"proof\", \"only\", \"open\", \"closed\", \"3\"]",
+      "distinguishing_features": "First US coin with IN GOD WE TRUST motto",
+      "identification_keywords": "two cent piece, 2 cent, shield",
       "mint": "P",
-      "notes": "Final year - proof only. Open 3 and Closed 3 varieties exist.",
-      "obverse_description": "Shield with ribbons, \"IN GOD WE TRUST\" on banner above",
-      "proof_strikes": null,
-      "rarity": "key",
-      "reverse_description": "Wreath with \"2 CENTS\" in center",
-      "series_id": "two_cent",
+      "notes": "Close 3, Proof only",
+      "obverse_description": "Shield with IN GOD WE TRUST banner above, date below",
+      "proof_strikes": 600,
+      "rarity": "scarce",
+      "reverse_description": "Denomination TWO CENTS within wheat wreath, UNITED STATES OF AMERICA around",
+      "series_id": "US-TWCT",
       "series_name": "Two-Cent Piece",
-      "source_citation": null,
-      "varieties": [],
+      "source_citation": "Red Book 2024",
+      "varieties": [
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Close 3",
+          "variety_id": "close_3"
+        }
+      ],
       "weight_grams": 6.22,
       "year": 1873
     },
@@ -73709,9 +73846,9 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-09-02T20:17:44.412627",
+  "generated_at": "2025-09-02T20:37:20.996488",
   "taxonomy_version": "1.1",
-  "total_coins": 2587,
+  "total_coins": 2592,
   "year_range": {
     "earliest": 1787,
     "latest": 2024

@@ -106,7 +106,7 @@ class DatabaseExporter:
                         "proof_strikes": row[6],
                         "rarity": row[7],
                         "composition": composition,
-                        "varieties": varieties
+                        "varieties": self.format_varieties(varieties)
                     }
                     
                     # Add category and subcategory fields

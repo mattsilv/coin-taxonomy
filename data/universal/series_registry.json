@@ -212,6 +212,17 @@
       "type": "US National Bank Note $20"
     },
     {
+      "series_id": "US-TWCT",
+      "series_name": "Two-Cent Piece",
+      "country_code": "TWCT",
+      "denomination": "US",
+      "start_year": "Two Cents",
+      "end_year": 1864,
+      "defining_characteristics": 1873,
+      "official_name": "First US coin to bear the motto IN GOD WE TRUST",
+      "type": "Two-Cent Piece"
+    },
+    {
       "series_id": "us_silver_certificate_1_dollar",
       "series_name": "One Dollar Silver Certificate",
       "country_code": "SC1",
