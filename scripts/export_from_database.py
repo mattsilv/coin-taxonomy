@@ -56,21 +56,43 @@ class DatabaseExporter:
             for denom_name, count in denominations:
                 print(f"📄 Exporting {denom_name}: {count} coins")
                 
-                # Get all coins for this denomination with series grouping (including new taxonomy fields)
+                # Get all coins for this denomination - using ACTUAL database columns
                 cursor.execute('''
                     SELECT 
-                        coin_id, series_id, series_name, year, mint,
-                        business_strikes, proof_strikes, rarity,
-                        composition, weight_grams, diameter_mm,
-                        varieties, source_citation, notes,
-                        country, obverse_description, reverse_description,
-                        distinguishing_features, identification_keywords, common_names,
-                        category, issuer, series_year, calendar_type, original_date,
-                        seller_name, COALESCE(variety_suffix, '') as variety_suffix,
-                        subcategory
+                        coin_id, 
+                        series, 
+                        series as series_name, 
+                        year, 
+                        mint,
+                        business_strikes, 
+                        proof_strikes, 
+                        rarity,
+                        composition, 
+                        weight_grams, 
+                        diameter_mm,
+                        variety as varieties,
+                        source_citation, 
+                        notes,
+                        substr(coin_id, 1, 2) as country,
+                        obverse_description, 
+                        reverse_description,
+                        '' as distinguishing_features,
+                        '' as identification_keywords, 
+                        '' as common_names,
+                        'coin' as category, 
+                        '' as issuer, 
+                        year as series_year, 
+                        'gregorian' as calendar_type, 
+                        '' as original_date,
+                        '' as seller_name, 
+                        '' as variety_suffix,
+                        CASE 
+                            WHEN composition LIKE '%silver%' OR composition LIKE '%gold%' THEN 'bullion'
+                            ELSE 'circulation' 
+                        END as subcategory
                     FROM coins
                     WHERE denomination = ? AND coin_id LIKE 'US-%'
-                    ORDER BY year, series_name, mint, variety_suffix
+                    ORDER BY year, series, mint
                 ''', (denom_name,))
                 
                 rows = cursor.fetchall()
@@ -80,8 +102,8 @@ class DatabaseExporter:
                 face_value = self.get_face_value(denom_name)
                 
                 for row in rows:
-                    series_id = row[1]
-                    series_name = row[2]
+                    series_id = row[1]  # This is the series column mapped as series_id
+                    series_name = row[2]  # Same as series_id since we aliased it
                     
                     if series_id not in series_data:
                         series_data[series_id] = {
@@ -90,9 +112,11 @@ class DatabaseExporter:
                             'years': []
                         }
                     
-                    # Parse JSON fields
-                    composition = json.loads(row[8]) if row[8] else {}
-                    varieties = json.loads(row[11]) if row[11] else []
+                    # Parse fields based on actual database schema
+                    composition = self.parse_composition(row[8])
+                    # varieties is now a single string from 'variety' column, convert to list format
+                    single_variety = row[11] if row[11] and row[11].strip() else ""
+                    varieties = [{"name": single_variety, "premium": False}] if single_variety else []
                     # These are text fields, not JSON
                     distinguishing_features = row[17] if row[17] else ""
                     identification_keywords = row[18] if row[18] else ""
@@ -197,6 +221,7 @@ class DatabaseExporter:
         face_values = {
             'Half Cents': 0.005,
             'Cents': 0.01,
+            'Three Cents': 0.03,
             'Nickels': 0.05,
             'Dimes': 0.10,
             'Twenty Cents': 0.20,
@@ -241,12 +266,67 @@ class DatabaseExporter:
             return formatted
         
         return []
+
+    def format_single_variety(self, variety_text):
+        """Convert single variety string to list format."""
+        if not variety_text or not variety_text.strip():
+            return []
+        
+        variety_id = variety_text.lower().replace(' ', '_').replace('-', '_')
+        return [{
+            "id": variety_id,
+            "name": variety_text,
+            "premium": False
+        }]
+
+    def parse_composition(self, composition_text):
+        """Parse composition from either JSON format or text format."""
+        if not composition_text:
+            return {}
+        
+        # Try JSON first (for Three-Cent Pieces and newer coins)
+        try:
+            return json.loads(composition_text)
+        except (json.JSONDecodeError, TypeError):
+            pass
+        
+        # Parse text format (for older coins like "95% Cu, 4% Sn, 1% Zn")
+        composition = {}
+        if isinstance(composition_text, str):
+            # Split by comma and parse each component
+            parts = composition_text.split(',')
+            for part in parts:
+                part = part.strip()
+                if '%' in part and ('Cu' in part or 'Ag' in part or 'Au' in part or 'Ni' in part or 'Zn' in part or 'Sn' in part):
+                    # Extract percentage and metal
+                    percent_pos = part.find('%')
+                    if percent_pos > 0:
+                        try:
+                            percentage = float(part[:percent_pos].strip())
+                            metal_abbr = part[percent_pos + 1:].strip()
+                            
+                            # Map abbreviations to full names
+                            metal_map = {
+                                'Cu': 'copper',
+                                'Ag': 'silver', 
+                                'Au': 'gold',
+                                'Ni': 'nickel',
+                                'Zn': 'zinc',
+                                'Sn': 'tin'
+                            }
+                            metal_name = metal_map.get(metal_abbr, metal_abbr.lower())
+                            composition[metal_name] = percentage
+                        except ValueError:
+                            continue
+        
+        return composition
     
     def get_filename(self, denomination: str) -> str:
         """Get filename for denomination."""
         filenames = {
             'Half Cents': 'half_cents.json',
             'Cents': 'cents.json',
+            'Three Cents': 'three_cents.json',
             'Nickels': 'nickels.json',
             'Dimes': 'dimes.json',
             'Twenty Cents': 'twenty_cents.json',
@@ -362,7 +442,7 @@ class DatabaseExporter:
                     face_value,
                     COUNT(*) as count
                 FROM issues 
-                WHERE object_type = 'banknote' AND country_code = 'US'
+                WHERE object_type = 'banknote' AND country = 'US'
                 GROUP BY face_value
                 ORDER BY face_value
             ''')
@@ -383,7 +463,7 @@ class DatabaseExporter:
                         distinguishing_features, identification_keywords, common_names,
                         seller_name
                     FROM issues
-                    WHERE object_type = 'banknote' AND face_value = ? AND country_code = 'US'
+                    WHERE object_type = 'banknote' AND face_value = ? AND country = 'US'
                     ORDER BY issue_year, series_designation, mint_id
                 ''', (face_value,))
                 
@@ -561,18 +641,33 @@ class DatabaseExporter:
             
             stats = cursor.fetchone()
             
-            # Get all coins (including visual descriptions)
+            # Get all coins using ACTUAL database columns
             cursor.execute('''
                 SELECT 
-                    coin_id, series_id, series_name, denomination,
-                    year, mint, business_strikes, proof_strikes, rarity,
-                    composition, weight_grams, diameter_mm,
-                    varieties, source_citation, notes, country,
-                    obverse_description, reverse_description,
-                    distinguishing_features, identification_keywords, common_names,
-                    COALESCE(variety_suffix, '') as variety_suffix
+                    coin_id, 
+                    series as series_id, 
+                    series as series_name, 
+                    denomination,
+                    year, 
+                    mint, 
+                    business_strikes, 
+                    proof_strikes, 
+                    rarity,
+                    composition, 
+                    weight_grams, 
+                    diameter_mm,
+                    variety as varieties, 
+                    source_citation, 
+                    notes, 
+                    substr(coin_id, 1, 2) as country,
+                    obverse_description, 
+                    reverse_description,
+                    '' as distinguishing_features, 
+                    '' as identification_keywords, 
+                    '' as common_names,
+                    '' as variety_suffix
                 FROM coins
-                ORDER BY year, denomination, series_name, mint, variety_suffix
+                ORDER BY year, denomination, series, mint
             ''')
             
             coins = []
@@ -587,10 +682,10 @@ class DatabaseExporter:
                     "business_strikes": row[6],
                     "proof_strikes": row[7],
                     "rarity": row[8],
-                    "composition": json.loads(row[9]) if row[9] else {},
+                    "composition": self.parse_composition(row[9]),
                     "weight_grams": row[10],
                     "diameter_mm": row[11],
-                    "varieties": self.format_varieties(json.loads(row[12]) if row[12] else []),
+                    "varieties": self.format_single_variety(row[12]) if row[12] and row[12].strip() else [],
                     "source_citation": row[13],
                     "notes": row[14],
                     "country": row[15]
@@ -668,7 +763,7 @@ class DatabaseExporter:
         cursor = conn.cursor()
         cursor.execute("SELECT COUNT(*) FROM coins WHERE coin_id LIKE 'US-%'")
         coin_count = cursor.fetchone()[0]
-        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote' AND country_code = 'US'")
+        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote' AND country = 'US'")
         banknote_count = cursor.fetchone()[0]
         conn.close()
         

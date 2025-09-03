@@ -220,7 +220,7 @@ def export_registries(conn, output_dir):
     print(f"✓ Exported {len(subjects)} subjects")
     
     # Composition Registry
-    cursor.execute('SELECT * FROM composition_registry ORDER BY composition_key')
+    cursor.execute('SELECT * FROM composition_registry ORDER BY composition_id')
     compositions = []
     for row in cursor.fetchall():
         comp = {
