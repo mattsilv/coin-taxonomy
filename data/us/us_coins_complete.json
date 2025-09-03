@@ -63255,6 +63255,114 @@
       "year": 1986
     },
     {
+      "business_strikes": 726031,
+      "coin_id": "US-AGET-1986-P",
+      "common_names": "[\"Gold Eagle $10\", \"AGE $10\", \"1/4 oz Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$10",
+      "diameter_mm": 22.0,
+      "distinguishing_features": "[\"First year American Gold Eagle\", \"1/4 ounce .9167 fine gold\", \"22.0mm diameter\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold eagle age 1986 10 dollar 1/4 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "P",
+      "notes": "First year 1/4 oz Gold Eagle",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_10",
+      "series_name": "American Gold Eagle $10",
+      "source_citation": "Red Book 2025 p.382, PCGS #9802",
+      "varieties": [],
+      "weight_grams": 8.483,
+      "year": 1986
+    },
+    {
+      "business_strikes": 599566,
+      "coin_id": "US-AGEF-1986-P",
+      "common_names": "[\"Gold Eagle $25\", \"AGE $25\", \"1/2 oz Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$25",
+      "diameter_mm": 27.0,
+      "distinguishing_features": "[\"First year American Gold Eagle\", \"1/2 ounce .9167 fine gold\", \"27.0mm diameter\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold eagle age 1986 25 dollar 1/2 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "P",
+      "notes": "First year 1/2 oz Gold Eagle",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_25",
+      "series_name": "American Gold Eagle $25",
+      "source_citation": "Red Book 2025 p.383, PCGS #9803",
+      "varieties": [],
+      "weight_grams": 16.966,
+      "year": 1986
+    },
+    {
+      "business_strikes": 912609,
+      "coin_id": "US-AGES-1986-P",
+      "common_names": "[\"Gold Eagle $5\", \"AGE $5\", \"1/10 oz Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$5",
+      "diameter_mm": 16.5,
+      "distinguishing_features": "[\"First year American Gold Eagle\", \"1/10 ounce .9167 fine gold\", \"16.5mm diameter smallest Gold Eagle\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold eagle age 1986 5 dollar 1/10 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "P",
+      "notes": "First year 1/10 oz Gold Eagle",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_5",
+      "series_name": "American Gold Eagle $5",
+      "source_citation": "Red Book 2025 p.381, PCGS #9801",
+      "varieties": [],
+      "weight_grams": 3.393,
+      "year": 1986
+    },
+    {
+      "business_strikes": 1362650,
+      "coin_id": "US-AGEO-1986-P",
+      "common_names": "[\"Gold Eagle $50\", \"AGE $50\", \"1 oz Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$50",
+      "diameter_mm": 32.7,
+      "distinguishing_features": "[\"First year American Gold Eagle\", \"1 ounce .9167 fine gold\", \"32.7mm diameter largest Gold Eagle\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold eagle age 1986 50 dollar 1 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "P",
+      "notes": "First year 1 oz Gold Eagle",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_50",
+      "series_name": "American Gold Eagle $50",
+      "source_citation": "Red Book 2025 p.384, PCGS #9804",
+      "varieties": [],
+      "weight_grams": 33.931,
+      "year": 1986
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LMCT-1986-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
@@ -63608,6 +63716,33 @@
       "source_citation": "Red Book 2025 p.377, PCGS #9803",
       "varieties": [],
       "weight_grams": 31.103,
+      "year": 1987
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-AGES-1987-W",
+      "common_names": "[\"Gold Eagle $5 Proof\", \"AGE $5 Proof\", \"1987-W Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$5",
+      "diameter_mm": 16.5,
+      "distinguishing_features": "[\"First year proof Gold Eagle\", \"1/10 ounce .9167 fine gold\", \"W mint mark (West Point)\", \"Mirror finish proof surface\"]",
+      "identification_keywords": "american gold eagle age 1987 w proof 5 dollar 1/10 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "W",
+      "notes": "First year proof Gold Eagles",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 580226,
+      "rarity": "common",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_5",
+      "series_name": "American Gold Eagle $5",
+      "source_citation": "Red Book 2025 p.381, PCGS #9805",
+      "varieties": [],
+      "weight_grams": 3.393,
       "year": 1987
     },
     {
@@ -64909,6 +65044,33 @@
       "varieties": [],
       "weight_grams": 5.67,
       "year": 1990
+    },
+    {
+      "business_strikes": 24100,
+      "coin_id": "US-AGEF-1991-P",
+      "common_names": "[\"1991 Gold Eagle $25\", \"Key Date Gold Eagle\", \"1991 AGE $25\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$25",
+      "diameter_mm": 27.0,
+      "distinguishing_features": "[\"Key date - lowest $25 Eagle mintage\", \"1/2 ounce .9167 fine gold\", \"27.0mm diameter\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold eagle age 1991 key date 25 dollar 1/2 ounce liberty saint-gaudens bullion fine gold",
+      "mint": "P",
+      "notes": "Key date - lowest mintage Gold Eagle $25",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_25",
+      "series_name": "American Gold Eagle $25",
+      "source_citation": "Red Book 2025 p.383, PCGS #9819",
+      "varieties": [],
+      "weight_grams": 16.966,
+      "year": 1991
     },
     {
       "business_strikes": null,
@@ -69233,6 +69395,56 @@
       "year": 2005
     },
     {
+      "business_strikes": 337012,
+      "coin_id": "US-AGBF-2006-P",
+      "common_names": "[\"Gold Buffalo\", \"AGB\", \"2006 Gold Buffalo\", \"Buffalo Gold\"]",
+      "composition": {
+        "gold": 99.99
+      },
+      "country": "US",
+      "denomination": "$50",
+      "diameter_mm": 32.7,
+      "distinguishing_features": "[\"First year American Gold Buffalo\", \"First .9999 fine US gold coin\", \"1 ounce .9999 fine gold\", \"Buffalo Nickel designs\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american gold buffalo agb 2006 50 dollar 1 ounce indian bison fraser bullion fine gold",
+      "mint": "P",
+      "notes": "First year Gold Buffalo - first .9999 fine US gold coin",
+      "obverse_description": "Indian head design by James Earle Fraser from Buffalo Nickel, Native American profile",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "American bison design by James Earle Fraser from Buffalo Nickel, standing buffalo",
+      "series_id": "american_gold_buffalo",
+      "series_name": "American Gold Buffalo",
+      "source_citation": "Red Book 2025 p.390, PCGS #9990",
+      "varieties": [],
+      "weight_grams": 31.108,
+      "year": 2006
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-AGBF-2006-W",
+      "common_names": "[\"Gold Buffalo Proof\", \"AGB Proof\", \"2006-W Gold Buffalo\"]",
+      "composition": {
+        "gold": 99.99
+      },
+      "country": "US",
+      "denomination": "$50",
+      "diameter_mm": 32.7,
+      "distinguishing_features": "[\"First year Gold Buffalo proof\", \".9999 fine gold composition\", \"W mint mark (West Point)\", \"Mirror finish proof surface\"]",
+      "identification_keywords": "american gold buffalo agb 2006 w proof 50 dollar 1 ounce indian bison fraser bullion fine gold",
+      "mint": "W",
+      "notes": "First year Gold Buffalo proof",
+      "obverse_description": "Indian head design by James Earle Fraser from Buffalo Nickel, Native American profile",
+      "proof_strikes": 246267,
+      "rarity": "common",
+      "reverse_description": "American bison design by James Earle Fraser from Buffalo Nickel, standing buffalo",
+      "series_id": "american_gold_buffalo",
+      "series_name": "American Gold Buffalo",
+      "source_citation": "Red Book 2025 p.390, PCGS #9991",
+      "varieties": [],
+      "weight_grams": 31.108,
+      "year": 2006
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LMCT-2006-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
@@ -69768,6 +69980,33 @@
         }
       ],
       "weight_grams": 31.103,
+      "year": 2008
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-AGEO-2008-W",
+      "common_names": "[\"2008-W Gold Eagle\", \"20th Anniversary Gold Eagle\", \"Low Mintage Gold Eagle\"]",
+      "composition": {
+        "copper": 5.33,
+        "gold": 91.67,
+        "silver": 3.0
+      },
+      "country": "US",
+      "denomination": "$50",
+      "diameter_mm": 32.7,
+      "distinguishing_features": "[\"20th Anniversary special release\", \"Low mintage proof\", \"1 ounce .9167 fine gold\", \"W mint mark (West Point)\"]",
+      "identification_keywords": "american gold eagle age 2008 w proof 50 dollar 1 ounce anniversary liberty saint-gaudens bullion fine gold",
+      "mint": "W",
+      "notes": "20th Anniversary Gold Eagle proof",
+      "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+      "proof_strikes": 30237,
+      "rarity": "semi-key",
+      "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+      "series_id": "american_gold_eagle_50",
+      "series_name": "American Gold Eagle $50",
+      "source_citation": "Red Book 2025 p.384, PCGS #9856",
+      "varieties": [],
+      "weight_grams": 33.931,
       "year": 2008
     },
     {
@@ -74084,9 +74323,9 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-09-03T15:17:57.586183",
+  "generated_at": "2025-09-03T15:25:12.411359",
   "taxonomy_version": "1.1",
-  "total_coins": 2601,
+  "total_coins": 2610,
   "year_range": {
     "earliest": 1787,
     "latest": 2024

@@ -1,0 +1,159 @@
+{
+  "country": "US",
+  "denomination": "$50",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": 1362650,
+          "category": "coin",
+          "coin_id": "US-AGEO-1986-P",
+          "common_names": "[\"Gold Eagle $50\", \"AGE $50\", \"1 oz Gold Eagle\"]",
+          "composition": {
+            "copper": 5.33,
+            "gold": 91.67,
+            "silver": 3.0
+          },
+          "diameter_mm": 32.7,
+          "distinguishing_features": "[\"First year American Gold Eagle\", \"1 ounce .9167 fine gold\", \"32.7mm diameter largest Gold Eagle\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
+          "identification_keywords": "american gold eagle age 1986 50 dollar 1 ounce liberty saint-gaudens bullion fine gold",
+          "mint": "P",
+          "notes": "First year 1 oz Gold Eagle",
+          "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+          "source_citation": "Red Book 2025 p.384, PCGS #9804",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 33.931,
+          "year": 1986
+        },
+        {
+          "business_strikes": 0,
+          "category": "coin",
+          "coin_id": "US-AGEO-2008-W",
+          "common_names": "[\"2008-W Gold Eagle\", \"20th Anniversary Gold Eagle\", \"Low Mintage Gold Eagle\"]",
+          "composition": {
+            "copper": 5.33,
+            "gold": 91.67,
+            "silver": 3.0
+          },
+          "diameter_mm": 32.7,
+          "distinguishing_features": "[\"20th Anniversary special release\", \"Low mintage proof\", \"1 ounce .9167 fine gold\", \"W mint mark (West Point)\"]",
+          "identification_keywords": "american gold eagle age 2008 w proof 50 dollar 1 ounce anniversary liberty saint-gaudens bullion fine gold",
+          "mint": "W",
+          "notes": "20th Anniversary Gold Eagle proof",
+          "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
+          "proof_strikes": 30237,
+          "rarity": "semi-key",
+          "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
+          "source_citation": "Red Book 2025 p.384, PCGS #9856",
+          "subcategory": "proof",
+          "varieties": [],
+          "weight_grams": 33.931,
+          "year": 2008
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 2008,
+            "start": 1986
+          },
+          "weight": {
+            "grams": 33.931
+          }
+        }
+      ],
+      "official_name": "American Gold Eagle $50",
+      "series_id": "american_gold_eagle_50",
+      "series_name": "American Gold Eagle $50",
+      "specifications": {
+        "diameter_mm": 32.7,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2008,
+        "start": 1986
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 337012,
+          "category": "coin",
+          "coin_id": "US-AGBF-2006-P",
+          "common_names": "[\"Gold Buffalo\", \"AGB\", \"2006 Gold Buffalo\", \"Buffalo Gold\"]",
+          "composition": {
+            "gold": 99.99
+          },
+          "diameter_mm": 32.7,
+          "distinguishing_features": "[\"First year American Gold Buffalo\", \"First .9999 fine US gold coin\", \"1 ounce .9999 fine gold\", \"Buffalo Nickel designs\", \"No mint mark (Philadelphia)\"]",
+          "identification_keywords": "american gold buffalo agb 2006 50 dollar 1 ounce indian bison fraser bullion fine gold",
+          "mint": "P",
+          "notes": "First year Gold Buffalo - first .9999 fine US gold coin",
+          "obverse_description": "Indian head design by James Earle Fraser from Buffalo Nickel, Native American profile",
+          "proof_strikes": 0,
+          "rarity": "common",
+          "reverse_description": "American bison design by James Earle Fraser from Buffalo Nickel, standing buffalo",
+          "source_citation": "Red Book 2025 p.390, PCGS #9990",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.108,
+          "year": 2006
+        },
+        {
+          "business_strikes": 0,
+          "category": "coin",
+          "coin_id": "US-AGBF-2006-W",
+          "common_names": "[\"Gold Buffalo Proof\", \"AGB Proof\", \"2006-W Gold Buffalo\"]",
+          "composition": {
+            "gold": 99.99
+          },
+          "diameter_mm": 32.7,
+          "distinguishing_features": "[\"First year Gold Buffalo proof\", \".9999 fine gold composition\", \"W mint mark (West Point)\", \"Mirror finish proof surface\"]",
+          "identification_keywords": "american gold buffalo agb 2006 w proof 50 dollar 1 ounce indian bison fraser bullion fine gold",
+          "mint": "W",
+          "notes": "First year Gold Buffalo proof",
+          "obverse_description": "Indian head design by James Earle Fraser from Buffalo Nickel, Native American profile",
+          "proof_strikes": 246267,
+          "rarity": "common",
+          "reverse_description": "American bison design by James Earle Fraser from Buffalo Nickel, standing buffalo",
+          "source_citation": "Red Book 2025 p.390, PCGS #9991",
+          "subcategory": "proof",
+          "varieties": [],
+          "weight_grams": 31.108,
+          "year": 2006
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 2006,
+            "start": 2006
+          },
+          "weight": {
+            "grams": 31.108
+          }
+        }
+      ],
+      "official_name": "American Gold Buffalo",
+      "series_id": "american_gold_buffalo",
+      "series_name": "American Gold Buffalo",
+      "specifications": {
+        "diameter_mm": 32.7,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2006,
+        "start": 2006
+      }
+    }
+  ]
+}
