@@ -63230,6 +63230,31 @@
       "year": 1985
     },
     {
+      "business_strikes": 5393005,
+      "coin_id": "US-ASES-1986-P",
+      "common_names": "[\"Silver Eagle\", \"ASE\", \"1986 Silver Eagle\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"First year American Silver Eagle\", \".999 fine silver composition\", \"40.6mm diameter largest US silver coin\", \"Liberty Walking obverse design\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase 1986 liberty walking bullion fine silver",
+      "mint": "P",
+      "notes": "First year of issue, no proofs produced",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.377, PCGS #9801",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1986
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LMCT-1986-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
@@ -63534,6 +63559,56 @@
       "varieties": [],
       "weight_grams": 5.67,
       "year": 1986
+    },
+    {
+      "business_strikes": 11442335,
+      "coin_id": "US-ASES-1987-P",
+      "common_names": "[\"Silver Eagle\", \"ASE\", \"1987 Silver Eagle\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\".999 fine silver composition\", \"40.6mm diameter\", \"Liberty Walking obverse design\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase 1987 liberty walking bullion fine silver",
+      "mint": "P",
+      "notes": "",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.377, PCGS #9802",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1987
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-ASES-1987-S",
+      "common_names": "[\"Silver Eagle Proof\", \"ASE Proof\", \"1987-S Silver Eagle\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"First proof Silver Eagle\", \".999 fine silver composition\", \"Mirror finish proof surface\", \"S mint mark (San Francisco)\"]",
+      "identification_keywords": "american silver eagle ase 1987 s proof liberty walking bullion fine silver",
+      "mint": "S",
+      "notes": "First proof Silver Eagle",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 1446778,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.377, PCGS #9803",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1987
     },
     {
       "business_strikes": null,
@@ -66060,6 +66135,56 @@
       "year": 1994
     },
     {
+      "business_strikes": 4672051,
+      "coin_id": "US-ASES-1995-P",
+      "common_names": "[\"Silver Eagle\", \"ASE\", \"1995 Silver Eagle\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\".999 fine silver composition\", \"40.6mm diameter\", \"Liberty Walking obverse design\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase 1995 liberty walking bullion fine silver",
+      "mint": "P",
+      "notes": "",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.378, PCGS #9819",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1995
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-ASES-1995-W",
+      "common_names": "[\"1995-W Silver Eagle\", \"Key Date Silver Eagle\", \"1995-W ASE\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"Key date - lowest proof mintage\", \"W mint mark (West Point)\", \".999 fine silver composition\", \"Mirror finish proof surface\"]",
+      "identification_keywords": "american silver eagle ase 1995 w proof key date liberty walking bullion fine silver",
+      "mint": "W",
+      "notes": "Key date - lowest mintage proof Silver Eagle",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 438511,
+      "rarity": "key",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.378, PCGS #9820",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1995
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LMCT-1995-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
@@ -66386,6 +66511,31 @@
       "varieties": [],
       "weight_grams": 5.67,
       "year": 1995
+    },
+    {
+      "business_strikes": 3603386,
+      "coin_id": "US-ASES-1996-P",
+      "common_names": "[\"1996 Silver Eagle\", \"Key Date Silver Eagle\", \"1996 ASE\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"Key date - lowest bullion mintage\", \".999 fine silver composition\", \"40.6mm diameter\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase 1996 key date liberty walking bullion fine silver",
+      "mint": "P",
+      "notes": "Key date - lowest mintage bullion Silver Eagle",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.378, PCGS #9821",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 1996
     },
     {
       "business_strikes": null,
@@ -69583,6 +69733,44 @@
       "year": 2007
     },
     {
+      "business_strikes": 20583000,
+      "coin_id": "US-ASES-2008-P",
+      "common_names": "[\"Silver Eagle\", \"ASE\", \"2008 Silver Eagle\", \"2008 Reverse Variety\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"Two reverse varieties exist\", \".999 fine silver composition\", \"40.6mm diameter\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase 2008 reverse variety liberty walking bullion fine silver",
+      "mint": "P",
+      "notes": "Two reverse varieties: 2007 and 2008 style",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.379, PCGS #9839",
+      "varieties": [
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Reverse of 2007",
+          "variety_id": "reverse_of_2007"
+        },
+        {
+          "description": null,
+          "estimated_mintage": null,
+          "name": "Reverse of 2008",
+          "variety_id": "reverse_of_2008"
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": 2008
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LMCT-2008-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Memorial Cent\"]",
@@ -70318,6 +70506,31 @@
       ],
       "weight_grams": 5.0,
       "year": 2010
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "US-ASES-2011-S",
+      "common_names": "[\"2011-S Silver Eagle\", \"Low Mintage Silver Eagle\", \"2011-S ASE\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"Second lowest proof mintage\", \"S mint mark (San Francisco)\", \".999 fine silver composition\", \"Mirror finish proof surface\"]",
+      "identification_keywords": "american silver eagle ase 2011 s proof key date liberty walking bullion fine silver",
+      "mint": "S",
+      "notes": "Low mintage proof, second key date after 1995-W",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 99882,
+      "rarity": "key",
+      "reverse_description": "Heraldic eagle design by John Mercanti, eagle with shield and arrows, 13 stars above",
+      "series_id": "american_silver_eagle",
+      "series_name": "American Silver Eagle",
+      "source_citation": "Red Book 2025 p.379, PCGS #9856",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 2011
     },
     {
       "business_strikes": null,
@@ -72904,6 +73117,31 @@
       "year": 2020
     },
     {
+      "business_strikes": 24085000,
+      "coin_id": "US-ASET-2021-P",
+      "common_names": "[\"Silver Eagle Type 2\", \"ASE Type 2\", \"2021 Silver Eagle\"]",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "distinguishing_features": "[\"First Type 2 reverse design\", \"New detailed eagle reverse\", \".999 fine silver composition\", \"No mint mark (Philadelphia)\"]",
+      "identification_keywords": "american silver eagle ase type 2 2021 liberty walking bullion fine silver new reverse",
+      "mint": "P",
+      "notes": "First year Type 2 reverse design",
+      "obverse_description": "Liberty Walking design by Adolph A. Weinman, Liberty striding toward sunrise with olive branch and flag",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "New heraldic eagle design by Emily Damstra, more detailed eagle with shield",
+      "series_id": "american_silver_eagle_type2",
+      "series_name": "American Silver Eagle Type 2",
+      "source_citation": "Red Book 2025 p.380, PCGS #9863",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": 2021
+    },
+    {
       "business_strikes": null,
       "coin_id": "US-LSCT-2021-D",
       "common_names": "[\"Lincoln Cent\", \"Lincoln Penny\", \"Shield Cent\"]",
@@ -73846,9 +74084,9 @@
       "year": 2024
     }
   ],
-  "generated_at": "2025-09-03T14:59:25.221552",
+  "generated_at": "2025-09-03T15:17:57.586183",
   "taxonomy_version": "1.1",
-  "total_coins": 2592,
+  "total_coins": 2601,
   "year_range": {
     "earliest": 1787,
     "latest": 2024
