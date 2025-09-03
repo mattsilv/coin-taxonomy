@@ -35,6 +35,56 @@ def check_database_structure():
     for record in sample_records:
         print(f'  {record[0]}: {record[1]}-{record[2]} ({record[3]})')
     
+    # Check category field compliance
+    print('\n🏷️ Category Field Validation:')
+    
+    # Check for valid categories
+    cursor.execute("""
+        SELECT category, subcategory, COUNT(*) as count
+        FROM coins
+        GROUP BY category, subcategory
+        ORDER BY category, subcategory
+    """)
+    
+    valid_categories = {'coin', 'currency', 'token', 'exonumia'}
+    valid_subcategories = {
+        'circulation', 'commemorative', 'bullion', 'pattern', 'proof',
+        'federal', 'certificate', 'national', 'obsolete', 'confederate', 
+        'fractional', 'colonial'
+    }
+    
+    category_errors = []
+    for row in cursor.fetchall():
+        category = row[0]
+        subcategory = row[1]
+        count = row[2]
+        
+        if category and category not in valid_categories:
+            category_errors.append(f"Invalid category '{category}': {count} coins")
+        
+        if subcategory and subcategory not in valid_subcategories:
+            category_errors.append(f"Invalid subcategory '{subcategory}': {count} coins")
+    
+    if category_errors:
+        print("  ⚠️ Category validation issues:")
+        for error in category_errors:
+            print(f"    - {error}")
+    else:
+        print("  ✅ All categories and subcategories are valid")
+    
+    # Check issues table object_type
+    cursor.execute("""
+        SELECT object_type, COUNT(*) as count
+        FROM issues
+        GROUP BY object_type
+    """)
+    
+    for row in cursor.fetchall():
+        object_type = row[0]
+        count = row[1]
+        if object_type not in valid_categories:
+            print(f"  ⚠️ Issues table has invalid object_type '{object_type}': {count} entries")
+    
     conn.close()
     return db_count
 
