@@ -192,8 +192,8 @@ git add . && git commit -m "Add American Silver Eagles (Issue #51)"
 - Export process: `/scripts/export_from_database.py`
 - Create GitHub issue with tag `question`
 
-## Note on GitHub Actions
-There's a GitHub workflow (`.github/workflows/update-data-exports.yml`) that may fail - this is expected and can be ignored. We use pre-commit hooks for validation, not GitHub Actions. The workflow is outdated and should be removed in a future cleanup.
+## Validation System
+This codebase uses **pre-commit hooks only** for validation and data export. No GitHub Actions workflows are needed.
 
 ## Why This Matters
 These modern bullion series are actively collected and traded. Having accurate, structured data for them enables:
