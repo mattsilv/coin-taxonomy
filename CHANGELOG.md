@@ -7,6 +7,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- **Hierarchical Variant Resolution System** (#56)
+  - Implemented parent-child relationships between coin variants for intelligent auction mapping
+  - Added 4-level hierarchy: Base Variant → Major Variety → Special Variety → Strike Type
+  - Database schema enhancements:
+    - `parent_variant_id` column for variant relationships
+    - `resolution_level` column for hierarchy depth (1-4)
+    - `is_base_variant` boolean flag for base identification
+    - `priority_score` integer for ambiguous case resolution
+  - Created `auction_mapping` view for simplified variant queries
+  - Implemented `VariantResolver` class with Python API and CLI interface
+  - Added comprehensive test suite with 16 tests, all passing
+  - Performance: < 10ms average resolution time (typically ~0.4ms)
+  
+### Enhanced
+- Variant resolution with priority rules:
+  - 1864 Two Cent: Defaults to Large Motto (priority 100) over Small Motto (priority 50)
+  - 1913 Buffalo Nickel: Defaults to Type 2 (priority 100) over Type 1 (priority 50)
+- Parent-child relationships established:
+  - 75 base variants identified and marked
+  - 11 parent-child relationships created (e.g., 1918-D 8/7 → 1918-D base)
+  - Special varieties properly linked to their base variants
+
+### Documentation
+- Added `docs/HIERARCHICAL_VARIANT_RESOLUTION.md` - Complete system documentation
+- Created `scripts/variant_resolver.py` - Resolution functions with CLI
+- Added `tests/test_hierarchical_variant_resolution.py` - Comprehensive test coverage
+- Migration script: `scripts/migrate_hierarchical_variant_resolution.py`
+
 ## [2.0.0] - 2025-01-02
 
 ### Added
