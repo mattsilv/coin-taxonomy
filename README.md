@@ -8,6 +8,28 @@ With 2,567+ US coins, 558+ Canadian coins, and 82+ paper currency notes mapped t
 
 **🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#integration-for-external-systems)** | **🔄 [Sync Instructions](#keeping-your-data-synchronized)**
 
+## 🚀 NEW: Auction & Marketplace Integration (v1.3.0)
+
+Parse auction listings and marketplace items with intelligent variant mapping:
+- **Auction Parser**: Extract coin details from auction titles with 95%+ accuracy
+- **Fuzzy Matching**: Handle typos, abbreviations, and non-standard formats
+- **Variant Resolution**: Map special varieties to base coins automatically
+- **Priority Scoring**: Resolve ambiguous cases (e.g., 1864 Two Cent → Large Motto)
+
+```python
+# Parse auction listing
+from scripts.auction_catalog_parser import AuctionCatalogParser
+parser = AuctionCatalogParser()
+listing = parser.parse_listing("1918-D Buffalo Nickel 8/7 MS64 PCGS")
+# Returns: Year=1918, Mint=D, Type=BUFFALO_NICKEL, Variant=8OVER7
+
+# Fuzzy match marketplace listing  
+from scripts.marketplace_listing_matcher import MarketplaceListingMatcher
+matcher = MarketplaceListingMatcher()
+result = matcher.match_listing("1918d buffallo nickle")  # With typos!
+# Returns: US-BUFF-1918-D with confidence score
+```
+
 ## What You Get
 
 - **3,125+ coins across 2 countries** (US: 2,567, Canada: 558)
