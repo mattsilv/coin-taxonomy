@@ -11,3 +11,8 @@ dependencies = [
 
 [project.scripts]
 serve-site = "python:http.server"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.1",
+]
