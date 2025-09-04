@@ -22,6 +22,7 @@
 - **[AI Coin Description Task](./ai-coin-description-task.md)** - Visual description standards
 
 ### 🚀 Sprint Planning
+- **[PROJECT HANDOFF](./PROJECT_HANDOFF.md)** - 📌 Complete engineering handoff document
 - **[Schema Simplification Primer](./SCHEMA_SIMPLIFICATION_PRIMER.md)** - Fix architecture bloat ([Issue #59](https://github.com/mattsilv/coin-taxonomy/issues/59))
 - **[Current Sprint Primer](../NEXT_SPRINT_PRIMER.md)** - Red Book Classification Sprint
 - **[Sprint Plan Primer](./SPRINT_PLAN_PRIMER.md)** - Sprint planning guidelines
