@@ -43,8 +43,8 @@ def export_legacy_format(conn, output_dir='data'):
     """Export in legacy nested format for backward compatibility."""
     print("Exporting legacy format...")
     
-    # Get all countries
-    countries = conn.execute('SELECT DISTINCT country FROM coins ORDER BY country').fetchall()
+    # Get all countries from coin_id prefix
+    countries = conn.execute('SELECT DISTINCT substr(coin_id, 1, 2) as country FROM coins ORDER BY country').fetchall()
     
     for country_row in countries:
         country = country_row['country'].lower()
@@ -54,7 +54,7 @@ def export_legacy_format(conn, output_dir='data'):
         # Get denominations for this country
         denominations = conn.execute('''
             SELECT DISTINCT denomination FROM coins 
-            WHERE country = ? 
+            WHERE substr(coin_id, 1, 2) = ? 
             ORDER BY denomination
         ''', (country_row['country'],)).fetchall()
         
@@ -240,19 +240,20 @@ def export_registries(conn, output_dir):
     print(f"✓ Exported {len(compositions)} compositions")
     
     # Series Registry
-    cursor.execute('SELECT * FROM series_registry ORDER BY country_code, start_year')
+    cursor.execute('SELECT * FROM series_registry ORDER BY series_id')
     series_list = []
     for row in cursor.fetchall():
+        row_dict = dict(row)
         series = {
-            'series_id': row[0],
-            'series_name': row[1],
-            'country_code': row[2],
-            'denomination': row[3],
-            'start_year': row[4],
-            'end_year': row[5],
-            'defining_characteristics': row[6],
-            'official_name': row[7],
-            'type': row[8]
+            'series_id': row_dict.get('series_id'),
+            'series_name': row_dict.get('series_name'),
+            'country_code': row_dict.get('country_code'),
+            'denomination': row_dict.get('denomination'),
+            'start_year': row_dict.get('start_year'),
+            'end_year': row_dict.get('end_year'),
+            'defining_characteristics': row_dict.get('defining_characteristics'),
+            'official_name': row_dict.get('official_name'),
+            'type': row_dict.get('type')
         }
         # Remove null values
         series_list.append({k: v for k, v in series.items() if v is not None})
@@ -267,54 +268,89 @@ def export_issues_by_country(conn, output_dir):
     cursor = conn.cursor()
     
     # Get countries
-    cursor.execute('SELECT DISTINCT country_code FROM issues ORDER BY country_code')
+    cursor.execute('SELECT DISTINCT country FROM issues ORDER BY country')
     countries = [row[0] for row in cursor.fetchall()]
     
     for country in countries:
         cursor.execute('''
             SELECT * FROM issues 
-            WHERE country_code = ? 
-            ORDER BY issue_year, face_value, mint_id
+            WHERE country = ? 
+            ORDER BY year_start, face_value
         ''', (country,))
         
         issues = []
         for row in cursor.fetchall():
+            # Convert row to dict for easier column access
+            row_dict = dict(row)
+            
+            # Build specification dict from actual columns
+            specifications = {}
+            if row_dict.get('diameter_mm'):
+                specifications['diameter_mm'] = row_dict['diameter_mm']
+            if row_dict.get('weight_grams'):
+                specifications['weight_grams'] = row_dict['weight_grams']
+            if row_dict.get('thickness_mm'):
+                specifications['thickness_mm'] = row_dict['thickness_mm']
+            if row_dict.get('shape'):
+                specifications['shape'] = row_dict['shape']
+            if row_dict.get('edge_type'):
+                specifications['edge'] = row_dict['edge_type']
+                
+            # Build sides dict from actual columns
+            sides = {}
+            if row_dict.get('obverse_design'):
+                sides['obverse'] = {
+                    'design': row_dict['obverse_design'],
+                    'designer': row_dict.get('obverse_designer'),
+                    'legend': row_dict.get('obverse_legend')
+                }
+            if row_dict.get('reverse_design'):
+                sides['reverse'] = {
+                    'design': row_dict['reverse_design'],
+                    'designer': row_dict.get('reverse_designer'),
+                    'legend': row_dict.get('reverse_legend')
+                }
+                
+            # Build mintage dict from actual columns
+            mintage = {}
+            if row_dict.get('total_mintage'):
+                mintage['total'] = row_dict['total_mintage']
+            if row_dict.get('business_mintage'):
+                mintage['business'] = row_dict['business_mintage']
+            if row_dict.get('proof_mintage'):
+                mintage['proof'] = row_dict['proof_mintage']
+            if row_dict.get('special_strikes'):
+                mintage['special'] = row_dict['special_strikes']
+            
             issue = {
-                'issue_id': row[0],
-                'object_type': row[1],
-                'series_id': row[2],
+                'issue_id': row_dict['issue_id'],
+                'object_type': row_dict['object_type'],
+                'series_id': row_dict['series_id'],
                 'issuing_entity': {
-                    'country_code': row[3],
-                    'authority_name': row[4],
-                    'monetary_system': row[5],
-                    'currency_unit': row[6]
+                    'country_code': row_dict['country'],
+                    'authority_name': 'United States Mint' if row_dict['country'] == 'US' else None,
+                    'monetary_system': 'Decimal',
+                    'currency_unit': row_dict.get('currency_unit', 'Dollar')
                 },
                 'denomination': {
-                    'face_value': row[7],
-                    'unit_name': row[8],
-                    'common_names': safe_json_loads(row[9], []),
-                    'system_fraction': row[10]
+                    'face_value': row_dict['face_value'],
+                    'unit_name': row_dict['denomination'],
+                    'common_names': [],
+                    'system_fraction': None
                 },
-                'issue_year': row[11],
-                'mint_id': row[12],
-                'specifications': safe_json_loads(row[16], {}),
-                'sides': safe_json_loads(row[17], {}),
-                'mintage': safe_json_loads(row[18], {}),
-                'rarity': row[19],
-                'varieties': safe_json_loads(row[20], [])
+                'issue_year': row_dict['year_start'],
+                'specifications': specifications,
+                'sides': sides,
+                'mintage': mintage,
+                'rarity': row_dict.get('rarity_category'),
+                'varieties': safe_json_loads(row_dict.get('major_varieties'), [])
             }
             
             # Add optional fields
-            if row[13]:  # date_range_start
-                issue['date_range_start'] = row[13]
-            if row[14]:  # date_range_end
-                issue['date_range_end'] = row[14]
-            if row[21]:  # source_citation
-                issue['source_citation'] = row[21]
-            if row[22]:  # notes
-                issue['notes'] = row[22]
-            if row[25]:  # seller_name
-                issue['seller_name'] = row[25]
+            if row_dict.get('year_end') and row_dict['year_end'] != row_dict['year_start']:
+                issue['date_range_end'] = row_dict['year_end']
+            if row_dict.get('notes'):
+                issue['notes'] = row_dict['notes']
             
             issues.append(issue)
         
@@ -337,13 +373,13 @@ def export_complete_universal_dataset(conn, output_dir):
     cursor.execute('SELECT COUNT(*) FROM issues')
     total_issues = cursor.fetchone()[0]
     
-    cursor.execute('SELECT COUNT(DISTINCT country_code) FROM issues')
+    cursor.execute('SELECT COUNT(DISTINCT country) FROM issues')
     total_countries = cursor.fetchone()[0]
     
     cursor.execute('SELECT COUNT(DISTINCT object_type) FROM issues')
     total_types = cursor.fetchone()[0]
     
-    cursor.execute('SELECT MIN(issue_year), MAX(issue_year) FROM issues')
+    cursor.execute('SELECT MIN(year_start), MAX(year_start) FROM issues')
     year_range = cursor.fetchone()
     
     # Build summary
@@ -367,7 +403,7 @@ def export_complete_universal_dataset(conn, output_dir):
     }
     
     # Add issue file references
-    cursor.execute('SELECT DISTINCT country_code FROM issues ORDER BY country_code')
+    cursor.execute('SELECT DISTINCT country FROM issues ORDER BY country')
     for row in cursor.fetchall():
         country = row[0]
         summary['issue_files'].append(f"{country.lower()}_issues.json")

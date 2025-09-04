@@ -59,13 +59,13 @@ class AITaxonomyExporter:
         """Get the actual production year ranges for each series based on database data"""
         query = """
         SELECT 
-            series_id,
+            series as series_id,
             MIN(year) as start_year,
             MAX(year) as end_year,
             COUNT(DISTINCT year) as actual_years,
             GROUP_CONCAT(DISTINCT year ORDER BY year) as existing_years
         FROM coins 
-        GROUP BY series_id
+        GROUP BY series
         """
         cursor.execute(query)
         series_ranges = {}
@@ -126,27 +126,28 @@ class AITaxonomyExporter:
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
         
-        # Get series year ranges first
+        # Get series year ranges first  
         series_ranges = self.get_series_year_ranges(cursor)
         
         # Query essential fields including visual descriptions, grouped by series
+        # Map actual database columns to expected names
         query = """
         SELECT 
-            series_id,
-            series_name,
+            series as series_id,
+            series as series_name,
             coin_id,
             year,
             mint,
             rarity,
-            varieties,
+            variety as varieties,
             notes,
             obverse_description,
             reverse_description,
-            distinguishing_features,
-            identification_keywords,
-            common_names
+            '' as distinguishing_features,
+            '' as identification_keywords,
+            '' as common_names
         FROM coins
-        ORDER BY series_id, year
+        ORDER BY series, year
         """
         
         cursor.execute(query)
