@@ -1,5 +1,7 @@
 # United States & Canada Coin Taxonomy Database
 
+📚 **[Documentation Hub](./docs/PROJECT_DOCS.md)** | 📋 **[Release Notes](./docs/release-notes/README.md)** | 🌐 **[Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | 📝 **[Changelog](./CHANGELOG.md)**
+
 **The universal translator between different auction sites and marketplaces**
 
 The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.

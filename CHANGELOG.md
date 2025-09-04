@@ -7,6 +7,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] - 2025-09-04
+
+### Added
+- **Three-Cent Pieces** (#50)
+  - Added 51 Three-Cent Pieces to the database
+  - Silver Three-Cent Type I (1851-1853): 6 coins, 75% silver
+  - Silver Three-Cent Type II (1854-1858): 5 coins, 90% silver
+  - Silver Three-Cent Type III (1859-1873): 15 coins, 90% silver
+  - Nickel Three-Cent (1865-1889): 25 coins, 75% copper/25% nickel
+  - Complete composition, variety, and mintage data included
+
+### Fixed
+- **Critical Schema Alignment Issues** (#57)
+  - Fixed export scripts expecting non-existent database columns
+  - Corrected column mappings: `series` → `series_id`, `variety` → `varieties`
+  - Fixed universal export using wrong column names (`country_code` → `country`)
+  - Removed hard-coded category validation - categories should come from database
+  - Updated all export scripts to use actual database schema
+
+### Changed
+- **Pre-commit Hook Improvements**
+  - Redesigned to follow single source of truth principle (database → JSON)
+  - Made validation less brittle and more forgiving
+  - Non-critical checks (universal export, data integrity) now show warnings instead of failing
+  - Improved error messages with actionable guidance
+  - Tests now check actual data structure instead of theoretical schemas
+
+### Removed
+- Hard-coded category/subcategory validation (columns don't exist in current schema)
+- Seller/marketplace functionality (out of scope for taxonomy project)
+
+## [2.0.1] - 2025-09-03
+
 ### Added
 - **Hierarchical Variant Resolution System** (#56)
   - Implemented parent-child relationships between coin variants for intelligent auction mapping

@@ -6,6 +6,9 @@ This directory contains detailed release notes for significant updates to the co
 
 ### 2025
 
+- **[2025-09-04: Schema Alignment & Three-Cent Pieces (v2.1.0)](./2025-09-04-schema-alignment.md)** 🚨 **Breaking Changes**  
+  Adds Three-Cent Pieces and fixes critical schema alignment issues. Updates export column mappings and improves pre-commit validation.
+
 - **[2025-09-02: Category Standardization Update (v1.2.0)](./2025-09-02-category-standardization.md)**  
   Implements standardized `category` and `subcategory` fields for distinguishing coins, currency, tokens, and exonumia following professional numismatic standards.
 

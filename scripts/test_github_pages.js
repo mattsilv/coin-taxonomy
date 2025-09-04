@@ -137,28 +137,34 @@ class SimpleE2ETest {
     }
 
     async testJSONDataIntegrity() {
-        // Test taxonomy summary
+        // Test complete US coins file (our actual source of truth)
+        const usCoinsPath = path.join(process.cwd(), 'data/us/us_coins_complete.json');
+        const usCoins = JSON.parse(fs.readFileSync(usCoinsPath, 'utf8'));
+        
+        // The file has a 'coins' array, not 'series'
+        this.assert(usCoins.coins && Array.isArray(usCoins.coins), 'Coins array not found');
+        this.assert(usCoins.coins.length > 0, 'No coins found in US coins file');
+        
+        // Test metadata fields
+        this.assert(usCoins.taxonomy_version, 'taxonomy_version missing');
+        this.assert(usCoins.generated_at, 'generated_at missing');
+        this.assert(usCoins.total_coins > 0, 'total_coins must be greater than 0');
+        
+        // Test first coin has required fields
+        const firstCoin = usCoins.coins[0];
+        this.assert(firstCoin.coin_id, 'coin_id missing');
+        this.assert(firstCoin.year, 'year missing');
+        this.assert(firstCoin.mint, 'mint missing');
+        this.assert(firstCoin.denomination, 'denomination missing');
+        this.assert(firstCoin.series_id || firstCoin.series, 'series_id or series missing');
+        
+        // Test taxonomy summary exists (but don't require issues since we're using coins table)
         const summaryPath = path.join(process.cwd(), 'data/universal/taxonomy_summary.json');
         const summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
         
         this.assert(summary.taxonomy_version, 'Taxonomy version not found');
         this.assert(summary.generated_at, 'Generated timestamp not found');
-        this.assert(summary.total_issues > 0, 'No issues found in summary');
-
-        // Test US issues data
-        const usPath = path.join(process.cwd(), 'data/universal/us_issues.json');
-        const usData = JSON.parse(fs.readFileSync(usPath, 'utf8'));
-        
-        this.assert(usData.issues && Array.isArray(usData.issues), 'Issues array not found');
-        this.assert(usData.issues.length > 0, 'No US issues found');
-
-        // Test first issue has required fields
-        const firstIssue = usData.issues[0];
-        this.assert(firstIssue.issue_id, 'issue_id missing');
-        this.assert(firstIssue.issue_year, 'issue_year missing');
-        this.assert(firstIssue.series_id, 'series_id missing');
-        this.assert(firstIssue.denomination && firstIssue.denomination.unit_name, 'unit_name missing in denomination');
-        this.assert(firstIssue.issuing_entity && firstIssue.issuing_entity.country_code, 'country_code missing');
+        // Don't check for issues since we're using coins table as source of truth
     }
 
     async testFunctionalIntegration() {
