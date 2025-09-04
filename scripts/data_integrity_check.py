@@ -42,6 +42,13 @@ def check_database_structure():
     cursor.execute("PRAGMA table_info(coins)")
     columns = [col[1] for col in cursor.fetchall()]
     
+    valid_categories = {'coin', 'currency', 'token', 'exonumia'}
+    valid_subcategories = {
+        'circulation', 'commemorative', 'bullion', 'pattern', 'proof',
+        'federal', 'certificate', 'national', 'obsolete', 'confederate', 
+        'fractional', 'colonial'
+    }
+    
     if 'category' in columns and 'subcategory' in columns:
         # Check for valid categories
         cursor.execute("""
@@ -50,13 +57,6 @@ def check_database_structure():
             GROUP BY category, subcategory
             ORDER BY category, subcategory
         """)
-        
-        valid_categories = {'coin', 'currency', 'token', 'exonumia'}
-        valid_subcategories = {
-            'circulation', 'commemorative', 'bullion', 'pattern', 'proof',
-            'federal', 'certificate', 'national', 'obsolete', 'confederate', 
-            'fractional', 'colonial'
-        }
         
         category_errors = []
         for row in cursor.fetchall():
