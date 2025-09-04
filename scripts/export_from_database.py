@@ -763,24 +763,20 @@ class DatabaseExporter:
         cursor = conn.cursor()
         cursor.execute("SELECT COUNT(*) FROM coins WHERE coin_id LIKE 'US-%'")
         coin_count = cursor.fetchone()[0]
-        cursor.execute("SELECT COUNT(*) FROM issues WHERE object_type = 'banknote' AND country = 'US'")
-        banknote_count = cursor.fetchone()[0]
         conn.close()
         
-        if coin_count == 0 and banknote_count == 0:
+        if coin_count == 0:
             print("❌ Database is empty")
             return False
             
-        print(f"📊 Found {coin_count} coins and {banknote_count} banknotes in database")
+        print(f"📊 Found {coin_count} coins in database")
         
         self.ensure_output_dir()
         
         # Export by denomination
         self.export_coins_by_denomination()
         
-        # Export paper currency if any exists
-        if banknote_count > 0:
-            self.export_paper_currency()
+        # Paper currency export removed - issues table no longer exists
         
         # Export complete file
         self.export_complete_file()
@@ -794,7 +790,7 @@ class DatabaseExporter:
         
         if validate_exports() == 0:
             print(f"\n✅ Database-first export completed with valid JSON!")
-            print(f"📁 {coin_count} coins and {banknote_count} banknotes exported to JSON files")
+            print(f"📁 {coin_count} coins exported to JSON files")
             return True
         else:
             print(f"\n❌ Database-first export completed but JSON validation failed!")

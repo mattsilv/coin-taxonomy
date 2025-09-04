@@ -73,7 +73,7 @@ def export_legacy_format(conn, output_dir='data'):
             series_list = conn.execute('''
                 SELECT DISTINCT sm.series_id, sm.series_name, sm.official_name,
                        sm.start_year, sm.end_year, sm.obverse_designer, sm.reverse_designer,
-                       sm.diameter_mm, sm.thickness_mm, sm.edge_type
+                       sm.diameter_mm, sm.edge_type
                 FROM series_metadata sm
                 JOIN coins c ON sm.series_id = c.series_id
                 WHERE c.country = ? AND c.denomination = ?
@@ -94,7 +94,6 @@ def export_legacy_format(conn, output_dir='data'):
                     },
                     "specifications": {
                         "diameter_mm": series_row['diameter_mm'],
-                        "thickness_mm": series_row['thickness_mm'],
                         "edge": series_row['edge_type']
                     },
                     "composition_periods": [],
@@ -289,8 +288,6 @@ def export_issues_by_country(conn, output_dir):
                 specifications['diameter_mm'] = row_dict['diameter_mm']
             if row_dict.get('weight_grams'):
                 specifications['weight_grams'] = row_dict['weight_grams']
-            if row_dict.get('thickness_mm'):
-                specifications['thickness_mm'] = row_dict['thickness_mm']
             if row_dict.get('shape'):
                 specifications['shape'] = row_dict['shape']
             if row_dict.get('edge_type'):
@@ -319,8 +316,6 @@ def export_issues_by_country(conn, output_dir):
                 mintage['business'] = row_dict['business_mintage']
             if row_dict.get('proof_mintage'):
                 mintage['proof'] = row_dict['proof_mintage']
-            if row_dict.get('special_strikes'):
-                mintage['special'] = row_dict['special_strikes']
             
             issue = {
                 'issue_id': row_dict['issue_id'],
