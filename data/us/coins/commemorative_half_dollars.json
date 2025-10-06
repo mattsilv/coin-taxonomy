@@ -1,0 +1,3431 @@
+{
+  "country": "US",
+  "denomination": "Commemorative Half Dollars",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": 950000,
+          "category": "coin",
+          "coin_id": "US-WCOL-1892-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "First US commemorative coin",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1892
+        },
+        {
+          "business_strikes": 1550405,
+          "category": "coin",
+          "coin_id": "US-WCOL-1893-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1893
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1893,
+            "start": 1892
+          }
+        }
+      ],
+      "official_name": "World's Columbian Exposition",
+      "series_id": "World's Columbian Exposition",
+      "series_name": "World's Columbian Exposition",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1893,
+        "start": 1892
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 27134,
+          "category": "coin",
+          "coin_id": "US-PPIE-1915-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "notes": "One of the rarer commemoratives",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1915
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1915,
+            "start": 1915
+          }
+        }
+      ],
+      "official_name": "Panama-Pacific International Exposition",
+      "series_id": "Panama-Pacific International Exposition",
+      "series_name": "Panama-Pacific International Exposition",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1915,
+        "start": 1915
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 100058,
+          "category": "coin",
+          "coin_id": "US-ILCN-1918-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features Abraham Lincoln",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1918
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1918,
+            "start": 1918
+          }
+        }
+      ],
+      "official_name": "Illinois Centennial",
+      "series_id": "Illinois Centennial",
+      "series_name": "Illinois Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1918,
+        "start": 1918
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 50028,
+          "category": "coin",
+          "coin_id": "US-MECN-1920-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1920
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1920,
+            "start": 1920
+          }
+        }
+      ],
+      "official_name": "Maine Centennial",
+      "series_id": "Maine Centennial",
+      "series_name": "Maine Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1920,
+        "start": 1920
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 152112,
+          "category": "coin",
+          "coin_id": "US-PILG-1920-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1920
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1920,
+            "start": 1920
+          }
+        }
+      ],
+      "official_name": "Pilgrim Tercentenary",
+      "series_id": "Pilgrim Tercentenary",
+      "series_name": "Pilgrim Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1920,
+        "start": 1920
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 59038,
+          "category": "coin",
+          "coin_id": "US-ALCN-1921-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "Regular",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1921,
+            "start": 1921
+          }
+        }
+      ],
+      "official_name": "Alabama Centennial",
+      "series_id": "Alabama Centennial",
+      "series_name": "Alabama Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1921
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 6006,
+          "category": "coin",
+          "coin_id": "US-ALXX-1921-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "With 2X2 mark (22nd state)",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "2X2",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1921,
+            "start": 1921
+          }
+        }
+      ],
+      "official_name": "Alabama Centennial 2X2",
+      "series_id": "Alabama Centennial 2X2",
+      "series_name": "Alabama Centennial 2X2",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1921
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 15428,
+          "category": "coin",
+          "coin_id": "US-MOCN-1921-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "Regular",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1921,
+            "start": 1921
+          }
+        }
+      ],
+      "official_name": "Missouri Centennial",
+      "series_id": "Missouri Centennial",
+      "series_name": "Missouri Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1921
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 5000,
+          "category": "coin",
+          "coin_id": "US-MOSS-1921-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "With 2★4 mark (24th state)",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "2★4",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1921,
+            "start": 1921
+          }
+        }
+      ],
+      "official_name": "Missouri Centennial 2★4",
+      "series_id": "Missouri Centennial 2★4",
+      "series_name": "Missouri Centennial 2★4",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1921
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 67405,
+          "category": "coin",
+          "coin_id": "US-GRNT-1922-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "Regular",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1922
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1922,
+            "start": 1922
+          }
+        }
+      ],
+      "official_name": "Grant Memorial",
+      "series_id": "Grant Memorial",
+      "series_name": "Grant Memorial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1922,
+        "start": 1922
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 4256,
+          "category": "coin",
+          "coin_id": "US-GRNS-1922-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "With star in field",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [
+            {
+              "name": "With Star",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12.5,
+          "year": 1922
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1922,
+            "start": 1922
+          }
+        }
+      ],
+      "official_name": "Grant Memorial with Star",
+      "series_id": "Grant Memorial with Star",
+      "series_name": "Grant Memorial with Star",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1922,
+        "start": 1922
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 274077,
+          "category": "coin",
+          "coin_id": "US-MNDO-1923-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1923
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1923,
+            "start": 1923
+          }
+        }
+      ],
+      "official_name": "Monroe Doctrine Centennial",
+      "series_id": "Monroe Doctrine Centennial",
+      "series_name": "Monroe Doctrine Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1923,
+        "start": 1923
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 142080,
+          "category": "coin",
+          "coin_id": "US-HUGE-1924-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1924
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1924,
+            "start": 1924
+          }
+        }
+      ],
+      "official_name": "Huguenot-Walloon Tercentenary",
+      "series_id": "Huguenot-Walloon Tercentenary",
+      "series_name": "Huguenot-Walloon Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1924,
+        "start": 1924
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 86594,
+          "category": "coin",
+          "coin_id": "US-CADJ-1925-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1925
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1925,
+            "start": 1925
+          }
+        }
+      ],
+      "official_name": "California Diamond Jubilee",
+      "series_id": "California Diamond Jubilee",
+      "series_name": "California Diamond Jubilee",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1925,
+        "start": 1925
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 14994,
+          "category": "coin",
+          "coin_id": "US-FTVA-1925-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1925
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1925,
+            "start": 1925
+          }
+        }
+      ],
+      "official_name": "Fort Vancouver Centennial",
+      "series_id": "Fort Vancouver Centennial",
+      "series_name": "Fort Vancouver Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1925,
+        "start": 1925
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 162013,
+          "category": "coin",
+          "coin_id": "US-LEXC-1925-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1925
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1925,
+            "start": 1925
+          }
+        }
+      ],
+      "official_name": "Lexington-Concord Sesquicentennial",
+      "series_id": "Lexington-Concord Sesquicentennial",
+      "series_name": "Lexington-Concord Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1925,
+        "start": 1925
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 1314709,
+          "category": "coin",
+          "coin_id": "US-STMN-1925-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Highest mintage of classic commemoratives",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1925
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1925,
+            "start": 1925
+          }
+        }
+      ],
+      "official_name": "Stone Mountain Memorial",
+      "series_id": "Stone Mountain Memorial",
+      "series_name": "Stone Mountain Memorial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1925,
+        "start": 1925
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 47955,
+          "category": "coin",
+          "coin_id": "US-ORTR-1926-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1926
+        },
+        {
+          "business_strikes": 83055,
+          "category": "coin",
+          "coin_id": "US-ORTR-1926-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1926
+        },
+        {
+          "business_strikes": 6028,
+          "category": "coin",
+          "coin_id": "US-ORTR-1928-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1928
+        },
+        {
+          "business_strikes": 5008,
+          "category": "coin",
+          "coin_id": "US-ORTR-1933-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1933
+        },
+        {
+          "business_strikes": 7006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1934-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": 5006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 10006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 5006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 12008,
+          "category": "coin",
+          "coin_id": "US-ORTR-1937-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 6005,
+          "category": "coin",
+          "coin_id": "US-ORTR-1938-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 6006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1938-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 6006,
+          "category": "coin",
+          "coin_id": "US-ORTR-1938-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 3004,
+          "category": "coin",
+          "coin_id": "US-ORTR-1939-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": 3004,
+          "category": "coin",
+          "coin_id": "US-ORTR-1939-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": 3005,
+          "category": "coin",
+          "coin_id": "US-ORTR-1939-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1939,
+            "start": 1926
+          }
+        }
+      ],
+      "official_name": "Oregon Trail Memorial",
+      "series_id": "Oregon Trail Memorial",
+      "series_name": "Oregon Trail Memorial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1939,
+        "start": 1926
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 141120,
+          "category": "coin",
+          "coin_id": "US-SEAI-1926-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features Calvin Coolidge - only living president on US coin",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1926
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1926,
+            "start": 1926
+          }
+        }
+      ],
+      "official_name": "Sesquicentennial of American Independence",
+      "series_id": "Sesquicentennial of American Independence",
+      "series_name": "Sesquicentennial of American Independence",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1926,
+        "start": 1926
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 28162,
+          "category": "coin",
+          "coin_id": "US-VTSQ-1927-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1927
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1927,
+            "start": 1927
+          }
+        }
+      ],
+      "official_name": "Vermont Sesquicentennial",
+      "series_id": "Vermont Sesquicentennial",
+      "series_name": "Vermont Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1927,
+        "start": 1927
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 10008,
+          "category": "coin",
+          "coin_id": "US-HISQ-1928-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "One of the rarest commemoratives",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1928
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1928,
+            "start": 1928
+          }
+        }
+      ],
+      "official_name": "Hawaiian Sesquicentennial",
+      "series_id": "Hawaiian Sesquicentennial",
+      "series_name": "Hawaiian Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1928,
+        "start": 1928
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 10007,
+          "category": "coin",
+          "coin_id": "US-DNBO-1934-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": 5005,
+          "category": "coin",
+          "coin_id": "US-DNBO-1935-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 10010,
+          "category": "coin",
+          "coin_id": "US-DNBO-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 5005,
+          "category": "coin",
+          "coin_id": "US-DNBO-1935-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 5005,
+          "category": "coin",
+          "coin_id": "US-DNBO-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 12012,
+          "category": "coin",
+          "coin_id": "US-DNBO-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 5006,
+          "category": "coin",
+          "coin_id": "US-DNBO-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 2506,
+          "category": "coin",
+          "coin_id": "US-DNBO-1937-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 9810,
+          "category": "coin",
+          "coin_id": "US-DNBO-1937-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 2506,
+          "category": "coin",
+          "coin_id": "US-DNBO-1937-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 2100,
+          "category": "coin",
+          "coin_id": "US-DNBO-1938-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 2100,
+          "category": "coin",
+          "coin_id": "US-DNBO-1938-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 2100,
+          "category": "coin",
+          "coin_id": "US-DNBO-1938-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1938,
+            "start": 1934
+          }
+        }
+      ],
+      "official_name": "Daniel Boone Bicentennial",
+      "series_id": "Daniel Boone Bicentennial",
+      "series_name": "Daniel Boone Bicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1938,
+        "start": 1934
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25015,
+          "category": "coin",
+          "coin_id": "US-MDTC-1934-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1934,
+            "start": 1934
+          }
+        }
+      ],
+      "official_name": "Maryland Tercentenary",
+      "series_id": "Maryland Tercentenary",
+      "series_name": "Maryland Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1934,
+        "start": 1934
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 61463,
+          "category": "coin",
+          "coin_id": "US-TXCN-1934-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1934
+        },
+        {
+          "business_strikes": 10007,
+          "category": "coin",
+          "coin_id": "US-TXCN-1935-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 9996,
+          "category": "coin",
+          "coin_id": "US-TXCN-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 10008,
+          "category": "coin",
+          "coin_id": "US-TXCN-1935-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 9039,
+          "category": "coin",
+          "coin_id": "US-TXCN-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 8911,
+          "category": "coin",
+          "coin_id": "US-TXCN-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 9055,
+          "category": "coin",
+          "coin_id": "US-TXCN-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 6605,
+          "category": "coin",
+          "coin_id": "US-TXCN-1937-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 6571,
+          "category": "coin",
+          "coin_id": "US-TXCN-1937-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 6637,
+          "category": "coin",
+          "coin_id": "US-TXCN-1937-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 3775,
+          "category": "coin",
+          "coin_id": "US-TXCN-1938-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 3780,
+          "category": "coin",
+          "coin_id": "US-TXCN-1938-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 3814,
+          "category": "coin",
+          "coin_id": "US-TXCN-1938-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1938,
+            "start": 1934
+          }
+        }
+      ],
+      "official_name": "Texas Centennial",
+      "series_id": "Texas Centennial",
+      "series_name": "Texas Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1938,
+        "start": 1934
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 5505,
+          "category": "coin",
+          "coin_id": "US-ARCN-1935-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 13012,
+          "category": "coin",
+          "coin_id": "US-ARCN-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 5506,
+          "category": "coin",
+          "coin_id": "US-ARCN-1935-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 9660,
+          "category": "coin",
+          "coin_id": "US-ARCN-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 9660,
+          "category": "coin",
+          "coin_id": "US-ARCN-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 9662,
+          "category": "coin",
+          "coin_id": "US-ARCN-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 5505,
+          "category": "coin",
+          "coin_id": "US-ARCN-1937-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 5505,
+          "category": "coin",
+          "coin_id": "US-ARCN-1937-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 5506,
+          "category": "coin",
+          "coin_id": "US-ARCN-1937-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "scarce",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        },
+        {
+          "business_strikes": 3155,
+          "category": "coin",
+          "coin_id": "US-ARCN-1938-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 3156,
+          "category": "coin",
+          "coin_id": "US-ARCN-1938-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 3156,
+          "category": "coin",
+          "coin_id": "US-ARCN-1938-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        },
+        {
+          "business_strikes": 2104,
+          "category": "coin",
+          "coin_id": "US-ARCN-1939-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": 2104,
+          "category": "coin",
+          "coin_id": "US-ARCN-1939-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        },
+        {
+          "business_strikes": 2105,
+          "category": "coin",
+          "coin_id": "US-ARCN-1939-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1939
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1939,
+            "start": 1935
+          }
+        }
+      ],
+      "official_name": "Arkansas Centennial",
+      "series_id": "Arkansas Centennial",
+      "series_name": "Arkansas Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1939,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 70132,
+          "category": "coin",
+          "coin_id": "US-CAPE-1935-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        },
+        {
+          "business_strikes": 30092,
+          "category": "coin",
+          "coin_id": "US-CAPE-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1935
+          }
+        }
+      ],
+      "official_name": "California-Pacific Exposition",
+      "series_id": "California-Pacific Exposition",
+      "series_name": "California-Pacific Exposition",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25018,
+          "category": "coin",
+          "coin_id": "US-CTTC-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features the Charter Oak",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1935,
+            "start": 1935
+          }
+        }
+      ],
+      "official_name": "Connecticut Tercentenary",
+      "series_id": "Connecticut Tercentenary",
+      "series_name": "Connecticut Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1935,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 10008,
+          "category": "coin",
+          "coin_id": "US-HUNY-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "One of the rarest commemoratives",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1935,
+            "start": 1935
+          }
+        }
+      ],
+      "official_name": "Hudson, New York, Sesquicentennial",
+      "series_id": "Hudson, New York, Sesquicentennial",
+      "series_name": "Hudson, New York, Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1935,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 10008,
+          "category": "coin",
+          "coin_id": "US-OSPT-1935-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "One of the rarest commemoratives",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1935
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1935,
+            "start": 1935
+          }
+        }
+      ],
+      "official_name": "Old Spanish Trail",
+      "series_id": "Old Spanish Trail",
+      "series_name": "Old Spanish Trail",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1935,
+        "start": 1935
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 17671,
+          "category": "coin",
+          "coin_id": "US-ALNY-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Albany, New York, Charter",
+      "series_id": "Albany, New York, Charter",
+      "series_name": "Albany, New York, Charter",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25265,
+          "category": "coin",
+          "coin_id": "US-ARRB-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features Senator Joseph T. Robinson",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Arkansas-Robinson",
+      "series_id": "Arkansas-Robinson",
+      "series_name": "Arkansas-Robinson",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 26928,
+          "category": "coin",
+          "coin_id": "US-GTYB-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "75th anniversary",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Battle of Gettysburg",
+      "series_id": "Battle of Gettysburg",
+      "series_name": "Battle of Gettysburg",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25015,
+          "category": "coin",
+          "coin_id": "US-BDPT-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features P.T. Barnum",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Bridgeport, Connecticut, Centennial",
+      "series_id": "Bridgeport, Connecticut, Centennial",
+      "series_name": "Bridgeport, Connecticut, Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 5005,
+          "category": "coin",
+          "coin_id": "US-CNMC-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 5005,
+          "category": "coin",
+          "coin_id": "US-CNMC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 5006,
+          "category": "coin",
+          "coin_id": "US-CNMC-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Cincinnati Music Center",
+      "series_id": "Cincinnati Music Center",
+      "series_name": "Cincinnati Music Center",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 50030,
+          "category": "coin",
+          "coin_id": "US-CLVC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Cleveland Centennial",
+      "series_id": "Cleveland Centennial",
+      "series_name": "Cleveland Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 8009,
+          "category": "coin",
+          "coin_id": "US-COSC-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 9007,
+          "category": "coin",
+          "coin_id": "US-COSC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 8007,
+          "category": "coin",
+          "coin_id": "US-COSC-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Columbia, South Carolina, Sesquicentennial",
+      "series_id": "Columbia, South Carolina, Sesquicentennial",
+      "series_name": "Columbia, South Carolina, Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 20993,
+          "category": "coin",
+          "coin_id": "US-DETC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Delaware Tercentenary",
+      "series_id": "Delaware Tercentenary",
+      "series_name": "Delaware Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 20015,
+          "category": "coin",
+          "coin_id": "US-ELIL-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Elgin, Illinois, Centennial",
+      "series_id": "Elgin, Illinois, Centennial",
+      "series_name": "Elgin, Illinois, Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 81826,
+          "category": "coin",
+          "coin_id": "US-LITC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Long Island Tercentenary",
+      "series_id": "Long Island Tercentenary",
+      "series_name": "Long Island Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 20013,
+          "category": "coin",
+          "coin_id": "US-LYVA-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Features Senator Carter Glass",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Lynchburg, Virginia, Sesquicentennial",
+      "series_id": "Lynchburg, Virginia, Sesquicentennial",
+      "series_name": "Lynchburg, Virginia, Sesquicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 16936,
+          "category": "coin",
+          "coin_id": "US-NFVA-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Norfolk, Virginia, Bicentennial",
+      "series_id": "Norfolk, Virginia, Bicentennial",
+      "series_name": "Norfolk, Virginia, Bicentennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 15010,
+          "category": "coin",
+          "coin_id": "US-PVRI-1936-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 20013,
+          "category": "coin",
+          "coin_id": "US-PVRI-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        },
+        {
+          "business_strikes": 15011,
+          "category": "coin",
+          "coin_id": "US-PVRI-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "notes": "Set sold as 3-coin set",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Providence, Rhode Island, Tercentenary",
+      "series_id": "Providence, Rhode Island, Tercentenary",
+      "series_name": "Providence, Rhode Island, Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 71424,
+          "category": "coin",
+          "coin_id": "US-SFBB-1936-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "San Francisco-Oakland Bay Bridge",
+      "series_id": "San Francisco-Oakland Bay Bridge",
+      "series_name": "San Francisco-Oakland Bay Bridge",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25015,
+          "category": "coin",
+          "coin_id": "US-WITC-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "Wisconsin Territorial Centennial",
+      "series_id": "Wisconsin Territorial Centennial",
+      "series_name": "Wisconsin Territorial Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 25015,
+          "category": "coin",
+          "coin_id": "US-YCME-1936-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1936
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1936,
+            "start": 1936
+          }
+        }
+      ],
+      "official_name": "York County, Maine, Tercentenary",
+      "series_id": "York County, Maine, Tercentenary",
+      "series_name": "York County, Maine, Tercentenary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1936,
+        "start": 1936
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 18028,
+          "category": "coin",
+          "coin_id": "US-ANTM-1937-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "75th anniversary",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1937,
+            "start": 1937
+          }
+        }
+      ],
+      "official_name": "Battle of Antietam",
+      "series_id": "Battle of Antietam",
+      "series_name": "Battle of Antietam",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1937,
+        "start": 1937
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 29030,
+          "category": "coin",
+          "coin_id": "US-ROAN-1937-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "350th anniversary",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1937
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1937,
+            "start": 1937
+          }
+        }
+      ],
+      "official_name": "Roanoke Island",
+      "series_id": "Roanoke Island",
+      "series_name": "Roanoke Island",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1937,
+        "start": 1937
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 15266,
+          "category": "coin",
+          "coin_id": "US-NWRC-1938-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Last US coin with denticles",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1938
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1938,
+            "start": 1938
+          }
+        }
+      ],
+      "official_name": "New Rochelle, New York, 250th Anniversary",
+      "series_id": "New Rochelle, New York, 250th Anniversary",
+      "series_name": "New Rochelle, New York, 250th Anniversary",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1938,
+        "start": 1938
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 200113,
+          "category": "coin",
+          "coin_id": "US-BTWH-1946-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": 1000546,
+          "category": "coin",
+          "coin_id": "US-BTWH-1946-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "First African American on US coin",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": 500279,
+          "category": "coin",
+          "coin_id": "US-BTWH-1946-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1946
+        },
+        {
+          "business_strikes": 100017,
+          "category": "coin",
+          "coin_id": "US-BTWH-1947-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1947
+        },
+        {
+          "business_strikes": 100017,
+          "category": "coin",
+          "coin_id": "US-BTWH-1947-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1947
+        },
+        {
+          "business_strikes": 100017,
+          "category": "coin",
+          "coin_id": "US-BTWH-1947-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1947
+        },
+        {
+          "business_strikes": 8005,
+          "category": "coin",
+          "coin_id": "US-BTWH-1948-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1948
+        },
+        {
+          "business_strikes": 8005,
+          "category": "coin",
+          "coin_id": "US-BTWH-1948-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1948
+        },
+        {
+          "business_strikes": 8005,
+          "category": "coin",
+          "coin_id": "US-BTWH-1948-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1948
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1949-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1949
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1949-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1949
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1949-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1949
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1950-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1950
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1950-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1950
+        },
+        {
+          "business_strikes": 6004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1950-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1950
+        },
+        {
+          "business_strikes": 7004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1951-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        },
+        {
+          "business_strikes": 210082,
+          "category": "coin",
+          "coin_id": "US-BTWH-1951-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        },
+        {
+          "business_strikes": 7004,
+          "category": "coin",
+          "coin_id": "US-BTWH-1951-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1951,
+            "start": 1946
+          }
+        }
+      ],
+      "official_name": "Booker T. Washington",
+      "series_id": "Booker T. Washington",
+      "series_name": "Booker T. Washington",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1951,
+        "start": 1946
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 100057,
+          "category": "coin",
+          "coin_id": "US-IASC-1946-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "First commemorative after WWII",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1946
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1946,
+            "start": 1946
+          }
+        }
+      ],
+      "official_name": "Iowa Statehood Centennial",
+      "series_id": "Iowa Statehood Centennial",
+      "series_name": "Iowa Statehood Centennial",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1946,
+        "start": 1946
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": 10004,
+          "category": "coin",
+          "coin_id": "US-CARW-1951-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        },
+        {
+          "business_strikes": 10004,
+          "category": "coin",
+          "coin_id": "US-CARW-1951-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "First dual portrait commemorative",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        },
+        {
+          "business_strikes": 10004,
+          "category": "coin",
+          "coin_id": "US-CARW-1951-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1951
+        },
+        {
+          "business_strikes": 8006,
+          "category": "coin",
+          "coin_id": "US-CARW-1952-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1952
+        },
+        {
+          "business_strikes": 1106292,
+          "category": "coin",
+          "coin_id": "US-CARW-1952-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1952
+        },
+        {
+          "business_strikes": 8006,
+          "category": "coin",
+          "coin_id": "US-CARW-1952-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1952
+        },
+        {
+          "business_strikes": 8003,
+          "category": "coin",
+          "coin_id": "US-CARW-1953-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1953
+        },
+        {
+          "business_strikes": 8003,
+          "category": "coin",
+          "coin_id": "US-CARW-1953-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1953
+        },
+        {
+          "business_strikes": 8003,
+          "category": "coin",
+          "coin_id": "US-CARW-1953-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1953
+        },
+        {
+          "business_strikes": 12006,
+          "category": "coin",
+          "coin_id": "US-CARW-1954-D",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "D",
+          "notes": "Final classic commemorative",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1954
+        },
+        {
+          "business_strikes": 12006,
+          "category": "coin",
+          "coin_id": "US-CARW-1954-P",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "P",
+          "notes": "Final classic commemorative",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1954
+        },
+        {
+          "business_strikes": 42024,
+          "category": "coin",
+          "coin_id": "US-CARW-1954-S",
+          "composition": {},
+          "diameter_mm": 30.6,
+          "mint": "S",
+          "notes": "Final classic commemorative",
+          "proof_strikes": null,
+          "rarity": "common",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 12.5,
+          "year": 1954
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1954,
+            "start": 1951
+          }
+        }
+      ],
+      "official_name": "Carver/Washington",
+      "series_id": "Carver/Washington",
+      "series_name": "Carver/Washington",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1954,
+        "start": 1951
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "country": "US",
+  "denomination": "Commemorative Dollars",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": 36026,
+          "category": "coin",
+          "coin_id": "US-LAFA-1900-P",
+          "composition": {},
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "notes": "First commemorative silver dollar",
+          "proof_strikes": null,
+          "rarity": "key",
+          "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1900
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1900,
+            "start": 1900
+          }
+        }
+      ],
+      "official_name": "Lafayette Dollar",
+      "series_id": "Lafayette Dollar",
+      "series_name": "Lafayette Dollar",
+      "specifications": {
+        "diameter_mm": 38.1,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1900,
+        "start": 1900
+      }
+    }
+  ]
+}

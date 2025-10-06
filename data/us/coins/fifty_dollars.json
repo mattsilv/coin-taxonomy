@@ -1,23 +1,24 @@
 {
   "country": "US",
-  "denomination": "Quarter Eagles",
-  "face_value": 2.5,
+  "denomination": "Fifty Dollars",
+  "face_value": 1.0,
   "series": [
     {
       "coins": [
         {
-          "business_strikes": 6749,
+          "business_strikes": 645,
           "category": "coin",
-          "coin_id": "US-PPQE-1915-S",
+          "coin_id": "US-PPEO-1915-S",
           "composition": {},
-          "diameter_mm": 18.0,
+          "diameter_mm": 44.0,
           "mint": "S",
+          "notes": "Extremely rare, octagonal version",
           "proof_strikes": null,
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
           "varieties": [],
-          "weight_grams": 4.18,
+          "weight_grams": 83.59,
           "year": 1915
         }
       ],
@@ -31,11 +32,11 @@
           }
         }
       ],
-      "official_name": "Panama-Pacific Exposition",
-      "series_id": "Panama-Pacific Exposition",
-      "series_name": "Panama-Pacific Exposition",
+      "official_name": "Panama-Pacific Exposition Octagonal",
+      "series_id": "Panama-Pacific Exposition Octagonal",
+      "series_name": "Panama-Pacific Exposition Octagonal",
       "specifications": {
-        "diameter_mm": 18.0,
+        "diameter_mm": 44.0,
         "edge": "plain"
       },
       "years": {
@@ -46,19 +47,20 @@
     {
       "coins": [
         {
-          "business_strikes": 46019,
+          "business_strikes": 483,
           "category": "coin",
-          "coin_id": "US-SAQE-1926-P",
+          "coin_id": "US-PPER-1915-S",
           "composition": {},
-          "diameter_mm": 18.0,
-          "mint": "P",
+          "diameter_mm": 44.0,
+          "mint": "S",
+          "notes": "Extremely rare, round version",
           "proof_strikes": null,
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
           "varieties": [],
-          "weight_grams": 4.18,
-          "year": 1926
+          "weight_grams": 83.59,
+          "year": 1915
         }
       ],
       "composition_periods": [
@@ -66,21 +68,21 @@
           "alloy": {},
           "alloy_name": "Historical",
           "date_range": {
-            "end": 1926,
-            "start": 1926
+            "end": 1915,
+            "start": 1915
           }
         }
       ],
-      "official_name": "Sesquicentennial of American Independence",
-      "series_id": "Sesquicentennial of American Independence",
-      "series_name": "Sesquicentennial of American Independence",
+      "official_name": "Panama-Pacific Exposition Round",
+      "series_id": "Panama-Pacific Exposition Round",
+      "series_name": "Panama-Pacific Exposition Round",
       "specifications": {
-        "diameter_mm": 18.0,
+        "diameter_mm": 44.0,
         "edge": "plain"
       },
       "years": {
-        "end": 1926,
-        "start": 1926
+        "end": 1915,
+        "start": 1915
       }
     }
   ]
