@@ -163,16 +163,22 @@ class CurrencyBrowser {
         this.availableSeries.clear();
 
         // Collect series information including grouping data
+        // Prioritize entries WITH series_group over those without
         const seriesMap = new Map();
         this.data.forEach(item => {
             if (item.mint_id) this.availableMints.add(item.mint_id);
-            if (item.series_id && !seriesMap.has(item.series_id)) {
-                seriesMap.set(item.series_id, {
-                    series_id: item.series_id,
-                    series_group: item.series_group || null,
-                    series_group_years: item.series_group_years || null
-                });
-                this.availableSeries.add(item.series_id);
+            if (item.series_id) {
+                // If this series has a group, always update (prioritize grouped versions)
+                // If no group, only add if not already present
+                const existing = seriesMap.get(item.series_id);
+                if (item.series_group || !existing) {
+                    seriesMap.set(item.series_id, {
+                        series_id: item.series_id,
+                        series_group: item.series_group || (existing?.series_group) || null,
+                        series_group_years: item.series_group_years || (existing?.series_group_years) || null
+                    });
+                    this.availableSeries.add(item.series_id);
+                }
             }
         });
 
@@ -231,7 +237,12 @@ class CurrencyBrowser {
     }
 
     formatSeriesName(seriesId) {
-        return seriesId.split('_').map(word => 
+        // series_id format is "Series Name__Denomination"
+        // Extract just the series name part before "__"
+        const seriesNamePart = seriesId.split('__')[0];
+
+        // Replace underscores with spaces and capitalize each word
+        return seriesNamePart.split('_').map(word =>
             word.charAt(0).toUpperCase() + word.slice(1)
         ).join(' ');
     }

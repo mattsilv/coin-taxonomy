@@ -416,19 +416,24 @@ def migrate_existing_data(conn):
     cursor.execute('PRAGMA foreign_keys = OFF;')
     
     # First, populate series registry from existing data
+    # Group by series, denomination, AND country_code to handle same series name across denominations
     cursor.execute("""
         SELECT DISTINCT series, series, MIN(year), MAX(year), denomination,
                substr(coin_id, 1, instr(coin_id, '-') - 1) as country_code
         FROM coins
         WHERE series IS NOT NULL
-        GROUP BY series, country_code
-        ORDER BY series
+        GROUP BY series, denomination, country_code
+        ORDER BY series, denomination
     """)
 
     series_data = cursor.fetchall()
     existing_abbreviations = set()
 
-    for series_id, series_name, start_year, end_year, denomination, country_code in series_data:
+    for series_name_raw, series_name, start_year, end_year, denomination, country_code in series_data:
+        # Make series_id unique by combining series name and denomination
+        # This handles cases where same series name exists across multiple denominations
+        series_id = f"{series_name_raw}__{denomination.replace(' ', '_')}"
+
         # Generate unique abbreviation for this series
         abbreviation = generate_unique_series_abbreviation(series_id, series_name, existing_abbreviations)
         existing_abbreviations.add(abbreviation)
@@ -460,8 +465,9 @@ def migrate_existing_data(conn):
         # Extract country_code from coin_id (e.g., "US-IHC-1877-P" → "US")
         country_code = coin_id.split('-')[0] if '-' in coin_id else "US"
 
-        # Use series_name as series_id (they are the same now)
-        series_id = series_name
+        # Build series_id from series name and denomination to match series_registry
+        # This handles cases where same series name exists across multiple denominations
+        series_id = f"{series_name}__{denomination.replace(' ', '_')}" if series_name else None
         varieties = [variety] if variety else []
 
         # Look up series abbreviation from registry
