@@ -1,0 +1,50 @@
+{
+  "country": "US",
+  "denomination": "Commemorative Quarters",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": 24214,
+          "category": "coin",
+          "coin_id": "US-ISAB-1893-P",
+          "composition": {},
+          "diameter_mm": 24.3,
+          "mint": "P",
+          "notes": "First commemorative quarter; first US coin featuring a foreign monarch; issued for World's Columbian Exposition",
+          "obverse_description": "Queen Isabella of Spain with crown and scepter",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Kneeling woman with distaff and spindle",
+          "source_citation": "Issue #60 CSV data; PCGS CoinFacts",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 6.25,
+          "year": 1893
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": 1893,
+            "start": 1893
+          }
+        }
+      ],
+      "official_name": "World's Columbian Exposition - Isabella Quarter",
+      "series_id": "World's Columbian Exposition - Isabella Quarter",
+      "series_name": "World's Columbian Exposition - Isabella Quarter",
+      "specifications": {
+        "diameter_mm": 24.3,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1893,
+        "start": 1893
+      }
+    }
+  ]
+}
