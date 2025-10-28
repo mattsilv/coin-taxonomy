@@ -313,6 +313,8 @@ def export_issues_by_country(conn, output_dir):
                 'object_type': row_dict['object_type'],
                 'series_id': row_dict['series_id'],
                 'series_name': row_dict.get('series_id'),  # For display
+                'series_group': row_dict.get('series_group'),  # Optional grouping
+                'series_group_years': row_dict.get('series_group_years'),  # Group year range
                 'issuing_entity': {
                     'country_code': row_dict['country_code'],
                     'authority_name': row_dict.get('authority_name', 'Unknown'),

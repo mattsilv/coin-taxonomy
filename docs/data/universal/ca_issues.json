@@ -7,6 +7,8 @@
       "object_type": "coin",
       "series_id": "Large Cent",
       "series_name": "Large Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -60,6 +62,8 @@
       "object_type": "coin",
       "series_id": "Provincial Silver",
       "series_name": "Provincial Silver",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -113,6 +117,8 @@
       "object_type": "coin",
       "series_id": "Victoria Silver",
       "series_name": "Victoria Silver",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -166,6 +172,8 @@
       "object_type": "coin",
       "series_id": "Large Cent",
       "series_name": "Large Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -219,6 +227,8 @@
       "object_type": "coin",
       "series_id": "Large Cent",
       "series_name": "Large Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -272,6 +282,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -324,6 +336,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -376,6 +390,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -428,6 +444,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -480,6 +498,8 @@
       "object_type": "coin",
       "series_id": "$5 Gold",
       "series_name": "$5 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -532,6 +552,8 @@
       "object_type": "coin",
       "series_id": "$10 Gold",
       "series_name": "$10 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -584,6 +606,8 @@
       "object_type": "coin",
       "series_id": "$5 Gold",
       "series_name": "$5 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -636,6 +660,8 @@
       "object_type": "coin",
       "series_id": "$10 Gold",
       "series_name": "$10 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -688,6 +714,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -740,6 +768,8 @@
       "object_type": "coin",
       "series_id": "$5 Gold",
       "series_name": "$5 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -792,6 +822,8 @@
       "object_type": "coin",
       "series_id": "$10 Gold",
       "series_name": "$10 Gold",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -844,6 +876,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -896,6 +930,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -948,6 +984,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1000,6 +1038,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1052,6 +1092,8 @@
       "object_type": "coin",
       "series_id": "Ottawa Sovereign",
       "series_name": "Ottawa Sovereign",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1104,6 +1146,8 @@
       "object_type": "coin",
       "series_id": "Small Cent",
       "series_name": "Small Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1157,6 +1201,8 @@
       "object_type": "coin",
       "series_id": "George V Silver",
       "series_name": "George V Silver",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1210,6 +1256,8 @@
       "object_type": "coin",
       "series_id": "Small Cent",
       "series_name": "Small Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1263,6 +1311,8 @@
       "object_type": "coin",
       "series_id": "George V Silver Dollar",
       "series_name": "George V Silver Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1316,6 +1366,8 @@
       "object_type": "coin",
       "series_id": "Small Cent",
       "series_name": "Small Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1371,6 +1423,8 @@
       "object_type": "coin",
       "series_id": "Small Cent",
       "series_name": "Small Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1424,6 +1478,8 @@
       "object_type": "coin",
       "series_id": "George VI Nickel",
       "series_name": "George VI Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1477,6 +1533,8 @@
       "object_type": "coin",
       "series_id": "George VI Silver",
       "series_name": "George VI Silver",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1530,6 +1588,8 @@
       "object_type": "coin",
       "series_id": "George VI Tombac",
       "series_name": "George VI Tombac",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1583,6 +1643,8 @@
       "object_type": "coin",
       "series_id": "George VI Steel",
       "series_name": "George VI Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1636,6 +1698,8 @@
       "object_type": "coin",
       "series_id": "George VI Silver Dollar",
       "series_name": "George VI Silver Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1691,6 +1755,8 @@
       "object_type": "coin",
       "series_id": "George VI Silver Dollar",
       "series_name": "George VI Silver Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1744,6 +1810,8 @@
       "object_type": "coin",
       "series_id": "Small Cent",
       "series_name": "Small Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1797,6 +1865,8 @@
       "object_type": "coin",
       "series_id": "Centennial",
       "series_name": "Centennial",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1850,6 +1920,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1902,6 +1974,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -1954,6 +2028,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2006,6 +2082,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2058,6 +2136,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2110,6 +2190,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2162,6 +2244,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2214,6 +2298,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2266,6 +2352,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2318,6 +2406,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2370,6 +2460,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2422,6 +2514,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2474,6 +2568,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2526,6 +2622,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2578,6 +2676,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2630,6 +2730,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2682,6 +2784,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2734,6 +2838,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2786,6 +2892,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2838,6 +2946,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2890,6 +3000,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2942,6 +3054,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -2994,6 +3108,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3046,6 +3162,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3098,6 +3216,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3150,6 +3270,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3202,6 +3324,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3254,6 +3378,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3306,6 +3432,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3358,6 +3486,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3410,6 +3540,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3462,6 +3594,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3514,6 +3648,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3566,6 +3702,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3618,6 +3756,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3670,6 +3810,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3722,6 +3864,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3774,6 +3918,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3826,6 +3972,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3878,6 +4026,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3930,6 +4080,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -3982,6 +4134,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4034,6 +4188,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4086,6 +4242,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4138,6 +4296,8 @@
       "object_type": "coin",
       "series_id": "Nickel Dollar",
       "series_name": "Nickel Dollar",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4190,6 +4350,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4242,6 +4404,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4294,6 +4458,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4346,6 +4512,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4398,6 +4566,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4450,6 +4620,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4502,6 +4674,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4554,6 +4728,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4606,6 +4782,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4658,6 +4836,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4710,6 +4890,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4762,6 +4944,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4814,6 +4998,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4866,6 +5052,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4918,6 +5106,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -4970,6 +5160,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5022,6 +5214,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5074,6 +5268,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5126,6 +5322,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5178,6 +5376,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5230,6 +5430,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5282,6 +5484,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5334,6 +5538,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5386,6 +5592,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5438,6 +5646,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5490,6 +5700,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5542,6 +5754,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5594,6 +5808,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5646,6 +5862,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5698,6 +5916,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5750,6 +5970,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5802,6 +6024,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5854,6 +6078,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5906,6 +6132,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -5958,6 +6186,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6010,6 +6240,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6062,6 +6294,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6114,6 +6348,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6166,6 +6402,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6218,6 +6456,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6270,6 +6510,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6322,6 +6564,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6374,6 +6618,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6426,6 +6672,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6478,6 +6726,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6530,6 +6780,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6582,6 +6834,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6636,6 +6890,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6688,6 +6944,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6740,6 +6998,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6792,6 +7052,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6844,6 +7106,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6896,6 +7160,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -6948,6 +7214,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7000,6 +7268,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7052,6 +7322,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7104,6 +7376,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7156,6 +7430,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7208,6 +7484,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7260,6 +7538,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7312,6 +7592,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7364,6 +7646,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7416,6 +7700,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Nickel",
       "series_name": "5 Cents Nickel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7468,6 +7754,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7520,6 +7808,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7572,6 +7862,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7624,6 +7916,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7676,6 +7970,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7728,6 +8024,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7780,6 +8078,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7832,6 +8132,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7884,6 +8186,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7936,6 +8240,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -7988,6 +8294,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8040,6 +8348,8 @@
       "object_type": "coin",
       "series_id": "50 Cents Steel",
       "series_name": "50 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8092,6 +8402,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8144,6 +8456,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8196,6 +8510,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8248,6 +8564,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8300,6 +8618,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8352,6 +8672,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8404,6 +8726,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8456,6 +8780,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8508,6 +8834,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8560,6 +8888,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8612,6 +8942,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8664,6 +8996,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8716,6 +9050,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8768,6 +9104,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8820,6 +9158,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8872,6 +9212,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8924,6 +9266,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -8976,6 +9320,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9028,6 +9374,8 @@
       "object_type": "coin",
       "series_id": "50 Cents Steel",
       "series_name": "50 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9080,6 +9428,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9132,6 +9482,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9184,6 +9536,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9236,6 +9590,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9288,6 +9644,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9340,6 +9698,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9392,6 +9752,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9444,6 +9806,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9496,6 +9860,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9548,6 +9914,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9600,6 +9968,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9652,6 +10022,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9704,6 +10076,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9756,6 +10130,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9808,6 +10184,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9860,6 +10238,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9912,6 +10292,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -9964,6 +10346,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10016,6 +10400,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10068,6 +10454,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10120,6 +10508,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10172,6 +10562,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10224,6 +10616,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10276,6 +10670,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10328,6 +10724,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10380,6 +10778,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10432,6 +10832,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10484,6 +10886,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10536,6 +10940,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10588,6 +10994,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10640,6 +11048,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10692,6 +11102,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10744,6 +11156,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10796,6 +11210,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10848,6 +11264,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10900,6 +11318,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -10952,6 +11372,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11004,6 +11426,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11056,6 +11480,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11108,6 +11534,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11160,6 +11588,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11212,6 +11642,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11264,6 +11696,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11316,6 +11750,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11368,6 +11804,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11420,6 +11858,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11472,6 +11912,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11524,6 +11966,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11576,6 +12020,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11628,6 +12074,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11680,6 +12128,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11732,6 +12182,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11784,6 +12236,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11836,6 +12290,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11888,6 +12344,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11940,6 +12398,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -11992,6 +12452,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12044,6 +12506,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12096,6 +12560,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12148,6 +12614,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12200,6 +12668,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12252,6 +12722,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12304,6 +12776,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12356,6 +12830,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12408,6 +12884,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12460,6 +12938,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12512,6 +12992,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12564,6 +13046,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12616,6 +13100,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12668,6 +13154,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12720,6 +13208,8 @@
       "object_type": "coin",
       "series_id": "50 Cents Steel",
       "series_name": "50 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12772,6 +13262,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12824,6 +13316,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12876,6 +13370,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12928,6 +13424,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -12980,6 +13478,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13032,6 +13532,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13084,6 +13586,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13136,6 +13640,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13188,6 +13694,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13240,6 +13748,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13292,6 +13802,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13344,6 +13856,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13396,6 +13910,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13448,6 +13964,8 @@
       "object_type": "coin",
       "series_id": "Steel Cent",
       "series_name": "Steel Cent",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13500,6 +14018,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13552,6 +14072,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13604,6 +14126,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13656,6 +14180,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13708,6 +14234,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13760,6 +14288,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13812,6 +14342,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13864,6 +14396,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13916,6 +14450,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -13968,6 +14504,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14020,6 +14558,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14072,6 +14612,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14124,6 +14666,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14176,6 +14720,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14228,6 +14774,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14280,6 +14828,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14332,6 +14882,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14384,6 +14936,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14436,6 +14990,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14488,6 +15044,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14540,6 +15098,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14592,6 +15152,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14644,6 +15206,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14696,6 +15260,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14748,6 +15314,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14800,6 +15368,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14852,6 +15422,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14904,6 +15476,8 @@
       "object_type": "coin",
       "series_id": "50 Cents Steel",
       "series_name": "50 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -14956,6 +15530,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15008,6 +15584,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15060,6 +15638,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15112,6 +15692,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15164,6 +15746,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15216,6 +15800,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15268,6 +15854,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15320,6 +15908,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15372,6 +15962,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15424,6 +16016,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15476,6 +16070,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15528,6 +16124,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15580,6 +16178,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15632,6 +16232,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15684,6 +16286,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15736,6 +16340,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15788,6 +16394,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15840,6 +16448,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15892,6 +16502,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15944,6 +16556,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -15996,6 +16610,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16048,6 +16664,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16100,6 +16718,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16152,6 +16772,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16204,6 +16826,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16256,6 +16880,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16308,6 +16934,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16360,6 +16988,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16412,6 +17042,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16464,6 +17096,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16516,6 +17150,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16568,6 +17204,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16620,6 +17258,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16672,6 +17312,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16724,6 +17366,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16776,6 +17420,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16828,6 +17474,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16880,6 +17528,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16932,6 +17582,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -16984,6 +17636,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17036,6 +17690,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17088,6 +17744,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17140,6 +17798,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17192,6 +17852,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17244,6 +17906,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17296,6 +17960,8 @@
       "object_type": "coin",
       "series_id": "50 Cents Steel",
       "series_name": "50 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17348,6 +18014,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17400,6 +18068,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17452,6 +18122,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17504,6 +18176,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17556,6 +18230,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17608,6 +18284,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17660,6 +18338,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17712,6 +18392,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17764,6 +18446,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17816,6 +18500,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17868,6 +18554,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17920,6 +18608,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -17972,6 +18662,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18024,6 +18716,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18076,6 +18770,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18128,6 +18824,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18180,6 +18878,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18232,6 +18932,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18284,6 +18986,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18336,6 +19040,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18388,6 +19094,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18440,6 +19148,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18492,6 +19202,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18544,6 +19256,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18596,6 +19310,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18648,6 +19364,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18700,6 +19418,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18752,6 +19472,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18804,6 +19526,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18856,6 +19580,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18908,6 +19634,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -18960,6 +19688,8 @@
       "object_type": "coin",
       "series_id": "Loonie",
       "series_name": "Loonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19012,6 +19742,8 @@
       "object_type": "coin",
       "series_id": "Toonie",
       "series_name": "Toonie",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19064,6 +19796,8 @@
       "object_type": "coin",
       "series_id": "5 Cents Steel",
       "series_name": "5 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19116,6 +19850,8 @@
       "object_type": "coin",
       "series_id": "10 Cents Steel",
       "series_name": "10 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19168,6 +19904,8 @@
       "object_type": "coin",
       "series_id": "25 Cents Steel",
       "series_name": "25 Cents Steel",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19220,6 +19958,8 @@
       "object_type": "coin",
       "series_id": "Gold Maple Leaf",
       "series_name": "Gold Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19272,6 +20012,8 @@
       "object_type": "coin",
       "series_id": "Silver Maple Leaf",
       "series_name": "Silver Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19324,6 +20066,8 @@
       "object_type": "coin",
       "series_id": "Platinum Maple Leaf",
       "series_name": "Platinum Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",
@@ -19376,6 +20120,8 @@
       "object_type": "coin",
       "series_id": "Palladium Maple Leaf",
       "series_name": "Palladium Maple Leaf",
+      "series_group": null,
+      "series_group_years": null,
       "issuing_entity": {
         "country_code": "CA",
         "authority_name": "Canada",

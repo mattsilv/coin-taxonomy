@@ -80,7 +80,9 @@ def create_universal_schema(conn):
             issue_id TEXT PRIMARY KEY,
             object_type TEXT NOT NULL,  -- coin, banknote
             series_id TEXT NOT NULL,
-            
+            series_group TEXT,  -- optional grouping for related series (e.g., "Classic Commemorative Half Dollars")
+            series_group_years TEXT,  -- year range for the group (e.g., "1892-1954")
+
             -- Issuing Entity
             country_code TEXT NOT NULL,
             authority_name TEXT NOT NULL,
@@ -537,18 +539,27 @@ def migrate_existing_data(conn):
             "currency_unit": "dollar"
         })
 
+        # Determine series grouping for commemorative half dollars
+        series_group = None
+        series_group_years = None
+        if denomination == "Commemorative Half Dollars" and 1892 <= year <= 1954:
+            series_group = "Classic Commemorative Half Dollars"
+            series_group_years = "1892-1954"
+
         # Insert into issues table
         cursor.execute("""
             INSERT OR REPLACE INTO issues (
-                issue_id, object_type, series_id, country_code, authority_name,
-                monetary_system, currency_unit, face_value, unit_name, common_names,
-                system_fraction, issue_year, mint_id, specifications, sides,
-                mintage, rarity, varieties, source_citation, notes
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                issue_id, object_type, series_id, series_group, series_group_years,
+                country_code, authority_name, monetary_system, currency_unit, face_value,
+                unit_name, common_names, system_fraction, issue_year, mint_id,
+                specifications, sides, mintage, rarity, varieties, source_citation, notes
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             issue_id,
             "coin",
             series_id or "unknown",
+            series_group,
+            series_group_years,
             country_code,
             metadata["authority_name"],
             "decimal",

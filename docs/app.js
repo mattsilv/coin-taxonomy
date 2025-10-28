@@ -161,12 +161,21 @@ class CurrencyBrowser {
         // Populate mint filter
         this.availableMints.clear();
         this.availableSeries.clear();
-        
+
+        // Collect series information including grouping data
+        const seriesMap = new Map();
         this.data.forEach(item => {
             if (item.mint_id) this.availableMints.add(item.mint_id);
-            if (item.series_id) this.availableSeries.add(item.series_id);
+            if (item.series_id && !seriesMap.has(item.series_id)) {
+                seriesMap.set(item.series_id, {
+                    series_id: item.series_id,
+                    series_group: item.series_group || null,
+                    series_group_years: item.series_group_years || null
+                });
+                this.availableSeries.add(item.series_id);
+            }
         });
-        
+
         const mintFilter = document.getElementById('mint-filter');
         mintFilter.innerHTML = '<option value="">All Mints</option>';
         [...this.availableMints].sort().forEach(mint => {
@@ -175,13 +184,48 @@ class CurrencyBrowser {
             option.textContent = mint;
             mintFilter.appendChild(option);
         });
-        
+
         const seriesFilter = document.getElementById('series-filter');
         seriesFilter.innerHTML = '<option value="">All Series</option>';
-        [...this.availableSeries].sort().forEach(series => {
+
+        // Group series by series_group
+        const groupedSeries = new Map();
+        const ungroupedSeries = [];
+
+        seriesMap.forEach((seriesInfo, seriesId) => {
+            if (seriesInfo.series_group) {
+                if (!groupedSeries.has(seriesInfo.series_group)) {
+                    groupedSeries.set(seriesInfo.series_group, {
+                        years: seriesInfo.series_group_years,
+                        series: []
+                    });
+                }
+                groupedSeries.get(seriesInfo.series_group).series.push(seriesId);
+            } else {
+                ungroupedSeries.push(seriesId);
+            }
+        });
+
+        // Add grouped series with optgroup
+        groupedSeries.forEach((groupData, groupName) => {
+            const optgroup = document.createElement('optgroup');
+            optgroup.label = groupData.years ? `${groupName} (${groupData.years})` : groupName;
+
+            groupData.series.sort().forEach(seriesId => {
+                const option = document.createElement('option');
+                option.value = seriesId;
+                option.textContent = this.formatSeriesName(seriesId);
+                optgroup.appendChild(option);
+            });
+
+            seriesFilter.appendChild(optgroup);
+        });
+
+        // Add ungrouped series
+        ungroupedSeries.sort().forEach(seriesId => {
             const option = document.createElement('option');
-            option.value = series;
-            option.textContent = this.formatSeriesName(series);
+            option.value = seriesId;
+            option.textContent = this.formatSeriesName(seriesId);
             seriesFilter.appendChild(option);
         });
     }
