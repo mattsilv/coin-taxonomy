@@ -23,14 +23,61 @@ Parse auction listings and marketplace items with intelligent variant mapping:
 from scripts.auction_catalog_parser import AuctionCatalogParser
 parser = AuctionCatalogParser()
 listing = parser.parse_listing("1918-D Buffalo Nickel 8/7 MS64 PCGS")
-# Returns: Year=1918, Mint=D, Type=BUFFALO_NICKEL, Variant=8OVER7
+# Returns: Year=1918, Mint=D, Type=BUFFALO_NICKEL, Variant=8OVER7, Grade=MS-64
 
-# Fuzzy match marketplace listing  
+# Fuzzy match marketplace listing
 from scripts.marketplace_listing_matcher import MarketplaceListingMatcher
 matcher = MarketplaceListingMatcher()
 result = matcher.match_listing("1918d buffallo nickle")  # With typos!
 # Returns: US-BUFF-1918-D with confidence score
 ```
+
+### 🎯 NEW: Unified Coin Grading Standard (External Metadata)
+
+Standardize coin grades across all your marketplace integrations with canonical format validation:
+
+**Grade Normalization** (Input → Output):
+```python
+from scripts.utils.grade_validator import GradeNormalizer
+normalizer = GradeNormalizer()
+
+# Accepts all variations, outputs canonical format
+normalizer.normalize('MS65')    # → MS-65
+normalizer.normalize('MS 65')   # → MS-65
+normalizer.normalize('ms-65')   # → MS-65
+normalizer.normalize('PR69')    # → PR-69
+normalizer.normalize('AU58')    # → AU-58
+```
+
+**Real-World Examples**:
+```python
+# eBay listing: "1942 Mercury Dime MS67 Full Bands PCGS"
+listing.grade = "MS-67"                    # Canonical format
+listing.grading_service = "PCGS"          # Normalized service
+listing.modifiers = ["FB"]                # Full Bands designation
+
+# Heritage auction: "1909-S VDB Lincoln Cent PCGS MS64RB"
+listing.grade = "MS-64"                    # Canonical format
+listing.modifiers = ["RB"]                # Red-Brown color
+
+# Raw (uncertified) coin: "1877 Indian Head Cent AU58"
+listing.grade = "AU-58"                    # Canonical format
+listing.grading_service = "raw"           # Not certified
+```
+
+**Complete Sheldon 70-Point Scale Supported**:
+- Circulated: P-1, FR-2, AG-3, G-4, G-6, VG-8, VG-10, F-12, F-15, VF-20, VF-25, VF-30, VF-35, XF-40, XF-45, AU-50, AU-53, AU-55, AU-58
+- Uncirculated: MS-60 through MS-70 (11 grades)
+- Proof: PR-60 through PR-70 (11 grades)
+- Specimen: SP-60 through SP-70
+
+**Reference Files**:
+- [`data/references/grades_unified.json`](data/references/grades_unified.json) - Complete grade scale
+- [`data/references/grading_services.json`](data/references/grading_services.json) - PCGS & NGC details
+- [`data/references/grade_modifiers.json`](data/references/grade_modifiers.json) - CAM, DCAM, FB, RD/RB/BN, etc.
+- [`docs/external-metadata/COIN_GRADING.md`](docs/external-metadata/COIN_GRADING.md) - Complete developer guide
+
+See [Issue #62](https://github.com/mattsilv/coin-taxonomy/issues/62) for full specification.
 
 ## What You Get
 
@@ -76,6 +123,23 @@ US-DESG-1907-P  → 1907 Saint-Gaudens Double Eagle (High Relief)
 US-QEIH-1911-D  → 1911-D Indian Head Quarter Eagle (Key date)
 US-GDLA-1849-P  → 1849 Gold Dollar Type I (First year)
 ```
+
+**Commemorative Half Dollars** (139+ issues cataloged):
+```
+US-CHCO-1892-P  → 1892 World's Columbian Exposition
+US-CHPP-1915-S  → 1915-S Panama-Pacific International Exposition
+US-CHIL-1918-P  → 1918 Illinois Centennial
+US-CHGR-1922-P  → 1922 Grant Memorial (with star variety)
+US-CHOR-1926-P  → 1926 Oregon Trail Memorial (15 varieties 1926-1939)
+US-CHDB-1934-P  → 1934 Daniel Boone Bicentennial (13 varieties)
+US-CHTX-1934-P  → 1934 Texas Centennial (13 varieties 1934-1938)
+US-CHAR-1935-P  → 1935 Arkansas Centennial (15 varieties 1935-1939)
+US-CHCI-1936-P  → 1936 Cincinnati Music Center
+US-CHGE-1936-P  → 1936 Battle of Gettysburg
+US-CHBW-1946-P  → 1946 Booker T. Washington (18 varieties)
+US-CHCW-1951-P  → 1951 Carver/Washington (12 varieties 1951-1954)
+```
+All commemorative halves include proper mint mark variations (P/D/S) and year ranges.
 
 ### Handling Unknown Data
 
