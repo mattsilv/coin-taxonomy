@@ -238,13 +238,22 @@ class CurrencyBrowser {
 
     formatSeriesName(seriesId) {
         // series_id format is "Series Name__Denomination"
-        // Extract just the series name part before "__"
-        const seriesNamePart = seriesId.split('__')[0];
+        const parts = seriesId.split('__');
+        const seriesNamePart = parts[0];
+        const denominationPart = parts[1];
 
-        // Replace underscores with spaces and capitalize each word
-        return seriesNamePart.split('_').map(word =>
+        // Format series name: replace underscores with spaces and capitalize
+        const formattedSeries = seriesNamePart.split('_').map(word =>
             word.charAt(0).toUpperCase() + word.slice(1)
         ).join(' ');
+
+        // If there's a denomination, add it in parentheses for clarity
+        if (denominationPart) {
+            const formattedDenom = denominationPart.replace(/_/g, ' ');
+            return `${formattedSeries} (${formattedDenom})`;
+        }
+
+        return formattedSeries;
     }
 
     filterData() {
