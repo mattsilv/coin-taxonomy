@@ -13,6 +13,12 @@ from typing import Optional, List, Dict, Tuple
 from dataclasses import dataclass
 from datetime import datetime
 
+# Handle imports for both direct execution and module import
+try:
+    from scripts.utils.grade_validator import GradeNormalizer, GradeValidator
+except ModuleNotFoundError:
+    from utils.grade_validator import GradeNormalizer, GradeValidator
+
 @dataclass
 class AuctionListing:
     """Represents a parsed auction listing"""
@@ -32,6 +38,8 @@ class AuctionCatalogParser:
         self.db_path = db_path
         self._init_patterns()
         self._init_coin_types()
+        self.grade_normalizer = GradeNormalizer()
+        self.grade_validator = GradeValidator()
         
     def _init_patterns(self):
         """Initialize regex patterns for parsing"""
@@ -199,14 +207,20 @@ class AuctionCatalogParser:
         if variants_found:
             listing.variant_info = ','.join(variants_found)
         
-        # Extract grade
+        # Extract grade and normalize to canonical format
         for pattern, grade_type in self.grade_patterns:
             match = pattern.search(title)
             if match:
                 if grade_type in ['numeric', 'grade_number']:
-                    listing.grade = match.group(0)
+                    # Normalize grade to canonical format (MS-65, PR-69, etc.)
+                    try:
+                        raw_grade = match.group(0)
+                        listing.grade = self.grade_normalizer.normalize(raw_grade)
+                    except ValueError:
+                        # If normalization fails, store raw grade
+                        listing.grade = match.group(0)
                 elif grade_type == 'service':
-                    listing.grading_service = match.group(0)
+                    listing.grading_service = match.group(0).upper()
                 elif grade_type == 'descriptive':
                     listing.grade = match.group(0)
         

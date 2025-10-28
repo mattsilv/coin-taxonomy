@@ -15,6 +15,12 @@ from difflib import SequenceMatcher
 from collections import defaultdict
 import json
 
+# Handle imports for both direct execution and module import
+try:
+    from scripts.utils.grade_validator import GradeNormalizer, GradeValidator
+except ModuleNotFoundError:
+    from utils.grade_validator import GradeNormalizer, GradeValidator
+
 @dataclass
 class MarketplaceListing:
     """Represents a marketplace listing with confidence scores"""
@@ -33,6 +39,8 @@ class MarketplaceListingMatcher:
         self.db_path = db_path
         self._build_lookup_tables()
         self._init_normalizers()
+        self.grade_normalizer = GradeNormalizer()
+        self.grade_validator = GradeValidator()
         
     def _build_lookup_tables(self):
         """Build in-memory lookup tables for fast matching"""
@@ -204,6 +212,29 @@ class MarketplaceListingMatcher:
         
         return normalized.strip()
     
+    def extract_grade(self, text: str) -> Optional[str]:
+        """
+        Extract and normalize grade from text.
+        Returns canonical format (MS-65, PR-69, etc.) or None.
+        """
+        # Try to match grade patterns
+        grade_patterns = [
+            r'\b(MS|PR|PF|SP|AU|XF|EF|VF|VG|F|G|AG|FR|P)[\s-]?(\d{1,2})\b',
+        ]
+
+        for pattern in grade_patterns:
+            match = re.search(pattern, text, re.I)
+            if match:
+                try:
+                    # Normalize to canonical format
+                    raw_grade = match.group(0)
+                    return self.grade_normalizer.normalize(raw_grade)
+                except ValueError:
+                    # If normalization fails, continue searching
+                    continue
+
+        return None
+
     def extract_features(self, text: str) -> Dict:
         """Extract structured features from normalized text"""
         features = {
@@ -214,6 +245,9 @@ class MarketplaceListingMatcher:
             'variants': [],
             'keywords': set()
         }
+
+        # Extract and normalize grade
+        features['grade'] = self.extract_grade(text)
         
         # Extract year (1850-2025 range)
         # Try to find standalone 4-digit year first

@@ -1,0 +1,258 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://coin-taxonomy.io/schemas/grade-external-metadata.json",
+  "title": "Coin Grade External Metadata Schema",
+  "description": "JSON Schema for external developers to standardize coin grade representation in collection management, market data, and auction parsing systems.",
+  "version": "1.0.0",
+  "type": "object",
+  "properties": {
+    "grade": {
+      "type": "string",
+      "description": "CANONICAL grade format with uppercase abbreviation and dash separator (e.g., MS-65, PR-69, AU-58)",
+      "pattern": "^(P|FR|AG|G|VG|F|VF|XF|EF|AU|MS|PR|PF|SP)-\\d{1,2}$",
+      "examples": [
+        "MS-65",
+        "PR-69",
+        "AU-58",
+        "VF-30",
+        "XF-45",
+        "SP-67"
+      ]
+    },
+    "grade_numeric": {
+      "type": "integer",
+      "description": "Numeric grade value on the Sheldon 1-70 scale",
+      "minimum": 1,
+      "maximum": 70,
+      "examples": [65, 69, 58, 30, 45, 67]
+    },
+    "grade_category": {
+      "type": "string",
+      "description": "High-level category for the grade",
+      "enum": [
+        "Circulated",
+        "About Uncirculated",
+        "Uncirculated"
+      ],
+      "examples": ["Uncirculated", "Circulated", "About Uncirculated"]
+    },
+    "grade_subcategory": {
+      "type": "string",
+      "description": "Specific subcategory within the grade category",
+      "enum": [
+        "Poor",
+        "Fair",
+        "About Good",
+        "Good",
+        "Very Good",
+        "Fine",
+        "Very Fine",
+        "Extremely Fine",
+        "About Uncirculated",
+        "Mint State",
+        "Choice Uncirculated",
+        "Gem Uncirculated",
+        "Superb Gem Uncirculated",
+        "Nearly Perfect Uncirculated",
+        "Perfect Uncirculated",
+        "Proof",
+        "Choice Proof",
+        "Gem Proof",
+        "Superb Gem Proof",
+        "Nearly Perfect Proof",
+        "Perfect Proof",
+        "Specimen",
+        "Choice Specimen",
+        "Gem Specimen",
+        "Superb Gem Specimen",
+        "Perfect Specimen"
+      ],
+      "examples": ["Gem Uncirculated", "Nearly Perfect Proof", "Extremely Fine"]
+    },
+    "grading_service": {
+      "type": "string",
+      "description": "Third-party grading service code (UPPERCASE)",
+      "enum": [
+        "PCGS",
+        "NGC",
+        "ANACS",
+        "ICG",
+        "raw",
+        "self-graded"
+      ],
+      "examples": ["PCGS", "NGC", "raw"]
+    },
+    "certification_number": {
+      "type": "string",
+      "description": "Grading service certification number (format varies by service)",
+      "pattern": "^\\d{7,8}(-\\d{3})?$",
+      "examples": ["12345678", "1234567", "1234567-001"]
+    },
+    "modifiers": {
+      "type": "array",
+      "description": "Array of grade modifiers and special designations (UPPERCASE)",
+      "items": {
+        "type": "string",
+        "enum": [
+          "CAM",
+          "DCAM",
+          "UCAM",
+          "UC",
+          "FB",
+          "FBL",
+          "FH",
+          "FS",
+          "5FS",
+          "6FS",
+          "RD",
+          "RB",
+          "BN",
+          "PL",
+          "DPL",
+          "DMPL",
+          "FDC",
+          "Star",
+          "*",
+          "Plus",
+          "+"
+        ]
+      },
+      "uniqueItems": true,
+      "examples": [
+        ["DCAM"],
+        ["RD"],
+        ["FB", "RD"],
+        ["UCAM"],
+        ["5FS", "RB"]
+      ]
+    },
+    "full_grade_string": {
+      "type": "string",
+      "description": "Complete grade designation as it appears on certification holder or in marketplace listings. Format: {SERVICE} {GRADE} {MODIFIERS}",
+      "pattern": "^([A-Z]+\\s+)?[A-Z]{1,2}-\\d{1,2}(\\s+[A-Z+*]+)*$",
+      "examples": [
+        "PCGS MS-65 RD",
+        "NGC PR-69 DCAM",
+        "MS-63",
+        "PCGS AU-58",
+        "NGC MS-67 FB RD",
+        "PCGS PR-70 DCAM"
+      ]
+    },
+    "is_certified": {
+      "type": "boolean",
+      "description": "Whether the coin is certified by a third-party grading service (true) or raw/self-graded (false)",
+      "examples": [true, false]
+    },
+    "strike_type": {
+      "type": "string",
+      "description": "Type of strike for the coin",
+      "enum": [
+        "business",
+        "proof",
+        "specimen"
+      ],
+      "examples": ["business", "proof", "specimen"]
+    },
+    "market_threshold_grade": {
+      "type": "boolean",
+      "description": "Indicates if this grade represents a significant market threshold where premiums increase substantially (e.g., MS-63, MS-65, MS-67, PR-69, PR-70)",
+      "examples": [true, false]
+    },
+    "notes": {
+      "type": "string",
+      "description": "Optional notes about the grade, condition issues, or special characteristics",
+      "maxLength": 500,
+      "examples": [
+        "Coin shows attractive toning",
+        "Minor rim nick not mentioned on holder",
+        "Estimate grade - raw coin"
+      ]
+    }
+  },
+  "required": [
+    "grade",
+    "grade_numeric"
+  ],
+  "additionalProperties": false,
+  "examples": [
+    {
+      "grade": "MS-65",
+      "grade_numeric": 65,
+      "grade_category": "Uncirculated",
+      "grade_subcategory": "Gem Uncirculated",
+      "grading_service": "PCGS",
+      "certification_number": "12345678",
+      "modifiers": ["RD"],
+      "full_grade_string": "PCGS MS-65 RD",
+      "is_certified": true,
+      "strike_type": "business",
+      "market_threshold_grade": true
+    },
+    {
+      "grade": "PR-69",
+      "grade_numeric": 69,
+      "grade_category": "Uncirculated",
+      "grade_subcategory": "Nearly Perfect Proof",
+      "grading_service": "NGC",
+      "certification_number": "1234567",
+      "modifiers": ["DCAM"],
+      "full_grade_string": "NGC PR-69 DCAM",
+      "is_certified": true,
+      "strike_type": "proof",
+      "market_threshold_grade": true
+    },
+    {
+      "grade": "AU-58",
+      "grade_numeric": 58,
+      "grade_category": "About Uncirculated",
+      "grade_subcategory": "About Uncirculated",
+      "grading_service": "raw",
+      "modifiers": [],
+      "full_grade_string": "AU-58",
+      "is_certified": false,
+      "strike_type": "business",
+      "market_threshold_grade": true,
+      "notes": "Self-graded estimate"
+    },
+    {
+      "grade": "MS-67",
+      "grade_numeric": 67,
+      "grade_category": "Uncirculated",
+      "grade_subcategory": "Superb Gem Uncirculated",
+      "grading_service": "PCGS",
+      "certification_number": "87654321",
+      "modifiers": ["FB", "RD"],
+      "full_grade_string": "PCGS MS-67 FB RD",
+      "is_certified": true,
+      "strike_type": "business",
+      "market_threshold_grade": true,
+      "notes": "Mercury Dime with exceptional strike"
+    }
+  ],
+  "definitions": {
+    "grade_abbreviations": {
+      "description": "Valid grade abbreviation prefixes",
+      "enum": ["P", "FR", "AG", "G", "VG", "F", "VF", "XF", "EF", "AU", "MS", "PR", "PF", "SP"]
+    },
+    "circulated_grades": {
+      "description": "Grade numeric values for circulated coins",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 58
+    },
+    "uncirculated_grades": {
+      "description": "Grade numeric values for uncirculated coins",
+      "type": "integer",
+      "minimum": 60,
+      "maximum": 70
+    }
+  },
+  "validation_notes": {
+    "grade_format": "Must match pattern: uppercase abbreviation + dash + 1-2 digit number",
+    "modifier_compatibility": "Not all modifiers are compatible with all grades (e.g., DCAM only for proofs)",
+    "service_format": "Service codes must be uppercase with no punctuation",
+    "cert_number": "PCGS uses 8 digits, NGC uses 7 digits (optionally with 3-digit suffix)",
+    "normalization": "Accept alternate formats (MS65, MS 65) but store in canonical format (MS-65)"
+  }
+}

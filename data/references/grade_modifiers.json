@@ -1,0 +1,277 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-28",
+  "description": "Coin grade modifier registry. Documents special designations, surface characteristics, and variety indicators that supplement base grades.",
+  "modifiers": [
+    {
+      "code": "CAM",
+      "name": "Cameo",
+      "category": "surface_finish",
+      "description": "Frosted devices contrasting with mirror-like fields on proof coins",
+      "applies_to_grades": ["PR-60", "PR-61", "PR-62", "PR-63", "PR-64", "PR-65", "PR-66", "PR-67", "PR-68", "PR-69", "PR-70", "PF-60", "PF-61", "PF-62", "PF-63", "PF-64", "PF-65", "PF-66", "PF-67", "PF-68", "PF-69", "PF-70", "SP-60", "SP-63", "SP-65", "SP-67", "SP-70"],
+      "applies_to_strike_types": ["proof", "specimen"],
+      "market_premium": "moderate",
+      "premium_range": "10-30%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Less dramatic contrast than Deep Cameo. More common on modern proofs."
+    },
+    {
+      "code": "DCAM",
+      "name": "Deep Cameo",
+      "category": "surface_finish",
+      "description": "Heavily frosted devices with deep mirror fields, dramatic high-contrast appearance",
+      "applies_to_grades": ["PR-60", "PR-61", "PR-62", "PR-63", "PR-64", "PR-65", "PR-66", "PR-67", "PR-68", "PR-69", "PR-70", "PF-60", "PF-61", "PF-62", "PF-63", "PF-64", "PF-65", "PF-66", "PF-67", "PF-68", "PF-69", "PF-70", "SP-60", "SP-63", "SP-65", "SP-67", "SP-70"],
+      "applies_to_strike_types": ["proof", "specimen"],
+      "market_premium": "high",
+      "premium_range": "20-100%",
+      "alternate_codes": ["UCAM"],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "NGC uses 'UC' or 'UCAM' (Ultra Cameo), PCGS uses 'DCAM'. Highly sought after, especially on classic commemoratives and early proof sets.",
+      "service_specific_codes": {
+        "PCGS": "DCAM",
+        "NGC": "UC"
+      }
+    },
+    {
+      "code": "FB",
+      "name": "Full Bands",
+      "category": "strike_quality",
+      "description": "Complete separation of horizontal bands visible on torch of Mercury Dime reverse",
+      "applies_to_series": ["Mercury Dime", "Winged Liberty Head Dime"],
+      "applies_to_date_range": "1916-1945",
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "high",
+      "premium_range": "100-500%",
+      "alternate_codes": ["FBL"],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Significant premium for this designation on Mercury Dimes. Requires complete separation of all horizontal bands on the fasces (bundle of rods) on the reverse. Very difficult to achieve on certain dates.",
+      "difficult_dates": ["1916-D", "1921", "1921-D", "1942/1", "1942/1-D"]
+    },
+    {
+      "code": "FH",
+      "name": "Full Head",
+      "category": "strike_quality",
+      "description": "Complete detail visible on Liberty's head, including all hair strands",
+      "applies_to_series": ["Standing Liberty Quarter"],
+      "applies_to_date_range": "1917-1930",
+      "applies_to_strike_types": ["business"],
+      "market_premium": "very_high",
+      "premium_range": "200-1000%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Extremely difficult to achieve due to high relief design and die wear. Premium designation for Standing Liberty Quarters. Requires complete detail on head, including three hair strands across forehead."
+    },
+    {
+      "code": "FS",
+      "name": "Full Steps",
+      "category": "strike_quality",
+      "description": "Complete detail on all steps of Monticello building",
+      "applies_to_series": ["Jefferson Nickel"],
+      "applies_to_date_range": "1938-present",
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "high",
+      "premium_range": "50-300%",
+      "alternate_codes": ["5FS", "6FS"],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Requires complete, unbroken horizontal lines on all 5 or 6 steps of Monticello. PCGS typically uses '5FS' or '6FS' to indicate number of full steps. More common on modern issues.",
+      "variants": {
+        "5FS": "Five Full Steps - complete separation of 5 steps",
+        "6FS": "Six Full Steps - complete separation of all 6 steps (highest standard)"
+      }
+    },
+    {
+      "code": "RD",
+      "name": "Red",
+      "category": "color_designation",
+      "description": "Full original red mint luster with 95-100% red color, no brown toning",
+      "applies_to_compositions": ["copper"],
+      "applies_to_series": ["Indian Head Cent", "Lincoln Cent", "Two Cent"],
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "very_high",
+      "premium_range": "100-500%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Copper coins only. Highest premium for color designation. Becomes increasingly rare on older coins. Must have 95% or more original red color.",
+      "color_percentage": "95-100% red"
+    },
+    {
+      "code": "RB",
+      "name": "Red-Brown",
+      "category": "color_designation",
+      "description": "Mixed red and brown coloration, 5-95% red luster remaining",
+      "applies_to_compositions": ["copper"],
+      "applies_to_series": ["Indian Head Cent", "Lincoln Cent", "Two Cent"],
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "moderate",
+      "premium_range": "25-75%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Copper coins only. Intermediate premium between Brown and Red. Natural transition state as copper tones over time. Must have 5-95% original red color.",
+      "color_percentage": "5-95% red, remainder brown"
+    },
+    {
+      "code": "BN",
+      "name": "Brown",
+      "category": "color_designation",
+      "description": "Fully brown or nearly fully brown patina, less than 5% red remaining",
+      "applies_to_compositions": ["copper"],
+      "applies_to_series": ["Indian Head Cent", "Lincoln Cent", "Two Cent"],
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "low",
+      "premium_range": "0-10%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Copper coins only. Lowest premium but can still be very attractive with even, rich chocolate brown toning. Common on older copper coins. Less than 5% original red color.",
+      "color_percentage": "0-5% red, 95-100% brown"
+    },
+    {
+      "code": "PL",
+      "name": "Prooflike",
+      "category": "surface_finish",
+      "description": "Business strike coin with mirror-like fields resembling a proof",
+      "applies_to_grades": ["MS-60", "MS-61", "MS-62", "MS-63", "MS-64", "MS-65", "MS-66", "MS-67", "MS-68", "MS-69", "MS-70"],
+      "applies_to_strike_types": ["business"],
+      "market_premium": "moderate",
+      "premium_range": "20-75%",
+      "alternate_codes": [],
+      "grading_services": ["NGC"],
+      "notes": "NGC designation only. Business strikes with mirror-like reflective fields, typically from early die state. Common on Morgan Dollars and some modern issues.",
+      "service_specific": {
+        "NGC": "Uses PL designation",
+        "PCGS": "Describes as 'prooflike' in holder text but no formal PL designation"
+      }
+    },
+    {
+      "code": "DPL",
+      "name": "Deep Prooflike",
+      "category": "surface_finish",
+      "description": "Business strike with deeply mirrored proof-like fields, strong contrast",
+      "applies_to_grades": ["MS-60", "MS-61", "MS-62", "MS-63", "MS-64", "MS-65", "MS-66", "MS-67", "MS-68", "MS-69", "MS-70"],
+      "applies_to_strike_types": ["business"],
+      "market_premium": "high",
+      "premium_range": "50-200%",
+      "alternate_codes": ["DMPL"],
+      "grading_services": ["NGC", "PCGS"],
+      "notes": "Deep mirror-like reflective fields on business strikes. More dramatic than standard PL. Both services recognize this designation. Particularly desirable on Morgan Dollars.",
+      "service_specific": {
+        "NGC": "Uses DPL",
+        "PCGS": "Uses DMPL"
+      }
+    },
+    {
+      "code": "FBL",
+      "name": "Full Bell Lines",
+      "category": "strike_quality",
+      "description": "Complete separation of horizontal lines on Liberty Bell",
+      "applies_to_series": ["Franklin Half Dollar"],
+      "applies_to_date_range": "1948-1963",
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "high",
+      "premium_range": "50-200%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Requires complete separation of all horizontal lines on Liberty Bell at bottom. Difficult to achieve due to die placement opposite Kennedy's head on obverse."
+    },
+    {
+      "code": "FDC",
+      "name": "Full Details Centavo",
+      "category": "strike_quality",
+      "description": "Complete detail on shield design",
+      "applies_to_series": ["Seated Liberty Dime", "Seated Liberty Quarter", "Seated Liberty Half Dollar"],
+      "applies_to_date_range": "1837-1891",
+      "applies_to_strike_types": ["business"],
+      "market_premium": "moderate",
+      "premium_range": "25-75%",
+      "alternate_codes": [],
+      "grading_services": ["PCGS", "NGC"],
+      "notes": "Requires complete detail on shield design. Less commonly used designation."
+    },
+    {
+      "code": "Star",
+      "name": "Star Designation",
+      "category": "eye_appeal",
+      "description": "Exceptional eye appeal and aesthetic quality beyond typical grade",
+      "applies_to_grades": ["Any grade MS-60 and above, PR-60 and above"],
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "moderate",
+      "premium_range": "10-50%",
+      "alternate_codes": ["*"],
+      "grading_services": ["NGC"],
+      "notes": "NGC-specific designation indicated by a star (*) symbol. Subjective assessment of superior eye appeal, color, and overall aesthetic quality.",
+      "service_specific": {
+        "NGC": "Uses star designation",
+        "PCGS": "Does not offer equivalent designation"
+      }
+    },
+    {
+      "code": "Plus",
+      "name": "Plus Designation",
+      "category": "quality_enhancement",
+      "description": "Superior quality within the assigned grade, could potentially upgrade",
+      "applies_to_grades": ["Any grade MS-60 and above"],
+      "applies_to_strike_types": ["business", "proof"],
+      "market_premium": "moderate",
+      "premium_range": "15-40%",
+      "alternate_codes": ["+"],
+      "grading_services": ["PCGS"],
+      "notes": "PCGS-specific designation indicated by a plus (+) symbol. Indicates coin is at the high end of the grade range and shows exceptional quality for the assigned grade.",
+      "service_specific": {
+        "PCGS": "Uses plus (+) designation",
+        "NGC": "Does not offer equivalent designation (uses Star instead)"
+      }
+    }
+  ],
+  "category_definitions": {
+    "surface_finish": "Characteristics related to the coin's surface texture and appearance (CAM, DCAM, PL, DPL)",
+    "strike_quality": "Designations for exceptional strike sharpness and detail (FB, FH, FS, FBL)",
+    "color_designation": "Color classifications for copper coins (RD, RB, BN)",
+    "eye_appeal": "Subjective aesthetic quality assessments (Star)",
+    "quality_enhancement": "Superior quality within assigned grade (Plus)"
+  },
+  "usage_guidelines": {
+    "combining_modifiers": "Some modifiers can be combined (e.g., 'MS-65 RD FB' for a Red Mercury Dime with Full Bands), but not all combinations are valid",
+    "service_differences": "PCGS and NGC may use different codes for similar characteristics (e.g., DCAM vs UC, DMPL vs DPL)",
+    "market_impact": "Modifiers can significantly increase coin value, with some designations (FB, FH, RD) doubling or tripling prices",
+    "verification": "Always verify modifier designations on grading service website using certification number"
+  },
+  "invalid_combinations": [
+    {
+      "modifier1": "RD",
+      "modifier2": "BN",
+      "reason": "Mutually exclusive color designations"
+    },
+    {
+      "modifier1": "CAM",
+      "modifier2": "DCAM",
+      "reason": "Mutually exclusive cameo levels"
+    },
+    {
+      "modifier1": "PL",
+      "modifier2": "DCAM",
+      "reason": "PL is for business strikes, DCAM is for proofs"
+    },
+    {
+      "modifier": "FB",
+      "with_series": "Lincoln Cent",
+      "reason": "FB designation only applies to Mercury Dimes"
+    }
+  ],
+  "valid_combinations": [
+    {
+      "combination": "MS-65 RD FB",
+      "series": "Mercury Dime",
+      "description": "Gem Uncirculated Red Mercury Dime with Full Bands"
+    },
+    {
+      "combination": "PR-69 DCAM",
+      "series": "Any proof coin",
+      "description": "Near-perfect proof with Deep Cameo contrast"
+    },
+    {
+      "combination": "MS-66 RB 5FS",
+      "series": "Jefferson Nickel",
+      "description": "Premium Gem Red-Brown Jefferson Nickel with Five Full Steps"
+    }
+  ]
+}

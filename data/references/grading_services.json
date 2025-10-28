@@ -1,0 +1,214 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-28",
+  "description": "Third-party coin grading service registry. Provides standardized information about major grading companies for external metadata systems.",
+  "services": [
+    {
+      "code": "PCGS",
+      "name": "Professional Coin Grading Service",
+      "founded": 1986,
+      "website": "https://www.pcgs.com",
+      "cert_lookup_url": "https://www.pcgs.com/cert/",
+      "cert_number_format": {
+        "pattern": "\\d{8}",
+        "description": "8-digit numeric certification number",
+        "example": "12345678",
+        "validation_regex": "^\\d{8}$"
+      },
+      "grade_format": "PCGS {GRADE}",
+      "grade_format_with_modifiers": "PCGS {GRADE} {MODIFIERS}",
+      "grade_format_examples": [
+        "PCGS MS-65",
+        "PCGS PR-69 DCAM",
+        "PCGS AU-58",
+        "PCGS MS-64 RD",
+        "PCGS MS-67 FB"
+      ],
+      "industry_standard": true,
+      "focus": "US coins (primary), world coins",
+      "notes": "Largest and most widely accepted third-party grading service. Founded by David Hall in 1986, PCGS pioneered the modern coin certification industry.",
+      "population_reports": true,
+      "trueview_imaging": true,
+      "holder_types": ["standard", "gold_shield", "first_strike", "flag_label"],
+      "special_designations": [
+        {
+          "code": "FS",
+          "name": "First Strike",
+          "description": "Coins received by PCGS within 30 days of mint release"
+        },
+        {
+          "code": "MS",
+          "name": "Mercanti Signed",
+          "description": "Label hand-signed by John Mercanti, former Chief Engraver"
+        },
+        {
+          "code": "GS",
+          "name": "Gold Shield",
+          "description": "Enhanced holder with anti-counterfeiting features"
+        }
+      ]
+    },
+    {
+      "code": "NGC",
+      "name": "Numismatic Guaranty Company",
+      "founded": 1987,
+      "website": "https://www.ngccoin.com",
+      "cert_lookup_url": "https://www.ngccoin.com/certlookup/",
+      "cert_number_format": {
+        "pattern": "\\d{7}(-\\d{3})?",
+        "description": "7-digit numeric certification number, optionally with 3-digit suffix",
+        "example": "1234567",
+        "validation_regex": "^\\d{7}(-\\d{3})?$"
+      },
+      "grade_format": "NGC {GRADE}",
+      "grade_format_with_modifiers": "NGC {GRADE} {MODIFIERS}",
+      "grade_format_examples": [
+        "NGC MS-65",
+        "NGC PF-69 UC",
+        "NGC AU-58",
+        "NGC MS-64 BN",
+        "NGC PR-70 DCAM"
+      ],
+      "industry_standard": true,
+      "focus": "US coins, world coins (strong), ancient coins",
+      "notes": "Second largest grading service. Founded in 1987, particularly strong in world and ancient coins. Uses 'UC' (Ultra Cameo) instead of 'DCAM'.",
+      "population_reports": true,
+      "trueview_imaging": false,
+      "holder_types": ["standard", "early_releases", "first_releases", "brown_label"],
+      "special_designations": [
+        {
+          "code": "ER",
+          "name": "Early Releases",
+          "description": "Coins received by NGC within 30 days of mint release"
+        },
+        {
+          "code": "FR",
+          "name": "First Releases",
+          "description": "Coins received by NGC within specified time frame of mint release"
+        },
+        {
+          "code": "PL",
+          "name": "Prooflike",
+          "description": "Business strike coins with proof-like mirrored fields"
+        },
+        {
+          "code": "DPL",
+          "name": "Deep Prooflike",
+          "description": "Business strike coins with deeply mirrored proof-like fields"
+        }
+      ],
+      "modifier_differences": {
+        "deep_cameo": {
+          "pcgs_uses": "DCAM",
+          "ngc_uses": "UC",
+          "alternate_codes": ["UCAM"]
+        }
+      }
+    },
+    {
+      "code": "ANACS",
+      "name": "American Numismatic Association Certification Service",
+      "founded": 1972,
+      "website": "https://www.anacs.com",
+      "cert_lookup_url": "https://www.anacs.com/cert/",
+      "cert_number_format": {
+        "pattern": "\\d{7}",
+        "description": "7-digit numeric certification number",
+        "example": "1234567",
+        "validation_regex": "^\\d{7}$"
+      },
+      "grade_format": "ANACS {GRADE}",
+      "industry_standard": false,
+      "focus": "US coins, particularly problem coins and varieties",
+      "notes": "Oldest grading service (1972), now independently owned. Known for grading problem coins and attribution services. Not included in primary standard but commonly encountered.",
+      "population_reports": false,
+      "included_in_standard": false,
+      "reason_excluded": "Focus on PCGS and NGC only per user requirements"
+    },
+    {
+      "code": "ICG",
+      "name": "Independent Coin Graders",
+      "founded": 1998,
+      "website": "https://www.icgcoin.com",
+      "cert_lookup_url": "https://www.icgcoin.com/cert-verification/",
+      "cert_number_format": {
+        "pattern": "\\d{8}",
+        "description": "8-digit numeric certification number",
+        "example": "12345678",
+        "validation_regex": "^\\d{8}$"
+      },
+      "grade_format": "ICG {GRADE}",
+      "industry_standard": false,
+      "focus": "US and world coins",
+      "notes": "Founded in 1998. Not included in primary standard but commonly encountered in the marketplace.",
+      "population_reports": false,
+      "included_in_standard": false,
+      "reason_excluded": "Focus on PCGS and NGC only per user requirements"
+    },
+    {
+      "code": "CAC",
+      "name": "Certified Acceptance Corporation",
+      "founded": 2007,
+      "website": "https://www.caccoins.com",
+      "cert_lookup_url": null,
+      "cert_number_format": null,
+      "grade_format": "N/A - CAC is a sticker service, not a grading service",
+      "industry_standard": false,
+      "focus": "Quality verification for PCGS/NGC coins",
+      "notes": "CAC does NOT grade coins. They apply green (solid for grade) or gold (premium quality) stickers to already-graded PCGS/NGC coins that meet their quality standards. Founded by John Albanese in 2007.",
+      "population_reports": false,
+      "is_grading_service": false,
+      "is_verification_service": true,
+      "included_in_standard": false,
+      "reason_excluded": "Not a grading service - verification/sticker service only",
+      "sticker_types": [
+        {
+          "color": "green",
+          "description": "Coin is solid for the assigned grade",
+          "market_impact": "5-15% premium typical"
+        },
+        {
+          "color": "gold",
+          "description": "Coin is premium quality, could potentially upgrade",
+          "market_impact": "10-30% premium typical"
+        }
+      ]
+    }
+  ],
+  "format_standards": {
+    "canonical_format": "{SERVICE} {GRADE} {MODIFIERS}",
+    "examples": [
+      "PCGS MS-65",
+      "NGC PR-69 DCAM",
+      "PCGS AU-58",
+      "NGC MS-67 RD"
+    ],
+    "parsing_rules": {
+      "service_code": "UPPERCASE, no punctuation",
+      "separator": "single space",
+      "grade": "canonical format (MS-65 with dash)",
+      "modifiers": "UPPERCASE, space-separated if multiple"
+    },
+    "alternate_notations": {
+      "accept_for_parsing": [
+        "PCGS MS65",
+        "pcgs ms-65",
+        "PCGS MS-65RD",
+        "NGC PF69 UC"
+      ],
+      "normalize_to_canonical": [
+        "PCGS MS-65",
+        "PCGS MS-65",
+        "PCGS MS-65 RD",
+        "NGC PF-69 UC"
+      ]
+    }
+  },
+  "usage_notes": {
+    "primary_services": ["PCGS", "NGC"],
+    "market_acceptance": "PCGS and NGC coins typically command higher premiums than other services",
+    "cross_grading": "Common practice to resubmit coins to different services seeking higher grades",
+    "population_importance": "Lower population coins in high grades command significant premiums",
+    "cert_verification": "Always verify certification numbers on service websites before purchase"
+  }
+}

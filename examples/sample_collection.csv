@@ -1,7 +1,14 @@
-year,mint,series,grade,purchase_price,purchase_date,notes
-1916,D,Mercury Dime,VG,125.00,2024-01-15,Key date coin
-1917,P,Mercury Dime,F,8.50,2024-02-03,Nice original surfaces
-1945,S,Mercury Dime,XF,12.00,2024-02-10,Micro S variety
-1946,P,Roosevelt Dime,AU,2.50,2024-03-01,First year Roosevelt
-1964,D,Roosevelt Dime,MS,3.00,2024-03-15,Last silver dime
-1965,P,Roosevelt Dime,MS,0.25,2024-04-01,First clad dime
+year,mint,series,grade,grading_service,certification_number,modifiers,purchase_price,purchase_date,notes
+1916,D,Mercury Dime,VG-8,raw,,,,125.00,2024-01-15,Key date coin - raw (uncertified)
+1917,P,Mercury Dime,F-12,raw,,,,8.50,2024-02-03,Nice original surfaces
+1942,D,Mercury Dime,MS-67,PCGS,87654321,FB RD,850.00,2024-02-10,Full Bands - exceptional strike
+1946,P,Roosevelt Dime,AU-58,NGC,1234567,,,15.00,2024-03-01,First year Roosevelt - NGC certified
+1964,D,Roosevelt Dime,MS-65,PCGS,12345678,,,45.00,2024-03-15,Last silver dime - Gem Uncirculated
+1965,P,Roosevelt Dime,MS-63,raw,,,,2.00,2024-04-01,First clad dime
+1909,S,Lincoln Cent,MS-64,PCGS,23456789,RB,450.00,2024-04-15,VDB variety - Red-Brown
+1877,P,Indian Head Cent,AU-58,NGC,3456789,,,2800.00,2024-05-01,Key date - About Uncirculated
+1881,S,Morgan Dollar,MS-65,PCGS,45678901,,,185.00,2024-05-15,Gem Uncirculated - common date
+1893,S,Morgan Dollar,VF-30,raw,,,,750.00,2024-06-01,Key date - Very Fine
+1971,S,Eisenhower Dollar,PR-69,NGC,5678901,DCAM,95.00,2024-06-15,Proof - Deep Cameo
+1936,P,Buffalo Nickel,MS-66,PCGS,67890123,,,125.00,2024-07-01,Premium Gem quality
+1937,D,Buffalo Nickel,F-15,raw,,,,55.00,2024-07-15,Three-Legged variety (not in grade)
