@@ -415,10 +415,10 @@ def migrate_existing_data(conn):
     
     # First, populate series registry from existing data
     cursor.execute("""
-        SELECT DISTINCT series_id, series_name, MIN(year), MAX(year), denomination
-        FROM coins 
-        WHERE series_id IS NOT NULL
-        ORDER BY series_id
+        SELECT DISTINCT series, series, MIN(year), MAX(year), denomination
+        FROM coins
+        WHERE series IS NOT NULL
+        ORDER BY series
     """)
     
     series_data = cursor.fetchall()
@@ -443,13 +443,19 @@ def migrate_existing_data(conn):
     
     migrated_count = 0
     for coin in coins:
-        # Unpack coin data (adjust indices based on actual schema)
-        (coin_id, series_id, country, denomination, series_name, year, mint,
-         business_strikes, proof_strikes, rarity, composition, weight_grams,
-         diameter_mm, varieties, source_citation, notes, created_at,
-         obverse_description, reverse_description, distinguishing_features,
-         identification_keywords, common_names, category, issuer, series_year,
-         calendar_type, original_date, seller_name) = coin
+        # Unpack coin data based on simplified schema
+        # coin_id, year, mint, denomination, series, variety, composition,
+        # weight_grams, diameter_mm, edge, designer, obverse_description,
+        # reverse_description, business_strikes, proof_strikes, total_mintage,
+        # notes, rarity, source_citation, created_at
+        (coin_id, year, mint, denomination, series_name, variety, composition,
+         weight_grams, diameter_mm, edge, designer, obverse_description,
+         reverse_description, business_strikes, proof_strikes, total_mintage,
+         notes, rarity, source_citation, created_at) = coin
+
+        # Use series_name as series_id (they are the same now)
+        series_id = series_name
+        varieties = [variety] if variety else []
         
         # Look up series abbreviation from registry
         if series_id:
@@ -515,8 +521,8 @@ def migrate_existing_data(conn):
                 issue_id, object_type, series_id, country_code, authority_name,
                 monetary_system, currency_unit, face_value, unit_name, common_names,
                 system_fraction, issue_year, mint_id, specifications, sides,
-                mintage, rarity, varieties, source_citation, notes, seller_name
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                mintage, rarity, varieties, source_citation, notes
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             issue_id,
             "coin",
@@ -535,10 +541,9 @@ def migrate_existing_data(conn):
             json.dumps(sides),
             json.dumps(mintage),
             rarity,
-            varieties,
+            json.dumps(varieties) if varieties else json.dumps([]),
             source_citation,
-            notes,
-            seller_name
+            notes
         ))
         
         migrated_count += 1

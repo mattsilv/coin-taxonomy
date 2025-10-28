@@ -1,18 +1,20 @@
 {
   "taxonomy_version": "1.1",
   "format": "universal_flat_structure",
-  "generated_at": "2025-09-04T20:01:33.532729+00:00",
-  "total_issues": 0,
-  "countries": 0,
-  "object_types": 0,
+  "generated_at": "2025-10-28T02:23:33.478182+00:00",
+  "total_issues": 230,
+  "countries": 1,
+  "object_types": 1,
   "year_range": {
-    "earliest": null,
-    "latest": null
+    "earliest": 1851,
+    "latest": 2024
   },
   "registries": {
     "subjects": "subject_registry.json",
     "compositions": "composition_registry.json",
     "series": "series_registry.json"
   },
-  "issue_files": []
+  "issue_files": [
+    "us_issues.json"
+  ]
 }

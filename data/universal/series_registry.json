@@ -1,3 +1,13 @@
 {
-  "series": []
+  "series": [
+    {
+      "series_id": "Loonie",
+      "series_name": "Loonie",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1851,
+      "end_year": 2024,
+      "type": "coin"
+    }
+  ]
 }
