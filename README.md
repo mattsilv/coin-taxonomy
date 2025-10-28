@@ -164,6 +164,56 @@ US-WASH-19XX-D  → Washington Quarter from Denver, decade visible (1940s, 1950s
 "Wheat Penny 1909 VDB"       → US-LWCT-1909-P (VDB variety)
 ```
 
+### 📊 Numismatic Market Index (7-Coin Baseline) → Taxonomy Mapping
+
+**Theoretical index tracking highly liquid, certified U.S. coins for market sentiment analysis.**
+
+This demonstrates mapping investment-grade coins (PCGS/NGC certified) to standardized IDs with full grade metadata:
+
+| Metal  | Coin Type                  | Marketplace Listing                           | Taxonomy ID    | Grade  | Modifiers |
+|--------|----------------------------|-----------------------------------------------|----------------|--------|-----------|
+| Copper | Lincoln Wheat Cent         | "1958 Lincoln Wheat Cent PCGS MS65 RD"        | US-LWCT-1958-P | MS-65  | RD        |
+| Nickel | Buffalo Nickel             | "1937 Buffalo Nickel NGC MS66"                | US-BUFF-1937-P | MS-66  |           |
+| Silver | Standing Liberty Quarter   | "1930 Standing Liberty Quarter PCGS MS64"     | US-SLIQ-1930-P | MS-64  |           |
+| Silver | Morgan Silver Dollar       | "1921 Morgan Dollar NGC MS65"                 | US-MORG-1921-P | MS-65  |           |
+| Silver | Peace Silver Dollar        | "1922 Peace Dollar PCGS MS63"                 | US-PEAC-1922-P | MS-63  |           |
+| Gold   | Saint-Gaudens Double Eagle | "1924 Saint-Gaudens $20 NGC MS63"             | US-DESG-1924-P | MS-63  |           |
+| Gold   | Indian Head Eagle          | "1925 Indian Head $10 PCGS MS63"              | US-QEIH-1925-P | MS-63  |           |
+
+**Grade Normalization Applied:**
+```python
+# Input: "1921 Morgan Dollar NGC MS65"
+{
+  "coin_id": "US-MORG-1921-P",
+  "grade": "MS-65",              # Canonical format
+  "grading_service": "NGC",      # Normalized uppercase
+  "certification_number": "1234567",
+  "metal_content": "90% silver", # From composition registry
+  "market_threshold": true       # MS-65 is key price tier
+}
+
+# Input: "1958 Lincoln Wheat Cent PCGS MS65RD"
+{
+  "coin_id": "US-LWCT-1958-P",
+  "grade": "MS-65",              # Canonical format
+  "grading_service": "PCGS",
+  "modifiers": ["RD"],           # Red designation
+  "certification_number": "87654321"
+}
+```
+
+**Index Use Cases:**
+- **Market tracking**: Monitor quarterly price changes across denominations
+- **Portfolio management**: Track certified coin investments with consistent IDs
+- **Price normalization**: Isolate numismatic premium from spot metal prices
+- **Liquidity analysis**: High-population coins ensure reliable pricing data
+
+**Rationale:**
+- 10,000+ PCGS/NGC population for each coin ensures deep liquidity
+- Balanced exposure: Copper (1), Nickel (1), Silver (3), Gold (2)
+- Common dates with strong collector demand
+- Standardized grades (MS63-MS66) represent mainstream market
+
 ### Type Code Reference
 
 **Common Coin Types** (4-letter codes):
