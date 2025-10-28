@@ -415,25 +415,27 @@ def migrate_existing_data(conn):
     
     # First, populate series registry from existing data
     cursor.execute("""
-        SELECT DISTINCT series, series, MIN(year), MAX(year), denomination
+        SELECT DISTINCT series, series, MIN(year), MAX(year), denomination,
+               substr(coin_id, 1, instr(coin_id, '-') - 1) as country_code
         FROM coins
         WHERE series IS NOT NULL
+        GROUP BY series, country_code
         ORDER BY series
     """)
-    
+
     series_data = cursor.fetchall()
     existing_abbreviations = set()
-    
-    for series_id, series_name, start_year, end_year, denomination in series_data:
+
+    for series_id, series_name, start_year, end_year, denomination, country_code in series_data:
         # Generate unique abbreviation for this series
         abbreviation = generate_unique_series_abbreviation(series_id, series_name, existing_abbreviations)
         existing_abbreviations.add(abbreviation)
-        
+
         cursor.execute("""
-            INSERT OR REPLACE INTO series_registry 
+            INSERT OR REPLACE INTO series_registry
             (series_id, series_name, series_abbreviation, country_code, denomination, start_year, end_year, type)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        """, (series_id, series_name, abbreviation, "US", denomination, start_year, end_year, "coin"))
+        """, (series_id, series_name, abbreviation, country_code or "US", denomination, start_year, end_year, "coin"))
     
     print(f"✓ Migrated {len(series_data)} series to registry with unique abbreviations")
     
@@ -453,10 +455,13 @@ def migrate_existing_data(conn):
          reverse_description, business_strikes, proof_strikes, total_mintage,
          notes, rarity, source_citation, created_at) = coin
 
+        # Extract country_code from coin_id (e.g., "US-IHC-1877-P" → "US")
+        country_code = coin_id.split('-')[0] if '-' in coin_id else "US"
+
         # Use series_name as series_id (they are the same now)
         series_id = series_name
         varieties = [variety] if variety else []
-        
+
         # Look up series abbreviation from registry
         if series_id:
             cursor.execute("SELECT series_abbreviation FROM series_registry WHERE series_id = ?", (series_id,))
@@ -464,8 +469,8 @@ def migrate_existing_data(conn):
             series_abbrev = result[0] if result else "UNK"
         else:
             series_abbrev = "UNK"
-        
-        issue_id = generate_issue_id("US", series_abbrev, year, mint or "P")
+
+        issue_id = generate_issue_id(country_code, series_abbrev, year, mint or "P")
         
         # Map denomination to face value
         denom_map = {
@@ -514,7 +519,24 @@ def migrate_existing_data(conn):
             "business_strikes": business_strikes or 0,
             "proof_strikes": proof_strikes or 0
         }
-        
+
+        # Map country-specific metadata
+        country_metadata = {
+            "US": {
+                "authority_name": "United States of America",
+                "currency_unit": "dollar"
+            },
+            "CA": {
+                "authority_name": "Canada",
+                "currency_unit": "dollar"
+            }
+        }
+
+        metadata = country_metadata.get(country_code, {
+            "authority_name": "Unknown",
+            "currency_unit": "dollar"
+        })
+
         # Insert into issues table
         cursor.execute("""
             INSERT OR REPLACE INTO issues (
@@ -527,14 +549,14 @@ def migrate_existing_data(conn):
             issue_id,
             "coin",
             series_id or "unknown",
-            "US",
-            "United States of America",
+            country_code,
+            metadata["authority_name"],
             "decimal",
-            "dollar",
+            metadata["currency_unit"],
             face_value,
             denomination,
             json.dumps([denomination]),
-            f"1/{int(1/face_value)} dollar" if face_value < 1 else "1 dollar",
+            f"1/{int(1/face_value)} {metadata['currency_unit']}" if face_value < 1 else f"1 {metadata['currency_unit']}",
             year,
             mint,
             json.dumps(specifications),

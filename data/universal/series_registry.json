@@ -1,12 +1,831 @@
 {
   "series": [
     {
+      "series_id": "$10 Gold",
+      "series_name": "$10 Gold",
+      "country_code": "CA",
+      "denomination": "Ten Dollars",
+      "start_year": 1912,
+      "end_year": 1914,
+      "type": "coin"
+    },
+    {
+      "series_id": "$5 Gold",
+      "series_name": "$5 Gold",
+      "country_code": "CA",
+      "denomination": "Five Dollars",
+      "start_year": 1912,
+      "end_year": 1914,
+      "type": "coin"
+    },
+    {
+      "series_id": "10 Cents Steel",
+      "series_name": "10 Cents Steel",
+      "country_code": "CA",
+      "denomination": "Ten Cents",
+      "start_year": 2000,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "25 Cents Steel",
+      "series_name": "25 Cents Steel",
+      "country_code": "CA",
+      "denomination": "Twenty-Five Cents",
+      "start_year": 2000,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "5 Cents Nickel",
+      "series_name": "5 Cents Nickel",
+      "country_code": "CA",
+      "denomination": "Five Cents",
+      "start_year": 1968,
+      "end_year": 1999,
+      "type": "coin"
+    },
+    {
+      "series_id": "5 Cents Steel",
+      "series_name": "5 Cents Steel",
+      "country_code": "CA",
+      "denomination": "Five Cents",
+      "start_year": 2000,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "50 Cents Steel",
+      "series_name": "50 Cents Steel",
+      "country_code": "CA",
+      "denomination": "Fifty Cents",
+      "start_year": 2000,
+      "end_year": 2020,
+      "type": "coin"
+    },
+    {
+      "series_id": "Alabama Centennial",
+      "series_name": "Alabama Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1921,
+      "end_year": 1921,
+      "type": "coin"
+    },
+    {
+      "series_id": "Alabama Centennial 2X2",
+      "series_name": "Alabama Centennial 2X2",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1921,
+      "end_year": 1921,
+      "type": "coin"
+    },
+    {
+      "series_id": "Albany, New York, Charter",
+      "series_name": "Albany, New York, Charter",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Arkansas Centennial",
+      "series_name": "Arkansas Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1935,
+      "end_year": 1939,
+      "type": "coin"
+    },
+    {
+      "series_id": "Arkansas-Robinson",
+      "series_name": "Arkansas-Robinson",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Battle of Antietam",
+      "series_name": "Battle of Antietam",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1937,
+      "end_year": 1937,
+      "type": "coin"
+    },
+    {
+      "series_id": "Battle of Gettysburg",
+      "series_name": "Battle of Gettysburg",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Booker T. Washington",
+      "series_name": "Booker T. Washington",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1946,
+      "end_year": 1951,
+      "type": "coin"
+    },
+    {
+      "series_id": "Bridgeport, Connecticut, Centennial",
+      "series_name": "Bridgeport, Connecticut, Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "California Diamond Jubilee",
+      "series_name": "California Diamond Jubilee",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1925,
+      "end_year": 1925,
+      "type": "coin"
+    },
+    {
+      "series_id": "California-Pacific Exposition",
+      "series_name": "California-Pacific Exposition",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1935,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Carver/Washington",
+      "series_name": "Carver/Washington",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1951,
+      "end_year": 1954,
+      "type": "coin"
+    },
+    {
+      "series_id": "Centennial",
+      "series_name": "Centennial",
+      "country_code": "CA",
+      "denomination": "25 Cents",
+      "start_year": 1967,
+      "end_year": 1967,
+      "type": "coin"
+    },
+    {
+      "series_id": "Cincinnati Music Center",
+      "series_name": "Cincinnati Music Center",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Cleveland Centennial",
+      "series_name": "Cleveland Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Columbia, South Carolina, Sesquicentennial",
+      "series_name": "Columbia, South Carolina, Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Connecticut Tercentenary",
+      "series_name": "Connecticut Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1935,
+      "end_year": 1935,
+      "type": "coin"
+    },
+    {
+      "series_id": "Daniel Boone Bicentennial",
+      "series_name": "Daniel Boone Bicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1934,
+      "end_year": 1938,
+      "type": "coin"
+    },
+    {
+      "series_id": "Delaware Tercentenary",
+      "series_name": "Delaware Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Elgin, Illinois, Centennial",
+      "series_name": "Elgin, Illinois, Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Fort Vancouver Centennial",
+      "series_name": "Fort Vancouver Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1925,
+      "end_year": 1925,
+      "type": "coin"
+    },
+    {
+      "series_id": "George V Silver",
+      "series_name": "George V Silver",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1921,
+      "end_year": 1921,
+      "type": "coin"
+    },
+    {
+      "series_id": "George V Silver Dollar",
+      "series_name": "George V Silver Dollar",
+      "country_code": "CA",
+      "denomination": "1 Dollar",
+      "start_year": 1935,
+      "end_year": 1935,
+      "type": "coin"
+    },
+    {
+      "series_id": "George VI Nickel",
+      "series_name": "George VI Nickel",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1937,
+      "end_year": 1937,
+      "type": "coin"
+    },
+    {
+      "series_id": "George VI Silver",
+      "series_name": "George VI Silver",
+      "country_code": "CA",
+      "denomination": "10 Cents",
+      "start_year": 1937,
+      "end_year": 1937,
+      "type": "coin"
+    },
+    {
+      "series_id": "George VI Silver Dollar",
+      "series_name": "George VI Silver Dollar",
+      "country_code": "CA",
+      "denomination": "1 Dollar",
+      "start_year": 1947,
+      "end_year": 1948,
+      "type": "coin"
+    },
+    {
+      "series_id": "George VI Steel",
+      "series_name": "George VI Steel",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1944,
+      "end_year": 1944,
+      "type": "coin"
+    },
+    {
+      "series_id": "George VI Tombac",
+      "series_name": "George VI Tombac",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1942,
+      "end_year": 1942,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Maple Leaf",
+      "series_name": "Gold Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Gold Maple Leaf",
+      "start_year": 1979,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Grant Memorial",
+      "series_name": "Grant Memorial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1922,
+      "end_year": 1922,
+      "type": "coin"
+    },
+    {
+      "series_id": "Grant Memorial with Star",
+      "series_name": "Grant Memorial with Star",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1922,
+      "end_year": 1922,
+      "type": "coin"
+    },
+    {
+      "series_id": "Hawaiian Sesquicentennial",
+      "series_name": "Hawaiian Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1928,
+      "end_year": 1928,
+      "type": "coin"
+    },
+    {
+      "series_id": "Hudson, New York, Sesquicentennial",
+      "series_name": "Hudson, New York, Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1935,
+      "end_year": 1935,
+      "type": "coin"
+    },
+    {
+      "series_id": "Huguenot-Walloon Tercentenary",
+      "series_name": "Huguenot-Walloon Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1924,
+      "end_year": 1924,
+      "type": "coin"
+    },
+    {
+      "series_id": "Illinois Centennial",
+      "series_name": "Illinois Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1918,
+      "end_year": 1918,
+      "type": "coin"
+    },
+    {
+      "series_id": "Iowa Statehood Centennial",
+      "series_name": "Iowa Statehood Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1946,
+      "end_year": 1946,
+      "type": "coin"
+    },
+    {
+      "series_id": "Lafayette Dollar",
+      "series_name": "Lafayette Dollar",
+      "country_code": "US",
+      "denomination": "Commemorative Dollars",
+      "start_year": 1900,
+      "end_year": 1900,
+      "type": "coin"
+    },
+    {
+      "series_id": "Large Cent",
+      "series_name": "Large Cent",
+      "country_code": "CA",
+      "denomination": "1 Cent",
+      "start_year": 1858,
+      "end_year": 1902,
+      "type": "coin"
+    },
+    {
+      "series_id": "Lewis & Clark Exposition",
+      "series_name": "Lewis & Clark Exposition",
+      "country_code": "US",
+      "denomination": "Gold Dollars",
+      "start_year": 1904,
+      "end_year": 1905,
+      "type": "coin"
+    },
+    {
+      "series_id": "Lexington-Concord Sesquicentennial",
+      "series_name": "Lexington-Concord Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1925,
+      "end_year": 1925,
+      "type": "coin"
+    },
+    {
+      "series_id": "Long Island Tercentenary",
+      "series_name": "Long Island Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
       "series_id": "Loonie",
       "series_name": "Loonie",
-      "country_code": "US",
+      "country_code": "CA",
       "denomination": "Dollars",
-      "start_year": 1851,
+      "start_year": 1987,
       "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Louisiana Purchase - Jefferson",
+      "series_name": "Louisiana Purchase - Jefferson",
+      "country_code": "US",
+      "denomination": "Gold Dollars",
+      "start_year": 1903,
+      "end_year": 1903,
+      "type": "coin"
+    },
+    {
+      "series_id": "Louisiana Purchase - McKinley",
+      "series_name": "Louisiana Purchase - McKinley",
+      "country_code": "US",
+      "denomination": "Gold Dollars",
+      "start_year": 1903,
+      "end_year": 1903,
+      "type": "coin"
+    },
+    {
+      "series_id": "Lynchburg, Virginia, Sesquicentennial",
+      "series_name": "Lynchburg, Virginia, Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Maine Centennial",
+      "series_name": "Maine Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1920,
+      "end_year": 1920,
+      "type": "coin"
+    },
+    {
+      "series_id": "Maryland Tercentenary",
+      "series_name": "Maryland Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1934,
+      "end_year": 1934,
+      "type": "coin"
+    },
+    {
+      "series_id": "McKinley Memorial",
+      "series_name": "McKinley Memorial",
+      "country_code": "US",
+      "denomination": "Gold Dollars",
+      "start_year": 1916,
+      "end_year": 1917,
+      "type": "coin"
+    },
+    {
+      "series_id": "Missouri Centennial",
+      "series_name": "Missouri Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1921,
+      "end_year": 1921,
+      "type": "coin"
+    },
+    {
+      "series_id": "Missouri Centennial 2\u26054",
+      "series_name": "Missouri Centennial 2\u26054",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1921,
+      "end_year": 1921,
+      "type": "coin"
+    },
+    {
+      "series_id": "Monroe Doctrine Centennial",
+      "series_name": "Monroe Doctrine Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1923,
+      "end_year": 1923,
+      "type": "coin"
+    },
+    {
+      "series_id": "New Rochelle, New York, 250th Anniversary",
+      "series_name": "New Rochelle, New York, 250th Anniversary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1938,
+      "end_year": 1938,
+      "type": "coin"
+    },
+    {
+      "series_id": "Nickel Dollar",
+      "series_name": "Nickel Dollar",
+      "country_code": "CA",
+      "denomination": "Dollars",
+      "start_year": 1968,
+      "end_year": 1986,
+      "type": "coin"
+    },
+    {
+      "series_id": "Nickel Three-Cent",
+      "series_name": "Nickel Three-Cent",
+      "country_code": "US",
+      "denomination": "Three Cents",
+      "start_year": 1865,
+      "end_year": 1889,
+      "type": "coin"
+    },
+    {
+      "series_id": "Norfolk, Virginia, Bicentennial",
+      "series_name": "Norfolk, Virginia, Bicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Old Spanish Trail",
+      "series_name": "Old Spanish Trail",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1935,
+      "end_year": 1935,
+      "type": "coin"
+    },
+    {
+      "series_id": "Oregon Trail Memorial",
+      "series_name": "Oregon Trail Memorial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1926,
+      "end_year": 1939,
+      "type": "coin"
+    },
+    {
+      "series_id": "Ottawa Sovereign",
+      "series_name": "Ottawa Sovereign",
+      "country_code": "CA",
+      "denomination": "Sovereign",
+      "start_year": 1908,
+      "end_year": 1919,
+      "type": "coin"
+    },
+    {
+      "series_id": "Palladium Maple Leaf",
+      "series_name": "Palladium Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Palladium Maple Leaf",
+      "start_year": 2005,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Panama-Pacific Exposition",
+      "series_name": "Panama-Pacific Exposition",
+      "country_code": "US",
+      "denomination": "Gold Dollars",
+      "start_year": 1915,
+      "end_year": 1915,
+      "type": "coin"
+    },
+    {
+      "series_id": "Panama-Pacific Exposition Octagonal",
+      "series_name": "Panama-Pacific Exposition Octagonal",
+      "country_code": "US",
+      "denomination": "Fifty Dollars",
+      "start_year": 1915,
+      "end_year": 1915,
+      "type": "coin"
+    },
+    {
+      "series_id": "Panama-Pacific Exposition Round",
+      "series_name": "Panama-Pacific Exposition Round",
+      "country_code": "US",
+      "denomination": "Fifty Dollars",
+      "start_year": 1915,
+      "end_year": 1915,
+      "type": "coin"
+    },
+    {
+      "series_id": "Panama-Pacific International Exposition",
+      "series_name": "Panama-Pacific International Exposition",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1915,
+      "end_year": 1915,
+      "type": "coin"
+    },
+    {
+      "series_id": "Pilgrim Tercentenary",
+      "series_name": "Pilgrim Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1920,
+      "end_year": 1920,
+      "type": "coin"
+    },
+    {
+      "series_id": "Platinum Maple Leaf",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf",
+      "start_year": 1988,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Providence, Rhode Island, Tercentenary",
+      "series_name": "Providence, Rhode Island, Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Provincial Silver",
+      "series_name": "Provincial Silver",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1858,
+      "end_year": 1858,
+      "type": "coin"
+    },
+    {
+      "series_id": "Roanoke Island",
+      "series_name": "Roanoke Island",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1937,
+      "end_year": 1937,
+      "type": "coin"
+    },
+    {
+      "series_id": "San Francisco-Oakland Bay Bridge",
+      "series_name": "San Francisco-Oakland Bay Bridge",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Sesquicentennial of American Independence",
+      "series_name": "Sesquicentennial of American Independence",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1926,
+      "end_year": 1926,
+      "type": "coin"
+    },
+    {
+      "series_id": "Silver Maple Leaf",
+      "series_name": "Silver Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Silver Maple Leaf",
+      "start_year": 1988,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Silver Three-Cent Type I",
+      "series_name": "Silver Three-Cent Type I",
+      "country_code": "US",
+      "denomination": "Three Cents",
+      "start_year": 1851,
+      "end_year": 1853,
+      "type": "coin"
+    },
+    {
+      "series_id": "Silver Three-Cent Type II",
+      "series_name": "Silver Three-Cent Type II",
+      "country_code": "US",
+      "denomination": "Three Cents",
+      "start_year": 1854,
+      "end_year": 1858,
+      "type": "coin"
+    },
+    {
+      "series_id": "Silver Three-Cent Type III",
+      "series_name": "Silver Three-Cent Type III",
+      "country_code": "US",
+      "denomination": "Three Cents",
+      "start_year": 1859,
+      "end_year": 1873,
+      "type": "coin"
+    },
+    {
+      "series_id": "Small Cent",
+      "series_name": "Small Cent",
+      "country_code": "CA",
+      "denomination": "1 Cent",
+      "start_year": 1920,
+      "end_year": 1953,
+      "type": "coin"
+    },
+    {
+      "series_id": "Steel Cent",
+      "series_name": "Steel Cent",
+      "country_code": "CA",
+      "denomination": "Cents",
+      "start_year": 2000,
+      "end_year": 2012,
+      "type": "coin"
+    },
+    {
+      "series_id": "Stone Mountain Memorial",
+      "series_name": "Stone Mountain Memorial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1925,
+      "end_year": 1925,
+      "type": "coin"
+    },
+    {
+      "series_id": "Texas Centennial",
+      "series_name": "Texas Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1934,
+      "end_year": 1938,
+      "type": "coin"
+    },
+    {
+      "series_id": "Toonie",
+      "series_name": "Toonie",
+      "country_code": "CA",
+      "denomination": "Two Dollars",
+      "start_year": 1996,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Vermont Sesquicentennial",
+      "series_name": "Vermont Sesquicentennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1927,
+      "end_year": 1927,
+      "type": "coin"
+    },
+    {
+      "series_id": "Victoria Silver",
+      "series_name": "Victoria Silver",
+      "country_code": "CA",
+      "denomination": "5 Cents",
+      "start_year": 1870,
+      "end_year": 1870,
+      "type": "coin"
+    },
+    {
+      "series_id": "Wisconsin Territorial Centennial",
+      "series_name": "Wisconsin Territorial Centennial",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "World's Columbian Exposition",
+      "series_name": "World's Columbian Exposition",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1892,
+      "end_year": 1893,
+      "type": "coin"
+    },
+    {
+      "series_id": "World's Columbian Exposition - Isabella Quarter",
+      "series_name": "World's Columbian Exposition - Isabella Quarter",
+      "country_code": "US",
+      "denomination": "Commemorative Quarters",
+      "start_year": 1893,
+      "end_year": 1893,
+      "type": "coin"
+    },
+    {
+      "series_id": "York County, Maine, Tercentenary",
+      "series_name": "York County, Maine, Tercentenary",
+      "country_code": "US",
+      "denomination": "Commemorative Half Dollars",
+      "start_year": 1936,
+      "end_year": 1936,
       "type": "coin"
     }
   ]
