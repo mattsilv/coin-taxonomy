@@ -550,9 +550,6 @@ class CurrencyBrowser {
                 <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 font-medium">
                     ${mintageDisplay}
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-700">
-                    ${item.seller_name ? `<span class="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-blue-100 text-blue-800">${item.seller_name}</span>` : '-'}
-                </td>
                 <td class="px-4 py-4 whitespace-nowrap text-sm text-center">
                     <button onclick="currencyBrowser.showDetails('${item.issue_id}')" 
                             class="inline-flex items-center px-3 py-1.5 border border-transparent text-xs font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-150">

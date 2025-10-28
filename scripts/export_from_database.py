@@ -77,14 +77,13 @@ class DatabaseExporter:
                         obverse_description, 
                         reverse_description,
                         '' as distinguishing_features,
-                        '' as identification_keywords, 
+                        '' as identification_keywords,
                         '' as common_names,
-                        'coin' as category, 
-                        '' as issuer, 
-                        year as series_year, 
-                        'gregorian' as calendar_type, 
+                        'coin' as category,
+                        '' as issuer,
+                        year as series_year,
+                        'gregorian' as calendar_type,
                         '' as original_date,
-                        '' as seller_name, 
                         '' as variety_suffix,
                         CASE 
                             WHEN composition LIKE '%silver%' OR composition LIKE '%gold%' THEN 'bullion'
@@ -136,8 +135,8 @@ class DatabaseExporter:
                     # Add category and subcategory fields
                     if row[20]:  # category
                         coin["category"] = row[20]
-                    if row[27]:  # subcategory
-                        coin["subcategory"] = row[27]
+                    if row[26]:  # subcategory
+                        coin["subcategory"] = row[26]
                     
                     # Add visual description fields
                     if row[15]:  # obverse_description
@@ -160,9 +159,7 @@ class DatabaseExporter:
                         coin["source_citation"] = row[12]
                     if row[13] and row[13].strip():  # notes
                         coin["notes"] = row[13]
-                    if row[25] and row[25].strip():  # seller_name
-                        coin["seller_name"] = row[25]
-                    
+
                     series_data[series_id]['coins'].append(coin)
                     series_data[series_id]['years'].append(row[3])
                 
@@ -454,14 +451,13 @@ class DatabaseExporter:
                 
                 # Get all banknotes for this denomination
                 cursor.execute('''
-                    SELECT 
+                    SELECT
                         issue_id, series_id, authority_name, issue_year, mint_id,
                         specifications, sides, mintage, rarity, varieties,
                         source_citation, notes, signature_combination, seal_color,
                         block_letter, serial_number_type, size_format, paper_type,
                         series_designation, obverse_description, reverse_description,
-                        distinguishing_features, identification_keywords, common_names,
-                        seller_name
+                        distinguishing_features, identification_keywords, common_names
                     FROM issues
                     WHERE object_type = 'banknote' AND face_value = ? AND country = 'US'
                     ORDER BY issue_year, series_designation, mint_id
@@ -545,9 +541,7 @@ class DatabaseExporter:
                         banknote["source_citation"] = row[10]
                     if row[11] and row[11].strip():  # notes
                         banknote["notes"] = row[11]
-                    if row[24] and row[24].strip():  # seller_name
-                        banknote["seller_name"] = row[24]
-                    
+
                     series_data[series_id]['banknotes'].append(banknote)
                     series_data[series_id]['years'].append(row[3])
                 
