@@ -6,54 +6,26 @@
     {
       "coins": [
         {
-          "business_strikes": 599566,
+          "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-AGEF-1986-P",
-          "common_names": "[\"Gold Eagle $25\", \"AGE $25\", \"1/2 oz Gold Eagle\"]",
+          "coin_id": "US-AGEF-XXXX-X",
           "composition": {
             "copper": 5.33,
             "gold": 91.67,
             "silver": 3.0
           },
           "diameter_mm": 27.0,
-          "distinguishing_features": "[\"First year American Gold Eagle\", \"1/2 ounce .9167 fine gold\", \"27.0mm diameter\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
-          "identification_keywords": "american gold eagle age 1986 25 dollar 1/2 ounce liberty saint-gaudens bullion fine gold",
-          "mint": "P",
-          "notes": "First year 1/2 oz Gold Eagle",
-          "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
-          "proof_strikes": 0,
+          "mint": "X",
+          "notes": "Random year bullion - 1/2 troy oz gold content, dealer's choice year, valued by metal content",
+          "obverse_description": "Lady Liberty striding forward with torch and olive branch, Capitol building in background, rays of sunlight",
+          "proof_strikes": null,
           "rarity": "common",
-          "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
-          "source_citation": "Red Book 2025 p.383, PCGS #9803",
+          "reverse_description": "Male eagle carrying olive branch flying above nest with female eagle and eaglets",
+          "source_citation": "US Mint specifications, bullion dealers",
           "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 16.966,
-          "year": 1986
-        },
-        {
-          "business_strikes": 24100,
-          "category": "coin",
-          "coin_id": "US-AGEF-1991-P",
-          "common_names": "[\"1991 Gold Eagle $25\", \"Key Date Gold Eagle\", \"1991 AGE $25\"]",
-          "composition": {
-            "copper": 5.33,
-            "gold": 91.67,
-            "silver": 3.0
-          },
-          "diameter_mm": 27.0,
-          "distinguishing_features": "[\"Key date - lowest $25 Eagle mintage\", \"1/2 ounce .9167 fine gold\", \"27.0mm diameter\", \"No mint mark (Philadelphia)\"]",
-          "identification_keywords": "american gold eagle age 1991 key date 25 dollar 1/2 ounce liberty saint-gaudens bullion fine gold",
-          "mint": "P",
-          "notes": "Key date - lowest mintage Gold Eagle $25",
-          "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
-          "proof_strikes": 0,
-          "rarity": "key",
-          "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
-          "source_citation": "Red Book 2025 p.383, PCGS #9819",
-          "subcategory": "bullion",
-          "varieties": [],
-          "weight_grams": 16.966,
-          "year": 1991
+          "year": "XXXX"
         }
       ],
       "composition_periods": [
@@ -61,24 +33,24 @@
           "alloy": {},
           "alloy_name": "Unknown",
           "date_range": {
-            "end": 1991,
-            "start": 1986
+            "end": "XXXX",
+            "start": "XXXX"
           },
           "weight": {
             "grams": 16.966
           }
         }
       ],
-      "official_name": "American Gold Eagle $25",
-      "series_id": "american_gold_eagle_25",
-      "series_name": "American Gold Eagle $25",
+      "official_name": "American Gold Eagle (1/2 oz)",
+      "series_id": "American Gold Eagle (1/2 oz)",
+      "series_name": "American Gold Eagle (1/2 oz)",
       "specifications": {
         "diameter_mm": 27.0,
         "edge": "plain"
       },
       "years": {
-        "end": 1991,
-        "start": 1986
+        "end": "XXXX",
+        "start": "XXXX"
       }
     }
   ]

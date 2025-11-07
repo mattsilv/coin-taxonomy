@@ -6,29 +6,26 @@
     {
       "coins": [
         {
-          "business_strikes": 726031,
+          "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-AGET-1986-P",
-          "common_names": "[\"Gold Eagle $10\", \"AGE $10\", \"1/4 oz Gold Eagle\"]",
+          "coin_id": "US-AGET-XXXX-X",
           "composition": {
             "copper": 5.33,
             "gold": 91.67,
             "silver": 3.0
           },
           "diameter_mm": 22.0,
-          "distinguishing_features": "[\"First year American Gold Eagle\", \"1/4 ounce .9167 fine gold\", \"22.0mm diameter\", \"Saint-Gaudens Liberty obverse\", \"No mint mark (Philadelphia)\"]",
-          "identification_keywords": "american gold eagle age 1986 10 dollar 1/4 ounce liberty saint-gaudens bullion fine gold",
-          "mint": "P",
-          "notes": "First year 1/4 oz Gold Eagle",
-          "obverse_description": "Liberty head design by Augustus Saint-Gaudens, Liberty holding torch and olive branch",
-          "proof_strikes": 0,
+          "mint": "X",
+          "notes": "Random year bullion - 1/4 troy oz gold content, dealer's choice year, valued by metal content",
+          "obverse_description": "Lady Liberty striding forward with torch and olive branch, Capitol building in background, rays of sunlight",
+          "proof_strikes": null,
           "rarity": "common",
-          "reverse_description": "Family of eagles design by Miley Busiek, male eagle carrying olive branch to nest",
-          "source_citation": "Red Book 2025 p.382, PCGS #9802",
+          "reverse_description": "Male eagle carrying olive branch flying above nest with female eagle and eaglets",
+          "source_citation": "US Mint specifications, bullion dealers",
           "subcategory": "bullion",
           "varieties": [],
           "weight_grams": 8.483,
-          "year": 1986
+          "year": "XXXX"
         }
       ],
       "composition_periods": [
@@ -36,24 +33,24 @@
           "alloy": {},
           "alloy_name": "Unknown",
           "date_range": {
-            "end": 1986,
-            "start": 1986
+            "end": "XXXX",
+            "start": "XXXX"
           },
           "weight": {
             "grams": 8.483
           }
         }
       ],
-      "official_name": "American Gold Eagle $10",
-      "series_id": "american_gold_eagle_10",
-      "series_name": "American Gold Eagle $10",
+      "official_name": "American Gold Eagle (1/4 oz)",
+      "series_id": "American Gold Eagle (1/4 oz)",
+      "series_name": "American Gold Eagle (1/4 oz)",
       "specifications": {
         "diameter_mm": 22.0,
         "edge": "plain"
       },
       "years": {
-        "end": 1986,
-        "start": 1986
+        "end": "XXXX",
+        "start": "XXXX"
       }
     }
   ]

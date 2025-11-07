@@ -962,6 +962,46 @@
       "start_year": 1936,
       "end_year": 1936,
       "type": "coin"
+    },
+    {
+      "series_id": "american_gold_eagle_1oz",
+      "series_name": "American Gold Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": 1986,
+      "defining_characteristics": "{\"weight_troy_oz\": 1.0, \"weight_grams\": 31.103, \"diameter_mm\": 32.7, \"thickness_mm\": 2.87, \"fineness\": 0.9167, \"gold_content_oz\": 1.0, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
+      "official_name": "American Gold Eagle $50 One Ounce Gold Coin",
+      "type": "bullion"
+    },
+    {
+      "series_id": "american_gold_eagle_half_oz",
+      "series_name": "American Gold Eagle (1/2 oz)",
+      "country_code": "US",
+      "denomination": "$25",
+      "start_year": 1986,
+      "defining_characteristics": "{\"weight_troy_oz\": 0.5, \"weight_grams\": 16.966, \"diameter_mm\": 27.0, \"thickness_mm\": 2.24, \"fineness\": 0.9167, \"gold_content_oz\": 0.5, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
+      "official_name": "American Gold Eagle $25 Half Ounce Gold Coin",
+      "type": "bullion"
+    },
+    {
+      "series_id": "american_gold_eagle_quarter_oz",
+      "series_name": "American Gold Eagle (1/4 oz)",
+      "country_code": "US",
+      "denomination": "$10",
+      "start_year": 1986,
+      "defining_characteristics": "{\"weight_troy_oz\": 0.25, \"weight_grams\": 8.483, \"diameter_mm\": 22.0, \"thickness_mm\": 1.83, \"fineness\": 0.9167, \"gold_content_oz\": 0.25, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
+      "official_name": "American Gold Eagle $10 Quarter Ounce Gold Coin",
+      "type": "bullion"
+    },
+    {
+      "series_id": "american_gold_eagle_tenth_oz",
+      "series_name": "American Gold Eagle (1/10 oz)",
+      "country_code": "US",
+      "denomination": "$5",
+      "start_year": 1986,
+      "defining_characteristics": "{\"weight_troy_oz\": 0.1, \"weight_grams\": 3.393, \"diameter_mm\": 16.5, \"thickness_mm\": 1.26, \"fineness\": 0.9167, \"gold_content_oz\": 0.1, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
+      "official_name": "American Gold Eagle $5 Tenth Ounce Gold Coin",
+      "type": "bullion"
     }
   ]
 }

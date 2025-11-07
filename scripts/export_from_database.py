@@ -33,6 +33,15 @@ class DatabaseExporter:
         """Ensure output directory exists."""
         os.makedirs(self.output_dir, exist_ok=True)
         os.makedirs('data/us/references', exist_ok=True)
+
+    def convert_year(self, year_value):
+        """Convert year from TEXT to appropriate type (int or 'XXXX')."""
+        if year_value == 'XXXX':
+            return 'XXXX'
+        try:
+            return int(year_value)
+        except (ValueError, TypeError):
+            return year_value
         
     def export_coins_by_denomination(self):
         """Export coins grouped by denomination to separate JSON files."""
@@ -123,7 +132,7 @@ class DatabaseExporter:
                     
                     coin = {
                         "coin_id": row[0],
-                        "year": row[3],
+                        "year": self.convert_year(row[3]),
                         "mint": row[4],
                         "business_strikes": row[5],
                         "proof_strikes": row[6],
@@ -161,24 +170,34 @@ class DatabaseExporter:
                         coin["notes"] = row[13]
 
                     series_data[series_id]['coins'].append(coin)
-                    series_data[series_id]['years'].append(row[3])
+                    series_data[series_id]['years'].append(self.convert_year(row[3]))
                 
                 # Create series entries
                 series_list = []
                 for series_id, data in series_data.items():
                     years = data['years']
                     coins = data['coins']
-                    
+
                     # Determine composition periods from coins
                     comp_periods = self.extract_composition_periods(coins)
-                    
+
+                    # Handle year ranges (filter out XXXX for min/max, or use XXXX if all are XXXX)
+                    numeric_years = [y for y in years if y != 'XXXX']
+                    if numeric_years:
+                        start_year = min(numeric_years)
+                        end_year = max(numeric_years)
+                    else:
+                        # All years are XXXX (bullion series)
+                        start_year = 'XXXX'
+                        end_year = 'XXXX'
+
                     series_entry = {
                         "series_id": series_id,
                         "series_name": data['series_name'],
                         "official_name": data['series_name'],
                         "years": {
-                            "start": min(years),
-                            "end": max(years)
+                            "start": start_year,
+                            "end": end_year
                         },
                         "specifications": self.get_specifications(coins),
                         "composition_periods": comp_periods,
@@ -186,8 +205,8 @@ class DatabaseExporter:
                     }
                     series_list.append(series_entry)
                 
-                # Sort series by start year
-                series_list.sort(key=lambda x: x['years']['start'])
+                # Sort series by start year (put XXXX series at the end)
+                series_list.sort(key=lambda x: (x['years']['start'] == 'XXXX', x['years']['start']))
                 
                 # Create file structure
                 file_data = {
@@ -380,10 +399,20 @@ class DatabaseExporter:
         for alloy_name, data in compositions_seen.items():
             years = data['years']
             if years:
+                # Handle year ranges (filter out XXXX for min/max, or use XXXX if all are XXXX)
+                numeric_years = [y for y in years if y != 'XXXX']
+                if numeric_years:
+                    start_year = min(numeric_years)
+                    end_year = max(numeric_years)
+                else:
+                    # All years are XXXX (bullion series)
+                    start_year = 'XXXX'
+                    end_year = 'XXXX'
+
                 period = {
                     "date_range": {
-                        "start": min(years),
-                        "end": max(years)
+                        "start": start_year,
+                        "end": end_year
                     },
                     "alloy_name": alloy_name,
                     "alloy": data['alloy']
@@ -395,17 +424,27 @@ class DatabaseExporter:
                         "grams": data['weight_grams']
                     }
                 periods.append(period)
-        
-        # Sort by start year
-        periods.sort(key=lambda x: x['date_range']['start'])
-        
+
+        # Sort by start year (put XXXX periods at the end)
+        periods.sort(key=lambda x: (x['date_range']['start'] == 'XXXX', x['date_range']['start']))
+
         # If no periods found, create a default one
         if not periods and coins:
             years = [coin['year'] for coin in coins]
+            # Handle year ranges (filter out XXXX for min/max, or use XXXX if all are XXXX)
+            numeric_years = [y for y in years if y != 'XXXX']
+            if numeric_years:
+                start_year = min(numeric_years)
+                end_year = max(numeric_years)
+            else:
+                # All years are XXXX (bullion series)
+                start_year = 'XXXX'
+                end_year = 'XXXX'
+
             periods = [{
                 "date_range": {
-                    "start": min(years),
-                    "end": max(years)
+                    "start": start_year,
+                    "end": end_year
                 },
                 "alloy_name": "Historical",
                 "alloy": {}
@@ -543,7 +582,7 @@ class DatabaseExporter:
                         banknote["notes"] = row[11]
 
                     series_data[series_id]['banknotes'].append(banknote)
-                    series_data[series_id]['years'].append(row[3])
+                    series_data[series_id]['years'].append(self.convert_year(row[3]))
                 
                 # Create series entries for banknotes
                 series_list = []
@@ -559,21 +598,31 @@ class DatabaseExporter:
                     series_info = cursor.fetchone()
                     
                     if series_info:
+                        # Handle year ranges (filter out XXXX for min/max, or use XXXX if all are XXXX)
+                        numeric_years = [y for y in years if y != 'XXXX']
+                        if numeric_years:
+                            start_year = min(numeric_years)
+                            end_year = max(numeric_years)
+                        else:
+                            # All years are XXXX (bullion series)
+                            start_year = 'XXXX'
+                            end_year = 'XXXX'
+
                         series_entry = {
                             "series_id": series_id,
                             "series_name": series_info[0],
                             "official_name": series_info[1] or series_info[0],
                             "years": {
-                                "start": min(years),
-                                "end": max(years)
+                                "start": start_year,
+                                "end": end_year
                             },
                             "defining_characteristics": series_info[4],
                             "banknotes": banknotes
                         }
                         series_list.append(series_entry)
                 
-                # Sort series by start year
-                series_list.sort(key=lambda x: x['years']['start'])
+                # Sort series by start year (put XXXX series at the end)
+                series_list.sort(key=lambda x: (x['years']['start'] == 'XXXX', x['years']['start']))
                 
                 # Create file structure for paper currency
                 file_data = {

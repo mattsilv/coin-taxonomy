@@ -42,13 +42,16 @@
             "required": ["start"],
             "properties": {
               "start": {
-                "type": "integer",
-                "minimum": 1773
+                "oneOf": [
+                  {"type": "integer", "minimum": 1773},
+                  {"type": "string", "const": "XXXX"}
+                ]
               },
               "end": {
                 "oneOf": [
                   {"type": "integer", "minimum": 1773},
-                  {"type": "string", "const": "present"}
+                  {"type": "string", "const": "present"},
+                  {"type": "string", "const": "XXXX"}
                 ]
               }
             }
@@ -78,11 +81,17 @@
                   "type": "object",
                   "required": ["start"],
                   "properties": {
-                    "start": {"type": "integer", "minimum": 1787},
+                    "start": {
+                      "oneOf": [
+                        {"type": "integer", "minimum": 1787},
+                        {"type": "string", "const": "XXXX"}
+                      ]
+                    },
                     "end": {
                       "oneOf": [
                         {"type": "integer", "minimum": 1773},
-                        {"type": "string", "const": "present"}
+                        {"type": "string", "const": "present"},
+                        {"type": "string", "const": "XXXX"}
                       ]
                     }
                   }
