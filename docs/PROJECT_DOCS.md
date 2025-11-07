@@ -14,6 +14,7 @@
 
 ### 🔧 Integration & Development
 - **[Integration Guide](./INTEGRATION_GUIDE.md)** - How to integrate the taxonomy into your application
+- **[Bullion Integration Guide](./BULLION_INTEGRATION_GUIDE.md)** - 🆕 Backend engineer primer for bullion products (Nov 7, 2025)
 - **[AI Research Guidelines](./AI_RESEARCH_GUIDELINES.md)** - Using AI for coin research
 - **[Hierarchical Variant Resolution](./HIERARCHICAL_VARIANT_RESOLUTION.md)** - Variant mapping system
 
