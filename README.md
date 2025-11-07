@@ -141,6 +141,21 @@ US-CHCW-1951-P  → 1951 Carver/Washington (12 varieties 1951-1954)
 ```
 All commemorative halves include proper mint mark variations (P/D/S) and year ranges.
 
+### Random Year Bullion Pattern
+
+**NEW**: Bullion products sold as "random year" or "dealer's choice" at lowest premium over spot:
+
+```
+US-AGEO-XXXX-X  → American Gold Eagle 1 oz, random year, any mint
+US-ASEA-XXXX-X  → American Silver Eagle 1 oz, random year, any mint
+US-AGBF-XXXX-W  → American Gold Buffalo 1 oz, random year, West Point
+CA-GMLO-XXXX-X  → Canadian Gold Maple Leaf 1 oz, random year
+```
+
+**Use Case**: Common dealer listings like "Gold Eagle 1 oz (Our Choice)" or "Silver Eagle - Varied Year" where specific year doesn't affect the bullion value. These are valued by metal content only, not numismatic value.
+
+**Important**: XXXX pattern is **ONLY** for bullion products. Numismatic coins always need specific years.
+
 ### Handling Unknown Data
 
 When mapping damaged or incomplete coins:

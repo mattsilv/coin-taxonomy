@@ -92,6 +92,24 @@ This script performs the database-first export:
 - Variety information goes in the `varieties` array, NOT in the coin_id
 - Both `coins` table and `issues` table must have consistent formats
 
+### Random Year Pattern (Bullion Only) ⚠️
+**NEW**: Bullion products sold as "random year" or "dealer's choice" use the `XXXX` placeholder:
+
+**Format**: `COUNTRY-TYPE-XXXX-MINT`
+
+**Examples**:
+- `US-AGEO-XXXX-X` = American Gold Eagle 1 oz, random year, unspecified mint
+- `US-ASEA-XXXX-X` = American Silver Eagle 1 oz, random year, unspecified mint
+
+**Use Case**: These entries represent bullion products sold at the lowest premium over spot where the specific year doesn't affect value (valued by metal content only).
+
+**Important Rules**:
+- XXXX pattern is **ONLY** used for bullion products
+- **NOT** for numismatic coins (year always matters for collectible value)
+- Use `X` for unspecified mint when applicable
+- Document as "Random year bullion" in `notes` field
+- Year field accepts either 4-digit numeric year (1773-9999) OR literal string "XXXX"
+
 ## GitHub Issue Workflow
 - All feature work tracked in GitHub issues
 - Reference issue numbers in commits: `"Add X - Issue #NN"`

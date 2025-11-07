@@ -17,25 +17,28 @@ def create_tables(conn):
             country TEXT NOT NULL,
             denomination TEXT NOT NULL,
             series TEXT NOT NULL,
-            year INTEGER NOT NULL,
+            year TEXT NOT NULL CHECK(
+                year GLOB '[0-9][0-9][0-9][0-9]' OR
+                year = 'XXXX'
+            ),
             mint TEXT NOT NULL,
-            
+
             -- Composition and specifications
             composition JSON,
             weight_grams REAL,
             diameter_mm REAL,
-            
+
             -- Mintage data
             mintage INTEGER,
             proof_mintage INTEGER,
-            
+
             -- Rarity and varieties
             key_date_status TEXT CHECK(key_date_status IN ('key', 'semi-key', 'common', 'scarce')),
             varieties JSON,
-            
+
             -- Source attribution
             source_citation TEXT,
-            
+
             -- Metadata
             notes TEXT,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -103,20 +106,24 @@ def import_series(conn, country, denomination, series_data):
     
     # Process mintages
     for year_str, mint_data in series_data.get('mintages', {}).items():
-        year = int(year_str)
+        # year is now TEXT - can be numeric year or "XXXX"
+        year = year_str if year_str == 'XXXX' else str(int(year_str))
         
         # Find applicable composition
         composition = None
         weight = None
-        for period in comp_periods:
-            start = period['date_range']['start']
-            end = period['date_range']['end']
-            if end == 'present':
-                end = 9999
-            if start <= year <= end:
-                composition = period['alloy']
-                weight = period['weight'].get('grams')
-                break
+        # Skip composition lookup for random year (XXXX) coins
+        if year != 'XXXX':
+            year_int = int(year)
+            for period in comp_periods:
+                start = period['date_range']['start']
+                end = period['date_range']['end']
+                if end == 'present':
+                    end = 9999
+                if start <= year_int <= end:
+                    composition = period['alloy']
+                    weight = period['weight'].get('grams')
+                    break
         
         # Insert coin for each mint
         for mint, details in mint_data.items():
