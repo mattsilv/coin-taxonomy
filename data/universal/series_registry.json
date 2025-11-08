@@ -964,6 +964,16 @@
       "type": "coin"
     },
     {
+      "series_id": "american_gold_buffalo_1oz",
+      "series_name": "American Gold Buffalo (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": 2006,
+      "defining_characteristics": "{\"weight_troy_oz\": 1.0, \"weight_grams\": 31.108, \"diameter_mm\": 32.7, \"thickness_mm\": 2.95, \"fineness\": 0.9999, \"gold_content_oz\": 1.0, \"composition\": {\"gold\": 99.99}, \"edge\": \"reeded\", \"designer\": \"James Earle Fraser (obverse and reverse, based on 1913 Buffalo Nickel)\"}",
+      "official_name": "American Buffalo $50 One Ounce Gold Coin",
+      "type": "bullion"
+    },
+    {
       "series_id": "american_gold_eagle_1oz",
       "series_name": "American Gold Eagle (1 oz)",
       "country_code": "US",
@@ -1001,6 +1011,16 @@
       "start_year": 1986,
       "defining_characteristics": "{\"weight_troy_oz\": 0.1, \"weight_grams\": 3.393, \"diameter_mm\": 16.5, \"thickness_mm\": 1.26, \"fineness\": 0.9167, \"gold_content_oz\": 0.1, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
       "official_name": "American Gold Eagle $5 Tenth Ounce Gold Coin",
+      "type": "bullion"
+    },
+    {
+      "series_id": "american_silver_eagle_1oz",
+      "series_name": "American Silver Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": 1986,
+      "defining_characteristics": "{\"weight_troy_oz\": 1.0, \"weight_grams\": 31.103, \"diameter_mm\": 40.6, \"thickness_mm\": 2.98, \"fineness\": 0.999, \"silver_content_oz\": 1.0, \"composition\": {\"silver\": 99.9}, \"edge\": \"reeded\", \"designer\": \"Adolph A. Weinman (obverse), John Mercanti (reverse Type 1), Emily Damstra (reverse Type 2)\"}",
+      "official_name": "American Silver Eagle $1 One Ounce Silver Coin",
       "type": "bullion"
     }
   ]

@@ -8,6 +8,54 @@
         {
           "business_strikes": null,
           "category": "coin",
+          "coin_id": "US-AGBF-XXXX-X",
+          "composition": {
+            "gold": 99.99
+          },
+          "diameter_mm": 32.7,
+          "mint": "X",
+          "notes": "Random year bullion - 1 troy oz 24-karat gold content, dealer's choice year, valued by metal content. First .9999 fine (24-karat) gold coin from US Mint.",
+          "obverse_description": "Profile of Native American chief (based on composite of three chiefs), 'LIBERTY' above, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "American bison (buffalo) standing on mound, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', '$50', '1 OZ. .9999 FINE GOLD'",
+          "source_citation": "US Mint specifications, bullion dealers",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.108,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.108
+          }
+        }
+      ],
+      "official_name": "American Gold Buffalo (1 oz)",
+      "series_id": "American Gold Buffalo (1 oz)",
+      "series_name": "American Gold Buffalo (1 oz)",
+      "specifications": {
+        "diameter_mm": 32.7,
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
           "coin_id": "US-AGEO-XXXX-X",
           "composition": {
             "copper": 5.33,

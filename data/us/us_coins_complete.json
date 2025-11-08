@@ -15760,6 +15760,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "US-ASEA-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "$1",
+      "diameter_mm": 40.6,
+      "mint": "X",
+      "notes": "Random year bullion - 1 troy oz silver content, dealer's choice year, valued by metal content. Type 1 reverse (1986-2021) or Type 2 reverse (2021-present) may vary.",
+      "obverse_description": "Walking Liberty design - Liberty striding toward sunrise, draped in American flag, with 'LIBERTY' inscription and date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle with shield, olive branch, and arrows, 13 stars above, '1 OZ. FINE SILVER ~ ONE DOLLAR' inscription",
+      "series_id": "American Silver Eagle (1 oz)",
+      "series_name": "American Silver Eagle (1 oz)",
+      "source_citation": "US Mint specifications, bullion dealers",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-AGET-XXXX-X",
       "composition": {
         "copper": 5.33,
@@ -15832,6 +15854,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "US-AGBF-XXXX-X",
+      "composition": {
+        "gold": 99.99
+      },
+      "country": "US",
+      "denomination": "$50",
+      "diameter_mm": 32.7,
+      "mint": "X",
+      "notes": "Random year bullion - 1 troy oz 24-karat gold content, dealer's choice year, valued by metal content. First .9999 fine (24-karat) gold coin from US Mint.",
+      "obverse_description": "Profile of Native American chief (based on composite of three chiefs), 'LIBERTY' above, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "American bison (buffalo) standing on mound, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', '$50', '1 OZ. .9999 FINE GOLD'",
+      "series_id": "American Gold Buffalo (1 oz)",
+      "series_name": "American Gold Buffalo (1 oz)",
+      "source_citation": "US Mint specifications, bullion dealers",
+      "varieties": [],
+      "weight_grams": 31.108,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-AGEO-XXXX-X",
       "composition": {
         "copper": 5.33,
@@ -15855,9 +15899,9 @@
       "year": "XXXX"
     }
   ],
-  "generated_at": "2025-11-07T18:23:50.779126",
+  "generated_at": "2025-11-07T20:22:37.647037",
   "taxonomy_version": "1.1",
-  "total_coins": 766,
+  "total_coins": 768,
   "year_range": {
     "earliest": "1851",
     "latest": "XXXX"
