@@ -1,0 +1,287 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://coin-taxonomy.io/schemas/grade-standards.json",
+  "title": "Grade Standards Schema",
+  "description": "JSON Schema for canonical coin grading hierarchy and parsing rules. Supports grade comparison, multi-grade parsing, and RAW-{grade} classification for uncertified coins. See: GitHub Issue #64",
+  "version": "1.0.0",
+  "type": "object",
+  "required": [
+    "version",
+    "last_updated",
+    "description",
+    "standard",
+    "grade_hierarchy",
+    "parsing_rules"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to this JSON Schema"
+    },
+    "version": {
+      "type": "string",
+      "description": "Version of the grade standards specification",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "examples": ["1.0.0", "1.1.0"]
+    },
+    "last_updated": {
+      "type": "string",
+      "description": "Date of last update (YYYY-MM-DD)",
+      "format": "date",
+      "examples": ["2025-01-15", "2025-11-15"]
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the grade standards purpose and usage"
+    },
+    "standard": {
+      "type": "string",
+      "description": "Name of the grading standard",
+      "examples": ["Sheldon 70-Point Scale"]
+    },
+    "grade_hierarchy": {
+      "type": "array",
+      "description": "Complete hierarchy of coin grades from lowest to highest",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/grade"
+      }
+    },
+    "parsing_rules": {
+      "type": "object",
+      "description": "Rules for parsing and interpreting grade strings",
+      "required": ["multi_grade_separator_patterns", "multi_grade_strategy"],
+      "properties": {
+        "multi_grade_separator_patterns": {
+          "type": "array",
+          "description": "Separators used to split multi-grade expressions (e.g., 'XF/AU')",
+          "items": {
+            "type": "string"
+          },
+          "examples": [["/", "-", " - ", " to ", " or "]]
+        },
+        "multi_grade_strategy": {
+          "type": "string",
+          "description": "Strategy for handling multi-grade expressions",
+          "enum": ["conservative", "optimistic", "average"],
+          "default": "conservative"
+        },
+        "grade_extraction_patterns": {
+          "type": "array",
+          "description": "Regex patterns for extracting grades from text",
+          "items": {
+            "type": "object",
+            "required": ["name", "pattern"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Pattern identifier"
+              },
+              "pattern": {
+                "type": "string",
+                "description": "Regular expression pattern"
+              },
+              "description": {
+                "type": "string",
+                "description": "Human-readable description of the pattern"
+              }
+            }
+          }
+        }
+      }
+    },
+    "comparison_utilities": {
+      "type": "object",
+      "description": "Utility function specifications for grade comparison and manipulation",
+      "properties": {
+        "getLowestGrade": {
+          "type": "string",
+          "description": "Description of getLowestGrade utility function"
+        },
+        "normalizeGrade": {
+          "type": "string",
+          "description": "Description of normalizeGrade utility function"
+        },
+        "compareGrades": {
+          "type": "string",
+          "description": "Description of compareGrades utility function"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "grade": {
+      "type": "object",
+      "description": "Individual grade definition with all metadata",
+      "required": [
+        "grade",
+        "grade_name",
+        "grade_numeric",
+        "grade_category",
+        "grade_subcategory",
+        "sheldon_scale_position",
+        "market_threshold",
+        "market_relevance",
+        "common_in_practice",
+        "strike_types",
+        "abbreviations",
+        "sheldon_range"
+      ],
+      "properties": {
+        "grade": {
+          "type": "string",
+          "description": "Canonical grade abbreviation (e.g., MS-65, XF-40)",
+          "pattern": "^(P|FR|AG|G|VG|F|VF|XF|EF|AU|MS|PR|PF|SP)-\\d{1,2}$",
+          "examples": ["MS-65", "XF-40", "PR-69", "AU-58"]
+        },
+        "grade_name": {
+          "type": "string",
+          "description": "Full descriptive name of the grade",
+          "examples": ["Mint State (MS-65)", "Extremely Fine (XF-40)"]
+        },
+        "grade_numeric": {
+          "type": "integer",
+          "description": "Numeric value on the Sheldon 1-70 scale",
+          "minimum": 1,
+          "maximum": 70
+        },
+        "grade_category": {
+          "type": "string",
+          "description": "High-level category",
+          "enum": ["Circulated", "About Uncirculated", "Uncirculated"]
+        },
+        "grade_subcategory": {
+          "type": "string",
+          "description": "Specific subcategory within the grade category",
+          "examples": [
+            "Poor", "Fair", "About Good", "Good", "Very Good",
+            "Fine", "Very Fine", "Extremely Fine", "About Uncirculated",
+            "Mint State", "Choice Uncirculated", "Gem Uncirculated",
+            "Superb Gem Uncirculated", "Nearly Perfect Uncirculated",
+            "Perfect Uncirculated", "Proof", "Choice Proof", "Gem Proof",
+            "Superb Gem Proof", "Nearly Perfect Proof", "Perfect Proof",
+            "Specimen", "Choice Specimen", "Gem Specimen",
+            "Superb Gem Specimen", "Perfect Specimen"
+          ]
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed description of grade characteristics"
+        },
+        "sheldon_scale_position": {
+          "type": "integer",
+          "description": "Position on the Sheldon 70-point scale",
+          "minimum": 1,
+          "maximum": 70
+        },
+        "market_threshold": {
+          "type": "boolean",
+          "description": "Whether this grade represents a significant market price break point"
+        },
+        "market_relevance": {
+          "type": "string",
+          "description": "Market relevance rating",
+          "enum": ["low", "moderate", "high", "very_high"]
+        },
+        "common_in_practice": {
+          "type": "boolean",
+          "description": "Whether this grade is commonly used in the market"
+        },
+        "strike_types": {
+          "type": "array",
+          "description": "Applicable strike types for this grade",
+          "items": {
+            "type": "string",
+            "enum": ["business", "proof", "specimen"]
+          }
+        },
+        "abbreviations": {
+          "type": "array",
+          "description": "All accepted abbreviation formats for this grade",
+          "items": {
+            "type": "string"
+          },
+          "examples": [["MS65", "MS 65", "Mint State-65", "Gem"]]
+        },
+        "sheldon_range": {
+          "type": "object",
+          "description": "Sheldon scale range for this grade grouping",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 70
+            },
+            "max": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 70
+            }
+          }
+        },
+        "aliases": {
+          "type": "object",
+          "description": "Mapping of alternate codes to canonical format (e.g., EF → XF)",
+          "additionalProperties": {
+            "type": "string"
+          },
+          "examples": [{"EF": "XF", "EF-40": "XF-40"}]
+        },
+        "modifiers_allowed": {
+          "type": "array",
+          "description": "Valid modifiers for this grade (primarily for proof grades)",
+          "items": {
+            "type": "string",
+            "enum": ["CAM", "DCAM", "UCAM"]
+          },
+          "examples": [["CAM", "DCAM", "UCAM"]]
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "version": "1.0.0",
+      "last_updated": "2025-01-15",
+      "description": "Canonical grading hierarchy and parsing rules",
+      "standard": "Sheldon 70-Point Scale",
+      "grade_hierarchy": [
+        {
+          "grade": "MS-65",
+          "grade_name": "Mint State (MS-65)",
+          "grade_numeric": 65,
+          "grade_category": "Uncirculated",
+          "grade_subcategory": "Gem Uncirculated",
+          "description": "No wear, few minor contact marks, strong strike and luster",
+          "sheldon_scale_position": 65,
+          "market_threshold": true,
+          "market_relevance": "very_high",
+          "common_in_practice": true,
+          "strike_types": ["business"],
+          "abbreviations": ["MS65", "MS 65", "Gem", "Gem Uncirculated"],
+          "sheldon_range": {
+            "min": 65,
+            "max": 65
+          }
+        }
+      ],
+      "parsing_rules": {
+        "multi_grade_separator_patterns": ["/", "-", " to "],
+        "multi_grade_strategy": "conservative",
+        "grade_extraction_patterns": [
+          {
+            "name": "basic_pattern",
+            "pattern": "^([A-Z]{1,2})-(\\d{1,2})$",
+            "description": "Basic grade pattern like MS-65"
+          }
+        ]
+      },
+      "comparison_utilities": {
+        "getLowestGrade": "Find the lowest grade from an array",
+        "normalizeGrade": "Convert aliases to canonical format",
+        "compareGrades": "Compare two grades (-1, 0, 1)"
+      }
+    }
+  ]
+}

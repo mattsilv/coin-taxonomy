@@ -775,21 +775,151 @@ class DatabaseExporter:
     def export_ai_taxonomy(self):
         """Export AI-optimized taxonomy with minimal token usage."""
         print("🤖 Exporting AI-optimized taxonomy...")
-        
+
         # Import and use the AI taxonomy exporter
         try:
             from export_ai_taxonomy import AITaxonomyExporter
             ai_exporter = AITaxonomyExporter(db_path=self.db_path)
             output_file, coin_count = ai_exporter.export_ai_taxonomy()
-            
+
             # Calculate file size
             file_size = output_file.stat().st_size
             print(f"   ✅ data/ai-optimized/us_taxonomy.json ({file_size:,} bytes)")
-            
+
         except ImportError:
             print("   ⚠️  AI taxonomy exporter not found, skipping...")
         except Exception as e:
             print(f"   ❌ Error exporting AI taxonomy: {e}")
+
+    def export_grade_standards(self):
+        """Export grade standards from database to JSON (Issue #64)."""
+        print("📊 Exporting grade standards from database...")
+
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+
+        try:
+            # Check if grade_standards table exists
+            cursor.execute("""
+                SELECT name FROM sqlite_master
+                WHERE type='table' AND name='grade_standards'
+            """)
+            if not cursor.fetchone():
+                print("   ⚠️  grade_standards table not found, skipping...")
+                return False
+
+            # Get all grades
+            cursor.execute('''
+                SELECT
+                    abbreviation,
+                    grade_name,
+                    numeric_value,
+                    category,
+                    subcategory,
+                    description,
+                    sheldon_scale_position,
+                    market_threshold,
+                    market_relevance,
+                    common_in_practice,
+                    strike_types,
+                    alternate_notations,
+                    sheldon_range_min,
+                    sheldon_range_max,
+                    aliases,
+                    modifiers_allowed
+                FROM grade_standards
+                ORDER BY numeric_value, abbreviation
+            ''')
+
+            rows = cursor.fetchall()
+
+            # Build grade hierarchy
+            grades = []
+            for row in rows:
+                grade = {
+                    "grade": row[0],
+                    "grade_name": row[1],
+                    "grade_numeric": row[2],
+                    "grade_category": row[3],
+                    "grade_subcategory": row[4],
+                    "description": row[5],
+                    "sheldon_scale_position": row[6],
+                    "market_threshold": bool(row[7]),
+                    "market_relevance": row[8],
+                    "common_in_practice": bool(row[9]),
+                    "strike_types": json.loads(row[10]) if row[10] else [],
+                    "abbreviations": json.loads(row[11]) if row[11] else [],
+                    "sheldon_range": {
+                        "min": row[12],
+                        "max": row[13]
+                    }
+                }
+
+                # Add optional fields
+                if row[14]:  # aliases
+                    grade["aliases"] = json.loads(row[14])
+                if row[15]:  # modifiers_allowed
+                    grade["modifiers_allowed"] = json.loads(row[15])
+
+                grades.append(grade)
+
+            # Get parsing rules
+            cursor.execute('''
+                SELECT rule_type, rule_name, rule_value, description
+                FROM grade_parsing_rules
+                ORDER BY priority DESC, rule_id
+            ''')
+
+            parsing_rules_rows = cursor.fetchall()
+            parsing_rules = {}
+
+            for rule_type, rule_name, rule_value, description in parsing_rules_rows:
+                if rule_type == 'separator':
+                    parsing_rules['multi_grade_separator_patterns'] = json.loads(rule_value)
+                elif rule_type == 'strategy':
+                    parsing_rules['multi_grade_strategy'] = json.loads(rule_value) if rule_value.startswith(('{', '[')) else rule_value
+                elif rule_type == 'pattern':
+                    if 'grade_extraction_patterns' not in parsing_rules:
+                        parsing_rules['grade_extraction_patterns'] = []
+                    parsing_rules['grade_extraction_patterns'].append({
+                        "name": rule_name,
+                        "pattern": json.loads(rule_value) if rule_value.startswith(('{', '[')) else rule_value,
+                        "description": description
+                    })
+
+            # Build complete structure
+            grade_standards_data = {
+                "$schema": "../schema/grade_standards.schema.json",
+                "version": "1.0.0",
+                "last_updated": datetime.now().strftime("%Y-%m-%d"),
+                "description": "Canonical grading hierarchy and parsing rules for coin grading. Supports grade comparison, multi-grade parsing, and RAW-{grade} classification for uncertified coins. See: GitHub Issue #64",
+                "standard": "Sheldon 70-Point Scale",
+                "grade_hierarchy": grades,
+                "parsing_rules": parsing_rules,
+                "comparison_utilities": {
+                    "getLowestGrade": "Find the lowest grade from an array of grades",
+                    "normalizeGrade": "Convert grade aliases to canonical format",
+                    "compareGrades": "Compare two grades, returns -1, 0, or 1"
+                }
+            }
+
+            # Write to universal directory
+            os.makedirs('data/universal', exist_ok=True)
+            filepath = Path('data/universal/grade_standards.json')
+
+            if self.validator.safe_json_write(grade_standards_data, filepath):
+                print(f"   ✅ {filepath} ({len(grades)} grades)")
+                return True
+            else:
+                print(f"   ❌ {filepath} - JSON validation failed")
+                self.validator.print_errors()
+                return False
+
+        except sqlite3.Error as e:
+            print(f"   ❌ Error exporting grade standards: {e}")
+            return False
+        finally:
+            conn.close()
     
     def run_export(self):
         """Run complete export from database."""
@@ -823,10 +953,13 @@ class DatabaseExporter:
         
         # Export complete file
         self.export_complete_file()
-        
+
         # Export AI-optimized taxonomy
         self.export_ai_taxonomy()
-        
+
+        # Export grade standards (Issue #64)
+        self.export_grade_standards()
+
         # Validate all exported JSON files
         print(f"\n🔍 Validating exported JSON files...")
         from validate_json_exports import main as validate_exports

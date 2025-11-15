@@ -184,7 +184,121 @@ Complete Sheldon 70-point scale with all grades from P-1 through MS-70, PR-60 th
 - Identify market threshold grades
 - Validate grade abbreviations
 
-### 2. Grading Services (`data/references/grading_services.json`)
+### 2. Grade Standards (`data/universal/grade_standards.json`) ⭐ NEW
+
+**Database-First:** This file is generated from the SQLite database (source of truth). See: [GitHub Issue #64](https://github.com/mattsilv/coin-taxonomy/issues/64)
+
+Complete grading hierarchy with parsing rules for multi-grade expressions and RAW-{grade} classification.
+
+**Structure:**
+```json
+{
+  "version": "1.0.0",
+  "standard": "Sheldon 70-Point Scale",
+  "grade_hierarchy": [
+    {
+      "grade": "MS-65",
+      "grade_name": "Mint State (MS-65)",
+      "grade_numeric": 65,
+      "grade_category": "Uncirculated",
+      "grade_subcategory": "Gem Uncirculated",
+      "market_threshold": true,
+      "market_relevance": "very_high",
+      "sheldon_range": {"min": 65, "max": 65},
+      "abbreviations": ["MS65", "MS 65", "Gem"],
+      "aliases": null
+    }
+  ],
+  "parsing_rules": {
+    "multi_grade_separator_patterns": ["/", "-", " to "],
+    "multi_grade_strategy": "conservative",
+    "grade_extraction_patterns": [
+      {
+        "name": "basic_pattern",
+        "pattern": "^([A-Z]{1,2})-(\\d{1,2})$"
+      }
+    ]
+  },
+  "comparison_utilities": {
+    "getLowestGrade": "Find the lowest grade from an array",
+    "normalizeGrade": "Convert aliases to canonical format",
+    "compareGrades": "Compare two grades (-1, 0, 1)"
+  }
+}
+```
+
+**Use Cases:**
+
+**A. Multi-Grade Parsing (eBay, Marketplace Listings)**
+```python
+# Parse "XF/AU" → take lower grade (conservative strategy)
+def parse_multi_grade(grade_str, grade_standards):
+    separators = grade_standards['parsing_rules']['multi_grade_separator_patterns']
+
+    for sep in separators:
+        if sep in grade_str:
+            grades = grade_str.split(sep)
+            # Strategy: conservative = take lowest grade
+            return get_lowest_grade(grades, grade_standards)
+
+    return normalize_grade(grade_str)
+
+# Example: "XF/AU" → "XF-40" (lower grade)
+# Example: "MS-63 to MS-65" → "MS-63" (lower grade)
+```
+
+**B. RAW-{grade} Classification for Uncertified Coins**
+```python
+# Classify uncertified coins by grade range
+def classify_raw_coin(listing_text, grade_standards):
+    grade = extract_grade(listing_text, grade_standards)
+    return f"RAW-{grade}"
+
+# Example: "1892 COLUMBIAN EXPOSITION XF/AU" → "RAW-XF"
+# Used for: Price intelligence buckets (RAW-VF, RAW-XF, RAW-AU)
+```
+
+**C. Grade Comparison and Sorting**
+```python
+def compare_grades(grade1, grade2, grade_standards):
+    """Compare two grades. Returns -1, 0, or 1."""
+    hierarchy = grade_standards['grade_hierarchy']
+
+    g1 = next((g for g in hierarchy if g['grade'] == grade1), None)
+    g2 = next((g for g in hierarchy if g['grade'] == grade2), None)
+
+    if g1['grade_numeric'] < g2['grade_numeric']:
+        return -1
+    elif g1['grade_numeric'] > g2['grade_numeric']:
+        return 1
+    return 0
+
+# Example: compare_grades("MS-63", "MS-65") → -1 (MS-63 is lower)
+```
+
+**D. Market Relevance Filtering**
+```python
+# Get only high-relevance grades for UI dropdowns
+def get_common_grades(grade_standards):
+    return [
+        g for g in grade_standards['grade_hierarchy']
+        if g['market_relevance'] in ['high', 'very_high']
+    ]
+
+# Returns: MS-65, MS-67, PR-69, AU-58, XF-45, etc.
+# Omits: MS-61, PR-61 (low market relevance)
+```
+
+**Database Integration:**
+```bash
+# Regenerate grade_standards.json from database
+uv run python scripts/export_from_database.py
+
+# The migration that populates the database
+uv run python scripts/migrate_add_grade_standards.py
+```
+
+### 3. Grading Services (`data/references/grading_services.json`)
 
 Registry of PCGS and NGC certification details.
 
