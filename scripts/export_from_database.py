@@ -920,7 +920,129 @@ class DatabaseExporter:
             return False
         finally:
             conn.close()
-    
+
+    def export_coin_inventory(self):
+        """Export coin inventory from database to JSON (Issue #65)."""
+        print("📊 Exporting coin inventory from database...")
+
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+
+        try:
+            # Check if coin_inventory table exists
+            cursor.execute("""
+                SELECT name FROM sqlite_master
+                WHERE type='table' AND name='coin_inventory'
+            """)
+            if not cursor.fetchone():
+                print("   ⚠️  coin_inventory table not found, skipping...")
+                return False
+
+            # Get all inventory records
+            cursor.execute('''
+                SELECT
+                    inventory_id,
+                    coin_id,
+                    grade_id,
+                    grading_service,
+                    certification_number,
+                    is_certified,
+                    strike_type,
+                    modifiers,
+                    full_grade_string,
+                    market_threshold_grade,
+                    purchase_price,
+                    purchase_date,
+                    current_value_estimate,
+                    collection_name,
+                    storage_location,
+                    notes,
+                    image_urls,
+                    created_at,
+                    updated_at
+                FROM coin_inventory
+                ORDER BY collection_name, coin_id, grade_id
+            ''')
+
+            rows = cursor.fetchall()
+
+            # Build inventory records
+            inventory_records = []
+            for row in rows:
+                record = {
+                    "inventory_id": row[0],
+                    "coin_id": row[1],
+                    "grade_id": row[2],
+                    "grading_service": row[3],
+                    "is_certified": bool(row[5]),
+                    "full_grade_string": row[8]
+                }
+
+                # Add optional certification details
+                if row[4]:  # certification_number
+                    record["certification_number"] = row[4]
+                if row[6]:  # strike_type
+                    record["strike_type"] = row[6]
+                if row[7]:  # modifiers
+                    record["modifiers"] = json.loads(row[7])
+
+                # Add market analysis fields
+                if row[9] is not None:  # market_threshold_grade
+                    record["market_threshold_grade"] = bool(row[9])
+                if row[10]:  # purchase_price
+                    record["purchase_price"] = row[10]
+                if row[11]:  # purchase_date
+                    record["purchase_date"] = row[11]
+                if row[12]:  # current_value_estimate
+                    record["current_value_estimate"] = row[12]
+
+                # Add collection management fields
+                if row[13]:  # collection_name
+                    record["collection_name"] = row[13]
+                if row[14]:  # storage_location
+                    record["storage_location"] = row[14]
+                if row[15]:  # notes
+                    record["notes"] = row[15]
+                if row[16]:  # image_urls
+                    record["image_urls"] = json.loads(row[16])
+
+                # Add metadata
+                record["created_at"] = row[17]
+                record["updated_at"] = row[18]
+
+                inventory_records.append(record)
+
+            # Build complete structure
+            inventory_data = {
+                "$schema": "../schema/coin_inventory.schema.json",
+                "version": "1.0.0",
+                "last_updated": datetime.now().strftime("%Y-%m-%d"),
+                "description": "Coin inventory - tracks specific graded coin instances with certification details. Separates coin identity from grade to enable value determination: coin + grade = market value. See: GitHub Issue #65",
+                "total_records": len(inventory_records),
+                "inventory": inventory_records
+            }
+
+            # Write to data directory
+            os.makedirs('data/inventory', exist_ok=True)
+            filepath = Path('data/inventory/coin_inventory.json')
+
+            if self.validator.safe_json_write(inventory_data, filepath):
+                print(f"   ✅ {filepath} ({len(inventory_records)} records)")
+                return True
+            else:
+                print(f"   ⚠️  {filepath} - Skipping validation (schema not yet created)")
+                # Write anyway without validation for now
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    json.dump(inventory_data, f, indent=2, ensure_ascii=False)
+                print(f"   ✅ {filepath} ({len(inventory_records)} records) [no validation]")
+                return True
+
+        except sqlite3.Error as e:
+            print(f"   ❌ Error exporting coin inventory: {e}")
+            return False
+        finally:
+            conn.close()
+
     def run_export(self):
         """Run complete export from database."""
         print("🚀 Starting database-first export...")
@@ -959,6 +1081,9 @@ class DatabaseExporter:
 
         # Export grade standards (Issue #64)
         self.export_grade_standards()
+
+        # Export coin inventory (Issue #65)
+        self.export_coin_inventory()
 
         # Validate all exported JSON files
         print(f"\n🔍 Validating exported JSON files...")

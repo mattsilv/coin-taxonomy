@@ -14,19 +14,14 @@
 
 ### 🔧 Integration & Development
 - **[Integration Guide](./INTEGRATION_GUIDE.md)** - How to integrate the taxonomy into your application
-- **[Bullion Integration Guide](./BULLION_INTEGRATION_GUIDE.md)** - 🆕 Backend engineer primer for bullion products (Nov 7, 2025)
+- **[Bullion Integration Guide](./BULLION_INTEGRATION_GUIDE.md)** - Backend engineer primer for bullion products
+- **[Coin Inventory Guide](./COIN_INVENTORY_GUIDE.md)** - 🆕 Collection management & graded coin tracking ([Issue #65](https://github.com/mattsilv/coin-taxonomy/issues/65))
 - **[AI Research Guidelines](./AI_RESEARCH_GUIDELINES.md)** - Using AI for coin research
 - **[Hierarchical Variant Resolution](./HIERARCHICAL_VARIANT_RESOLUTION.md)** - Variant mapping system
 
 ### 📊 Analysis & Research
 - **[Red Book Alignment Analysis](./red_book_alignment_analysis.md)** - Industry standard alignment
 - **[AI Coin Description Task](./ai-coin-description-task.md)** - Visual description standards
-
-### 🚀 Sprint Planning
-- **[PROJECT HANDOFF](./PROJECT_HANDOFF.md)** - 📌 Complete engineering handoff document
-- **[Schema Simplification Primer](./SCHEMA_SIMPLIFICATION_PRIMER.md)** - Fix architecture bloat ([Issue #59](https://github.com/mattsilv/coin-taxonomy/issues/59))
-- **[Current Sprint Primer](../NEXT_SPRINT_PRIMER.md)** - Red Book Classification Sprint
-- **[Sprint Plan Primer](./SPRINT_PLAN_PRIMER.md)** - Sprint planning guidelines
 
 ### 🌐 GitHub Pages Site
 - **[Live Site](https://mattsilv.github.io/coin-taxonomy/)** - Interactive coin browser

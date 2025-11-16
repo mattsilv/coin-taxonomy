@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/coin_inventory.schema.json",
+  "description": "Coin inventory - tracks specific graded coin instances with certification details. Separates coin identity from grade to enable value determination: coin + grade = market value. See: GitHub Issue #65",
+  "inventory": [
+    {
+      "coin_id": "CA-BGML-2007-P",
+      "collection_name": "Example Collection",
+      "created_at": "2025-11-16 20:04:44",
+      "full_grade_string": "AU-58",
+      "grade_id": "AU-58",
+      "grading_service": "raw",
+      "inventory_id": 2,
+      "is_certified": false,
+      "market_threshold_grade": true,
+      "notes": "Sample raw coin - self-graded estimate",
+      "strike_type": "business",
+      "updated_at": "2025-11-16 20:04:44"
+    },
+    {
+      "certification_number": "12345678",
+      "coin_id": "CA-BGML-2007-P",
+      "collection_name": "Example Collection",
+      "created_at": "2025-11-16 20:04:44",
+      "full_grade_string": "PCGS MS-65 RD",
+      "grade_id": "MS-65",
+      "grading_service": "PCGS",
+      "inventory_id": 1,
+      "is_certified": true,
+      "market_threshold_grade": true,
+      "modifiers": [
+        "RD"
+      ],
+      "notes": "Sample certified coin",
+      "strike_type": "business",
+      "updated_at": "2025-11-16 20:04:44"
+    }
+  ],
+  "last_updated": "2025-11-16",
+  "total_records": 2,
+  "version": "1.0.0"
+}
