@@ -12,7 +12,9 @@
           "composition": {
             "gold": 99.99
           },
+          "designer": "James Earle Fraser",
           "diameter_mm": 32.7,
+          "distinguishing_features": "James Earle Fraser",
           "mint": "X",
           "notes": "Random year bullion - 1 troy oz 24-karat gold content, dealer's choice year, valued by metal content. First .9999 fine (24-karat) gold coin from US Mint.",
           "obverse_description": "Profile of Native American chief (based on composite of three chiefs), 'LIBERTY' above, date below",
@@ -62,7 +64,9 @@
             "gold": 91.67,
             "silver": 3.0
           },
+          "designer": "Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)",
           "diameter_mm": 32.7,
+          "distinguishing_features": "Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)",
           "mint": "X",
           "notes": "Random year bullion - 1 troy oz gold content, dealer's choice year, valued by metal content",
           "obverse_description": "Lady Liberty striding forward with torch and olive branch, Capitol building in background, rays of sunlight",

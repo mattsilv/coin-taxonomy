@@ -67,24 +67,25 @@ class DatabaseExporter:
                 
                 # Get all coins for this denomination - using ACTUAL database columns
                 cursor.execute('''
-                    SELECT 
-                        coin_id, 
-                        series, 
-                        series as series_name, 
-                        year, 
+                    SELECT
+                        coin_id,
+                        series,
+                        series as series_name,
+                        year,
                         mint,
-                        business_strikes, 
-                        proof_strikes, 
+                        business_strikes,
+                        proof_strikes,
                         rarity,
-                        composition, 
-                        weight_grams, 
+                        composition,
+                        weight_grams,
                         diameter_mm,
                         variety as varieties,
-                        source_citation, 
+                        source_citation,
                         notes,
                         substr(coin_id, 1, 2) as country,
-                        obverse_description, 
+                        obverse_description,
                         reverse_description,
+                        designer,
                         '' as distinguishing_features,
                         '' as identification_keywords,
                         '' as common_names,
@@ -94,9 +95,9 @@ class DatabaseExporter:
                         'gregorian' as calendar_type,
                         '' as original_date,
                         '' as variety_suffix,
-                        CASE 
+                        CASE
                             WHEN composition LIKE '%silver%' OR composition LIKE '%gold%' THEN 'bullion'
-                            ELSE 'circulation' 
+                            ELSE 'circulation'
                         END as subcategory
                     FROM coins
                     WHERE denomination = ? AND coin_id LIKE 'US-%'
@@ -142,16 +143,18 @@ class DatabaseExporter:
                     }
                     
                     # Add category and subcategory fields
-                    if row[20]:  # category
-                        coin["category"] = row[20]
-                    if row[26]:  # subcategory
-                        coin["subcategory"] = row[26]
+                    if row[21]:  # category
+                        coin["category"] = row[21]
+                    if row[27]:  # subcategory
+                        coin["subcategory"] = row[27]
                     
                     # Add visual description fields
                     if row[15]:  # obverse_description
                         coin["obverse_description"] = row[15]
                     if row[16]:  # reverse_description
                         coin["reverse_description"] = row[16]
+                    if row[17]:  # designer
+                        coin["designer"] = row[17]
                     if distinguishing_features:
                         coin["distinguishing_features"] = distinguishing_features
                     if identification_keywords:
