@@ -6186,6 +6186,29 @@
       "year": "1981"
     },
     {
+      "business_strikes": 596000,
+      "coin_id": "MX-MLGO-1981-MO",
+      "composition": {
+        "copper": 10.0,
+        "gold": 90.0
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".900 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "1981"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-DOLR-1982-P",
       "composition": {
@@ -6327,6 +6350,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1982"
+    },
+    {
+      "business_strikes": 1050000,
+      "coin_id": "MX-MLSO-1982-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1982"
     },
     {
@@ -6474,6 +6519,28 @@
       "year": "1983"
     },
     {
+      "business_strikes": 1002200,
+      "coin_id": "MX-MLSO-1983-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1983"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-DOLR-1984-P",
       "composition": {
@@ -6615,6 +6682,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1984"
+    },
+    {
+      "business_strikes": 1015500,
+      "coin_id": "MX-MLSO-1984-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1984"
     },
     {
@@ -6762,6 +6851,28 @@
       "year": "1985"
     },
     {
+      "business_strikes": 2017000,
+      "coin_id": "MX-MLSO-1985-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1985"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-DOLR-1986-P",
       "composition": {
@@ -6903,6 +7014,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1986"
+    },
+    {
+      "business_strikes": 1699426,
+      "coin_id": "MX-MLSO-1986-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1986"
     },
     {
@@ -7048,6 +7181,28 @@
       "year": "1987"
     },
     {
+      "business_strikes": 500000,
+      "coin_id": "MX-MLSO-1987-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1987"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-LOON-1988-P",
       "composition": {},
@@ -7187,6 +7342,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1988"
+    },
+    {
+      "business_strikes": 1000000,
+      "coin_id": "MX-MLSO-1988-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1988"
     },
     {
@@ -7372,6 +7549,57 @@
       "year": "1989"
     },
     {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-1989-MO-P",
+      "composition": {
+        "copper": 10.0,
+        "gold": 90.0
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .900 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 704,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "1989"
+    },
+    {
+      "business_strikes": 1396500,
+      "coin_id": "MX-MLSO-1989-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1989"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1989-P",
       "composition": {},
@@ -7551,6 +7779,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1990"
+    },
+    {
+      "business_strikes": 1200000,
+      "coin_id": "MX-MLSO-1990-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1990"
     },
     {
@@ -7736,6 +7986,50 @@
       "year": "1991"
     },
     {
+      "business_strikes": 109193,
+      "coin_id": "MX-MLGO-1991-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "1991"
+    },
+    {
+      "business_strikes": 1650518,
+      "coin_id": "MX-MLSO-1991-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1991"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1991-P",
       "composition": {},
@@ -7915,6 +8209,50 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1992"
+    },
+    {
+      "business_strikes": 46281,
+      "coin_id": "MX-MLGO-1992-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "1992"
+    },
+    {
+      "business_strikes": 2458000,
+      "coin_id": "MX-MLSO-1992-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1992"
     },
     {
@@ -8100,6 +8438,50 @@
       "year": "1993"
     },
     {
+      "business_strikes": 73881,
+      "coin_id": "MX-MLGO-1993-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "1993"
+    },
+    {
+      "business_strikes": 1000000,
+      "coin_id": "MX-MLSO-1993-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1993"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1993-P",
       "composition": {},
@@ -8279,6 +8661,50 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1994"
+    },
+    {
+      "business_strikes": 1000,
+      "coin_id": "MX-MLGO-1994-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (old angel (front-facing))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "1994"
+    },
+    {
+      "business_strikes": 400000,
+      "coin_id": "MX-MLSO-1994-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1994"
     },
     {
@@ -8464,6 +8890,28 @@
       "year": "1995"
     },
     {
+      "business_strikes": 500000,
+      "coin_id": "MX-MLSO-1995-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, old angel (front-facing), Smaller diameter, greater thickness",
+      "obverse_description": "Simple coat of arms",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (old angel (front-facing))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1995"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1995-P",
       "composition": {},
@@ -8643,6 +9091,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1996"
+    },
+    {
+      "business_strikes": 300000,
+      "coin_id": "MX-MLSO-1996-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1996"
     },
     {
@@ -8854,6 +9324,28 @@
       "year": "1997"
     },
     {
+      "business_strikes": 100000,
+      "coin_id": "MX-MLSO-1997-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1997"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1997-P",
       "composition": {},
@@ -9056,6 +9548,28 @@
       "year": "1998"
     },
     {
+      "business_strikes": 67000,
+      "coin_id": "MX-MLSO-1998-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "1998"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-1998-P",
       "composition": {},
@@ -9255,6 +9769,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "1999"
+    },
+    {
+      "business_strikes": 95000,
+      "coin_id": "MX-MLSO-1999-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "1999"
     },
     {
@@ -9498,6 +10034,50 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2000"
+    },
+    {
+      "business_strikes": 2370,
+      "coin_id": "MX-MLGO-2000-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2000"
+    },
+    {
+      "business_strikes": 455000,
+      "coin_id": "MX-MLSO-2000-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2000"
     },
     {
@@ -9761,6 +10341,28 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2001"
+    },
+    {
+      "business_strikes": 385000,
+      "coin_id": "MX-MLSO-2001-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2001"
     },
     {
@@ -10047,6 +10649,50 @@
       "year": "2002"
     },
     {
+      "business_strikes": 15000,
+      "coin_id": "MX-MLGO-2002-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2002"
+    },
+    {
+      "business_strikes": 955000,
+      "coin_id": "MX-MLSO-2002-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2002"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-2002-P",
       "composition": {},
@@ -10310,6 +10956,50 @@
       "year": "2003"
     },
     {
+      "business_strikes": 500,
+      "coin_id": "MX-MLGO-2003-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2003"
+    },
+    {
+      "business_strikes": 200000,
+      "coin_id": "MX-MLSO-2003-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2003"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-SMPL-2003-P",
       "composition": {},
@@ -10553,6 +11243,78 @@
       "year": "2004"
     },
     {
+      "business_strikes": 3000,
+      "coin_id": "MX-MLGO-2004-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2004"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2004-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1800,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2004"
+    },
+    {
+      "business_strikes": 550000,
+      "coin_id": "MX-MLSO-2004-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2004"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-SMPL-2004-P",
       "composition": {},
@@ -10793,6 +11555,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2005"
+    },
+    {
+      "business_strikes": 3000,
+      "coin_id": "MX-MLGO-2005-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2005"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2005-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 570,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2005"
+    },
+    {
+      "business_strikes": 600000,
+      "coin_id": "MX-MLSO-2005-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2005"
     },
     {
@@ -11056,6 +11890,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2006"
+    },
+    {
+      "business_strikes": 4000,
+      "coin_id": "MX-MLGO-2006-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2006"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2006-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 520,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2006"
+    },
+    {
+      "business_strikes": 300000,
+      "coin_id": "MX-MLSO-2006-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2006"
     },
     {
@@ -11342,6 +12248,78 @@
       "year": "2007"
     },
     {
+      "business_strikes": 2500,
+      "coin_id": "MX-MLGO-2007-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2007"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2007-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2007"
+    },
+    {
+      "business_strikes": 200000,
+      "coin_id": "MX-MLSO-2007-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2007"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PDML-2007-P",
       "composition": {},
@@ -11605,6 +12583,78 @@
       "year": "2008"
     },
     {
+      "business_strikes": 800,
+      "coin_id": "MX-MLGO-2008-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2008"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2008-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2008"
+    },
+    {
+      "business_strikes": 950000,
+      "coin_id": "MX-MLSO-2008-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2008"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-SMPL-2008-P",
       "composition": {},
@@ -11845,6 +12895,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2009"
+    },
+    {
+      "business_strikes": 6200,
+      "coin_id": "MX-MLGO-2009-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2009"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2009-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 600,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2009"
+    },
+    {
+      "business_strikes": 1650000,
+      "coin_id": "MX-MLSO-2009-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2009"
     },
     {
@@ -12151,6 +13273,78 @@
       "year": "2010"
     },
     {
+      "business_strikes": 4000,
+      "coin_id": "MX-MLGO-2010-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2010"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2010-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 600,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2010"
+    },
+    {
+      "business_strikes": 1000000,
+      "coin_id": "MX-MLSO-2010-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2010"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-SMPL-2010-P",
       "composition": {},
@@ -12391,6 +13585,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2011"
+    },
+    {
+      "business_strikes": 3000,
+      "coin_id": "MX-MLGO-2011-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2011"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2011-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1100,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2011"
+    },
+    {
+      "business_strikes": 1200000,
+      "coin_id": "MX-MLSO-2011-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2011"
     },
     {
@@ -12697,6 +13963,50 @@
       "year": "2012"
     },
     {
+      "business_strikes": 3000,
+      "coin_id": "MX-MLGO-2012-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2012"
+    },
+    {
+      "business_strikes": 746400,
+      "coin_id": "MX-MLSO-2012-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2012"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-2012-P",
       "composition": {},
@@ -12977,6 +14287,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2013"
+    },
+    {
+      "business_strikes": 2350,
+      "coin_id": "MX-MLGO-2013-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2013"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2013-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 400,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2013"
+    },
+    {
+      "business_strikes": 774100,
+      "coin_id": "MX-MLSO-2013-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2013"
     },
     {
@@ -13263,6 +14645,78 @@
       "year": "2014"
     },
     {
+      "business_strikes": 4050,
+      "coin_id": "MX-MLGO-2014-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2014"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2014-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 250,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2014"
+    },
+    {
+      "business_strikes": 429200,
+      "coin_id": "MX-MLSO-2014-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2014"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PMPL-2014-P",
       "composition": {},
@@ -13523,6 +14977,106 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2015"
+    },
+    {
+      "business_strikes": 4800,
+      "coin_id": "MX-MLGO-2015-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2015"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2015-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2015"
+    },
+    {
+      "business_strikes": 901500,
+      "coin_id": "MX-MLSO-2015-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2015"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2015-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
       "year": "2015"
     },
     {
@@ -13789,6 +15343,134 @@
       "year": "2016"
     },
     {
+      "business_strikes": 4100,
+      "coin_id": "MX-MLGO-2016-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2016"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2016-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 2100,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2016"
+    },
+    {
+      "business_strikes": 1437500,
+      "coin_id": "MX-MLSO-2016-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2016"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2016-MO-P",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine silver, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 13250,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2016"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2016-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2016"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PDML-2016-P",
       "composition": {},
@@ -14049,6 +15731,78 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2017"
+    },
+    {
+      "business_strikes": 900,
+      "coin_id": "MX-MLGO-2017-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "key",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2017"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2017-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 600,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2017"
+    },
+    {
+      "business_strikes": 636000,
+      "coin_id": "MX-MLSO-2017-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
       "year": "2017"
     },
     {
@@ -14315,6 +16069,134 @@
       "year": "2018"
     },
     {
+      "business_strikes": 2050,
+      "coin_id": "MX-MLGO-2018-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2018"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2018-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2018"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2018-MO-RP",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background (new angel)",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2018"
+    },
+    {
+      "business_strikes": 300000,
+      "coin_id": "MX-MLSO-2018-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2018"
+    },
+    {
+      "business_strikes": 40000,
+      "coin_id": "MX-MLSO-2018-MO-AF",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Antiqued finish - .999 fine silver, limited release",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with antiqued finish",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "antiqued_finish",
+          "name": "Antiqued Finish",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2018"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PDML-2018-P",
       "composition": {},
@@ -14575,6 +16457,190 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 2000,
+      "coin_id": "MX-MLGO-2019-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2019-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 750,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2019-MO-RP",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background (new angel)",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 402000,
+      "coin_id": "MX-MLSO-2019-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2019-MO-P",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine silver, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 5500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2019-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2019"
+    },
+    {
+      "business_strikes": 1000,
+      "coin_id": "MX-MLSO-2019-MO-AF",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Antiqued finish - .999 fine silver, limited release",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with antiqued finish",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "antiqued_finish",
+          "name": "Antiqued Finish",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
       "year": "2019"
     },
     {
@@ -14861,6 +16927,162 @@
       "year": "2020"
     },
     {
+      "business_strikes": 1100,
+      "coin_id": "MX-MLGO-2020-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2020"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2020-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 250,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2020"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2020-MO-RP",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 250,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background (new angel)",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2020"
+    },
+    {
+      "business_strikes": 300000,
+      "coin_id": "MX-MLSO-2020-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2020"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2020-MO-P",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine silver, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 5850,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2020"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2020-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2020"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PDML-2020-P",
       "composition": {},
@@ -15124,6 +17346,162 @@
       "year": "2021"
     },
     {
+      "business_strikes": 1050,
+      "coin_id": "MX-MLGO-2021-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2021"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2021-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2021"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2021-MO-RP",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background (new angel)",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2021"
+    },
+    {
+      "business_strikes": 450000,
+      "coin_id": "MX-MLSO-2021-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2021"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2021-MO-P",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine silver, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 3450,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2021"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2021-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2021"
+    },
+    {
       "business_strikes": null,
       "coin_id": "CA-PDML-2021-P",
       "composition": {},
@@ -15384,6 +17762,162 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.776,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 1900,
+      "coin_id": "MX-MLGO-2022-MO",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes Popocatépetl and Iztaccihuatl (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.1,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2022-MO-P",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1300,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLGO-2022-MO-RP",
+      "composition": {
+        "gold": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 34.5,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 500,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background (new angel)",
+      "series_id": "Mexican Libertad Gold 1 oz",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.1,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 350000,
+      "coin_id": "MX-MLSO-2022-MO",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": ".999 fine silver, new angel (3/4 profile), Current size specifications",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 0,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria (Angel of Independence) with volcanoes (new angel (3/4 profile))",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [],
+      "weight_grams": 31.103,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2022-MO-P",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Proof finish - .999 fine silver, new angel",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 3400,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with frosted finish on polished background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "proof",
+          "name": "Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
+      "year": "2022"
+    },
+    {
+      "business_strikes": 0,
+      "coin_id": "MX-MLSO-2022-MO-RP",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "MX",
+      "denomination": "No Face Value",
+      "diameter_mm": 40.0,
+      "mint": "MO",
+      "notes": "Reverse Proof finish - .999 fine silver",
+      "obverse_description": "Current coat of arms with 10 historical versions",
+      "proof_strikes": 1000,
+      "rarity": "common",
+      "reverse_description": "Winged Victoria with polished finish on frosted background",
+      "series_id": "Mexican Libertad Silver 1 oz",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de México",
+      "varieties": [
+        {
+          "id": "reverse_proof",
+          "name": "Reverse Proof",
+          "premium": false
+        }
+      ],
+      "weight_grams": 31.103,
       "year": "2022"
     },
     {
@@ -16173,9 +18707,9 @@
       "year": "XXXX"
     }
   ],
-  "generated_at": "2025-11-16T16:15:02.295994",
+  "generated_at": "2025-11-17T18:31:54.900783",
   "taxonomy_version": "1.1",
-  "total_coins": 768,
+  "total_coins": 873,
   "year_range": {
     "earliest": "1851",
     "latest": "XXXX"
