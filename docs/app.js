@@ -93,7 +93,8 @@ class CurrencyBrowser {
             // Load available countries from the universal taxonomy
             const countries = [
                 { code: 'US', name: 'United States', file: 'data/universal/us_issues.json' },
-                { code: 'CA', name: 'Canada', file: 'data/universal/ca_issues.json' }
+                { code: 'CA', name: 'Canada', file: 'data/universal/ca_issues.json' },
+                { code: 'MX', name: 'Mexico', file: 'data/universal/mx_issues.json' }
             ];
 
             this.populateCountryDropdown(countries);
