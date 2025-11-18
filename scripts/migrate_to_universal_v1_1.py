@@ -96,7 +96,7 @@ def create_universal_schema(conn):
             system_fraction TEXT,  -- "1/100 dollar"
             
             -- Issue Details
-            issue_year INTEGER NOT NULL,
+            issue_year TEXT NOT NULL,
             mint_id TEXT,
             date_range_start INTEGER,
             date_range_end INTEGER,
@@ -478,7 +478,7 @@ def migrate_existing_data(conn):
         else:
             series_abbrev = "UNK"
 
-        issue_id = generate_issue_id(country_code, series_abbrev, year, mint or "P")
+        issue_id = generate_issue_id(country_code, series_abbrev, year, mint or "P", variety)
         
         # Map denomination to face value
         denom_map = {
@@ -548,7 +548,15 @@ def migrate_existing_data(conn):
         # Determine series grouping for commemorative half dollars
         series_group = None
         series_group_years = None
-        if denomination == "Commemorative Half Dollars" and 1892 <= year <= 1954:
+        
+        # Safely convert year to int for comparison
+        try:
+            year_int = int(year)
+            is_commem_period = 1892 <= year_int <= 1954
+        except (ValueError, TypeError):
+            is_commem_period = False
+            
+        if denomination == "Commemorative Half Dollars" and is_commem_period:
             series_group = "Classic Commemorative Half Dollars"
             series_group_years = "1892-1954"
 

@@ -91,6 +91,60 @@
       "type": "coin"
     },
     {
+      "series_id": "American Gold Buffalo (1 oz)__$50",
+      "series_name": "American Gold Buffalo (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1 oz)__$50",
+      "series_name": "American Gold Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/10 oz)__$5",
+      "series_name": "American Gold Eagle (1/10 oz)",
+      "country_code": "US",
+      "denomination": "$5",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/2 oz)__$25",
+      "series_name": "American Gold Eagle (1/2 oz)",
+      "country_code": "US",
+      "denomination": "$25",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/4 oz)__$10",
+      "series_name": "American Gold Eagle (1/4 oz)",
+      "country_code": "US",
+      "denomination": "$10",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Silver Eagle (1 oz)__$1",
+      "series_name": "American Silver Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Arkansas Centennial__Commemorative_Half_Dollars",
       "series_name": "Arkansas Centennial",
       "country_code": "US",
@@ -250,6 +304,15 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard__Engelhard_Bullion",
+      "series_name": "Engelhard",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -574,6 +637,24 @@
       "denomination": "Gold Dollars",
       "start_year": 1916,
       "end_year": 1917,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1981,
+      "end_year": 2022,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1982,
+      "end_year": 2022,
       "type": "coin"
     },
     {

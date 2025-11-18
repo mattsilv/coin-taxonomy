@@ -1,7 +1,12 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["country", "denomination", "face_value", "series"],
+  "required": [
+    "country",
+    "denomination",
+    "face_value",
+    "series"
+  ],
   "properties": {
     "country": {
       "type": "string",
@@ -10,12 +15,47 @@
     "denomination": {
       "type": "string",
       "enum": [
-        "Cents", "Two Cents", "Three Cents", "Nickels", "Half Dimes", "Dimes",
-        "Twenty Cents", "Quarters", "Half Dollars", "Dollars", "Half Cents", "Trade Dollars",
-        "Gold Dollars", "Quarter Eagles", "Three Dollar Gold", "Half Eagles", "Eagles", "Double Eagles",
-        "Commemorative Half Dollars", "Commemorative Quarters", "Commemorative Dollars", "Fifty Dollars",
-        "$1", "$5", "$10", "$25", "$50", "Paper $0.03", "Paper $0.05", "Paper $0.1", "Paper $0.15", "Paper $0.25", "Paper $0.5",
-        "Paper $1", "Paper $2", "Paper $5", "Paper $10", "Paper $20", "Paper $50", "Paper $100"
+        "Cents",
+        "Two Cents",
+        "Three Cents",
+        "Nickels",
+        "Half Dimes",
+        "Dimes",
+        "Twenty Cents",
+        "Quarters",
+        "Half Dollars",
+        "Dollars",
+        "Half Cents",
+        "Trade Dollars",
+        "Gold Dollars",
+        "Quarter Eagles",
+        "Three Dollar Gold",
+        "Half Eagles",
+        "Eagles",
+        "Double Eagles",
+        "Commemorative Half Dollars",
+        "Commemorative Quarters",
+        "Commemorative Dollars",
+        "Fifty Dollars",
+        "$1",
+        "$5",
+        "$10",
+        "$25",
+        "$50",
+        "Paper $0.03",
+        "Paper $0.05",
+        "Paper $0.1",
+        "Paper $0.15",
+        "Paper $0.25",
+        "Paper $0.5",
+        "Paper $1",
+        "Paper $2",
+        "Paper $5",
+        "Paper $10",
+        "Paper $20",
+        "Paper $50",
+        "Paper $100",
+        "Engelhard Bullion"
       ]
     },
     "face_value": {
@@ -26,7 +66,10 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["series_id", "series_name"],
+        "required": [
+          "series_id",
+          "series_name"
+        ],
         "properties": {
           "series_id": {
             "type": "string"
@@ -39,19 +82,36 @@
           },
           "years": {
             "type": "object",
-            "required": ["start"],
+            "required": [
+              "start"
+            ],
             "properties": {
               "start": {
                 "oneOf": [
-                  {"type": "integer", "minimum": 1773},
-                  {"type": "string", "const": "XXXX"}
+                  {
+                    "type": "integer",
+                    "minimum": 1773
+                  },
+                  {
+                    "type": "string",
+                    "const": "XXXX"
+                  }
                 ]
               },
               "end": {
                 "oneOf": [
-                  {"type": "integer", "minimum": 1773},
-                  {"type": "string", "const": "present"},
-                  {"type": "string", "const": "XXXX"}
+                  {
+                    "type": "integer",
+                    "minimum": 1773
+                  },
+                  {
+                    "type": "string",
+                    "const": "present"
+                  },
+                  {
+                    "type": "string",
+                    "const": "XXXX"
+                  }
                 ]
               }
             }
@@ -59,39 +119,79 @@
           "designers": {
             "type": "object",
             "properties": {
-              "obverse": {"type": "string"},
-              "reverse": {"type": "string"}
+              "obverse": {
+                "type": "string"
+              },
+              "reverse": {
+                "type": "string"
+              }
             }
           },
           "specifications": {
             "type": "object",
             "properties": {
-              "diameter_mm": {"type": ["number", "null"], "minimum": 0},
-              "edge": {"type": ["string", "null"]},
-              "edge_reeds": {"type": ["integer", "null"], "minimum": 0}
+              "diameter_mm": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0
+              },
+              "edge": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "edge_reeds": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "minimum": 0
+              }
             }
           },
           "composition_periods": {
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["date_range"],
+              "required": [
+                "date_range"
+              ],
               "properties": {
                 "date_range": {
                   "type": "object",
-                  "required": ["start"],
+                  "required": [
+                    "start"
+                  ],
                   "properties": {
                     "start": {
                       "oneOf": [
-                        {"type": "integer", "minimum": 1787},
-                        {"type": "string", "const": "XXXX"}
+                        {
+                          "type": "integer",
+                          "minimum": 1787
+                        },
+                        {
+                          "type": "string",
+                          "const": "XXXX"
+                        }
                       ]
                     },
                     "end": {
                       "oneOf": [
-                        {"type": "integer", "minimum": 1773},
-                        {"type": "string", "const": "present"},
-                        {"type": "string", "const": "XXXX"}
+                        {
+                          "type": "integer",
+                          "minimum": 1773
+                        },
+                        {
+                          "type": "string",
+                          "const": "present"
+                        },
+                        {
+                          "type": "string",
+                          "const": "XXXX"
+                        }
                       ]
                     }
                   }
@@ -106,20 +206,45 @@
                 "alloy": {
                   "type": "object",
                   "patternProperties": {
-                    "^[a-z_]+$": {"type": "number", "minimum": 0, "maximum": 1}
+                    "^[a-z_]+$": {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 1
+                    }
                   }
                 },
                 "weight": {
                   "type": "object",
                   "properties": {
-                    "grams": {"type": ["number", "null"], "minimum": 0},
-                    "troy_oz": {"type": ["number", "null"], "minimum": 0}
+                    "grams": {
+                      "type": [
+                        "number",
+                        "null"
+                      ],
+                      "minimum": 0
+                    },
+                    "troy_oz": {
+                      "type": [
+                        "number",
+                        "null"
+                      ],
+                      "minimum": 0
+                    }
                   }
                 }
               },
               "oneOf": [
-                {"required": ["composition_key"]},
-                {"required": ["alloy_name", "alloy"]}
+                {
+                  "required": [
+                    "composition_key"
+                  ]
+                },
+                {
+                  "required": [
+                    "alloy_name",
+                    "alloy"
+                  ]
+                }
               ]
             }
           },
@@ -127,11 +252,15 @@
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["coin_id", "year", "mint"],
+              "required": [
+                "coin_id",
+                "year",
+                "mint"
+              ],
               "properties": {
                 "coin_id": {
                   "type": "string",
-                  "pattern": "^[A-Z]{2,3}-[A-Z]{4}-(\\d{4}|XXXX)-[A-Z]{1,2}(-[A-Z0-9]+)?$"
+                  "pattern": "^[A-Z]{2,3}-[A-Z0-9]{4}-(\\d{4}|XXXX)-[A-Z]{1,2}(-[A-Z0-9]+)?$"
                 },
                 "year": {
                   "oneOf": [
@@ -148,28 +277,79 @@
                     }
                   ]
                 },
-                "mint": {"type": "string", "pattern": "^[A-Z]+$"},
-                "business_strikes": {"type": ["integer", "null"]},
-                "proof_strikes": {"type": ["integer", "null"]},
+                "mint": {
+                  "type": "string",
+                  "pattern": "^[A-Z]+$"
+                },
+                "business_strikes": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "proof_strikes": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
                 "rarity": {
-                  "type": ["string", "null"],
-                  "enum": ["key", "semi-key", "common", "scarce", null]
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "enum": [
+                    "key",
+                    "semi-key",
+                    "common",
+                    "scarce",
+                    null
+                  ]
                 },
                 "varieties": {
                   "type": "array",
                   "items": {
                     "type": "object",
-                    "required": ["name"],
+                    "required": [
+                      "name"
+                    ],
                     "properties": {
-                      "variety_id": {"type": ["string", "null"]},
-                      "name": {"type": "string"},
-                      "description": {"type": ["string", "null"]},
-                      "estimated_mintage": {"type": ["integer", "null"]}
+                      "variety_id": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "estimated_mintage": {
+                        "type": [
+                          "integer",
+                          "null"
+                        ]
+                      }
                     }
                   }
                 },
-                "source_citation": {"type": ["string", "null"]},
-                "notes": {"type": ["string", "null"]}
+                "source_citation": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "notes": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
               }
             }
           }

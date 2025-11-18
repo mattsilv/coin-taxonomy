@@ -1,0 +1,1386 @@
+{
+  "$schema": "../schema/grade_standards.schema.json",
+  "comparison_utilities": {
+    "compareGrades": "Compare two grades, returns -1, 0, or 1",
+    "getLowestGrade": "Find the lowest grade from an array of grades",
+    "normalizeGrade": "Convert grade aliases to canonical format"
+  },
+  "description": "Canonical grading hierarchy and parsing rules for coin grading. Supports grade comparison, multi-grade parsing, and RAW-{grade} classification for uncertified coins. See: GitHub Issue #64",
+  "grade_hierarchy": [
+    {
+      "abbreviations": [
+        "P1",
+        "P 1",
+        "Poor-1",
+        "Poor 1"
+      ],
+      "common_in_practice": false,
+      "description": "Identifiable date and type, heavy wear, major damage may be present",
+      "grade": "P-1",
+      "grade_category": "Circulated",
+      "grade_name": "Poor (P-1)",
+      "grade_numeric": 1,
+      "grade_subcategory": "Poor",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 1,
+        "min": 1
+      },
+      "sheldon_scale_position": 1,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "FR2",
+        "FR 2",
+        "Fair-2",
+        "Fair 2"
+      ],
+      "common_in_practice": false,
+      "description": "Barely identifiable, heavy wear, rim damage common",
+      "grade": "FR-2",
+      "grade_category": "Circulated",
+      "grade_name": "Fair (FR-2)",
+      "grade_numeric": 2,
+      "grade_subcategory": "Fair",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 2,
+        "min": 2
+      },
+      "sheldon_scale_position": 2,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "AG3",
+        "AG 3",
+        "About Good-3",
+        "About Good 3"
+      ],
+      "common_in_practice": true,
+      "description": "Date barely readable, heavy wear throughout, major design elements visible",
+      "grade": "AG-3",
+      "grade_category": "Circulated",
+      "grade_name": "About Good (AG-3)",
+      "grade_numeric": 3,
+      "grade_subcategory": "About Good",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 3,
+        "min": 3
+      },
+      "sheldon_scale_position": 3,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "G4",
+        "G 4",
+        "Good-4",
+        "Good 4"
+      ],
+      "common_in_practice": true,
+      "description": "Date and type readable, heavy wear, major design elements clear",
+      "grade": "G-4",
+      "grade_category": "Circulated",
+      "grade_name": "Good (G-4)",
+      "grade_numeric": 4,
+      "grade_subcategory": "Good",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 6,
+        "min": 4
+      },
+      "sheldon_scale_position": 4,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "G6",
+        "G 6",
+        "Good-6",
+        "Good 6"
+      ],
+      "common_in_practice": true,
+      "description": "Slightly better detail than G-4, major design elements visible",
+      "grade": "G-6",
+      "grade_category": "Circulated",
+      "grade_name": "Good (G-6)",
+      "grade_numeric": 6,
+      "grade_subcategory": "Good",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 6,
+        "min": 4
+      },
+      "sheldon_scale_position": 6,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VG8",
+        "VG 8",
+        "Very Good-8",
+        "Very Good 8"
+      ],
+      "common_in_practice": true,
+      "description": "Well worn but major design elements clear, some detail visible",
+      "grade": "VG-8",
+      "grade_category": "Circulated",
+      "grade_name": "Very Good (VG-8)",
+      "grade_numeric": 8,
+      "grade_subcategory": "Very Good",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 10,
+        "min": 8
+      },
+      "sheldon_scale_position": 8,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VG10",
+        "VG 10",
+        "Very Good-10",
+        "Very Good 10"
+      ],
+      "common_in_practice": true,
+      "description": "Slightly better detail than VG-8, legends complete",
+      "grade": "VG-10",
+      "grade_category": "Circulated",
+      "grade_name": "Very Good (VG-10)",
+      "grade_numeric": 10,
+      "grade_subcategory": "Very Good",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 10,
+        "min": 8
+      },
+      "sheldon_scale_position": 10,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "F12",
+        "F 12",
+        "Fine-12",
+        "Fine 12"
+      ],
+      "common_in_practice": true,
+      "description": "Moderate wear, major design elements clear, some finer details visible",
+      "grade": "F-12",
+      "grade_category": "Circulated",
+      "grade_name": "Fine (F-12)",
+      "grade_numeric": 12,
+      "grade_subcategory": "Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 15,
+        "min": 12
+      },
+      "sheldon_scale_position": 12,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "F15",
+        "F 15",
+        "Fine-15",
+        "Fine 15"
+      ],
+      "common_in_practice": true,
+      "description": "Slightly better detail than F-12, moderate even wear",
+      "grade": "F-15",
+      "grade_category": "Circulated",
+      "grade_name": "Fine (F-15)",
+      "grade_numeric": 15,
+      "grade_subcategory": "Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 15,
+        "min": 12
+      },
+      "sheldon_scale_position": 15,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VF20",
+        "VF 20",
+        "Very Fine-20",
+        "Very Fine 20"
+      ],
+      "common_in_practice": true,
+      "description": "Light to moderate wear, most details clear, attractive appearance",
+      "grade": "VF-20",
+      "grade_category": "Circulated",
+      "grade_name": "Very Fine (VF-20)",
+      "grade_numeric": 20,
+      "grade_subcategory": "Very Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 35,
+        "min": 20
+      },
+      "sheldon_scale_position": 20,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VF25",
+        "VF 25",
+        "Very Fine-25",
+        "Very Fine 25"
+      ],
+      "common_in_practice": true,
+      "description": "Light wear, details well defined, minor high point wear",
+      "grade": "VF-25",
+      "grade_category": "Circulated",
+      "grade_name": "Very Fine (VF-25)",
+      "grade_numeric": 25,
+      "grade_subcategory": "Very Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 35,
+        "min": 20
+      },
+      "sheldon_scale_position": 25,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VF30",
+        "VF 30",
+        "Very Fine-30",
+        "Very Fine 30"
+      ],
+      "common_in_practice": true,
+      "description": "Light wear on high points, details sharp, attractive coin",
+      "grade": "VF-30",
+      "grade_category": "Circulated",
+      "grade_name": "Very Fine (VF-30)",
+      "grade_numeric": 30,
+      "grade_subcategory": "Very Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 35,
+        "min": 20
+      },
+      "sheldon_scale_position": 30,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "VF35",
+        "VF 35",
+        "Very Fine-35",
+        "Very Fine 35"
+      ],
+      "common_in_practice": true,
+      "description": "Light wear, most design details sharp, pleasing appearance",
+      "grade": "VF-35",
+      "grade_category": "Circulated",
+      "grade_name": "Very Fine (VF-35)",
+      "grade_numeric": 35,
+      "grade_subcategory": "Very Fine",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 35,
+        "min": 20
+      },
+      "sheldon_scale_position": 35,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "XF40",
+        "XF 40",
+        "EF-40",
+        "EF40",
+        "EF 40",
+        "Extremely Fine-40",
+        "Extremely Fine 40"
+      ],
+      "aliases": {
+        "EF": "XF",
+        "EF 40": "XF-40",
+        "EF-40": "XF-40",
+        "EF40": "XF-40"
+      },
+      "common_in_practice": true,
+      "description": "Slight wear on high points, design details sharp throughout",
+      "grade": "XF-40",
+      "grade_category": "Circulated",
+      "grade_name": "Extremely Fine (XF-40)",
+      "grade_numeric": 40,
+      "grade_subcategory": "Extremely Fine",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 45,
+        "min": 40
+      },
+      "sheldon_scale_position": 40,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "XF45",
+        "XF 45",
+        "EF-45",
+        "EF45",
+        "EF 45",
+        "Extremely Fine-45",
+        "Extremely Fine 45"
+      ],
+      "aliases": {
+        "EF": "XF",
+        "EF 45": "XF-45",
+        "EF-45": "XF-45",
+        "EF45": "XF-45"
+      },
+      "common_in_practice": true,
+      "description": "Minimal wear on highest points, sharp details, attractive luster",
+      "grade": "XF-45",
+      "grade_category": "Circulated",
+      "grade_name": "Extremely Fine (XF-45)",
+      "grade_numeric": 45,
+      "grade_subcategory": "Extremely Fine",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 45,
+        "min": 40
+      },
+      "sheldon_scale_position": 45,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "AU50",
+        "AU 50",
+        "About Uncirculated-50",
+        "About Uncirculated 50",
+        "Almost Uncirculated-50"
+      ],
+      "common_in_practice": true,
+      "description": "Trace of wear on highest points, partial mint luster present",
+      "grade": "AU-50",
+      "grade_category": "About Uncirculated",
+      "grade_name": "About Uncirculated (AU-50)",
+      "grade_numeric": 50,
+      "grade_subcategory": "About Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 58,
+        "min": 50
+      },
+      "sheldon_scale_position": 50,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "AU53",
+        "AU 53",
+        "About Uncirculated-53",
+        "About Uncirculated 53"
+      ],
+      "common_in_practice": true,
+      "description": "Slight trace of wear, considerable mint luster present",
+      "grade": "AU-53",
+      "grade_category": "About Uncirculated",
+      "grade_name": "About Uncirculated (AU-53)",
+      "grade_numeric": 53,
+      "grade_subcategory": "About Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 58,
+        "min": 50
+      },
+      "sheldon_scale_position": 53,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "AU55",
+        "AU 55",
+        "About Uncirculated-55",
+        "About Uncirculated 55",
+        "Choice AU"
+      ],
+      "common_in_practice": true,
+      "description": "Light wear on highest points, much of mint luster present",
+      "grade": "AU-55",
+      "grade_category": "About Uncirculated",
+      "grade_name": "About Uncirculated (AU-55)",
+      "grade_numeric": 55,
+      "grade_subcategory": "About Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 58,
+        "min": 50
+      },
+      "sheldon_scale_position": 55,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "AU58",
+        "AU 58",
+        "About Uncirculated-58",
+        "About Uncirculated 58"
+      ],
+      "common_in_practice": true,
+      "description": "Minimal wear on highest points, nearly full mint luster",
+      "grade": "AU-58",
+      "grade_category": "About Uncirculated",
+      "grade_name": "About Uncirculated (AU-58)",
+      "grade_numeric": 58,
+      "grade_subcategory": "About Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": true,
+      "sheldon_range": {
+        "max": 58,
+        "min": 50
+      },
+      "sheldon_scale_position": 58,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS60",
+        "MS 60",
+        "Mint State-60",
+        "Uncirculated",
+        "Unc",
+        "BU"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, but numerous contact marks and bag marks, luster may be impaired",
+      "grade": "MS-60",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-60)",
+      "grade_numeric": 60,
+      "grade_subcategory": "Mint State",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 60,
+        "min": 60
+      },
+      "sheldon_scale_position": 60,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR60",
+        "PR 60",
+        "PF-60",
+        "PF60",
+        "PF 60",
+        "Proof-60",
+        "Proof 60"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 60": "PR-60",
+        "PF-60": "PR-60",
+        "PF60": "PR-60"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with numerous contact marks and hairlines",
+      "grade": "PR-60",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-60)",
+      "grade_numeric": 60,
+      "grade_subcategory": "Proof",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 60,
+        "min": 60
+      },
+      "sheldon_scale_position": 60,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "SP60",
+        "SP 60",
+        "Specimen-60"
+      ],
+      "common_in_practice": false,
+      "description": "Specimen strike with numerous contact marks and impaired surfaces",
+      "grade": "SP-60",
+      "grade_category": "Uncirculated",
+      "grade_name": "Specimen (SP-60)",
+      "grade_numeric": 60,
+      "grade_subcategory": "Specimen",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 60,
+        "min": 60
+      },
+      "sheldon_scale_position": 60,
+      "strike_types": [
+        "specimen"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS61",
+        "MS 61",
+        "Mint State-61"
+      ],
+      "common_in_practice": false,
+      "description": "No wear, many contact marks, slightly better appearance than MS-60",
+      "grade": "MS-61",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-61)",
+      "grade_numeric": 61,
+      "grade_subcategory": "Mint State",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 61,
+        "min": 61
+      },
+      "sheldon_scale_position": 61,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR61",
+        "PR 61",
+        "PF-61",
+        "PF61",
+        "PF 61",
+        "Proof-61"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 61": "PR-61",
+        "PF-61": "PR-61",
+        "PF61": "PR-61"
+      },
+      "common_in_practice": false,
+      "description": "Proof surfaces with many contact marks and hairlines",
+      "grade": "PR-61",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-61)",
+      "grade_numeric": 61,
+      "grade_subcategory": "Proof",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 61,
+        "min": 61
+      },
+      "sheldon_scale_position": 61,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS62",
+        "MS 62",
+        "Mint State-62"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, numerous contact marks, average strike and luster",
+      "grade": "MS-62",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-62)",
+      "grade_numeric": 62,
+      "grade_subcategory": "Mint State",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 62,
+        "min": 62
+      },
+      "sheldon_scale_position": 62,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR62",
+        "PR 62",
+        "PF-62",
+        "PF62",
+        "PF 62",
+        "Proof-62"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 62": "PR-62",
+        "PF-62": "PR-62",
+        "PF62": "PR-62"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with noticeable contact marks and hairlines",
+      "grade": "PR-62",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-62)",
+      "grade_numeric": 62,
+      "grade_subcategory": "Proof",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 62,
+        "min": 62
+      },
+      "sheldon_scale_position": 62,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS63",
+        "MS 63",
+        "Mint State-63",
+        "Choice Uncirculated",
+        "Choice BU"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, contact marks noticeable but not distracting, good strike and luster",
+      "grade": "MS-63",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-63)",
+      "grade_numeric": 63,
+      "grade_subcategory": "Choice Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": true,
+      "sheldon_range": {
+        "max": 63,
+        "min": 63
+      },
+      "sheldon_scale_position": 63,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR63",
+        "PR 63",
+        "PF-63",
+        "PF63",
+        "PF 63",
+        "Proof-63",
+        "Choice Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 63": "PR-63",
+        "PF-63": "PR-63",
+        "PF63": "PR-63"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with minor marks, overall attractive appearance",
+      "grade": "PR-63",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-63)",
+      "grade_numeric": 63,
+      "grade_subcategory": "Choice Proof",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 63,
+        "min": 63
+      },
+      "sheldon_scale_position": 63,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "SP63",
+        "SP 63",
+        "Specimen-63"
+      ],
+      "common_in_practice": false,
+      "description": "Specimen strike with minor marks, attractive appearance",
+      "grade": "SP-63",
+      "grade_category": "Uncirculated",
+      "grade_name": "Specimen (SP-63)",
+      "grade_numeric": 63,
+      "grade_subcategory": "Choice Specimen",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 63,
+        "min": 63
+      },
+      "sheldon_scale_position": 63,
+      "strike_types": [
+        "specimen"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS64",
+        "MS 64",
+        "Mint State-64",
+        "Choice Uncirculated"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, minor contact marks, good eye appeal, above average strike and luster",
+      "grade": "MS-64",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-64)",
+      "grade_numeric": 64,
+      "grade_subcategory": "Choice Uncirculated",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 64,
+        "min": 64
+      },
+      "sheldon_scale_position": 64,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR64",
+        "PR 64",
+        "PF-64",
+        "PF64",
+        "PF 64",
+        "Proof-64",
+        "Choice Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 64": "PR-64",
+        "PF-64": "PR-64",
+        "PF64": "PR-64"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with few minor marks, above average eye appeal",
+      "grade": "PR-64",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-64)",
+      "grade_numeric": 64,
+      "grade_subcategory": "Choice Proof",
+      "market_relevance": "high",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 64,
+        "min": 64
+      },
+      "sheldon_scale_position": 64,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS65",
+        "MS 65",
+        "Mint State-65",
+        "Gem Uncirculated",
+        "Gem BU",
+        "Gem"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, few minor contact marks, strong strike and luster, excellent eye appeal",
+      "grade": "MS-65",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-65)",
+      "grade_numeric": 65,
+      "grade_subcategory": "Gem Uncirculated",
+      "market_relevance": "very_high",
+      "market_threshold": true,
+      "sheldon_range": {
+        "max": 65,
+        "min": 65
+      },
+      "sheldon_scale_position": 65,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR65",
+        "PR 65",
+        "PF-65",
+        "PF65",
+        "PF 65",
+        "Proof-65",
+        "Gem Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 65": "PR-65",
+        "PF-65": "PR-65",
+        "PF65": "PR-65"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with only minor marks, excellent mirrors and contrast",
+      "grade": "PR-65",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-65)",
+      "grade_numeric": 65,
+      "grade_subcategory": "Gem Proof",
+      "market_relevance": "very_high",
+      "market_threshold": true,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 65,
+        "min": 65
+      },
+      "sheldon_scale_position": 65,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "SP65",
+        "SP 65",
+        "Specimen-65",
+        "Gem Specimen"
+      ],
+      "common_in_practice": false,
+      "description": "Specimen strike with few marks, excellent surfaces and strike",
+      "grade": "SP-65",
+      "grade_category": "Uncirculated",
+      "grade_name": "Specimen (SP-65)",
+      "grade_numeric": 65,
+      "grade_subcategory": "Gem Specimen",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 65,
+        "min": 65
+      },
+      "sheldon_scale_position": 65,
+      "strike_types": [
+        "specimen"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS66",
+        "MS 66",
+        "Mint State-66",
+        "Premium Gem"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, very few small contact marks, outstanding strike and luster",
+      "grade": "MS-66",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-66)",
+      "grade_numeric": 66,
+      "grade_subcategory": "Gem Uncirculated",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 66,
+        "min": 66
+      },
+      "sheldon_scale_position": 66,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR66",
+        "PR 66",
+        "PF-66",
+        "PF66",
+        "PF 66",
+        "Proof-66",
+        "Premium Gem Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 66": "PR-66",
+        "PF-66": "PR-66",
+        "PF66": "PR-66"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with very few marks, deep mirrors and strong contrast",
+      "grade": "PR-66",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-66)",
+      "grade_numeric": 66,
+      "grade_subcategory": "Gem Proof",
+      "market_relevance": "moderate",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 66,
+        "min": 66
+      },
+      "sheldon_scale_position": 66,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS67",
+        "MS 67",
+        "Mint State-67",
+        "Superb Gem",
+        "Superb Gem Uncirculated"
+      ],
+      "common_in_practice": true,
+      "description": "No wear, barely perceptible contact marks, exceptional strike and luster",
+      "grade": "MS-67",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-67)",
+      "grade_numeric": 67,
+      "grade_subcategory": "Superb Gem Uncirculated",
+      "market_relevance": "very_high",
+      "market_threshold": true,
+      "sheldon_range": {
+        "max": 67,
+        "min": 67
+      },
+      "sheldon_scale_position": 67,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR67",
+        "PR 67",
+        "PF-67",
+        "PF67",
+        "PF 67",
+        "Proof-67",
+        "Superb Gem Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 67": "PR-67",
+        "PF-67": "PR-67",
+        "PF67": "PR-67"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces with barely visible marks, outstanding mirrors and contrast",
+      "grade": "PR-67",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-67)",
+      "grade_numeric": 67,
+      "grade_subcategory": "Superb Gem Proof",
+      "market_relevance": "very_high",
+      "market_threshold": true,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 67,
+        "min": 67
+      },
+      "sheldon_scale_position": 67,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "SP67",
+        "SP 67",
+        "Specimen-67",
+        "Superb Gem Specimen"
+      ],
+      "common_in_practice": false,
+      "description": "Specimen strike with minimal marks, outstanding quality",
+      "grade": "SP-67",
+      "grade_category": "Uncirculated",
+      "grade_name": "Specimen (SP-67)",
+      "grade_numeric": 67,
+      "grade_subcategory": "Superb Gem Specimen",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 67,
+        "min": 67
+      },
+      "sheldon_scale_position": 67,
+      "strike_types": [
+        "specimen"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS68",
+        "MS 68",
+        "Mint State-68"
+      ],
+      "common_in_practice": false,
+      "description": "No wear, minuscule contact marks visible only under magnification, outstanding quality",
+      "grade": "MS-68",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-68)",
+      "grade_numeric": 68,
+      "grade_subcategory": "Superb Gem Uncirculated",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 68,
+        "min": 68
+      },
+      "sheldon_scale_position": 68,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR68",
+        "PR 68",
+        "PF-68",
+        "PF68",
+        "PF 68",
+        "Proof-68"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 68": "PR-68",
+        "PF-68": "PR-68",
+        "PF68": "PR-68"
+      },
+      "common_in_practice": false,
+      "description": "Proof surfaces with minuscule marks visible only under magnification",
+      "grade": "PR-68",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-68)",
+      "grade_numeric": 68,
+      "grade_subcategory": "Superb Gem Proof",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 68,
+        "min": 68
+      },
+      "sheldon_scale_position": 68,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS69",
+        "MS 69",
+        "Mint State-69"
+      ],
+      "common_in_practice": false,
+      "description": "No wear, virtually perfect with only one or two minuscule marks visible",
+      "grade": "MS-69",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-69)",
+      "grade_numeric": 69,
+      "grade_subcategory": "Nearly Perfect Uncirculated",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "sheldon_range": {
+        "max": 69,
+        "min": 69
+      },
+      "sheldon_scale_position": 69,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR69",
+        "PR 69",
+        "PF-69",
+        "PF69",
+        "PF 69",
+        "Proof-69"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 69": "PR-69",
+        "PF-69": "PR-69",
+        "PF69": "PR-69"
+      },
+      "common_in_practice": true,
+      "description": "Proof surfaces nearly perfect with one or two minuscule flaws",
+      "grade": "PR-69",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-69)",
+      "grade_numeric": 69,
+      "grade_subcategory": "Nearly Perfect Proof",
+      "market_relevance": "very_high",
+      "market_threshold": true,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 69,
+        "min": 69
+      },
+      "sheldon_scale_position": 69,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "MS70",
+        "MS 70",
+        "Mint State-70",
+        "Perfect"
+      ],
+      "common_in_practice": false,
+      "description": "No wear, perfect coin under 5x magnification, no contact marks or hairlines",
+      "grade": "MS-70",
+      "grade_category": "Uncirculated",
+      "grade_name": "Mint State (MS-70)",
+      "grade_numeric": 70,
+      "grade_subcategory": "Perfect Uncirculated",
+      "market_relevance": "low",
+      "market_threshold": true,
+      "sheldon_range": {
+        "max": 70,
+        "min": 70
+      },
+      "sheldon_scale_position": 70,
+      "strike_types": [
+        "business"
+      ]
+    },
+    {
+      "abbreviations": [
+        "PR70",
+        "PR 70",
+        "PF-70",
+        "PF70",
+        "PF 70",
+        "Proof-70",
+        "Perfect Proof"
+      ],
+      "aliases": {
+        "PF": "PR",
+        "PF 70": "PR-70",
+        "PF-70": "PR-70",
+        "PF70": "PR-70"
+      },
+      "common_in_practice": false,
+      "description": "Proof surfaces perfect under 5x magnification, no marks or hairlines",
+      "grade": "PR-70",
+      "grade_category": "Uncirculated",
+      "grade_name": "Proof (PR-70)",
+      "grade_numeric": 70,
+      "grade_subcategory": "Perfect Proof",
+      "market_relevance": "low",
+      "market_threshold": true,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 70,
+        "min": 70
+      },
+      "sheldon_scale_position": 70,
+      "strike_types": [
+        "proof"
+      ]
+    },
+    {
+      "abbreviations": [
+        "SP70",
+        "SP 70",
+        "Specimen-70",
+        "Perfect Specimen"
+      ],
+      "common_in_practice": false,
+      "description": "Specimen strike perfect under magnification, no marks visible",
+      "grade": "SP-70",
+      "grade_category": "Uncirculated",
+      "grade_name": "Specimen (SP-70)",
+      "grade_numeric": 70,
+      "grade_subcategory": "Perfect Specimen",
+      "market_relevance": "low",
+      "market_threshold": false,
+      "modifiers_allowed": [
+        "CAM",
+        "DCAM",
+        "UCAM"
+      ],
+      "sheldon_range": {
+        "max": 70,
+        "min": 70
+      },
+      "sheldon_scale_position": 70,
+      "strike_types": [
+        "specimen"
+      ]
+    }
+  ],
+  "last_updated": "2025-11-18",
+  "parsing_rules": {
+    "grade_extraction_patterns": [
+      {
+        "description": "Basic grade pattern: MS-65, XF40, etc.",
+        "name": "grade_extraction_basic",
+        "pattern": "\"^([A-Z]{1,2})-?(\\\\d{1,2})$\""
+      },
+      {
+        "description": "Extract grade from descriptive text",
+        "name": "grade_extraction_with_desc",
+        "pattern": "\"((?:MS|PR|PF|SP|XF|EF|AU|VF|F|VG|G|AG|FR|P)-?\\\\d{1,2})\""
+      },
+      {
+        "description": "Prefix pattern for uncertified coins (e.g., RAW-XF-45)",
+        "name": "raw_grade_prefix",
+        "pattern": "\"RAW-\""
+      }
+    ],
+    "multi_grade_separator_patterns": [
+      "/",
+      "-",
+      " - ",
+      " to ",
+      " or "
+    ],
+    "multi_grade_strategy": "\"conservative\""
+  },
+  "standard": "Sheldon 70-Point Scale",
+  "version": "1.0.0"
+}
