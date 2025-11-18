@@ -287,6 +287,54 @@ class CurrencyBrowser {
         return 'numismatic';
     }
 
+    updateTableHeaders() {
+        // Update table headers based on current category filter
+        const categoryFilter = document.getElementById('category-filter').value;
+        const isBullion = categoryFilter === 'bullion' || categoryFilter === 'sovereign-bullion';
+
+        const denominationHeader = document.getElementById('denomination-header');
+        const mintHeaderText = document.getElementById('mint-header-text');
+
+        if (isBullion) {
+            // Hide denomination column for bullion
+            denominationHeader.style.display = 'none';
+            // Change mint header to ASW/AGW
+            mintHeaderText.textContent = 'ASW/AGW';
+        } else {
+            // Show denomination column for numismatic
+            denominationHeader.style.display = '';
+            // Reset mint header
+            mintHeaderText.textContent = 'Mint';
+        }
+    }
+
+    getMetalWeight(item) {
+        // Extract metal weight from composition
+        try {
+            const composition = item.composition || {};
+
+            // Look for silver or gold content
+            if (composition.silver_content_oz) {
+                return `${composition.silver_content_oz} oz Ag`;
+            }
+            if (composition.gold_content_oz) {
+                return `${composition.gold_content_oz} oz Au`;
+            }
+
+            // Try to parse from unit_name (e.g., "1 oz Silver")
+            const unitName = (item.denomination?.unit_name || item.unit_name || '').toLowerCase();
+            const match = unitName.match(/([\d.\/]+)\s*oz/i);
+            if (match) {
+                const metal = unitName.includes('gold') ? 'Au' : unitName.includes('silver') ? 'Ag' : '';
+                return match[1] + ' oz' + (metal ? ' ' + metal : '');
+            }
+
+            return '1 oz';  // Default for bullion
+        } catch {
+            return '-';
+        }
+    }
+
     filterData() {
         const searchTerm = document.getElementById('search-input').value.toLowerCase().trim();
         const yearFrom = parseInt(document.getElementById('year-from').value) || 0;
@@ -338,6 +386,7 @@ class CurrencyBrowser {
         });
 
         this.currentPage = 1;
+        this.updateTableHeaders();
         this.sortAndRender();
     }
 
@@ -632,14 +681,33 @@ class CurrencyBrowser {
         const rarityBadge = this.getRarityBadge(item.rarity);
         const mintageDisplay = this.formatMintage(item);
         const varietiesDisplay = this.formatVarieties(item);
-        
+
+        // Determine if this is a bullion item
+        const itemCategory = this.getCategory(item);
+        const isBullion = itemCategory === 'bullion' || itemCategory === 'sovereign-bullion';
+
+        // Conditional denomination column
+        const denominationCell = isBullion ? '' : `
+            <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+                ${this.formatDenomination(item)}
+            </td>`;
+
+        // Conditional mint/metal weight column
+        const mintOrMetalCell = isBullion ?
+            `<td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+                <span class="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-800">${this.getMetalWeight(item)}</span>
+            </td>` :
+            `<td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+                <span class="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-800">${item.mint_id || '-'}</span>
+            </td>`;
+
         return `
             <tr class="hover:bg-gray-50 transition-colors duration-150">
                 <td class="px-3 py-4 whitespace-nowrap text-xs font-medium text-gray-900">
                     <div class="flex items-center space-x-2">
                         <span>${item.issue_id || '-'}</span>
-                        <button onclick="currencyBrowser.copyToClipboard('${item.issue_id}')" 
-                                class="inline-flex items-center p-1 text-gray-400 hover:text-gray-600 rounded transition-colors duration-150" 
+                        <button onclick="currencyBrowser.copyToClipboard('${item.issue_id}')"
+                                class="inline-flex items-center p-1 text-gray-400 hover:text-gray-600 rounded transition-colors duration-150"
                                 title="Copy ID to clipboard">
                             <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
@@ -650,22 +718,18 @@ class CurrencyBrowser {
                 <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 font-medium">
                     ${item.issue_year || '-'}
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900">
-                    <div class="max-w-40 truncate font-medium" title="${this.formatSeriesName(item.series_id || '')}">
+                <td class="px-4 py-4 text-xs text-gray-900">
+                    <div class="max-w-48 font-medium leading-tight" style="white-space: normal; overflow-wrap: break-word;" title="${this.formatSeriesName(item.series_id || '')}">
                         ${this.formatSeriesName(item.series_id || '') || '-'}
                     </div>
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
-                    ${this.formatDenomination(item)}
-                </td>
-                <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
-                    <span class="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-800">${item.mint_id || '-'}</span>
-                </td>
+                ${denominationCell}
+                ${mintOrMetalCell}
                 <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-900 font-medium">
                     ${mintageDisplay}
                 </td>
                 <td class="px-4 py-4 whitespace-nowrap text-sm text-center">
-                    <button onclick="currencyBrowser.showDetails('${item.issue_id}')" 
+                    <button onclick="currencyBrowser.showDetails('${item.issue_id}')"
                             class="inline-flex items-center px-3 py-1.5 border border-transparent text-xs font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-150">
                         View
                     </button>
