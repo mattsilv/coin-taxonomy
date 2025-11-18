@@ -18,6 +18,7 @@ class CurrencyBrowser {
 
     async init() {
         this.bindEvents();
+        this.loadFromURL();
         await this.loadCountries();
     }
 
@@ -43,6 +44,7 @@ class CurrencyBrowser {
         // Collector filters
         document.getElementById('mint-filter').addEventListener('change', () => this.filterData());
         document.getElementById('series-filter').addEventListener('change', () => this.filterData());
+        document.getElementById('category-filter').addEventListener('change', () => this.filterData());
         document.getElementById('has-varieties').addEventListener('change', () => this.filterData());
 
         // Clear filters
@@ -257,14 +259,46 @@ class CurrencyBrowser {
         return formattedSeries;
     }
 
+    getCategory(item) {
+        // Classify coin category: numismatic, sovereign-bullion, or bullion
+        const faceValue = item.denomination?.face_value || 0;
+        const unitName = (item.denomination?.unit_name || item.unit_name || '').toLowerCase();
+        const seriesName = (item.series_name || '').toLowerCase();
+        const issueId = (item.issue_id || '').toUpperCase();
+
+        // Private bullion: Engelhard, no face value
+        if (issueId.match(/^US-EN\d{2}-/) || seriesName.includes('engelhard')) {
+            return 'bullion';
+        }
+
+        // Sovereign bullion: Government-issued, no face value or face value = metal value
+        // American Eagles, Maple Leafs, Libertads, etc.
+        if (faceValue === 0 || unitName.includes('no face value')) {
+            // Check for sovereign bullion series
+            if (seriesName.includes('eagle') || seriesName.includes('maple') ||
+                seriesName.includes('libertad') || seriesName.includes('buffalo') ||
+                seriesName.includes('britannia') || seriesName.includes('philharmonic')) {
+                return 'sovereign-bullion';
+            }
+            return 'bullion';  // Default for zero face value
+        }
+
+        // Everything else is numismatic
+        return 'numismatic';
+    }
+
     filterData() {
         const searchTerm = document.getElementById('search-input').value.toLowerCase().trim();
         const yearFrom = parseInt(document.getElementById('year-from').value) || 0;
         const yearTo = parseInt(document.getElementById('year-to').value) || 9999;
         const mintFilter = document.getElementById('mint-filter').value;
         const seriesFilter = document.getElementById('series-filter').value;
+        const categoryFilter = document.getElementById('category-filter').value;
         const hasVarietiesOnly = document.getElementById('has-varieties').checked;
-        
+
+        // Update URL with current filters
+        this.updateURL();
+
         this.filteredData = this.data.filter(item => {
             // Text search
             const unitName = item.denomination?.unit_name || item.unit_name || '';
@@ -291,16 +325,74 @@ class CurrencyBrowser {
             // Series filter
             const matchesSeries = !seriesFilter || item.series_id === seriesFilter;
             
+            // Category filter
+            const itemCategory = this.getCategory(item);
+            const matchesCategory = !categoryFilter || itemCategory === categoryFilter;
+
             // Varieties filter
             const varieties = Array.isArray(item.varieties) ? item.varieties : [];
             const hasVarieties = varieties.length > 0;
             const matchesVarieties = !hasVarietiesOnly || hasVarieties;
-            
-            return matchesSearch && matchesYear && matchesMint && matchesSeries && matchesVarieties;
+
+            return matchesSearch && matchesYear && matchesMint && matchesSeries && matchesCategory && matchesVarieties;
         });
 
         this.currentPage = 1;
         this.sortAndRender();
+    }
+
+    updateURL() {
+        // Persist filter state to URL for sharing
+        const params = new URLSearchParams();
+
+        const country = document.getElementById('country-select').value;
+        const category = document.getElementById('category-filter').value;
+        const search = document.getElementById('search-input').value;
+        const yearFrom = document.getElementById('year-from').value;
+        const yearTo = document.getElementById('year-to').value;
+        const mint = document.getElementById('mint-filter').value;
+        const series = document.getElementById('series-filter').value;
+        const hasVarieties = document.getElementById('has-varieties').checked;
+
+        if (country) params.set('country', country);
+        if (category) params.set('category', category);
+        if (search) params.set('search', search);
+        if (yearFrom) params.set('yearFrom', yearFrom);
+        if (yearTo) params.set('yearTo', yearTo);
+        if (mint) params.set('mint', mint);
+        if (series) params.set('series', series);
+        if (hasVarieties) params.set('varieties', '1');
+
+        const newURL = params.toString() ? `?${params.toString()}` : window.location.pathname;
+        window.history.replaceState({}, '', newURL);
+    }
+
+    loadFromURL() {
+        // Load filter state from URL parameters
+        const params = new URLSearchParams(window.location.search);
+
+        const country = params.get('country');
+        const category = params.get('category');
+        const search = params.get('search');
+        const yearFrom = params.get('yearFrom');
+        const yearTo = params.get('yearTo');
+        const mint = params.get('mint');
+        const series = params.get('series');
+        const hasVarieties = params.get('varieties') === '1';
+
+        if (country) document.getElementById('country-select').value = country;
+        if (category) document.getElementById('category-filter').value = category;
+        if (search) document.getElementById('search-input').value = search;
+        if (yearFrom) document.getElementById('year-from').value = yearFrom;
+        if (yearTo) document.getElementById('year-to').value = yearTo;
+        if (mint) document.getElementById('mint-filter').value = mint;
+        if (series) document.getElementById('series-filter').value = series;
+        document.getElementById('has-varieties').checked = hasVarieties;
+
+        // Load country data if specified
+        if (country) {
+            this.loadCountryData(country);
+        }
     }
 
     clearAllFilters() {
@@ -309,6 +401,7 @@ class CurrencyBrowser {
         document.getElementById('year-to').value = '';
         document.getElementById('mint-filter').value = '';
         document.getElementById('series-filter').value = '';
+        document.getElementById('category-filter').value = '';
         document.getElementById('has-varieties').checked = false;
         this.filterData();
     }
