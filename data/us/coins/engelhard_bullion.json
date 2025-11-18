@@ -1,0 +1,1402 @@
+{
+  "country": "US",
+  "denomination": "Engelhard Bullion",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-EARLIEST_1OZ_PRODUCTION_BAR-1",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Earliest 1oz bar (late 1960s). Faint 'X8' over-stamp errors observed. Sample Serials: 10023, 10030, 10031, 10038, 10062, 10063, 10088. Estimated Mintage: <100",
+          "obverse_description": "[1.000] [999+] [Hallmark in Elongated Octagon] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_NO_BULL-2",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1968-early 1970s. Lacks Canadian 'Bull' Hallmark. Font change around 75000 serial. Sample Serials: 05972, 13762, 38915, 41395, 43090, 44176, 44645, 45734, 60942, 72492, 76891. Estimated Mintage: <17,500",
+          "obverse_description": "[‘ENGELHARD INDUSTRIES OF CANADA LTD.’ in Elongated Octagon] [REFINERS & ASSAYERS] [1oz. troy SILVER 999 fine] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_LARGE_FONT-3",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Similar to above, but with a larger serial font. Sample Serials: 81787, 81790, 81791, 82109, 83489. Estimated Mintage: <1,000",
+          "obverse_description": "[‘ENGELHARD INDUSTRIES OF CANADA LTD.’ in Elongated Octagon] [REFINERS & ASSAYERS] [1oz. troy SILVER 999 fine] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_6_DIGIT_NO_BULL-4",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "6-digit variety, lacks the Canadian 'Bull' Hallmark. Sample Serials: 162581, 163588. Estimated Mintage: 1,000",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz. troy SILVER 999 fine] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_A_PREFIX-5",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Includes Canadian 'Bull' Hallmark. 'A' serial prefix (likely prototype). Sample Serials: A 89049, A 89261, A 89309. Estimated Mintage: <100",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_5_DIGIT-6",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "5-digit serial (no letter prefix). Sample Serials: 86284, 89936, 92031, 92960, 93344, 97875, 99123. Estimated Mintage: <1,000",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_UNIQUE_FONT-7",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "6-digit serial, unique font (different 1, 3, 5). Sample Serials: 100329, 101642, 102023, 102080, 102082, 102083, 102087, 102506, 102513. Estimated Mintage: <250",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_STANDARD_6_DIGIT-8",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Standard 6-digit serial assignment. Sample Serials: 140985, 142544, 144731, 158735, 164667. Estimated Mintage: <12,500",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_SHORTENED_1-9",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "6-digit serial, leading '1' has a shortened base. Sample Serials: 109662, 109688, 109711, 109734, 109769, 118529, 139398. Estimated Mintage: <500",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_LARGE_SERIAL-10",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Larger serial number font. Sample Serials: 107752, 107881, 107939, 107940, 107942, 107943, 107944, 107947. Estimated Mintage: <250",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_INDUSTRIES_OF_CANADA_ANOMALY-11",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Serial number anomaly: 1• prefix. Sample Serials: 1•130251, 1•130272. Estimated Mintage: <100",
+          "obverse_description": "[ENGELHARD INDUSTRIES OF CANADA LTD.] [REFINERS & ASSAYERS] [1 oz troy SILVER 999 fine] [Serial Number] [Bull Hallmark]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-IMPEX_ART_BAR_SERIES_1-12",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for IMPEX Metals Corp. Sample Serials: N/A. Estimated Mintage: <100",
+          "obverse_description": "[IMPEX Hallmark and Bow Tie Log] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Custom L Hallmark in Box] [IMPEX METALS CORPORATION] [THE SILVER SPECIALISTS]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-BLANK_BAR_POURED-13",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Blank 1oz bar, poured finish. Produced by Engelhard West in 1980. Sample Serials: N/A. Estimated Mintage: <2,500",
+          "obverse_description": "BLANK",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "BLANK",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ART_BAR_ORIGINAL_LOGO-14",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1974-1975. First Engelhard logo (longer sides, wider H, A). Sample Serials: N/A. Estimated Mintage: <25,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ART_BAR_FROSTED_REVERSE-15",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1975-1980. Pebbled/frosted finish on reverse. Sample Serials: N/A. Estimated Mintage: <10,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ART_BAR_PEBBLE_FINISH-16",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1975-1980. Coarse frosted reverse. Revised logo. Sample Serials: N/A. Estimated Mintage: <5,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Pebble Finish, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AG_MET_ART_BAR_PEBBLE-17",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for AG-MET, INC. Sample Serials: N/A. Estimated Mintage: <1,000",
+          "obverse_description": "[Ag Custom Loco] [AG-MET, INC.] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Pebble Finish, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AG_MET_ART_BAR_BLANK-18",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for AG-MET, INC. Blank reverse. Sample Serials: N/A. Estimated Mintage: <250",
+          "obverse_description": "[Ag Custom Loco] [AG-MET, INC.] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, without a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AG_MET_ART_BAR_FLOWER-19",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Exclusive run. Reverse has flower art. Sample Serials: N/A. Estimated Mintage: <100",
+          "obverse_description": "[Ag Custom Loco] [AG-MET, INC.] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Artistic Depiction of a Flower] [Thank You] [ONE TROY OUNCE .999+ FINE SILVER]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COMMERCIAL_BAR_FROSTED-20",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1975-1980. Fine frosted reverse. Sample Serials: N/A. Estimated Mintage: <50,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COMMERCIAL_BAR_LETTER_PREFIX-21",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Purity '.999+'. P or PA-PG prefixes. Sample Serials: P05845, P23937, PA05663, PC01016, PD61509, PF04291, PG38249, E98654. Estimated Mintage: <800,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COMMERCIAL_BAR_LARGE_6_DIGIT-22",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "PB prefix with 6 numeric characters. Sample Serials: PB000856, PB001628, PB005205, PB017830, PB022085. Estimated Mintage: <25,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COMMERCIAL_BAR_REPEATED_HALLMARK-23",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. Reverse has repeated hallmark design. No serial. Sample Serials: N/A. Estimated Mintage: <2,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COMMERCIAL_BAR_PH_PQ_PREFIX-24",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. PH-PQ prefixes. Sample Serials: PH03506, PI01349, PJ14630, PK94439, PL20411, PM02960, PO13940, PQ13940. Estimated Mintage: <500,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-COLONIAL_MINT_BAR-25",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for Colonial Mint. Sample Serials: N/A. Estimated Mintage: <1,000",
+          "obverse_description": "[COLONIAL Hallmark in Rectangle] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Custom Colonial Hallmark, repeated diagonally",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-IMPEX_BAR_SERIES_2-26",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for IMPEX. Sample Serials: N/A. Estimated Mintage: <100",
+          "obverse_description": "[Custom IMPEX Hallmark] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Custom IMPEX Hallmark, repeated diagonally",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ROYAL_BAR-27",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for ROYAL. Sample Serials: N/A. Estimated Mintage: <1,500",
+          "obverse_description": "[Custom ROYAL Hallmark] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Custom Hallmark repeated diagonally",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-JELENKO_BAR-28",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for Jelenko Dental. Sample Serials: N/A. Estimated Mintage: <1,500",
+          "obverse_description": "[Custom JELENKO Hallmark] [ONE TROY OUNCE] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MADISON_MINT_BAR_BLANK_REVERSE-29",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Produced for Madison Mint. Sample Serials: N/A. Estimated Mintage: <1,000",
+          "obverse_description": "[Custom MADISON MINT Hallmark] [ONE TROY OUNCE] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MADISON_MINT_BAR_MARKED_REVERSE-30",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Unique Engelhard obverse with Madison Mint hallmark on reverse. Sample Serials: N/A. Estimated Mintage: <100",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.] [.999 FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[MADISON MINT] [.999 FINE SILVER] [ONE OUNCE]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ENGELHARD_LONDON-31",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Unusual bar from Engelhard London. Sample Serials: N/A. Estimated Mintage: <5",
+          "obverse_description": "[Boxed ‘E’ London Logo] [ENGELHARD] [LONDON] [1oz 999]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Raised rail with ‘L’ stamped on left",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_WIDE_E/MC_IN_GLOBE-32",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. First US Portrait variety. PR-PW prefixes. Includes 'MC'. Sample Serials: PR02160, PS55973, PT73868, PU98609, PV65919, PW82160. Estimated Mintage: <400,000",
+          "obverse_description": "[Wide ‘E’ and ‘MC’ in Globe Logo] [1 TROY OZ. FINE SILVER .999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_WIDE_E/MC_ABSENT-33",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. PX-PZ and FA-FB prefixes. 'MC' absent. Sample Serials: PX05625, PY10934, PZ86164, FA01592, FB05688. Estimated Mintage: <400,000",
+          "obverse_description": "[Wide ‘E’ Centered in Globe Logo] [1 TROY OZ. FINE SILVER .999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_6_DIGIT/MC_ABSENT-34",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "No prefix, 6-digit serial. Larger mould size. Dot in Bull logo. Sample Serials: 261774, 262217, 262898, 263412. Estimated Mintage: <100",
+          "obverse_description": "[Wide ‘E’ Centered in Globe Logo] [1 TROY OZ.FINE SILVER.999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_PROOF_LIKE/US_PREFIX-35",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Proof-like. Unique U.S. letter prefix. Sample Serials: U.S. 0110, U.S. 0372, U.S. 0310, U.S. 0412, U.S. 0491, U.S. 0530, U.S. 0657. Estimated Mintage: <500",
+          "obverse_description": "[Wide ‘E’ Centered in Globe Logo] [1 TROY OZ. FINE SILVER .999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_WIDE_E_AT_TOP-36",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. FC-FF prefixes. Sample Serials: FB46781, FC45745, FD00568, FE61961, FF89680. Estimated Mintage: <400,000",
+          "obverse_description": "[Wide ‘E’ at Top of Globe Logo] [1 TROY OZ FINE SILVER 999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_WIDE_E_AT_TOP/NO_SERIAL-37",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Same as above, no serial. Sample Serials: N/A. Estimated Mintage: <2,000",
+          "obverse_description": "[Wide ‘E’ at Top of Globe Logo] [1 TROY OZ FINE SILVER 999+]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_LARGE_E-38",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981-1985. FG-FR prefixes. Sample Serials: FG06120, FH95994, FI91191, FJ67468, FK97816, FL96233, FM90246, FN76946, FO97836, FR17560. Estimated Mintage: <1,150,000",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [1 TROY OZ FINE SILVER 999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-PORTRAIT_LARGE_E/6_DIGIT-39",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "6-digit serial, no prefix. No center dot in Bull Logo. Sample Serials: 276507, 278681, 380292. Estimated Mintage: <2,000",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [1 TROY OZ FINE SILVER 999+] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Repeated Hallmark, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-EAGLE_LOGO_ITALIC_HALLMARK-40",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1986. Last 1oz variety. FT-FU prefixes. Sample Serials: FT96909, FU45531. Estimated Mintage: <300,000",
+          "obverse_description": "[Eagle Logo] [Italic Block Hallmark w/ ‘A’ Triangle] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Italic Block Hallmark, repeated once, with border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-EAGLE_LOGO_PROOF_LIKE-41",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Proof-like variation. FS prefix. Sample Serials: FS 73492, FS 73683. Estimated Mintage: <250",
+          "obverse_description": "[Eagle Logo] [Italic Block Hallmark w/ ‘A’ Triangle] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Italic Block Hallmark, repeated once, with border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-EAGLE_LOGO_STANDARD/THIN_FONT-42",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Thinner '999' font. FS prefix. Sample Serials: FS56686. Estimated Mintage: <100,000",
+          "obverse_description": "[Eagle Logo] [Italic Block Hallmark w/ ‘A’ Triangle] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Italic Block Hallmark, repeated once, with border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_A-43",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. 6-digit serial (no prefix). Sample Serials: 000060, 047689, 052846, 066960, 128128. Estimated Mintage: <15,000",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, without a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_B_CENTERED-44",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. Centered text. Sample Serials: 030316, 058604. Estimated Mintage: <5,000",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, without a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_B_LARGE_FONT-45",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Larger serial font. Sample Serials: 425737, 426001. Estimated Mintage: <750",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, without a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_B_BORDER-46",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Border on reverse. Sample Serials: 426449, 426479, 427060, 427067. Estimated Mintage: <750",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ARGENTOR_DEALERS_BAR-47",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. Counterstamped. Sample Serials: 114628. Estimated Mintage: <500",
+          "obverse_description": "[ARGENTOR DEALERS LTD.] [MONTREAL CANADA] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, without a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_C_BORDER-48",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1981. Border on reverse. Sample Serials: 156928, 337515, 414739, 427064, 427998. Estimated Mintage: <25,000",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-MAPLE_LEAF_C_UNIQUE_SERIAL-49",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Unique serial example. Sample Serials: 401184. Estimated Mintage: <500",
+          "obverse_description": "[Maple Leaf Logo] [ASSAYERS & REFINERS] [1 TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Blank, with a border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AUSTRALIA_SERIES_1-50",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1st series. Frosted reverse. Sample Serials: N/A. Estimated Mintage: <500",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [Australian ‘Bull’ Logo] [ENGELHARD AUSTRALIA]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Australian Hallmark repeated diagonally, frosted, border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AUSTRALIA_SERIES_2-51",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "2nd series. Matte reverse. Sample Serials: N/A. Estimated Mintage: <500",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [Australian ‘Bull’ Logo] [ENGELHARD AUSTRALIA]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Australian Hallmark repeated diagonally, matte, border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AUSTRALIA_SERIES_3-52",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "3rd series. Proof-like obverse. Sample Serials: N/A. Estimated Mintage: <500",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [Australian ‘Bull’ Logo] [ENGELHARD AUSTRALIA]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Australian Hallmark repeated diagonally, frosted, border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-AUSTRALIA_INGOT_POURED-53",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Rare poured bar. No serial. Sample Serials: N/A. Estimated Mintage: <200",
+          "obverse_description": "[Large ‘E’ in Globe Logo] [ENGELHARD AUSTRALIA]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Cast Finish",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SHEFFIELD_SMELTING_SMOOTH-54",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Exceedingly rare. Sample Serials: N/A. Estimated Mintage: <50",
+          "obverse_description": "[Italic Boxed ‘Engelhard Sheffield Smelting Logo] [ONE TROY OUNCE]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Smooth Center with Frosted Side Accents",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SHEFFIELD_SMELTING_SERIAL-55",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Newer style. Sample Serials: 000064, 000138. Estimated Mintage: <250",
+          "obverse_description": "[Italic Boxed ‘Engelhard Sheffield Smelting Logo] [ONE TROY OUNCE] [Serial Number]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Hallmark repeated diagonally, no border",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_FOOTBALL-56",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [Football Game 1869]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_BASKETBALL-57",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [Basketball Invented 1891]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_HOCKEY-58",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [Stanley Cup 1894]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_GOLF-59",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [US Open 1894]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_TENNIS-60",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [Davis Cup 1900]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SPORTS_SERIES_BASEBALL-61",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "1976 Commemorative. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Commemorative Sports Series] [World Series 1903]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-GOLD_STANDARD_CORP_SERIES_1-62",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Standard production, counterstamped. Sample Serials: N/A. Estimated Mintage: 5,000",
+          "obverse_description": "[Custom Gold Standard Hallmark] [1 TR. OZ. FINE SILVER .999+]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Frosted Reverse",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-GOLD_STANDARD_CORP_SERIES_2-63",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Plain mirror finish. Sample Serials: N/A. Estimated Mintage: <2,000",
+          "obverse_description": "[Custom Gold Standard Hallmark] [1 TR. OZ. FINE SILVER .999+]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Mirrored Finish",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-ROBERT_G_WARNER_CO-64",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: N/A. Estimated Mintage: 1,000",
+          "obverse_description": "[Hallmark in Elongated Octagon] [1 TROY OZ.]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Thank You] [Robert G. Warner Co.]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-BAKER_BROTHERS-65",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: B0139, B0279. Estimated Mintage: 1,000",
+          "obverse_description": "[Serial Number] [Baker Brothers Logo] [1 Troy Ounce]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "Hallmark repeated diagonally",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-SCOTIABANK-66",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: 002044, 002047, 008126, 008944. Estimated Mintage: 1,000",
+          "obverse_description": "[Scotiabank Logo] [FINE SILVER 999]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Engelhard Maple Leaf Logo] [Serial Number on Frosted Box]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-TORONTO_DOMINION_BANK-67",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: 359775, 359792, 400263, 400264. Estimated Mintage: 1,000",
+          "obverse_description": "[Engelhard Maple Leaf Logo] [Serial Number on Frosted Box]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "TD Bank Logo, repeated six times diagonally",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-VICTORIA_GENERAL_HOSPITAL-68",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Commemorative. Note 999 fineness. Sample Serials: 428310, 428238, 428241, 428301. Estimated Mintage: <10",
+          "obverse_description": "[Maple Leaf Logo] [1 TROY OUNCE FINE SILVER 999]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[VICTORIA GENERAL HOSPITAL] [LONG SERVICE RECOGNITION]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-LITTON_SYSTEMS_CANADA-69",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: 362262, 363095, 365170. Estimated Mintage: <3,000",
+          "obverse_description": "[Maple Leaf] [Litton Logo] [25 YEARS]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Engelhard Maple Leaf Logo] [Serial Number on Frosted Box]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-CLUB_OF_KINGS-70",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar. Sample Serials: 411821, 411929, 412391. Estimated Mintage: <600",
+          "obverse_description": "[Engelhard Maple Leaf Logo] [Serial Number on Frosted Box]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[PAR EXCELLENCE CLUB DES ROIS] [THE CLUB OF KINGS]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-LIBERTY_TRADE_ART_BAR-71",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar (MTB, 1986). Sample Serials: Q 0062, Q 2384, Q 59263, Q 79473, R 07924. Estimated Mintage: <75,000",
+          "obverse_description": "[Statue of Liberty] [LIBERTY]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Statue of Liberty Torch Logo] [LIBERTY TRADE SILVER] [© 1986 MTB]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        },
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGL-XXXX-GREAT_AMERICAN_INSURANCE-72",
+          "composition": {
+            "silver": 0.999
+          },
+          "mint": "Engelhard",
+          "notes": "Specialty Art Bar (1987). Sample Serials: N/A. Estimated Mintage: 1,000",
+          "obverse_description": "[Engelhard Eagle Logo] [999+ FINE SILVER]",
+          "proof_strikes": 0,
+          "rarity": null,
+          "reverse_description": "[Great American Insurance Company Logo]",
+          "source_citation": "Engelhard Production Records",
+          "subcategory": "bullion",
+          "varieties": [],
+          "weight_grams": 31.103,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.103
+          }
+        }
+      ],
+      "official_name": "Engelhard",
+      "series_id": "Engelhard",
+      "series_name": "Engelhard",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    }
+  ]
+}
