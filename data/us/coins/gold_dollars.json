@@ -16,6 +16,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 17500,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1903
@@ -56,6 +57,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 17500,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1903
@@ -96,6 +98,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10025,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1904
@@ -111,6 +114,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10041,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1905
@@ -151,6 +155,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 15000,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1915
@@ -191,6 +196,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9977,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1916
@@ -206,6 +212,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10000,
           "varieties": [],
           "weight_grams": 1.672,
           "year": 1917
@@ -246,6 +253,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5016,
           "varieties": [
             {
               "name": "With Star",

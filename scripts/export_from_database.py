@@ -75,6 +75,7 @@ class DatabaseExporter:
                         mint,
                         business_strikes,
                         proof_strikes,
+                        total_mintage,
                         rarity,
                         composition,
                         weight_grams,
@@ -122,55 +123,56 @@ class DatabaseExporter:
                         }
                     
                     # Parse fields based on actual database schema
-                    composition = self.parse_composition(row[8])
+                    composition = self.parse_composition(row[9])
                     # varieties is now a single string from 'variety' column, convert to list format
-                    single_variety = row[11] if row[11] and row[11].strip() else ""
+                    single_variety = row[12] if row[12] and row[12].strip() else ""
                     varieties = [{"name": single_variety, "premium": False}] if single_variety else []
                     # These are text fields, not JSON
-                    distinguishing_features = row[17] if row[17] else ""
-                    identification_keywords = row[18] if row[18] else ""
-                    common_names = row[19] if row[19] else ""
-                    
+                    distinguishing_features = row[18] if row[18] else ""
+                    identification_keywords = row[19] if row[19] else ""
+                    common_names = row[20] if row[20] else ""
+
                     coin = {
                         "coin_id": row[0],
                         "year": self.convert_year(row[3]),
                         "mint": row[4],
                         "business_strikes": row[5],
                         "proof_strikes": row[6],
-                        "rarity": row[7],
+                        "total_mintage": row[7],
+                        "rarity": row[8],
                         "composition": composition,
                         "varieties": self.format_varieties(varieties)
                     }
                     
                     # Add category and subcategory fields
-                    if row[21]:  # category
-                        coin["category"] = row[21]
-                    if row[27]:  # subcategory
-                        coin["subcategory"] = row[27]
-                    
+                    if row[22]:  # category
+                        coin["category"] = row[22]
+                    if row[28]:  # subcategory
+                        coin["subcategory"] = row[28]
+
                     # Add visual description fields
-                    if row[15]:  # obverse_description
-                        coin["obverse_description"] = row[15]
-                    if row[16]:  # reverse_description
-                        coin["reverse_description"] = row[16]
-                    if row[17]:  # designer
-                        coin["designer"] = row[17]
+                    if row[16]:  # obverse_description
+                        coin["obverse_description"] = row[16]
+                    if row[17]:  # reverse_description
+                        coin["reverse_description"] = row[17]
+                    if row[18]:  # designer
+                        coin["designer"] = row[18]
                     if distinguishing_features:
                         coin["distinguishing_features"] = distinguishing_features
                     if identification_keywords:
                         coin["identification_keywords"] = identification_keywords
                     if common_names:
                         coin["common_names"] = common_names
-                    
+
                     # Only include non-null values
-                    if row[9] is not None:  # weight_grams
-                        coin["weight_grams"] = row[9]
-                    if row[10] is not None:  # diameter_mm
-                        coin["diameter_mm"] = row[10]
-                    if row[12] and row[12].strip():  # source_citation
-                        coin["source_citation"] = row[12]
-                    if row[13] and row[13].strip():  # notes
-                        coin["notes"] = row[13]
+                    if row[10] is not None:  # weight_grams
+                        coin["weight_grams"] = row[10]
+                    if row[11] is not None:  # diameter_mm
+                        coin["diameter_mm"] = row[11]
+                    if row[13] and row[13].strip():  # source_citation
+                        coin["source_citation"] = row[13]
+                    if row[14] and row[14].strip():  # notes
+                        coin["notes"] = row[14]
 
                     series_data[series_id]['coins'].append(coin)
                     series_data[series_id]['years'].append(self.convert_year(row[3]))

@@ -21,6 +21,7 @@
           "reverse_description": "The flagship Santa Maria sailing west",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 950000,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1892
@@ -41,6 +42,7 @@
           "reverse_description": "The flagship Santa Maria sailing west",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 1550405,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1893
@@ -84,6 +86,7 @@
           "reverse_description": "Eagle with extended wings on a shield",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 27134,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1915
@@ -127,6 +130,7 @@
           "reverse_description": "Eagle with shield and state seal",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 100058,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1918
@@ -170,6 +174,7 @@
           "reverse_description": "Wreath of pine needles and cones",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 50028,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1920
@@ -213,6 +218,7 @@
           "reverse_description": "The Mayflower sailing west",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 152112,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1920
@@ -258,6 +264,7 @@
           "reverse_description": "Alabama state seal",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 59038,
           "varieties": [
             {
               "name": "Regular",
@@ -304,6 +311,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6006,
           "varieties": [
             {
               "name": "2X2",
@@ -352,6 +360,7 @@
           "reverse_description": "Daniel Boone with Native American figure",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 15428,
           "varieties": [
             {
               "name": "Regular",
@@ -398,6 +407,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5000,
           "varieties": [
             {
               "name": "2★4",
@@ -446,6 +456,7 @@
           "reverse_description": "Grant's birthplace in Point Pleasant, Ohio",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 67405,
           "varieties": [
             {
               "name": "Regular",
@@ -492,6 +503,7 @@
           "rarity": "key",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 4256,
           "varieties": [
             {
               "name": "With Star",
@@ -540,6 +552,7 @@
           "reverse_description": "Female figures representing North and South America",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 274077,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1923
@@ -583,6 +596,7 @@
           "reverse_description": "The ship Nieu Nederlandt sailing",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 142080,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1924
@@ -626,6 +640,7 @@
           "reverse_description": "A grizzly bear walking",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 86594,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1925
@@ -669,6 +684,7 @@
           "reverse_description": "A frontier trapper with Fort Vancouver and Mount Hood",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 14994,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1925
@@ -712,6 +728,7 @@
           "reverse_description": "The Old Belfry in Lexington",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 162013,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1925
@@ -755,6 +772,7 @@
           "reverse_description": "Eagle perched on mountain precipice",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 1314709,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1925
@@ -798,6 +816,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 47955,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1926
@@ -816,6 +835,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 83055,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1926
@@ -834,6 +854,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6028,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1928
@@ -852,6 +873,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1933
@@ -870,6 +892,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 7006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1934
@@ -888,6 +911,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -906,6 +930,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -924,6 +949,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -942,6 +968,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 12008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -960,6 +987,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -978,6 +1006,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -996,6 +1025,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1014,6 +1044,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -1032,6 +1063,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -1050,6 +1082,7 @@
           "reverse_description": "Native American with outstretched arm and United States map",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -1093,6 +1126,7 @@
           "reverse_description": "The Liberty Bell",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 141120,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1926
@@ -1136,6 +1170,7 @@
           "reverse_description": "A catamount (mountain lion) with battle dates",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 28162,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1927
@@ -1179,6 +1214,7 @@
           "reverse_description": "Native Hawaiian chief with Diamond Head in background",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1928
@@ -1222,6 +1258,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10007,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1934
@@ -1240,6 +1277,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1258,6 +1296,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10010,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1276,6 +1315,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1294,6 +1334,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1312,6 +1353,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 12012,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1330,6 +1372,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1348,6 +1391,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2506,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1366,6 +1410,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9810,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1384,6 +1429,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2506,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1402,6 +1448,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2100,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1420,6 +1467,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2100,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1438,6 +1486,7 @@
           "reverse_description": "Boone with Native American chief holding peace treaty",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2100,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1481,6 +1530,7 @@
           "reverse_description": "The coat of arms of Maryland",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25015,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1934
@@ -1524,6 +1574,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 61463,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1934
@@ -1542,6 +1593,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10007,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1560,6 +1612,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9996,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1578,6 +1631,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1596,6 +1650,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9039,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1614,6 +1669,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8911,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1632,6 +1688,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9055,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1650,6 +1707,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6605,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1668,6 +1726,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6571,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1686,6 +1745,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6637,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1704,6 +1764,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3775,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1722,6 +1783,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3780,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1740,6 +1802,7 @@
           "reverse_description": "Victory figure with the Alamo and portraits of Sam Houston and Stephen F. Austin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3814,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1783,6 +1846,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5505,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1801,6 +1865,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 13012,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1819,6 +1884,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5506,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -1837,6 +1903,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9660,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1855,6 +1922,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9660,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1873,6 +1941,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9662,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -1891,6 +1960,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5505,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1909,6 +1979,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5505,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1927,6 +1998,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5506,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -1945,6 +2017,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3155,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1963,6 +2036,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3156,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1981,6 +2055,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 3156,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -1999,6 +2074,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2104,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -2017,6 +2093,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2104,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -2035,6 +2112,7 @@
           "reverse_description": "Eagle with Arkansas outline and diamond",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 2105,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1939
@@ -2078,6 +2156,7 @@
           "reverse_description": "Buildings from the 1915 Panama-California Exposition",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 70132,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -2096,6 +2175,7 @@
           "reverse_description": "Buildings from the 1915 Panama-California Exposition",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 30092,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2139,6 +2219,7 @@
           "reverse_description": "Eagle standing on rocky mound",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25018,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -2182,6 +2263,7 @@
           "reverse_description": "Neptune riding backwards on a whale",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -2225,6 +2307,7 @@
           "reverse_description": "Yucca tree over a map of Gulf States with expedition route",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10008,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1935
@@ -2268,6 +2351,7 @@
           "reverse_description": "Governor Dongan, Robert Livingston, and the first mayor of Albany",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 17671,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2311,6 +2395,7 @@
           "reverse_description": "Same as regular Arkansas Centennial design",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25265,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2354,6 +2439,7 @@
           "reverse_description": "Shields of Union and Confederate armies",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 26928,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2397,6 +2483,7 @@
           "reverse_description": "Art Deco stylized eagle",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25015,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2440,6 +2527,7 @@
           "reverse_description": "Kneeling figure representing the goddess of music",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2458,6 +2546,7 @@
           "reverse_description": "Kneeling figure representing the goddess of music",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2476,6 +2565,7 @@
           "reverse_description": "Kneeling figure representing the goddess of music",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 5006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2519,6 +2609,7 @@
           "reverse_description": "Map of Great Lakes region with compass",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 50030,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2562,6 +2653,7 @@
           "reverse_description": "Palmetto tree with crossed arrows",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8009,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2580,6 +2672,7 @@
           "reverse_description": "Palmetto tree with crossed arrows",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 9007,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2598,6 +2691,7 @@
           "reverse_description": "Palmetto tree with crossed arrows",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8007,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2641,6 +2735,7 @@
           "reverse_description": "Ship Kalmar Nyckel with three diamonds representing Delaware counties",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 20993,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2684,6 +2779,7 @@
           "reverse_description": "Four adult pioneers and baby",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 20015,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2727,6 +2823,7 @@
           "reverse_description": "Dutch three-masted ship sailing",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 81826,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2770,6 +2867,7 @@
           "reverse_description": "Goddess Liberty with Monument Terrace and courthouse",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 20013,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2813,6 +2911,7 @@
           "reverse_description": "Royal Mace with British crown",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 16936,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2856,6 +2955,7 @@
           "reverse_description": "Anchor of Hope from Rhode Island state seal",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 15010,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2874,6 +2974,7 @@
           "reverse_description": "Anchor of Hope from Rhode Island state seal",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 20013,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2892,6 +2993,7 @@
           "reverse_description": "Anchor of Hope from Rhode Island state seal",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 15011,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2935,6 +3037,7 @@
           "reverse_description": "The Bay Bridge with San Francisco Ferry Building",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 71424,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -2978,6 +3081,7 @@
           "reverse_description": "Miner's arm with pickaxe and lead ore",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25015,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -3021,6 +3125,7 @@
           "reverse_description": "Seal of York County, Maine",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 25015,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1936
@@ -3064,6 +3169,7 @@
           "reverse_description": "Burnside Bridge over Antietam Creek",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 18028,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -3107,6 +3213,7 @@
           "reverse_description": "Eleanor Dare holding Virginia Dare with sailing ships",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 29030,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1937
@@ -3150,6 +3257,7 @@
           "reverse_description": "Fleur-de-lis",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 15266,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1938
@@ -3193,6 +3301,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 200113,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1946
@@ -3211,6 +3320,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 1000546,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1946
@@ -3229,6 +3339,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 500279,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1946
@@ -3247,6 +3358,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 100017,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1947
@@ -3265,6 +3377,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 100017,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1947
@@ -3283,6 +3396,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 100017,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1947
@@ -3301,6 +3415,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1948
@@ -3319,6 +3434,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1948
@@ -3337,6 +3453,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8005,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1948
@@ -3355,6 +3472,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1949
@@ -3373,6 +3491,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1949
@@ -3391,6 +3510,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1949
@@ -3409,6 +3529,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1950
@@ -3427,6 +3548,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1950
@@ -3445,6 +3567,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 6004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1950
@@ -3463,6 +3586,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 7004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3481,6 +3605,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 210082,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3499,6 +3624,7 @@
           "reverse_description": "Hall of Fame for Great Americans and Washington's birth cabin",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 7004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3542,6 +3668,7 @@
           "reverse_description": "Eagle with Iowa state motto and 29 stars",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 100057,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1946
@@ -3585,6 +3712,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3603,6 +3731,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3621,6 +3750,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 10004,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1951
@@ -3639,6 +3769,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1952
@@ -3657,6 +3788,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 1106292,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1952
@@ -3675,6 +3807,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1952
@@ -3693,6 +3826,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8003,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1953
@@ -3711,6 +3845,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8003,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1953
@@ -3729,6 +3864,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 8003,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1953
@@ -3747,6 +3883,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 12006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1954
@@ -3765,6 +3902,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 12006,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1954
@@ -3783,6 +3921,7 @@
           "reverse_description": "Map of United States with 'Freedom and Opportunity for All'",
           "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
           "subcategory": "bullion",
+          "total_mintage": 42024,
           "varieties": [],
           "weight_grams": 12.5,
           "year": 1954
