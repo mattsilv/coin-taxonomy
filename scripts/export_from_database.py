@@ -97,7 +97,11 @@ class DatabaseExporter:
                         '' as original_date,
                         '' as variety_suffix,
                         CASE
-                            WHEN composition LIKE '%silver%' OR composition LIKE '%gold%' THEN 'bullion'
+                            WHEN denomination LIKE '%Commemorative%' THEN 'commemorative'
+                            WHEN denomination LIKE '%Engelhard%' THEN 'private_bullion'
+                            WHEN series LIKE '%Eagle%' AND (denomination LIKE '$%' OR denomination LIKE '%Dollar%') THEN 'sovereign_bullion'
+                            WHEN series LIKE '%Buffalo%' AND denomination LIKE '$%' THEN 'sovereign_bullion'
+                            WHEN composition LIKE '%silver%' OR composition LIKE '%gold%' THEN 'numismatic'
                             ELSE 'circulation'
                         END as subcategory
                     FROM coins
