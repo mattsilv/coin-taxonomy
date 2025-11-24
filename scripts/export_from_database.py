@@ -208,6 +208,21 @@ class DatabaseExporter:
                         "composition_periods": comp_periods,
                         "coins": coins
                     }
+
+                    # Look up aliases from series_registry
+                    cursor.execute('''
+                        SELECT aliases FROM series_registry
+                        WHERE series_name = ? AND denomination = ?
+                    ''', (series_id, denom_name))
+                    alias_row = cursor.fetchone()
+                    if alias_row and alias_row[0]:
+                        try:
+                            aliases = json.loads(alias_row[0])
+                            if aliases:
+                                series_entry["aliases"] = aliases
+                        except json.JSONDecodeError:
+                            pass  # Skip invalid JSON
+
                     series_list.append(series_entry)
                 
                 # Sort series by start year (put XXXX series at the end)

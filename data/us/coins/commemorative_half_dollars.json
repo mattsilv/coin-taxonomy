@@ -4,6 +4,11 @@
   "face_value": 1.0,
   "series": [
     {
+      "aliases": [
+        "Columbian Exposition",
+        "Columbian Half",
+        "Columbian"
+      ],
       "coins": [
         {
           "business_strikes": 950000,
@@ -71,6 +76,10 @@
       }
     },
     {
+      "aliases": [
+        "Panama-Pacific",
+        "Pan-Pac"
+      ],
       "coins": [
         {
           "business_strikes": 27134,
@@ -115,6 +124,9 @@
       }
     },
     {
+      "aliases": [
+        "Illinois"
+      ],
       "coins": [
         {
           "business_strikes": 100058,
@@ -159,6 +171,9 @@
       }
     },
     {
+      "aliases": [
+        "Maine"
+      ],
       "coins": [
         {
           "business_strikes": 50028,
@@ -203,6 +218,9 @@
       }
     },
     {
+      "aliases": [
+        "Pilgrim"
+      ],
       "coins": [
         {
           "business_strikes": 152112,
@@ -247,6 +265,9 @@
       }
     },
     {
+      "aliases": [
+        "Alabama"
+      ],
       "coins": [
         {
           "business_strikes": 59038,
@@ -298,6 +319,9 @@
       }
     },
     {
+      "aliases": [
+        "Alabama 2X2"
+      ],
       "coins": [
         {
           "business_strikes": 6006,
@@ -345,6 +369,9 @@
       }
     },
     {
+      "aliases": [
+        "Missouri"
+      ],
       "coins": [
         {
           "business_strikes": 15428,
@@ -394,6 +421,10 @@
       }
     },
     {
+      "aliases": [
+        "Missouri 2x4",
+        "Missouri Star"
+      ],
       "coins": [
         {
           "business_strikes": 5000,
@@ -441,6 +472,9 @@
       }
     },
     {
+      "aliases": [
+        "Grant"
+      ],
       "coins": [
         {
           "business_strikes": 67405,
@@ -490,6 +524,9 @@
       }
     },
     {
+      "aliases": [
+        "Grant Star"
+      ],
       "coins": [
         {
           "business_strikes": 4256,
@@ -537,6 +574,10 @@
       }
     },
     {
+      "aliases": [
+        "Monroe Doctrine",
+        "Monroe"
+      ],
       "coins": [
         {
           "business_strikes": 274077,
@@ -581,6 +622,10 @@
       }
     },
     {
+      "aliases": [
+        "Huguenot-Walloon",
+        "Huguenot"
+      ],
       "coins": [
         {
           "business_strikes": 142080,
@@ -625,6 +670,9 @@
       }
     },
     {
+      "aliases": [
+        "California Jubilee"
+      ],
       "coins": [
         {
           "business_strikes": 86594,
@@ -669,6 +717,9 @@
       }
     },
     {
+      "aliases": [
+        "Fort Vancouver"
+      ],
       "coins": [
         {
           "business_strikes": 14994,
@@ -713,6 +764,10 @@
       }
     },
     {
+      "aliases": [
+        "Lexington-Concord",
+        "Lexington"
+      ],
       "coins": [
         {
           "business_strikes": 162013,
@@ -757,6 +812,9 @@
       }
     },
     {
+      "aliases": [
+        "Stone Mountain"
+      ],
       "coins": [
         {
           "business_strikes": 1314709,
@@ -801,6 +859,10 @@
       }
     },
     {
+      "aliases": [
+        "Oregon Trail",
+        "Oregon"
+      ],
       "coins": [
         {
           "business_strikes": 47955,
@@ -1111,6 +1173,10 @@
       }
     },
     {
+      "aliases": [
+        "Sesquicentennial",
+        "1926 Sesqui"
+      ],
       "coins": [
         {
           "business_strikes": 141120,
@@ -1155,6 +1221,9 @@
       }
     },
     {
+      "aliases": [
+        "Vermont"
+      ],
       "coins": [
         {
           "business_strikes": 28162,
@@ -1199,6 +1268,10 @@
       }
     },
     {
+      "aliases": [
+        "Hawaiian",
+        "Hawaii"
+      ],
       "coins": [
         {
           "business_strikes": 10008,
@@ -1243,6 +1316,10 @@
       }
     },
     {
+      "aliases": [
+        "Daniel Boone",
+        "Boone"
+      ],
       "coins": [
         {
           "business_strikes": 10007,
@@ -1515,6 +1592,9 @@
       }
     },
     {
+      "aliases": [
+        "Maryland"
+      ],
       "coins": [
         {
           "business_strikes": 25015,
@@ -1559,6 +1639,9 @@
       }
     },
     {
+      "aliases": [
+        "Texas"
+      ],
       "coins": [
         {
           "business_strikes": 61463,
@@ -1831,6 +1914,9 @@
       }
     },
     {
+      "aliases": [
+        "Arkansas"
+      ],
       "coins": [
         {
           "business_strikes": 5505,
@@ -2141,6 +2227,10 @@
       }
     },
     {
+      "aliases": [
+        "San Diego",
+        "California Pacific"
+      ],
       "coins": [
         {
           "business_strikes": 70132,
@@ -2204,6 +2294,9 @@
       }
     },
     {
+      "aliases": [
+        "Connecticut"
+      ],
       "coins": [
         {
           "business_strikes": 25018,
@@ -2248,6 +2341,10 @@
       }
     },
     {
+      "aliases": [
+        "Hudson Sesquicentennial",
+        "Hudson"
+      ],
       "coins": [
         {
           "business_strikes": 10008,
@@ -2292,6 +2389,9 @@
       }
     },
     {
+      "aliases": [
+        "Spanish Trail"
+      ],
       "coins": [
         {
           "business_strikes": 10008,
@@ -2336,6 +2436,10 @@
       }
     },
     {
+      "aliases": [
+        "Albany Charter",
+        "Albany"
+      ],
       "coins": [
         {
           "business_strikes": 17671,
@@ -2380,6 +2484,10 @@
       }
     },
     {
+      "aliases": [
+        "Robinson",
+        "Arkansas Robinson"
+      ],
       "coins": [
         {
           "business_strikes": 25265,
@@ -2424,6 +2532,10 @@
       }
     },
     {
+      "aliases": [
+        "Gettysburg Anniversary",
+        "Gettysburg"
+      ],
       "coins": [
         {
           "business_strikes": 26928,
@@ -2468,6 +2580,10 @@
       }
     },
     {
+      "aliases": [
+        "Bridgeport Centennial",
+        "Bridgeport"
+      ],
       "coins": [
         {
           "business_strikes": 25015,
@@ -2512,6 +2628,9 @@
       }
     },
     {
+      "aliases": [
+        "Cincinnati"
+      ],
       "coins": [
         {
           "business_strikes": 5005,
@@ -2594,6 +2713,10 @@
       }
     },
     {
+      "aliases": [
+        "Cleveland-Great Lakes",
+        "Cleveland"
+      ],
       "coins": [
         {
           "business_strikes": 50030,
@@ -2638,6 +2761,10 @@
       }
     },
     {
+      "aliases": [
+        "Columbia South Carolina",
+        "Columbia SC"
+      ],
       "coins": [
         {
           "business_strikes": 8009,
@@ -2720,6 +2847,9 @@
       }
     },
     {
+      "aliases": [
+        "Delaware"
+      ],
       "coins": [
         {
           "business_strikes": 20993,
@@ -2764,6 +2894,10 @@
       }
     },
     {
+      "aliases": [
+        "Elgin Centennial",
+        "Elgin"
+      ],
       "coins": [
         {
           "business_strikes": 20015,
@@ -2808,6 +2942,9 @@
       }
     },
     {
+      "aliases": [
+        "Long Island"
+      ],
       "coins": [
         {
           "business_strikes": 81826,
@@ -2852,6 +2989,10 @@
       }
     },
     {
+      "aliases": [
+        "Lynchburg Sesquicentennial",
+        "Lynchburg"
+      ],
       "coins": [
         {
           "business_strikes": 20013,
@@ -2896,6 +3037,10 @@
       }
     },
     {
+      "aliases": [
+        "Norfolk Bicentennial",
+        "Norfolk"
+      ],
       "coins": [
         {
           "business_strikes": 16936,
@@ -2940,6 +3085,10 @@
       }
     },
     {
+      "aliases": [
+        "Rhode Island",
+        "Providence"
+      ],
       "coins": [
         {
           "business_strikes": 15010,
@@ -3022,6 +3171,10 @@
       }
     },
     {
+      "aliases": [
+        "Bay Bridge",
+        "SF-Oakland"
+      ],
       "coins": [
         {
           "business_strikes": 71424,
@@ -3066,6 +3219,10 @@
       }
     },
     {
+      "aliases": [
+        "Wisconsin Territorial",
+        "Wisconsin"
+      ],
       "coins": [
         {
           "business_strikes": 25015,
@@ -3110,6 +3267,9 @@
       }
     },
     {
+      "aliases": [
+        "York County"
+      ],
       "coins": [
         {
           "business_strikes": 25015,
@@ -3154,6 +3314,10 @@
       }
     },
     {
+      "aliases": [
+        "Antietam Anniversary",
+        "Antietam"
+      ],
       "coins": [
         {
           "business_strikes": 18028,
@@ -3198,6 +3362,9 @@
       }
     },
     {
+      "aliases": [
+        "Roanoke"
+      ],
       "coins": [
         {
           "business_strikes": 29030,
@@ -3242,6 +3409,9 @@
       }
     },
     {
+      "aliases": [
+        "New Rochelle"
+      ],
       "coins": [
         {
           "business_strikes": 15266,
@@ -3286,6 +3456,10 @@
       }
     },
     {
+      "aliases": [
+        "Booker T Washington",
+        "BTW"
+      ],
       "coins": [
         {
           "business_strikes": 200113,
@@ -3653,6 +3827,10 @@
       }
     },
     {
+      "aliases": [
+        "Iowa Centennial",
+        "Iowa"
+      ],
       "coins": [
         {
           "business_strikes": 100057,
@@ -3697,6 +3875,11 @@
       }
     },
     {
+      "aliases": [
+        "Carver-Washington",
+        "Washington-Carver",
+        "Carver Washington"
+      ],
       "coins": [
         {
           "business_strikes": 10004,
