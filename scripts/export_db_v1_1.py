@@ -254,6 +254,12 @@ def export_registries(conn, output_dir):
             'official_name': row_dict.get('official_name'),
             'type': row_dict.get('type')
         }
+        # Parse aliases JSON if present
+        if row_dict.get('aliases'):
+            try:
+                series['aliases'] = json.loads(row_dict['aliases'])
+            except (json.JSONDecodeError, TypeError):
+                pass
         # Remove null values
         series_list.append({k: v for k, v in series.items() if v is not None})
     
