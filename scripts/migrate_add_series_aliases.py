@@ -32,7 +32,7 @@ COMMEMORATIVE_ALIASES = {
     "Booker T. Washington": ["Booker T Washington", "BTW"],
     "Bridgeport, Connecticut, Centennial": ["Bridgeport Centennial", "Bridgeport"],
     "California Diamond Jubilee": ["California Jubilee"],
-    "California-Pacific Exposition": ["San Diego", "California Pacific"],
+    "California-Pacific Exposition": ["San Diego", "California Pacific", "San Diego California-Pacific Exposition"],
     "Carver/Washington": ["Carver-Washington", "Washington-Carver", "Carver Washington"],
     "Cincinnati Music Center": ["Cincinnati"],
     "Cleveland Centennial": ["Cleveland-Great Lakes", "Cleveland"],
@@ -64,7 +64,7 @@ COMMEMORATIVE_ALIASES = {
     "Oregon Trail Memorial": ["Oregon Trail", "Oregon"],
     "Panama-Pacific International Exposition": ["Panama-Pacific", "Pan-Pac"],
     "Pilgrim Tercentenary": ["Pilgrim"],
-    "Providence, Rhode Island, Tercentenary": ["Rhode Island", "Providence"],
+    "Providence, Rhode Island, Tercentenary": ["Rhode Island", "Providence", "Rhode Island Tercentenary"],
     "Roanoke Island": ["Roanoke"],
     "San Francisco-Oakland Bay Bridge": ["Bay Bridge", "SF-Oakland"],
     "Sesquicentennial of American Independence": ["Sesquicentennial", "1926 Sesqui"],
@@ -79,7 +79,7 @@ COMMEMORATIVE_ALIASES = {
 
 
 class SeriesAliasesMigration:
-    def __init__(self, db_path='database/coins.db'):
+    def __init__(self, db_path='coins.db'):
         self.db_path = db_path
         self.backup_path = None
 
@@ -134,7 +134,7 @@ class SeriesAliasesMigration:
             aliases_json = json.dumps(aliases)
             cursor.execute('''
                 UPDATE series_registry
-                SET aliases = ?, updated_at = CURRENT_TIMESTAMP
+                SET aliases = ?
                 WHERE series_name = ? AND denomination LIKE '%Commemorative%Half%'
             ''', (aliases_json, series_name))
 
