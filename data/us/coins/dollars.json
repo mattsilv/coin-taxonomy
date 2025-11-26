@@ -1,0 +1,2072 @@
+{
+  "country": "US",
+  "denomination": "Dollars",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": 2212000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1878-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1878
+        },
+        {
+          "business_strikes": 749500,
+          "category": "coin",
+          "coin_id": "US-MOGD-1878-P-8TF",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "notes": "First Morgan Dollar design with 8 tail feathers on eagle",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [
+            {
+              "name": "8TF",
+              "premium": false
+            }
+          ],
+          "weight_grams": 26.73,
+          "year": 1878
+        },
+        {
+          "business_strikes": 9759300,
+          "category": "coin",
+          "coin_id": "US-MOGD-1878-P-7TF",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "notes": "Revised design with 7 tail feathers, standard for series",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [
+            {
+              "name": "7TF",
+              "premium": false
+            }
+          ],
+          "weight_grams": 26.73,
+          "year": 1878
+        },
+        {
+          "business_strikes": 9774000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1878-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1878
+        },
+        {
+          "business_strikes": 756000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1879-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "notes": "Carson City key date",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1879
+        },
+        {
+          "business_strikes": 2887000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1879-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1879
+        },
+        {
+          "business_strikes": 14806000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1879-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1879
+        },
+        {
+          "business_strikes": 9110000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1879-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1879
+        },
+        {
+          "business_strikes": 591000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1880-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1880
+        },
+        {
+          "business_strikes": 5305000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1880-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1880
+        },
+        {
+          "business_strikes": 12600000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1880-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1880
+        },
+        {
+          "business_strikes": 8900000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1880-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1880
+        },
+        {
+          "business_strikes": 296000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1881-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "notes": "Carson City key date - very low mintage",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1881
+        },
+        {
+          "business_strikes": 5708000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1881-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1881
+        },
+        {
+          "business_strikes": 9162991,
+          "category": "coin",
+          "coin_id": "US-MOGD-1881-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1881
+        },
+        {
+          "business_strikes": 12760000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1881-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1881
+        },
+        {
+          "business_strikes": 1133000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1882-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1882
+        },
+        {
+          "business_strikes": 6090000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1882-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1882
+        },
+        {
+          "business_strikes": 11100000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1882-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1882
+        },
+        {
+          "business_strikes": 9250000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1882-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1882
+        },
+        {
+          "business_strikes": 1204000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1883-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1883
+        },
+        {
+          "business_strikes": 8725000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1883-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1883
+        },
+        {
+          "business_strikes": 12290000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1883-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1883
+        },
+        {
+          "business_strikes": 6250000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1883-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1883
+        },
+        {
+          "business_strikes": 1136000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1884-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1884
+        },
+        {
+          "business_strikes": 9730000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1884-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1884
+        },
+        {
+          "business_strikes": 14070000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1884-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1884
+        },
+        {
+          "business_strikes": 3200000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1884-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1884
+        },
+        {
+          "business_strikes": 228000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1885-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "notes": "Carson City key date - lowest CC mintage",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1885
+        },
+        {
+          "business_strikes": 9185000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1885-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1885
+        },
+        {
+          "business_strikes": 17787000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1885-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1885
+        },
+        {
+          "business_strikes": 1497000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1885-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1885
+        },
+        {
+          "business_strikes": 10710000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1886-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1886
+        },
+        {
+          "business_strikes": 19963000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1886-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1886
+        },
+        {
+          "business_strikes": 750000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1886-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1886
+        },
+        {
+          "business_strikes": 11550000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1887-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1887
+        },
+        {
+          "business_strikes": 20290000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1887-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1887
+        },
+        {
+          "business_strikes": 1771000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1887-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1887
+        },
+        {
+          "business_strikes": 12150000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1888-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1888
+        },
+        {
+          "business_strikes": 19183000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1888-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1888
+        },
+        {
+          "business_strikes": 657000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1888-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1888
+        },
+        {
+          "business_strikes": 350000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1889-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "notes": "Famous Carson City key date - few survivors outside GSA hoards",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1889
+        },
+        {
+          "business_strikes": 11875000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1889-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1889
+        },
+        {
+          "business_strikes": 21726000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1889-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1889
+        },
+        {
+          "business_strikes": 700000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1889-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1889
+        },
+        {
+          "business_strikes": 2309041,
+          "category": "coin",
+          "coin_id": "US-MOGD-1890-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1890
+        },
+        {
+          "business_strikes": 10701000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1890-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1890
+        },
+        {
+          "business_strikes": 16802000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1890-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1890
+        },
+        {
+          "business_strikes": 8230373,
+          "category": "coin",
+          "coin_id": "US-MOGD-1890-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1890
+        },
+        {
+          "business_strikes": 1618000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1891-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1891
+        },
+        {
+          "business_strikes": 7954529,
+          "category": "coin",
+          "coin_id": "US-MOGD-1891-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1891
+        },
+        {
+          "business_strikes": 8693556,
+          "category": "coin",
+          "coin_id": "US-MOGD-1891-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1891
+        },
+        {
+          "business_strikes": 5296000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1891-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1891
+        },
+        {
+          "business_strikes": 1352000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1892-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1892
+        },
+        {
+          "business_strikes": 2744000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1892-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1892
+        },
+        {
+          "business_strikes": 1036000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1892-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1892
+        },
+        {
+          "business_strikes": 1200000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1892-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1892
+        },
+        {
+          "business_strikes": 677000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1893-CC",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "CC",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1893
+        },
+        {
+          "business_strikes": 300000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1893-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1893
+        },
+        {
+          "business_strikes": 378000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1893-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1893
+        },
+        {
+          "business_strikes": 100000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1893-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "notes": "Lowest circulation strike Morgan - classic key date",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1893
+        },
+        {
+          "business_strikes": 1723000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1894-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1894
+        },
+        {
+          "business_strikes": 110000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1894-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1894
+        },
+        {
+          "business_strikes": 1260000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1894-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1894
+        },
+        {
+          "business_strikes": 450000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1895-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1895
+        },
+        {
+          "business_strikes": 12000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1895-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "notes": "Proof-only year - rarest of all Morgan dollars (12,000 proofs)",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1895
+        },
+        {
+          "business_strikes": 400000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1895-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1895
+        },
+        {
+          "business_strikes": 4900000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1896-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1896
+        },
+        {
+          "business_strikes": 9976000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1896-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1896
+        },
+        {
+          "business_strikes": 5000000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1896-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1896
+        },
+        {
+          "business_strikes": 4004000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1897-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1897
+        },
+        {
+          "business_strikes": 2822000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1897-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1897
+        },
+        {
+          "business_strikes": 5825000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1897-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1897
+        },
+        {
+          "business_strikes": 4400000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1898-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1898
+        },
+        {
+          "business_strikes": 5884000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1898-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1898
+        },
+        {
+          "business_strikes": 4102000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1898-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1898
+        },
+        {
+          "business_strikes": 2562000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1899-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1899
+        },
+        {
+          "business_strikes": 330000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1899-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": "semi-key",
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1899
+        },
+        {
+          "business_strikes": 8830000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1899-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1899
+        },
+        {
+          "business_strikes": 3540000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1900-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1900
+        },
+        {
+          "business_strikes": 12590000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1900-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1900
+        },
+        {
+          "business_strikes": 6962000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1900-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1900
+        },
+        {
+          "business_strikes": 2284000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1901-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1901
+        },
+        {
+          "business_strikes": 13320000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1901-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1901
+        },
+        {
+          "business_strikes": 7994000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1901-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1901
+        },
+        {
+          "business_strikes": 1530000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1902-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1902
+        },
+        {
+          "business_strikes": 8636000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1902-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1902
+        },
+        {
+          "business_strikes": 4652000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1902-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1902
+        },
+        {
+          "business_strikes": 1241000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1903-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1903
+        },
+        {
+          "business_strikes": 4450000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1903-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1903
+        },
+        {
+          "business_strikes": 2788000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1903-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1903
+        },
+        {
+          "business_strikes": 2304000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1904-O",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "O",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1904
+        },
+        {
+          "business_strikes": 3720000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1904-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1904
+        },
+        {
+          "business_strikes": 20345000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1921-D",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "D",
+          "notes": "First and only Denver Morgan Dollar",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1921
+        },
+        {
+          "business_strikes": 44690000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1921-P",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "P",
+          "notes": "Post-Pittman Act revival - last year of Morgan production",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1921
+        },
+        {
+          "business_strikes": 21695000,
+          "category": "coin",
+          "coin_id": "US-MOGD-1921-S",
+          "composition": {
+            "alloy_name": "90% Silver",
+            "copper": 0.1,
+            "silver": 0.9
+          },
+          "diameter_mm": 38.1,
+          "mint": "S",
+          "notes": "Post-Pittman Act - final San Francisco Morgan",
+          "obverse_description": "Liberty head facing left wearing Phrygian cap with 'LIBERTY' headband, surrounded by cotton and wheat. 'E PLURIBUS UNUM' above, date below, 13 stars around border.",
+          "proof_strikes": null,
+          "rarity": null,
+          "reverse_description": "Heraldic eagle with wings spread holding olive branch and arrows, 'UNITED STATES OF AMERICA' above, 'ONE DOLLAR' below, 'IN GOD WE TRUST' on ribbon.",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 26.73,
+          "year": 1921
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "90% Silver",
+          "date_range": {
+            "end": 1921,
+            "start": 1878
+          },
+          "weight": {
+            "grams": 26.73
+          }
+        }
+      ],
+      "official_name": "morgan_dollar",
+      "series_id": "morgan_dollar",
+      "series_name": "morgan_dollar",
+      "specifications": {
+        "diameter_mm": 38.1,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1921,
+        "start": 1878
+      }
+    }
+  ]
+}
