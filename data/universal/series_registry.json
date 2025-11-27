@@ -64,18 +64,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Alabama Centennial 2X2__Commemorative_Half_Dollars",
-      "series_name": "Alabama Centennial 2X2",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1921,
-      "end_year": 1921,
-      "type": "coin",
-      "aliases": [
-        "Alabama 2X2"
-      ]
-    },
-    {
       "series_id": "Alabama Centennial__Commemorative_Half_Dollars",
       "series_name": "Alabama Centennial",
       "country_code": "US",
@@ -85,6 +73,9 @@
       "type": "coin",
       "aliases": [
         "Alabama"
+      ],
+      "variety_suffixes": [
+        "2X2"
       ]
     },
     {
@@ -535,18 +526,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Grant Memorial with Star__Commemorative_Half_Dollars",
-      "series_name": "Grant Memorial with Star",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1922,
-      "end_year": 1922,
-      "type": "coin",
-      "aliases": [
-        "Grant Star"
-      ]
-    },
-    {
       "series_id": "Grant Memorial with Star__Gold_Dollars",
       "series_name": "Grant Memorial with Star",
       "country_code": "US",
@@ -565,6 +544,9 @@
       "type": "coin",
       "aliases": [
         "Grant"
+      ],
+      "variety_suffixes": [
+        "STAR"
       ]
     },
     {
@@ -775,19 +757,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Missouri Centennial 2\u26054__Commemorative_Half_Dollars",
-      "series_name": "Missouri Centennial 2\u26054",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1921,
-      "end_year": 1921,
-      "type": "coin",
-      "aliases": [
-        "Missouri 2x4",
-        "Missouri Star"
-      ]
-    },
-    {
       "series_id": "Missouri Centennial__Commemorative_Half_Dollars",
       "series_name": "Missouri Centennial",
       "country_code": "US",
@@ -797,6 +766,9 @@
       "type": "coin",
       "aliases": [
         "Missouri"
+      ],
+      "variety_suffixes": [
+        "2S4"
       ]
     },
     {
@@ -1075,31 +1047,18 @@
       "type": "coin"
     },
     {
-      "series_id": "Silver Three-Cent Type III__Three_Cents",
-      "series_name": "Silver Three-Cent Type III",
-      "country_code": "US",
-      "denomination": "Three Cents",
-      "start_year": 1859,
-      "end_year": 1873,
-      "type": "coin"
-    },
-    {
-      "series_id": "Silver Three-Cent Type II__Three_Cents",
-      "series_name": "Silver Three-Cent Type II",
-      "country_code": "US",
-      "denomination": "Three Cents",
-      "start_year": 1854,
-      "end_year": 1858,
-      "type": "coin"
-    },
-    {
       "series_id": "Silver Three-Cent Type I__Three_Cents",
-      "series_name": "Silver Three-Cent Type I",
+      "series_name": "Silver Three-Cent",
       "country_code": "US",
       "denomination": "Three Cents",
       "start_year": 1851,
-      "end_year": 1853,
-      "type": "coin"
+      "end_year": 1873,
+      "type": "coin",
+      "variety_suffixes": [
+        "T1",
+        "T2",
+        "T3"
+      ]
     },
     {
       "series_id": "Small Cent__1_Cent",

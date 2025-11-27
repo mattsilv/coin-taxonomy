@@ -294,39 +294,11 @@
           ],
           "weight_grams": 12.5,
           "year": 1921
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Historical",
-          "date_range": {
-            "end": 1921,
-            "start": 1921
-          }
-        }
-      ],
-      "official_name": "Alabama Centennial",
-      "series_id": "Alabama Centennial",
-      "series_name": "Alabama Centennial",
-      "specifications": {
-        "diameter_mm": 30.6,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1921,
-        "start": 1921
-      }
-    },
-    {
-      "aliases": [
-        "Alabama 2X2"
-      ],
-      "coins": [
+        },
         {
           "business_strikes": 6006,
           "category": "coin",
-          "coin_id": "US-ALXX-1921-P",
+          "coin_id": "US-ALCN-1921-P-2X2",
           "composition": {},
           "diameter_mm": 30.6,
           "mint": "P",
@@ -356,9 +328,9 @@
           }
         }
       ],
-      "official_name": "Alabama Centennial 2X2",
-      "series_id": "Alabama Centennial 2X2",
-      "series_name": "Alabama Centennial 2X2",
+      "official_name": "Alabama Centennial",
+      "series_id": "Alabama Centennial",
+      "series_name": "Alabama Centennial",
       "specifications": {
         "diameter_mm": 30.6,
         "edge": "plain"
@@ -396,40 +368,11 @@
           ],
           "weight_grams": 12.5,
           "year": 1921
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Historical",
-          "date_range": {
-            "end": 1921,
-            "start": 1921
-          }
-        }
-      ],
-      "official_name": "Missouri Centennial",
-      "series_id": "Missouri Centennial",
-      "series_name": "Missouri Centennial",
-      "specifications": {
-        "diameter_mm": 30.6,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1921,
-        "start": 1921
-      }
-    },
-    {
-      "aliases": [
-        "Missouri 2x4",
-        "Missouri Star"
-      ],
-      "coins": [
+        },
         {
           "business_strikes": 5000,
           "category": "coin",
-          "coin_id": "US-MOSS-1921-P",
+          "coin_id": "US-MOCN-1921-P-2S4",
           "composition": {},
           "diameter_mm": 30.6,
           "mint": "P",
@@ -441,7 +384,7 @@
           "total_mintage": 5000,
           "varieties": [
             {
-              "name": "2★4",
+              "name": "2S4",
               "premium": false
             }
           ],
@@ -459,9 +402,9 @@
           }
         }
       ],
-      "official_name": "Missouri Centennial 2★4",
-      "series_id": "Missouri Centennial 2★4",
-      "series_name": "Missouri Centennial 2★4",
+      "official_name": "Missouri Centennial",
+      "series_id": "Missouri Centennial",
+      "series_name": "Missouri Centennial",
       "specifications": {
         "diameter_mm": 30.6,
         "edge": "plain"
@@ -499,39 +442,11 @@
           ],
           "weight_grams": 12.5,
           "year": 1922
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Historical",
-          "date_range": {
-            "end": 1922,
-            "start": 1922
-          }
-        }
-      ],
-      "official_name": "Grant Memorial",
-      "series_id": "Grant Memorial",
-      "series_name": "Grant Memorial",
-      "specifications": {
-        "diameter_mm": 30.6,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1922,
-        "start": 1922
-      }
-    },
-    {
-      "aliases": [
-        "Grant Star"
-      ],
-      "coins": [
+        },
         {
           "business_strikes": 4256,
           "category": "coin",
-          "coin_id": "US-GRNS-1922-P",
+          "coin_id": "US-GRNT-1922-P-STAR",
           "composition": {},
           "diameter_mm": 30.6,
           "mint": "P",
@@ -561,9 +476,9 @@
           }
         }
       ],
-      "official_name": "Grant Memorial with Star",
-      "series_id": "Grant Memorial with Star",
-      "series_name": "Grant Memorial with Star",
+      "official_name": "Grant Memorial",
+      "series_id": "Grant Memorial",
+      "series_name": "Grant Memorial",
       "specifications": {
         "diameter_mm": 30.6,
         "edge": "plain"

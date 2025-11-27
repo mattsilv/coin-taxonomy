@@ -8,7 +8,7 @@
         {
           "business_strikes": 720000,
           "category": "coin",
-          "coin_id": "US-TCST-1851-O",
+          "coin_id": "US-TCST-1851-O-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -35,7 +35,7 @@
         {
           "business_strikes": 5447400,
           "category": "coin",
-          "coin_id": "US-TCST-1851-P",
+          "coin_id": "US-TCST-1851-P-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -62,7 +62,7 @@
         {
           "business_strikes": 720000,
           "category": "coin",
-          "coin_id": "US-TCST-1852-O",
+          "coin_id": "US-TCST-1852-O-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -89,7 +89,7 @@
         {
           "business_strikes": 18663500,
           "category": "coin",
-          "coin_id": "US-TCST-1852-P",
+          "coin_id": "US-TCST-1852-P-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -116,7 +116,7 @@
         {
           "business_strikes": 1332000,
           "category": "coin",
-          "coin_id": "US-TCST-1853-O",
+          "coin_id": "US-TCST-1853-O-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -143,7 +143,7 @@
         {
           "business_strikes": 11400000,
           "category": "coin",
-          "coin_id": "US-TCST-1853-P",
+          "coin_id": "US-TCST-1853-P-T1",
           "composition": {
             "copper": 25.0,
             "silver": 75.0
@@ -166,39 +166,11 @@
           ],
           "weight_grams": 0.8,
           "year": 1853
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1853,
-            "start": 1851
-          },
-          "weight": {
-            "grams": 0.8
-          }
-        }
-      ],
-      "official_name": "Silver Three-Cent Type I",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
-      "specifications": {
-        "diameter_mm": 14.0,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1853,
-        "start": 1851
-      }
-    },
-    {
-      "coins": [
+        },
         {
           "business_strikes": 671000,
           "category": "coin",
-          "coin_id": "US-TCST-1854-P",
+          "coin_id": "US-TCST-1854-P-T2",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -225,7 +197,7 @@
         {
           "business_strikes": 139000,
           "category": "coin",
-          "coin_id": "US-TCST-1855-P",
+          "coin_id": "US-TCST-1855-P-T2",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -252,7 +224,7 @@
         {
           "business_strikes": 1458000,
           "category": "coin",
-          "coin_id": "US-TCST-1856-P",
+          "coin_id": "US-TCST-1856-P-T2",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -279,7 +251,7 @@
         {
           "business_strikes": 1042000,
           "category": "coin",
-          "coin_id": "US-TCST-1857-P",
+          "coin_id": "US-TCST-1857-P-T2",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -306,7 +278,7 @@
         {
           "business_strikes": 1604000,
           "category": "coin",
-          "coin_id": "US-TCST-1858-P",
+          "coin_id": "US-TCST-1858-P-T2",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -329,39 +301,11 @@
           ],
           "weight_grams": 0.75,
           "year": 1858
-        }
-      ],
-      "composition_periods": [
-        {
-          "alloy": {},
-          "alloy_name": "Unknown",
-          "date_range": {
-            "end": 1858,
-            "start": 1854
-          },
-          "weight": {
-            "grams": 0.75
-          }
-        }
-      ],
-      "official_name": "Silver Three-Cent Type II",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
-      "specifications": {
-        "diameter_mm": 14.0,
-        "edge": "plain"
-      },
-      "years": {
-        "end": 1858,
-        "start": 1854
-      }
-    },
-    {
-      "coins": [
+        },
         {
           "business_strikes": 365000,
           "category": "coin",
-          "coin_id": "US-TCST-1859-P",
+          "coin_id": "US-TCST-1859-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -388,7 +332,7 @@
         {
           "business_strikes": 287000,
           "category": "coin",
-          "coin_id": "US-TCST-1860-P",
+          "coin_id": "US-TCST-1860-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -415,7 +359,7 @@
         {
           "business_strikes": 498000,
           "category": "coin",
-          "coin_id": "US-TCST-1861-P",
+          "coin_id": "US-TCST-1861-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -442,7 +386,7 @@
         {
           "business_strikes": 343000,
           "category": "coin",
-          "coin_id": "US-TCST-1862-P",
+          "coin_id": "US-TCST-1862-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -469,7 +413,7 @@
         {
           "business_strikes": 21000,
           "category": "coin",
-          "coin_id": "US-TCST-1863-P",
+          "coin_id": "US-TCST-1863-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -496,7 +440,7 @@
         {
           "business_strikes": 12000,
           "category": "coin",
-          "coin_id": "US-TCST-1864-P",
+          "coin_id": "US-TCST-1864-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -523,7 +467,7 @@
         {
           "business_strikes": 8000,
           "category": "coin",
-          "coin_id": "US-TCST-1865-P",
+          "coin_id": "US-TCST-1865-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -550,7 +494,7 @@
         {
           "business_strikes": 22000,
           "category": "coin",
-          "coin_id": "US-TCST-1866-P",
+          "coin_id": "US-TCST-1866-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -577,7 +521,7 @@
         {
           "business_strikes": 4000,
           "category": "coin",
-          "coin_id": "US-TCST-1867-P",
+          "coin_id": "US-TCST-1867-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -604,7 +548,7 @@
         {
           "business_strikes": 4000,
           "category": "coin",
-          "coin_id": "US-TCST-1868-P",
+          "coin_id": "US-TCST-1868-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -631,7 +575,7 @@
         {
           "business_strikes": 5000,
           "category": "coin",
-          "coin_id": "US-TCST-1869-P",
+          "coin_id": "US-TCST-1869-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -658,7 +602,7 @@
         {
           "business_strikes": 4000,
           "category": "coin",
-          "coin_id": "US-TCST-1870-P",
+          "coin_id": "US-TCST-1870-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -685,7 +629,7 @@
         {
           "business_strikes": 4000,
           "category": "coin",
-          "coin_id": "US-TCST-1871-P",
+          "coin_id": "US-TCST-1871-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -712,7 +656,7 @@
         {
           "business_strikes": 1000,
           "category": "coin",
-          "coin_id": "US-TCST-1872-P",
+          "coin_id": "US-TCST-1872-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -739,7 +683,7 @@
         {
           "business_strikes": 600,
           "category": "coin",
-          "coin_id": "US-TCST-1873-P",
+          "coin_id": "US-TCST-1873-P-T3",
           "composition": {
             "copper": 10.0,
             "silver": 90.0
@@ -770,23 +714,23 @@
           "alloy_name": "Unknown",
           "date_range": {
             "end": 1873,
-            "start": 1859
+            "start": 1851
           },
           "weight": {
-            "grams": 0.75
+            "grams": 0.8
           }
         }
       ],
-      "official_name": "Silver Three-Cent Type III",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "official_name": "Silver Three-Cent",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "specifications": {
         "diameter_mm": 14.0,
         "edge": "plain"
       },
       "years": {
         "end": 1873,
-        "start": 1859
+        "start": 1851
       }
     },
     {

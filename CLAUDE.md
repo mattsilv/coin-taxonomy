@@ -81,7 +81,6 @@ This script performs the database-first export:
 
 ### Invalid Formats (Will Be Rejected)
 - `IHC-1877-P` (missing country prefix)
-- `US-IHC-1877-P-L` (5 parts - variety belongs in `varieties` array)
 - `us-ihc-1877-p` (lowercase not allowed)
 - `US_IHC_1877_P` (underscores not allowed)
 
@@ -89,8 +88,34 @@ This script performs the database-first export:
 - Database CHECK constraints validate format on insert/update
 - Export scripts verify format before generating JSON files
 - Data integrity checks flag any violations
-- Variety information goes in the `varieties` array, NOT in the coin_id
 - Both `coins` table and `issues` table must have consistent formats
+
+### Variety Suffix Pattern (Optional 5th Part)
+For coins with significant design varieties that affect collector value, an optional suffix can be added:
+
+**Format**: `COUNTRY-TYPE-YEAR-MINT-SUFFIX`
+
+**Examples**:
+- `US-GRNT-1922-P-STAR` = Grant Memorial with Star variety
+- `US-ALCN-1921-P-2X2` = Alabama Centennial 2X2 variety
+- `US-MOCN-1921-P-2S4` = Missouri Centennial 2 Star 4 variety
+- `US-TCST-1851-P-T1` = Silver Three-Cent Type I
+- `US-MOGD-1878-P-8TF` = Morgan Dollar 8 Tail Feathers
+- `CA-GMPL-1982-P-14oz` = Gold Maple Leaf 1/4 oz
+
+**Suffix Rules**:
+1. **Uppercase alphanumeric only** - letters A-Z and digits 0-9 (1-4 characters)
+2. **Suffix must match variety column** - if coin_id has suffix, variety column should contain matching value
+3. **Weight suffixes for fractional bullion** - e.g., `110oz`, `12oz`, `14oz`, `120oz`, `1g` (no variety column needed)
+4. **Base record (no suffix) = "regular" variety** - only add suffix for variations
+
+**When to Use Suffix**:
+- Major die varieties (8TF, 7TF, VDB)
+- Design type changes within a series (T1, T2, T3)
+- Commemorative design variants (STAR, 2X2, 2S4)
+- Weight variants for bullion (110oz, 14oz)
+
+**series_registry.json**: Use `variety_suffixes` field to document valid suffixes per series.
 
 ### Random Year Pattern (Bullion Only) ⚠️
 **NEW**: Bullion products sold as "random year" or "dealer's choice" use the `XXXX` placeholder:

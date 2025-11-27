@@ -2,7 +2,7 @@
   "coins": [
     {
       "business_strikes": 720000,
-      "coin_id": "US-TCST-1851-O",
+      "coin_id": "US-TCST-1851-O-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -16,8 +16,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -31,7 +31,7 @@
     },
     {
       "business_strikes": 5447400,
-      "coin_id": "US-TCST-1851-P",
+      "coin_id": "US-TCST-1851-P-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -45,8 +45,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -60,7 +60,7 @@
     },
     {
       "business_strikes": 720000,
-      "coin_id": "US-TCST-1852-O",
+      "coin_id": "US-TCST-1852-O-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -74,8 +74,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -89,7 +89,7 @@
     },
     {
       "business_strikes": 18663500,
-      "coin_id": "US-TCST-1852-P",
+      "coin_id": "US-TCST-1852-P-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -103,8 +103,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -118,7 +118,7 @@
     },
     {
       "business_strikes": 1332000,
-      "coin_id": "US-TCST-1853-O",
+      "coin_id": "US-TCST-1853-O-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -132,8 +132,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -147,7 +147,7 @@
     },
     {
       "business_strikes": 11400000,
-      "coin_id": "US-TCST-1853-P",
+      "coin_id": "US-TCST-1853-P-T1",
       "composition": {
         "copper": 25.0,
         "silver": 75.0
@@ -161,8 +161,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type I",
-      "series_name": "Silver Three-Cent Type I",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -176,7 +176,7 @@
     },
     {
       "business_strikes": 671000,
-      "coin_id": "US-TCST-1854-P",
+      "coin_id": "US-TCST-1854-P-T2",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -190,8 +190,8 @@
       "proof_strikes": 0,
       "rarity": "scarce",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -205,7 +205,7 @@
     },
     {
       "business_strikes": 139000,
-      "coin_id": "US-TCST-1855-P",
+      "coin_id": "US-TCST-1855-P-T2",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -219,8 +219,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -234,7 +234,7 @@
     },
     {
       "business_strikes": 1458000,
-      "coin_id": "US-TCST-1856-P",
+      "coin_id": "US-TCST-1856-P-T2",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -248,8 +248,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -263,7 +263,7 @@
     },
     {
       "business_strikes": 1042000,
-      "coin_id": "US-TCST-1857-P",
+      "coin_id": "US-TCST-1857-P-T2",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -277,8 +277,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -384,7 +384,7 @@
     },
     {
       "business_strikes": 1604000,
-      "coin_id": "US-TCST-1858-P",
+      "coin_id": "US-TCST-1858-P-T2",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -398,8 +398,8 @@
       "proof_strikes": 0,
       "rarity": "common",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type II",
-      "series_name": "Silver Three-Cent Type II",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -413,7 +413,7 @@
     },
     {
       "business_strikes": 365000,
-      "coin_id": "US-TCST-1859-P",
+      "coin_id": "US-TCST-1859-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -427,8 +427,8 @@
       "proof_strikes": 0,
       "rarity": "scarce",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -442,7 +442,7 @@
     },
     {
       "business_strikes": 287000,
-      "coin_id": "US-TCST-1860-P",
+      "coin_id": "US-TCST-1860-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -456,8 +456,8 @@
       "proof_strikes": 0,
       "rarity": "scarce",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -471,7 +471,7 @@
     },
     {
       "business_strikes": 498000,
-      "coin_id": "US-TCST-1861-P",
+      "coin_id": "US-TCST-1861-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -485,8 +485,8 @@
       "proof_strikes": 0,
       "rarity": "scarce",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -500,7 +500,7 @@
     },
     {
       "business_strikes": 343000,
-      "coin_id": "US-TCST-1862-P",
+      "coin_id": "US-TCST-1862-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -514,8 +514,8 @@
       "proof_strikes": 0,
       "rarity": "scarce",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -529,7 +529,7 @@
     },
     {
       "business_strikes": 21000,
-      "coin_id": "US-TCST-1863-P",
+      "coin_id": "US-TCST-1863-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -543,8 +543,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -558,7 +558,7 @@
     },
     {
       "business_strikes": 12000,
-      "coin_id": "US-TCST-1864-P",
+      "coin_id": "US-TCST-1864-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -572,8 +572,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -616,7 +616,7 @@
     },
     {
       "business_strikes": 8000,
-      "coin_id": "US-TCST-1865-P",
+      "coin_id": "US-TCST-1865-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -630,8 +630,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -674,7 +674,7 @@
     },
     {
       "business_strikes": 22000,
-      "coin_id": "US-TCST-1866-P",
+      "coin_id": "US-TCST-1866-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -688,8 +688,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -732,7 +732,7 @@
     },
     {
       "business_strikes": 4000,
-      "coin_id": "US-TCST-1867-P",
+      "coin_id": "US-TCST-1867-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -746,8 +746,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -790,7 +790,7 @@
     },
     {
       "business_strikes": 4000,
-      "coin_id": "US-TCST-1868-P",
+      "coin_id": "US-TCST-1868-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -804,8 +804,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -848,7 +848,7 @@
     },
     {
       "business_strikes": 5000,
-      "coin_id": "US-TCST-1869-P",
+      "coin_id": "US-TCST-1869-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -862,8 +862,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -952,7 +952,7 @@
     },
     {
       "business_strikes": 4000,
-      "coin_id": "US-TCST-1870-P",
+      "coin_id": "US-TCST-1870-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -966,8 +966,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -1010,7 +1010,7 @@
     },
     {
       "business_strikes": 4000,
-      "coin_id": "US-TCST-1871-P",
+      "coin_id": "US-TCST-1871-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -1024,8 +1024,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -1068,7 +1068,7 @@
     },
     {
       "business_strikes": 1000,
-      "coin_id": "US-TCST-1872-P",
+      "coin_id": "US-TCST-1872-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -1082,8 +1082,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -1126,7 +1126,7 @@
     },
     {
       "business_strikes": 600,
-      "coin_id": "US-TCST-1873-P",
+      "coin_id": "US-TCST-1873-P-T3",
       "composition": {
         "copper": 10.0,
         "silver": 90.0
@@ -1140,8 +1140,8 @@
       "proof_strikes": 0,
       "rarity": "key",
       "reverse_description": "Large Roman numeral III within ornate 'C', 'UNITED STATES OF AMERICA' around",
-      "series_id": "Silver Three-Cent Type III",
-      "series_name": "Silver Three-Cent Type III",
+      "series_id": "Silver Three-Cent",
+      "series_name": "Silver Three-Cent",
       "source_citation": "Red Book 2025, PCGS CoinFacts",
       "varieties": [
         {
@@ -4715,7 +4715,7 @@
     },
     {
       "business_strikes": 6006,
-      "coin_id": "US-ALXX-1921-P",
+      "coin_id": "US-ALCN-1921-P-2X2",
       "composition": {},
       "country": "US",
       "denomination": "Commemorative Half Dollars",
@@ -4724,8 +4724,8 @@
       "notes": "With 2X2 mark (22nd state)",
       "proof_strikes": null,
       "rarity": "key",
-      "series_id": "Alabama Centennial 2X2",
-      "series_name": "Alabama Centennial 2X2",
+      "series_id": "Alabama Centennial",
+      "series_name": "Alabama Centennial",
       "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
       "varieties": [
         {
@@ -4765,7 +4765,7 @@
     },
     {
       "business_strikes": 5000,
-      "coin_id": "US-MOSS-1921-P",
+      "coin_id": "US-MOCN-1921-P-2S4",
       "composition": {},
       "country": "US",
       "denomination": "Commemorative Half Dollars",
@@ -4774,13 +4774,13 @@
       "notes": "With 2★4 mark (24th state)",
       "proof_strikes": null,
       "rarity": "key",
-      "series_id": "Missouri Centennial 2★4",
-      "series_name": "Missouri Centennial 2★4",
+      "series_id": "Missouri Centennial",
+      "series_name": "Missouri Centennial",
       "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
       "varieties": [
         {
-          "id": "2★4",
-          "name": "2★4",
+          "id": "2s4",
+          "name": "2S4",
           "premium": false
         }
       ],
@@ -4887,7 +4887,7 @@
     },
     {
       "business_strikes": 4256,
-      "coin_id": "US-GRNS-1922-P",
+      "coin_id": "US-GRNT-1922-P-STAR",
       "composition": {},
       "country": "US",
       "denomination": "Commemorative Half Dollars",
@@ -4896,8 +4896,8 @@
       "notes": "With star in field",
       "proof_strikes": null,
       "rarity": "key",
-      "series_id": "Grant Memorial with Star",
-      "series_name": "Grant Memorial with Star",
+      "series_id": "Grant Memorial",
+      "series_name": "Grant Memorial",
       "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
       "varieties": [
         {
@@ -23767,7 +23767,7 @@
       "year": "XXXX"
     }
   ],
-  "generated_at": "2025-11-26T17:58:23.235727",
+  "generated_at": "2025-11-26T19:30:49.160710",
   "taxonomy_version": "1.1",
   "total_coins": 1099,
   "year_range": {

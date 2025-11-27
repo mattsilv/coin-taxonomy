@@ -260,6 +260,12 @@ def export_registries(conn, output_dir):
                 series['aliases'] = json.loads(row_dict['aliases'])
             except (json.JSONDecodeError, TypeError):
                 pass
+        # Parse variety_suffixes JSON if present
+        if row_dict.get('variety_suffixes'):
+            try:
+                series['variety_suffixes'] = json.loads(row_dict['variety_suffixes'])
+            except (json.JSONDecodeError, TypeError):
+                pass
         # Remove null values
         series_list.append({k: v for k, v in series.items() if v is not None})
     
