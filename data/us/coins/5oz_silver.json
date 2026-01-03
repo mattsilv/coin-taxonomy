@@ -1,77 +1,60 @@
 {
   "country": "US",
-  "denomination": "Quarters",
-  "face_value": 0.25,
+  "denomination": "5oz Silver",
+  "face_value": 1.0,
   "series": [
     {
       "coins": [
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-ATBQ-2010-D",
+          "coin_id": "US-ATB5-2010-P",
           "composition": {},
-          "diameter_mm": 24.26,
-          "mint": "D",
-          "notes": "Hot Springs (AR)",
+          "diameter_mm": 76.2,
+          "mint": "P",
+          "notes": "Hot Springs National Park (AR)",
           "proof_strikes": null,
           "rarity": null,
           "source_citation": "Issue #77/#78 - America the Beautiful Series",
-          "subcategory": "circulation",
+          "subcategory": "numismatic",
           "total_mintage": null,
           "varieties": [],
-          "weight_grams": 5.67,
+          "weight_grams": 155.52,
           "year": 2010
         },
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-ATBQ-2010-P",
+          "coin_id": "US-ATB5-2021-P",
           "composition": {},
-          "diameter_mm": 24.26,
+          "diameter_mm": 76.2,
           "mint": "P",
-          "notes": "Hot Springs (AR)",
+          "notes": "Tuskegee Airmen National Park (AL)",
           "proof_strikes": null,
           "rarity": null,
           "source_citation": "Issue #77/#78 - America the Beautiful Series",
-          "subcategory": "circulation",
+          "subcategory": "numismatic",
           "total_mintage": null,
           "varieties": [],
-          "weight_grams": 5.67,
-          "year": 2010
-        },
-        {
-          "business_strikes": null,
-          "category": "coin",
-          "coin_id": "US-ATBQ-2021-D",
-          "composition": {},
-          "diameter_mm": 24.26,
-          "mint": "D",
-          "notes": "Tuskegee Airmen (AL)",
-          "proof_strikes": null,
-          "rarity": null,
-          "source_citation": "Issue #77/#78 - America the Beautiful Series",
-          "subcategory": "circulation",
-          "total_mintage": null,
-          "varieties": [],
-          "weight_grams": 5.67,
+          "weight_grams": 155.52,
           "year": 2021
         },
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-ATBQ-2021-P",
+          "coin_id": "US-ATB5-XXXX-P",
           "composition": {},
-          "diameter_mm": 24.26,
+          "diameter_mm": 76.2,
           "mint": "P",
-          "notes": "Tuskegee Airmen (AL)",
+          "notes": "Random year bullion - 5oz silver",
           "proof_strikes": null,
           "rarity": null,
           "source_citation": "Issue #77/#78 - America the Beautiful Series",
-          "subcategory": "circulation",
+          "subcategory": "numismatic",
           "total_mintage": null,
           "varieties": [],
-          "weight_grams": 5.67,
-          "year": 2021
+          "weight_grams": 155.52,
+          "year": "XXXX"
         }
       ],
       "composition_periods": [
@@ -84,11 +67,11 @@
           }
         }
       ],
-      "official_name": "America the Beautiful Quarters",
-      "series_id": "America the Beautiful Quarters",
-      "series_name": "America the Beautiful Quarters",
+      "official_name": "America the Beautiful 5oz Silver",
+      "series_id": "America the Beautiful 5oz Silver",
+      "series_name": "America the Beautiful 5oz Silver",
       "specifications": {
-        "diameter_mm": 24.26,
+        "diameter_mm": 76.2,
         "edge": "plain"
       },
       "years": {
