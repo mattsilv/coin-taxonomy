@@ -1312,6 +1312,24 @@
       "type": "coin"
     },
     {
+      "series_id": "US-ATB5",
+      "series_name": "America the Beautiful 5oz Silver",
+      "country_code": "US",
+      "denomination": "5oz Silver",
+      "start_year": 2010,
+      "end_year": 2021,
+      "type": "coin"
+    },
+    {
+      "series_id": "US-ATBQ",
+      "series_name": "America the Beautiful Quarters",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 2010,
+      "end_year": 2021,
+      "type": "coin"
+    },
+    {
       "series_id": "Vermont Sesquicentennial__Commemorative_Half_Dollars",
       "series_name": "Vermont Sesquicentennial",
       "country_code": "US",
