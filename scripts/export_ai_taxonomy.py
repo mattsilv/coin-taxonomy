@@ -56,29 +56,57 @@ class AITaxonomyExporter:
             return None
     
     def get_series_year_ranges(self, cursor):
-        """Get the actual production year ranges for each series based on database data"""
+        """Get year ranges for each series, preferring series_registry over derived MIN/MAX.
+
+        Priority:
+        1. Use series_registry.start_year/end_year when available (prefer numeric over XXXX)
+        2. Fall back to MIN/MAX of coins table (excluding XXXX years)
+
+        This allows sparse series (with only seed coins) to still export full year ranges.
+        """
+        # Use subquery to get best registry entry (prefer numeric start_year over XXXX)
         query = """
-        SELECT 
-            series as series_id,
-            MIN(year) as start_year,
-            MAX(year) as end_year,
-            COUNT(DISTINCT year) as actual_years,
-            GROUP_CONCAT(DISTINCT year ORDER BY year) as existing_years
-        FROM coins 
-        GROUP BY series
+        SELECT
+            c.series as series_id,
+            best_sr.start_year as registry_start,
+            best_sr.end_year as registry_end,
+            MIN(CASE WHEN c.year != 'XXXX' THEN CAST(c.year AS INTEGER) END) as coins_min_year,
+            MAX(CASE WHEN c.year != 'XXXX' THEN CAST(c.year AS INTEGER) END) as coins_max_year,
+            COUNT(DISTINCT CASE WHEN c.year != 'XXXX' THEN c.year END) as actual_years,
+            GROUP_CONCAT(DISTINCT c.year ORDER BY c.year) as existing_years
+        FROM coins c
+        LEFT JOIN (
+            SELECT series_name,
+                   MIN(CASE WHEN start_year != 'XXXX' THEN start_year END) as start_year,
+                   MIN(CASE WHEN end_year != 'XXXX' THEN end_year END) as end_year
+            FROM series_registry
+            GROUP BY series_name
+        ) best_sr ON c.series = best_sr.series_name
+        GROUP BY c.series
         """
         cursor.execute(query)
         series_ranges = {}
-        
+
         for row in cursor.fetchall():
-            series_id, start_year, end_year, actual_years, existing_years = row
+            series_id, registry_start, registry_end, coins_min, coins_max, actual_years, existing_years = row
+
+            # Prefer series_registry values, fall back to derived MIN/MAX
+            start_year = registry_start if registry_start is not None else coins_min
+            end_year = registry_end if registry_end is not None else coins_max
+
+            # Handle ongoing series (null end_year in registry) - use coins max or current year
+            if registry_start is not None and registry_end is None:
+                # Ongoing series: use 2024 as reasonable end year for AI taxonomy
+                end_year = max(coins_max or 2024, 2024)
+
             series_ranges[series_id] = {
                 'start_year': start_year,
                 'end_year': end_year,
-                'actual_years': actual_years,
-                'existing_years': existing_years.split(',') if existing_years else []
+                'actual_years': actual_years or 0,
+                'existing_years': existing_years.split(',') if existing_years else [],
+                'from_registry': registry_start is not None
             }
-        
+
         return series_ranges
 
     def generate_complete_year_list(self, start_year, end_year):
@@ -190,23 +218,45 @@ class AITaxonomyExporter:
             year_range = series_ranges.get(series_id, {})
             start_year = year_range.get('start_year')
             end_year = year_range.get('end_year')
-            
+
             # Extract type code from prototype first
             type_code = self.extract_type_code(prototype['coin_id'])
             if not type_code:
                 continue
-                
+
+            # Handle XXXX-only series (bullion random year)
+            is_xxxx_only = (start_year is None and end_year is None) or \
+                           (str(start_year) == 'XXXX' or str(end_year) == 'XXXX')
+
+            # Calculate total_years only for non-XXXX series
+            if is_xxxx_only:
+                total_years = 0
+                year_range_str = "XXXX"
+            elif start_year and end_year:
+                try:
+                    total_years = int(end_year) - int(start_year) + 1
+                    year_range_str = f"{start_year}-{end_year}"
+                except (ValueError, TypeError):
+                    total_years = 0
+                    year_range_str = f"{start_year}-{end_year}"
+            else:
+                total_years = 0
+                year_range_str = "Unknown"
+
             # Create series record using prototype coin as template
             series_record = {
                 "series": series_id,
                 "s": series_name,
                 "t": type_code,
-                "year_range": f"{start_year}-{end_year}",
-                "total_years": end_year - start_year + 1 if start_year and end_year else 0
+                "year_range": year_range_str,
+                "total_years": total_years
             }
             
             # Choose approach based on configuration
-            if self.use_year_lists:
+            if is_xxxx_only:
+                # Bullion series with random year - include without year list
+                series_record["years"] = "XXXX"
+            elif self.use_year_lists:
                 # APPROACH 1: Comma-delimited year list (more efficient)
                 complete_years = self.generate_complete_year_list(start_year, end_year)
                 if complete_years:

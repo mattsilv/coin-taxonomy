@@ -1,6 +1,52 @@
 {
   "coins": [
     {
+      "business_strikes": null,
+      "coin_id": "US-SLDI-1837-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Dimes",
+      "diameter_mm": 17.9,
+      "mint": "P",
+      "notes": "Multiple design variations: No Stars (1837-1838), Stars (1838-1860), Legend (1860-1891).",
+      "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wreath encircling 'ONE DIME', 'UNITED STATES OF AMERICA' around",
+      "series_id": "Seated Liberty Dime",
+      "series_name": "Seated Liberty Dime",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 2.67,
+      "year": "1837"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-LHQE-1840-P",
+      "composition": {
+        "copper": 10,
+        "gold": 90
+      },
+      "country": "US",
+      "denomination": "Quarter Eagles",
+      "diameter_mm": 18.0,
+      "mint": "P",
+      "notes": "The Liberty Head (Coronet) design was used for the $2.50 gold piece from 1840-1907. Earlier types (1796-1839) have different designs.",
+      "obverse_description": "Liberty head left wearing coronet inscribed 'LIBERTY', 13 stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle with shield, holding arrows and olive branch, 'UNITED STATES OF AMERICA' above, '$2.50 D.' below",
+      "series_id": "Liberty Head Quarter Eagle",
+      "series_name": "Liberty Head Quarter Eagle",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 4.18,
+      "year": "1840"
+    },
+    {
       "business_strikes": 720000,
       "coin_id": "US-TCST-1851-O-T1",
       "composition": {
@@ -3042,6 +3088,29 @@
       "year": "1892"
     },
     {
+      "business_strikes": null,
+      "coin_id": "US-BARH-1892-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.6,
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Liberty head right wearing Phrygian cap with laurel wreath, 'LIBERTY' on band, 'IN GOD WE TRUST' above, stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle with shield, E PLURIBUS UNUM on ribbon, 'UNITED STATES OF AMERICA' and 'HALF DOLLAR' around",
+      "series_id": "Barber Half Dollar",
+      "series_name": "Barber Half Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 12.5,
+      "year": "1892"
+    },
+    {
       "business_strikes": 1550405,
       "coin_id": "US-WCOL-1893-P",
       "composition": {},
@@ -4063,6 +4132,29 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "US-IHQE-1908-P",
+      "composition": {
+        "copper": 10,
+        "gold": 90
+      },
+      "country": "US",
+      "denomination": "Quarter Eagles",
+      "diameter_mm": 18.0,
+      "mint": "P",
+      "notes": "Unique incuse (recessed) design - the only regular-issue US coins with incuse design. Controversial when introduced but now highly prized by collectors.",
+      "obverse_description": "Indian chief wearing feathered headdress facing left (incuse design), 13 stars at left, date at right, 'LIBERTY' above",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Standing eagle on bundle of arrows with olive branch (incuse design), 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', '2 1/2 DOLLARS'",
+      "series_id": "Indian Head Quarter Eagle",
+      "series_name": "Indian Head Quarter Eagle",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 4.18,
+      "year": "1908"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "CA-SOVR-1908-C",
       "composition": {
         "copper": 8.33,
@@ -4083,6 +4175,29 @@
       "varieties": [],
       "weight_grams": 7.988,
       "year": "1908"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-LWCT-1909-P",
+      "composition": {
+        "copper": 95,
+        "tin_zinc": 5
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 19.0,
+      "mint": "P",
+      "notes": "1943 cents were struck in zinc-coated steel due to WWII copper shortage. VDB initials on 1909 reverse are highly collectible.",
+      "obverse_description": "Profile bust of President Abraham Lincoln facing right, 'IN GOD WE TRUST' above, 'LIBERTY' at left, date at right",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Two wheat stalks framing 'ONE CENT' and 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM' at top",
+      "series_id": "Lincoln Wheat Cent",
+      "series_name": "Lincoln Wheat Cent",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 3.11,
+      "year": "1909"
     },
     {
       "business_strikes": null,
@@ -4445,6 +4560,29 @@
       "source_citation": "Issue #53 - Classic Commemoratives (1892-1954)",
       "varieties": [],
       "weight_grams": 1.672,
+      "year": "1916"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-WLHD-1916-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.6,
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Full-length Liberty walking toward sunrise, draped in American flag, holding olive branches, 'LIBERTY' above, 'IN GOD WE TRUST' at right, date at base",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Bald eagle perched on rock with wings raised, mountain pine branch emerging from rock, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'HALF DOLLAR'",
+      "series_id": "Walking Liberty Half Dollar",
+      "series_name": "Walking Liberty Half Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 12.5,
       "year": "1916"
     },
     {
@@ -7336,6 +7474,29 @@
       "year": "1948"
     },
     {
+      "business_strikes": null,
+      "coin_id": "US-FRNH-1948-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.6,
+      "mint": "P",
+      "notes": null,
+      "obverse_description": "Profile bust of Benjamin Franklin facing right, 'LIBERTY' above, 'IN GOD WE TRUST' at right, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Liberty Bell with small eagle to right, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'HALF DOLLAR'",
+      "series_id": "Franklin Half Dollar",
+      "series_name": "Franklin Half Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 12.5,
+      "year": "1948"
+    },
+    {
       "business_strikes": 6004,
       "coin_id": "US-BTWH-1949-D",
       "composition": {},
@@ -7780,6 +7941,29 @@
       "year": "1954"
     },
     {
+      "business_strikes": null,
+      "coin_id": "US-KENH-1964-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.6,
+      "mint": "P",
+      "notes": "Composition changed over time: 90% silver (1964), 40% silver (1965-1970), copper-nickel clad (1971-present)",
+      "obverse_description": "Profile bust of President John F. Kennedy facing left, 'LIBERTY' above, 'IN GOD WE TRUST' below, date at base",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Heraldic eagle based on Presidential Seal, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'HALF DOLLAR'",
+      "series_id": "Kennedy Half Dollar",
+      "series_name": "Kennedy Half Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 12.5,
+      "year": "1964"
+    },
+    {
       "business_strikes": 6767496,
       "coin_id": "CA-DLLS-1967-RM",
       "composition": {
@@ -7956,6 +8140,29 @@
       "varieties": [],
       "weight_grams": 4.54,
       "year": "1970"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-EISE-1971-P",
+      "composition": {
+        "copper": 75,
+        "nickel": 25
+      },
+      "country": "US",
+      "denomination": "Dollars",
+      "diameter_mm": 38.1,
+      "mint": "P",
+      "notes": "Available in clad and 40% silver versions. The reverse features the Apollo 11 moon landing mission insignia.",
+      "obverse_description": "Profile portrait of President Dwight D. Eisenhower facing left, 'LIBERTY' above, 'IN GOD WE TRUST' below, date at base",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Apollo 11 mission insignia - bald eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'ONE DOLLAR'",
+      "series_id": "Eisenhower Dollar",
+      "series_name": "Eisenhower Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 22.68,
+      "year": "1971"
     },
     {
       "business_strikes": null,
@@ -12887,6 +13094,31 @@
       "source_citation": null,
       "varieties": [],
       "weight_grams": 7.0,
+      "year": "2000"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-SACA-2000-P",
+      "composition": {
+        "copper": 88.5,
+        "manganese": 3.5,
+        "nickel": 2,
+        "zinc": 6
+      },
+      "country": "US",
+      "denomination": "Dollars",
+      "diameter_mm": 26.5,
+      "mint": "P",
+      "notes": "Distinctive golden color from manganese brass composition. Continued as Native American $1 series from 2009 with changing reverses.",
+      "obverse_description": "Portrait of Sacagawea carrying infant son Jean Baptiste, 'LIBERTY' above, 'IN GOD WE TRUST' at left, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Soaring eagle surrounded by 17 stars, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'ONE DOLLAR'",
+      "series_id": "Sacagawea Dollar",
+      "series_name": "Sacagawea Dollar",
+      "source_citation": "Red Book",
+      "varieties": [],
+      "weight_grams": 8.1,
       "year": "2000"
     },
     {
@@ -22184,6 +22416,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-GMLO-XXXX-X",
+      "composition": {
+        "gold": 99.99
+      },
+      "country": "CA",
+      "denomination": "$50",
+      "diameter_mm": 30.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content.",
+      "obverse_description": "Queen Elizabeth II (various portraits), 'ELIZABETH II', 'CANADA', '50 DOLLARS', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Maple leaf, 'FINE GOLD 1 OZ OR PUR', '9999'",
+      "series_id": "Gold Maple Leaf 1 oz",
+      "series_name": "Gold Maple Leaf 1 oz",
+      "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-EN18-XXXX-X",
       "composition": {
         "silver": 0.999
@@ -23765,13 +24019,101 @@
       "varieties": [],
       "weight_grams": 31.103,
       "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-SMLI-XXXX-X",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "CA",
+      "denomination": "Five Dollars",
+      "diameter_mm": 38.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Features incuse design with Bullion DNA anti-counterfeiting technology",
+      "obverse_description": "Queen Elizabeth II incuse portrait, 'ELIZABETH II', 'CANADA', '5 DOLLARS', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Incuse maple leaf design, 'FINE SILVER 1 OZ ARGENT PUR', security features",
+      "series_id": "Incuse Silver Maple Leaf",
+      "series_name": "Incuse Silver Maple Leaf",
+      "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CA-SMLO-XXXX-X",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "CA",
+      "denomination": "Five Dollars",
+      "diameter_mm": 38.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content.",
+      "obverse_description": "Queen Elizabeth II (various portraits), 'ELIZABETH II', 'CANADA', '5 DOLLARS', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Maple leaf, 'FINE SILVER 1 OZ ARGENT PUR', '9999'",
+      "series_id": "Silver Maple Leaf 1 oz",
+      "series_name": "Silver Maple Leaf 1 oz",
+      "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AU-WTED-XXXX-X",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "AU",
+      "denomination": "One Dollar",
+      "diameter_mm": 40.6,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Designed by John Mercanti (former US Mint Chief Engraver). Perth Mint product.",
+      "obverse_description": "Queen Elizabeth II (Ian Rank-Broadley portrait), 'ELIZABETH II', 'AUSTRALIA', '1 DOLLAR', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wedge-tailed eagle in flight, designed by John Mercanti, 'AUSTRALIAN WEDGE-TAILED EAGLE', '1oz 9999 SILVER'",
+      "series_id": "Wedge-Tailed Eagle 1 oz Silver",
+      "series_name": "Wedge-Tailed Eagle 1 oz Silver",
+      "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CN-PAND-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "CN",
+      "denomination": "Ten Yuan",
+      "diameter_mm": 40.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Panda design changes each year, highly collectible. Weight changed from 1oz to 30g in 2016.",
+      "obverse_description": "Temple of Heaven, 'ZHONGHUA RENMIN GONGHEGUO' (People's Republic of China), date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Giant panda design (changes annually), 'Ag.999', weight denomination",
+      "series_id": "Silver Panda",
+      "series_name": "Silver Panda",
+      "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 30.0,
+      "year": "XXXX"
     }
   ],
-  "generated_at": "2025-11-26T19:30:49.160710",
+  "generated_at": "2026-01-02T22:04:41.015302",
   "taxonomy_version": "1.1",
-  "total_coins": 1099,
+  "total_coins": 1114,
   "year_range": {
-    "earliest": "1851",
+    "earliest": "1837",
     "latest": "XXXX"
   }
 }
