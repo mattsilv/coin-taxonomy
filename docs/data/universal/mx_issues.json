@@ -1,6 +1,6 @@
 {
   "country_code": "MX",
-  "total_issues": 105,
+  "total_issues": 117,
   "issues": [
     {
       "issue_id": "MX-MEX-1981-MO",
@@ -5850,6 +5850,498 @@
       ],
       "notes": "Reverse Proof finish - .999 fine silver",
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLSH-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/2 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 15.552,
+        "diameter_mm": 33.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/2 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLSQ-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/4 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 7.776,
+        "diameter_mm": 27.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/4 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLSD-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 3.11,
+        "diameter_mm": 20.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/10 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLST-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 1.555,
+        "diameter_mm": 16.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/20 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLGH-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/2 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 15.552,
+        "diameter_mm": 29.0,
+        "edge": "reeded",
+        "composition": ".999 Au"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/2 oz gold bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLGQ-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 7.776,
+        "diameter_mm": 23.0,
+        "edge": "reeded",
+        "composition": ".999 Au"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/4 oz gold bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLGD-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 3.11,
+        "diameter_mm": 16.0,
+        "edge": "reeded",
+        "composition": ".999 Au"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/10 oz gold bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLGT-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 1.555,
+        "diameter_mm": 13.0,
+        "edge": "reeded",
+        "composition": ".999 Au"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1/20 oz gold bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLSW-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 2 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 62.206,
+        "diameter_mm": 48.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 2.0 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLSF-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 5 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 5 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 155.515,
+        "diameter_mm": 65.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 5.0 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLSK-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1 kg__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1 kg__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 1000.0,
+        "diameter_mm": 110.0,
+        "edge": "reeded",
+        "composition": ".999 Ag"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 32.15 oz silver bullion",
+      "source_citation": "Casa de Moneda de Mexico"
+    },
+    {
+      "issue_id": "MX-MLPO-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Platinum 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Platinum 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Casa de Moneda de Mexico",
+        "monetary_system": "decimal",
+        "currency_unit": "peso"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [],
+        "system_fraction": null
+      },
+      "issue_year": "XXXX",
+      "mint_id": null,
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": 32.0,
+        "edge": "reeded",
+        "composition": ".9995 Pt"
+      },
+      "sides": {
+        "obverse": {
+          "description": "Winged Victory"
+        },
+        "reverse": {
+          "description": "Mexican coat of arms"
+        }
+      },
+      "mintage": {},
+      "rarity": null,
+      "varieties": [],
+      "notes": "Random year 1.0 oz platinum bullion",
+      "source_citation": "Casa de Moneda de Mexico"
     }
   ]
 }
