@@ -887,12 +887,76 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/10 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1991,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/2 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1981,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/20 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1991,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/4 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1981,
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Silver 1 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1982,
       "end_year": 2022,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/10 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/2 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/20 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/4 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
       "type": "coin"
     },
     {
