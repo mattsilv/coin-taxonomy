@@ -6,6 +6,110 @@
     {
       "coins": [
         {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-LHQE-1840-P",
+          "composition": {
+            "copper": 10,
+            "gold": 90
+          },
+          "designer": "Christian Gobrecht",
+          "diameter_mm": 18.0,
+          "distinguishing_features": "Christian Gobrecht",
+          "mint": "P",
+          "notes": "The Liberty Head (Coronet) design was used for the $2.50 gold piece from 1840-1907. Earlier types (1796-1839) have different designs.",
+          "obverse_description": "Liberty head left wearing coronet inscribed 'LIBERTY', 13 stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Heraldic eagle with shield, holding arrows and olive branch, 'UNITED STATES OF AMERICA' above, '$2.50 D.' below",
+          "source_citation": "Red Book",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 4.18,
+          "year": 1840
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1840,
+            "start": 1840
+          },
+          "weight": {
+            "grams": 4.18
+          }
+        }
+      ],
+      "official_name": "Liberty Head Quarter Eagle",
+      "series_id": "Liberty Head Quarter Eagle",
+      "series_name": "Liberty Head Quarter Eagle",
+      "specifications": {
+        "diameter_mm": 18.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1840,
+        "start": 1840
+      }
+    },
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-IHQE-1908-P",
+          "composition": {
+            "copper": 10,
+            "gold": 90
+          },
+          "designer": "Bela Lyon Pratt",
+          "diameter_mm": 18.0,
+          "distinguishing_features": "Bela Lyon Pratt",
+          "mint": "P",
+          "notes": "Unique incuse (recessed) design - the only regular-issue US coins with incuse design. Controversial when introduced but now highly prized by collectors.",
+          "obverse_description": "Indian chief wearing feathered headdress facing left (incuse design), 13 stars at left, date at right, 'LIBERTY' above",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Standing eagle on bundle of arrows with olive branch (incuse design), 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', '2 1/2 DOLLARS'",
+          "source_citation": "Red Book",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 4.18,
+          "year": 1908
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1908,
+            "start": 1908
+          },
+          "weight": {
+            "grams": 4.18
+          }
+        }
+      ],
+      "official_name": "Indian Head Quarter Eagle",
+      "series_id": "Indian Head Quarter Eagle",
+      "series_name": "Indian Head Quarter Eagle",
+      "specifications": {
+        "diameter_mm": 18.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1908,
+        "start": 1908
+      }
+    },
+    {
+      "coins": [
+        {
           "business_strikes": 6749,
           "category": "coin",
           "coin_id": "US-PPQE-1915-S",

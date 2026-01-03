@@ -1,0 +1,64 @@
+{
+  "country": "US",
+  "denomination": "Dimes",
+  "face_value": 0.1,
+  "series": [
+    {
+      "aliases": [
+        "Seated Liberty",
+        "Seated Dime",
+        "Liberty Seated Dime"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-SLDI-1837-P",
+          "composition": {
+            "copper": 10,
+            "silver": 90
+          },
+          "designer": "Christian Gobrecht",
+          "diameter_mm": 17.9,
+          "distinguishing_features": "Christian Gobrecht",
+          "mint": "P",
+          "notes": "Multiple design variations: No Stars (1837-1838), Stars (1838-1860), Legend (1860-1891).",
+          "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath encircling 'ONE DIME', 'UNITED STATES OF AMERICA' around",
+          "source_citation": "Red Book",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 2.67,
+          "year": 1837
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1837,
+            "start": 1837
+          },
+          "weight": {
+            "grams": 2.67
+          }
+        }
+      ],
+      "official_name": "Seated Liberty Dime",
+      "series_id": "Seated Liberty Dime",
+      "series_name": "Seated Liberty Dime",
+      "specifications": {
+        "diameter_mm": 17.9,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1837,
+        "start": 1837
+      }
+    }
+  ]
+}

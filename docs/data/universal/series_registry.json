@@ -64,22 +64,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Alabama Centennial 2X2__Commemorative_Half_Dollars",
-      "series_name": "Alabama Centennial 2X2",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1921,
-      "end_year": 1921,
-      "type": "coin"
-    },
-    {
       "series_id": "Alabama Centennial__Commemorative_Half_Dollars",
       "series_name": "Alabama Centennial",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1921,
       "end_year": 1921,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Alabama"
+      ],
+      "variety_suffixes": [
+        "2X2"
+      ]
     },
     {
       "series_id": "Albany, New York, Charter__Commemorative_Half_Dollars",
@@ -88,7 +85,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Albany Charter",
+        "Albany"
+      ]
     },
     {
       "series_id": "American Gold Buffalo (1 oz)__$50",
@@ -151,7 +152,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1939,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Arkansas"
+      ]
     },
     {
       "series_id": "Arkansas-Robinson__Commemorative_Half_Dollars",
@@ -160,7 +164,26 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Robinson",
+        "Arkansas Robinson"
+      ]
+    },
+    {
+      "series_id": "Barber Half Dollar__Half_Dollars",
+      "series_name": "Barber Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
+      "start_year": 1892,
+      "end_year": 1915,
+      "defining_characteristics": "Classic US silver half dollar, 1892-1915",
+      "official_name": "Barber Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Barber",
+        "Liberty Head Half"
+      ]
     },
     {
       "series_id": "Battle of Antietam__Commemorative_Half_Dollars",
@@ -169,7 +192,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1937,
       "end_year": 1937,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Antietam Anniversary",
+        "Antietam"
+      ]
     },
     {
       "series_id": "Battle of Gettysburg__Commemorative_Half_Dollars",
@@ -178,7 +205,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Gettysburg Anniversary",
+        "Gettysburg"
+      ]
     },
     {
       "series_id": "Booker T. Washington__Commemorative_Half_Dollars",
@@ -187,7 +218,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1946,
       "end_year": 1951,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Booker T Washington",
+        "BTW"
+      ]
     },
     {
       "series_id": "Bridgeport, Connecticut, Centennial__Commemorative_Half_Dollars",
@@ -196,7 +231,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Bridgeport Centennial",
+        "Bridgeport"
+      ]
     },
     {
       "series_id": "California Diamond Jubilee__Commemorative_Half_Dollars",
@@ -205,7 +244,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "California Jubilee"
+      ]
     },
     {
       "series_id": "California-Pacific Exposition__Commemorative_Half_Dollars",
@@ -214,7 +256,13 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "San Diego",
+        "California Pacific",
+        "San Diego California-Pacific Exposition",
+        "San Diego-Pacific"
+      ]
     },
     {
       "series_id": "Carver/Washington__Commemorative_Half_Dollars",
@@ -223,7 +271,12 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1951,
       "end_year": 1954,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Carver-Washington",
+        "Washington-Carver",
+        "Carver Washington"
+      ]
     },
     {
       "series_id": "Centennial__1_Dollar",
@@ -250,7 +303,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Cincinnati"
+      ]
     },
     {
       "series_id": "Cleveland Centennial__Commemorative_Half_Dollars",
@@ -259,7 +315,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Cleveland-Great Lakes",
+        "Cleveland"
+      ]
     },
     {
       "series_id": "Columbia, South Carolina, Sesquicentennial__Commemorative_Half_Dollars",
@@ -268,7 +328,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Columbia South Carolina",
+        "Columbia SC"
+      ]
     },
     {
       "series_id": "Connecticut Tercentenary__Commemorative_Half_Dollars",
@@ -277,7 +341,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Connecticut"
+      ]
     },
     {
       "series_id": "Daniel Boone Bicentennial__Commemorative_Half_Dollars",
@@ -286,7 +353,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1938,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Daniel Boone",
+        "Boone"
+      ]
     },
     {
       "series_id": "Delaware Tercentenary__Commemorative_Half_Dollars",
@@ -295,7 +366,26 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Delaware"
+      ]
+    },
+    {
+      "series_id": "Eisenhower Dollar__Dollars",
+      "series_name": "Eisenhower Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1971,
+      "end_year": 1978,
+      "defining_characteristics": "Available in clad and 40% silver versions. The reverse features the Apollo 11 moon landing mission insignia.",
+      "official_name": "Eisenhower Dollar",
+      "type": "coin",
+      "aliases": [
+        "Eisenhower",
+        "Ike Dollar",
+        "Ike"
+      ]
     },
     {
       "series_id": "Elgin, Illinois, Centennial__Commemorative_Half_Dollars",
@@ -304,7 +394,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Elgin Centennial",
+        "Elgin"
+      ]
     },
     {
       "series_id": "Engelhard__Engelhard_Bullion",
@@ -322,7 +416,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Fort Vancouver"
+      ]
+    },
+    {
+      "series_id": "Franklin Half Dollar__Half_Dollars",
+      "series_name": "Franklin Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
+      "start_year": 1948,
+      "end_year": 1963,
+      "defining_characteristics": "Classic US silver half dollar, 1948-1963",
+      "official_name": "Franklin Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Franklin",
+        "Ben Franklin Half"
+      ]
     },
     {
       "series_id": "George V Silver Dollar__1_Dollar",
@@ -406,6 +518,21 @@
       "type": "coin"
     },
     {
+      "series_id": "Gold Maple Leaf 1 oz__$50",
+      "series_name": "Gold Maple Leaf 1 oz",
+      "country_code": "CA",
+      "denomination": "$50",
+      "start_year": 1979,
+      "defining_characteristics": "Bullion coin, 1.0 oz gold",
+      "official_name": "Gold Maple Leaf 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Canadian Gold Maple Leaf",
+        "Gold Maple Leaf",
+        "GML"
+      ]
+    },
+    {
       "series_id": "Gold Maple Leaf__Big_Maple_Leaf",
       "series_name": "Gold Maple Leaf",
       "country_code": "CA",
@@ -460,15 +587,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Grant Memorial with Star__Commemorative_Half_Dollars",
-      "series_name": "Grant Memorial with Star",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1922,
-      "end_year": 1922,
-      "type": "coin"
-    },
-    {
       "series_id": "Grant Memorial with Star__Gold_Dollars",
       "series_name": "Grant Memorial with Star",
       "country_code": "US",
@@ -484,7 +602,13 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1922,
       "end_year": 1922,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Grant"
+      ],
+      "variety_suffixes": [
+        "STAR"
+      ]
     },
     {
       "series_id": "Hawaiian Sesquicentennial__Commemorative_Half_Dollars",
@@ -493,7 +617,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1928,
       "end_year": 1928,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Hawaiian",
+        "Hawaii"
+      ]
     },
     {
       "series_id": "Hudson, New York, Sesquicentennial__Commemorative_Half_Dollars",
@@ -502,7 +630,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Hudson Sesquicentennial",
+        "Hudson"
+      ]
     },
     {
       "series_id": "Huguenot-Walloon Tercentenary__Commemorative_Half_Dollars",
@@ -511,7 +643,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1924,
       "end_year": 1924,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Huguenot-Walloon",
+        "Huguenot"
+      ]
     },
     {
       "series_id": "Illinois Centennial__Commemorative_Half_Dollars",
@@ -520,7 +656,40 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1918,
       "end_year": 1918,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Illinois"
+      ]
+    },
+    {
+      "series_id": "Incuse Silver Maple Leaf__Five_Dollars",
+      "series_name": "Incuse Silver Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Five Dollars",
+      "start_year": 2018,
+      "defining_characteristics": "Bullion coin, 1.0 oz silver",
+      "official_name": "Incuse Silver Maple Leaf",
+      "type": "coin",
+      "aliases": [
+        "Incuse Maple Leaf",
+        "Incuse SML"
+      ]
+    },
+    {
+      "series_id": "Indian Head Quarter Eagle__$2.50",
+      "series_name": "Indian Head Quarter Eagle",
+      "country_code": "US",
+      "denomination": "$2.50",
+      "start_year": 1908,
+      "end_year": 1929,
+      "defining_characteristics": "Unique incuse (recessed) design - the only regular-issue US coins with incuse design. Controversial when introduced but now highly prized by collectors.",
+      "official_name": "Indian Head Quarter Eagle",
+      "type": "coin",
+      "aliases": [
+        "Indian Quarter Eagle",
+        "Indian $2.50",
+        "Incuse Quarter Eagle"
+      ]
     },
     {
       "series_id": "Iowa Statehood Centennial__Commemorative_Half_Dollars",
@@ -529,7 +698,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1946,
       "end_year": 1946,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Iowa Centennial",
+        "Iowa"
+      ]
+    },
+    {
+      "series_id": "Kennedy Half Dollar__Half_Dollars",
+      "series_name": "Kennedy Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
+      "start_year": 1964,
+      "defining_characteristics": "Classic US silver half dollar, 1964-present",
+      "official_name": "Kennedy Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Kennedy",
+        "JFK Half"
+      ]
     },
     {
       "series_id": "Lafayette Dollar__Commemorative_Dollars",
@@ -565,7 +752,45 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Lexington-Concord",
+        "Lexington"
+      ]
+    },
+    {
+      "series_id": "Liberty Head Quarter Eagle__$2.50",
+      "series_name": "Liberty Head Quarter Eagle",
+      "country_code": "US",
+      "denomination": "$2.50",
+      "start_year": 1840,
+      "end_year": 1907,
+      "defining_characteristics": "The Liberty Head (Coronet) design was used for the $2.50 gold piece from 1840-1907. Earlier types (1796-1839) have different designs.",
+      "official_name": "Liberty Head Quarter Eagle",
+      "type": "coin",
+      "aliases": [
+        "Liberty Quarter Eagle",
+        "Liberty $2.50",
+        "Coronet Quarter Eagle"
+      ]
+    },
+    {
+      "series_id": "Lincoln Wheat Cent__Cents",
+      "series_name": "Lincoln Wheat Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1909,
+      "end_year": 1958,
+      "defining_characteristics": "1943 cents were struck in zinc-coated steel due to WWII copper shortage. VDB initials on 1909 reverse are highly collectible.",
+      "official_name": "Lincoln Wheat Cent",
+      "type": "coin",
+      "aliases": [
+        "Lincoln Wheat",
+        "Wheat Cent",
+        "Wheaties",
+        "Wheat Penny",
+        "Lincoln Wheat Penny"
+      ]
     },
     {
       "series_id": "Long Island Tercentenary__Commemorative_Half_Dollars",
@@ -574,7 +799,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Long Island"
+      ]
     },
     {
       "series_id": "Loonie__Dollars",
@@ -610,7 +838,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Lynchburg Sesquicentennial",
+        "Lynchburg"
+      ]
     },
     {
       "series_id": "Maine Centennial__Commemorative_Half_Dollars",
@@ -619,7 +851,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1920,
       "end_year": 1920,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Maine"
+      ]
     },
     {
       "series_id": "Maryland Tercentenary__Commemorative_Half_Dollars",
@@ -628,7 +863,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1934,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Maryland"
+      ]
     },
     {
       "series_id": "McKinley Memorial__Gold_Dollars",
@@ -658,22 +896,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Missouri Centennial 2\u26054__Commemorative_Half_Dollars",
-      "series_name": "Missouri Centennial 2\u26054",
-      "country_code": "US",
-      "denomination": "Commemorative Half Dollars",
-      "start_year": 1921,
-      "end_year": 1921,
-      "type": "coin"
-    },
-    {
       "series_id": "Missouri Centennial__Commemorative_Half_Dollars",
       "series_name": "Missouri Centennial",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1921,
       "end_year": 1921,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Missouri"
+      ],
+      "variety_suffixes": [
+        "2S4"
+      ]
     },
     {
       "series_id": "Monroe Doctrine Centennial__Commemorative_Half_Dollars",
@@ -682,7 +917,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1923,
       "end_year": 1923,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Monroe Doctrine",
+        "Monroe"
+      ]
     },
     {
       "series_id": "New Rochelle, New York, 250th Anniversary__Commemorative_Half_Dollars",
@@ -691,7 +930,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1938,
       "end_year": 1938,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "New Rochelle"
+      ]
     },
     {
       "series_id": "Nickel Dollar__Dollars",
@@ -718,7 +960,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Norfolk Bicentennial",
+        "Norfolk"
+      ]
     },
     {
       "series_id": "Old Spanish Trail__Commemorative_Half_Dollars",
@@ -727,7 +973,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Spanish Trail"
+      ]
     },
     {
       "series_id": "Oregon Trail Memorial__Commemorative_Half_Dollars",
@@ -736,7 +985,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1926,
       "end_year": 1939,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Oregon Trail",
+        "Oregon"
+      ]
     },
     {
       "series_id": "Ottawa Sovereign__Sovereign",
@@ -799,7 +1052,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1915,
       "end_year": 1915,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Panama-Pacific",
+        "Pan-Pac"
+      ]
     },
     {
       "series_id": "Pilgrim Tercentenary__Commemorative_Half_Dollars",
@@ -808,7 +1065,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1920,
       "end_year": 1920,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Pilgrim"
+      ]
     },
     {
       "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf",
@@ -826,7 +1086,12 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Rhode Island",
+        "Providence",
+        "Rhode Island Tercentenary"
+      ]
     },
     {
       "series_id": "Provincial Silver__10_Cents",
@@ -862,7 +1127,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1937,
       "end_year": 1937,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Roanoke"
+      ]
+    },
+    {
+      "series_id": "Sacagawea Dollar__Dollars",
+      "series_name": "Sacagawea Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 2000,
+      "defining_characteristics": "Distinctive golden color from manganese brass composition. Continued as Native American $1 series from 2009 with changing reverses.",
+      "official_name": "Sacagawea Dollar",
+      "type": "coin",
+      "aliases": [
+        "Sacagawea",
+        "Golden Dollar",
+        "Sac Dollar"
+      ]
     },
     {
       "series_id": "San Francisco-Oakland Bay Bridge__Commemorative_Half_Dollars",
@@ -871,7 +1154,27 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Bay Bridge",
+        "SF-Oakland"
+      ]
+    },
+    {
+      "series_id": "Seated Liberty Dime__Dimes",
+      "series_name": "Seated Liberty Dime",
+      "country_code": "US",
+      "denomination": "Dimes",
+      "start_year": 1837,
+      "end_year": 1891,
+      "defining_characteristics": "Multiple design variations: No Stars (1837-1838), Stars (1838-1860), Legend (1860-1891).",
+      "official_name": "Seated Liberty Dime",
+      "type": "coin",
+      "aliases": [
+        "Seated Liberty",
+        "Seated Dime",
+        "Liberty Seated Dime"
+      ]
     },
     {
       "series_id": "Sesquicentennial of American Independence__Commemorative_Half_Dollars",
@@ -880,7 +1183,11 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1926,
       "end_year": 1926,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Sesquicentennial",
+        "1926 Sesqui"
+      ]
     },
     {
       "series_id": "Sesquicentennial of American Independence__Quarter_Eagles",
@@ -890,6 +1197,21 @@
       "start_year": 1926,
       "end_year": 1926,
       "type": "coin"
+    },
+    {
+      "series_id": "Silver Maple Leaf 1 oz__Five_Dollars",
+      "series_name": "Silver Maple Leaf 1 oz",
+      "country_code": "CA",
+      "denomination": "Five Dollars",
+      "start_year": 1988,
+      "defining_characteristics": "Bullion coin, 1.0 oz silver",
+      "official_name": "Silver Maple Leaf 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Canadian Silver Maple Leaf",
+        "Silver Maple Leaf",
+        "SML"
+      ]
     },
     {
       "series_id": "Silver Maple Leaf__Silver_Maple_Leaf",
@@ -910,31 +1232,33 @@
       "type": "coin"
     },
     {
-      "series_id": "Silver Three-Cent Type III__Three_Cents",
-      "series_name": "Silver Three-Cent Type III",
-      "country_code": "US",
-      "denomination": "Three Cents",
-      "start_year": 1859,
-      "end_year": 1873,
-      "type": "coin"
-    },
-    {
-      "series_id": "Silver Three-Cent Type II__Three_Cents",
-      "series_name": "Silver Three-Cent Type II",
-      "country_code": "US",
-      "denomination": "Three Cents",
-      "start_year": 1854,
-      "end_year": 1858,
-      "type": "coin"
+      "series_id": "Silver Panda__Ten_Yuan",
+      "series_name": "Silver Panda",
+      "country_code": "CN",
+      "denomination": "Ten Yuan",
+      "start_year": 1983,
+      "defining_characteristics": "Bullion coin, 1.0 oz silver",
+      "official_name": "Silver Panda",
+      "type": "coin",
+      "aliases": [
+        "Chinese Silver Panda",
+        "China Panda",
+        "Panda"
+      ]
     },
     {
       "series_id": "Silver Three-Cent Type I__Three_Cents",
-      "series_name": "Silver Three-Cent Type I",
+      "series_name": "Silver Three-Cent",
       "country_code": "US",
       "denomination": "Three Cents",
       "start_year": 1851,
-      "end_year": 1853,
-      "type": "coin"
+      "end_year": 1873,
+      "type": "coin",
+      "variety_suffixes": [
+        "T1",
+        "T2",
+        "T3"
+      ]
     },
     {
       "series_id": "Small Cent__1_Cent",
@@ -961,7 +1285,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Stone Mountain"
+      ]
     },
     {
       "series_id": "Texas Centennial__Commemorative_Half_Dollars",
@@ -970,7 +1297,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1938,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Texas"
+      ]
     },
     {
       "series_id": "Toonie__Two_Dollars",
@@ -988,7 +1318,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1927,
       "end_year": 1927,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Vermont"
+      ]
     },
     {
       "series_id": "Victoria Silver__25_Cents",
@@ -1009,13 +1342,47 @@
       "type": "coin"
     },
     {
+      "series_id": "Walking Liberty Half Dollar__Half_Dollars",
+      "series_name": "Walking Liberty Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
+      "start_year": 1916,
+      "end_year": 1947,
+      "defining_characteristics": "Classic US silver half dollar, 1916-1947",
+      "official_name": "Walking Liberty Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Walking Liberty",
+        "Walker"
+      ]
+    },
+    {
+      "series_id": "Wedge-Tailed Eagle 1 oz Silver__One_Dollar",
+      "series_name": "Wedge-Tailed Eagle 1 oz Silver",
+      "country_code": "AU",
+      "denomination": "One Dollar",
+      "start_year": 2014,
+      "defining_characteristics": "Bullion coin, 1.0 oz silver",
+      "official_name": "Wedge-Tailed Eagle 1 oz Silver",
+      "type": "coin",
+      "aliases": [
+        "Australian Wedge-Tailed Eagle",
+        "Wedge-Tailed Eagle",
+        "WTE"
+      ]
+    },
+    {
       "series_id": "Wisconsin Territorial Centennial__Commemorative_Half_Dollars",
       "series_name": "Wisconsin Territorial Centennial",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Wisconsin Territorial",
+        "Wisconsin"
+      ]
     },
     {
       "series_id": "World's Columbian Exposition - Isabella Quarter__Commemorative_Quarters",
@@ -1033,7 +1400,12 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1892,
       "end_year": 1893,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "Columbian Exposition",
+        "Columbian Half",
+        "Columbian"
+      ]
     },
     {
       "series_id": "York County, Maine, Tercentenary__Commemorative_Half_Dollars",
@@ -1042,7 +1414,10 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin"
+      "type": "coin",
+      "aliases": [
+        "York County"
+      ]
     },
     {
       "series_id": "american_gold_buffalo_1oz",

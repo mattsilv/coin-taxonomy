@@ -2067,6 +2067,122 @@
         "end": 1921,
         "start": 1878
       }
+    },
+    {
+      "aliases": [
+        "Eisenhower",
+        "Ike Dollar",
+        "Ike"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-EISE-1971-P",
+          "composition": {
+            "copper": 75,
+            "nickel": 25
+          },
+          "designer": "Frank Gasparro",
+          "diameter_mm": 38.1,
+          "distinguishing_features": "Frank Gasparro",
+          "mint": "P",
+          "notes": "Available in clad and 40% silver versions. The reverse features the Apollo 11 moon landing mission insignia.",
+          "obverse_description": "Profile portrait of President Dwight D. Eisenhower facing left, 'LIBERTY' above, 'IN GOD WE TRUST' below, date at base",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Apollo 11 mission insignia - bald eagle landing on moon with Earth in background, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'ONE DOLLAR'",
+          "source_citation": "Red Book",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 22.68,
+          "year": 1971
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1971,
+            "start": 1971
+          },
+          "weight": {
+            "grams": 22.68
+          }
+        }
+      ],
+      "official_name": "Eisenhower Dollar",
+      "series_id": "Eisenhower Dollar",
+      "series_name": "Eisenhower Dollar",
+      "specifications": {
+        "diameter_mm": 38.1,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1971,
+        "start": 1971
+      }
+    },
+    {
+      "aliases": [
+        "Sacagawea",
+        "Golden Dollar",
+        "Sac Dollar"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-SACA-2000-P",
+          "composition": {
+            "copper": 88.5,
+            "manganese": 3.5,
+            "nickel": 2,
+            "zinc": 6
+          },
+          "designer": "Glenna Goodacre",
+          "diameter_mm": 26.5,
+          "distinguishing_features": "Glenna Goodacre",
+          "mint": "P",
+          "notes": "Distinctive golden color from manganese brass composition. Continued as Native American $1 series from 2009 with changing reverses.",
+          "obverse_description": "Portrait of Sacagawea carrying infant son Jean Baptiste, 'LIBERTY' above, 'IN GOD WE TRUST' at left, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Soaring eagle surrounded by 17 stars, 'UNITED STATES OF AMERICA', 'E PLURIBUS UNUM', 'ONE DOLLAR'",
+          "source_citation": "Red Book",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 8.1,
+          "year": 2000
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 2000,
+            "start": 2000
+          },
+          "weight": {
+            "grams": 8.1
+          }
+        }
+      ],
+      "official_name": "Sacagawea Dollar",
+      "series_id": "Sacagawea Dollar",
+      "series_name": "Sacagawea Dollar",
+      "specifications": {
+        "diameter_mm": 26.5,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 2000,
+        "start": 2000
+      }
     }
   ]
 }
