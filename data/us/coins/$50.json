@@ -43,6 +43,7 @@
         }
       ],
       "official_name": "American Gold Buffalo (1 oz)",
+      "series_code": "AGBF",
       "series_id": "American Gold Buffalo (1 oz)",
       "series_name": "American Gold Buffalo (1 oz)",
       "specifications": {
@@ -96,6 +97,7 @@
         }
       ],
       "official_name": "American Gold Eagle (1 oz)",
+      "series_code": "AGEO",
       "series_id": "American Gold Eagle (1 oz)",
       "series_name": "American Gold Eagle (1 oz)",
       "specifications": {

@@ -2057,6 +2057,7 @@
         }
       ],
       "official_name": "morgan_dollar",
+      "series_code": "MOGD",
       "series_id": "morgan_dollar",
       "series_name": "morgan_dollar",
       "specifications": {
@@ -2114,6 +2115,7 @@
         }
       ],
       "official_name": "Eisenhower Dollar",
+      "series_code": "EISE",
       "series_id": "Eisenhower Dollar",
       "series_name": "Eisenhower Dollar",
       "specifications": {
@@ -2173,6 +2175,7 @@
         }
       ],
       "official_name": "Sacagawea Dollar",
+      "series_code": "SACA",
       "series_id": "Sacagawea Dollar",
       "series_name": "Sacagawea Dollar",
       "specifications": {

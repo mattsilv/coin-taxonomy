@@ -64,6 +64,7 @@
         }
       ],
       "official_name": "World's Columbian Exposition",
+      "series_code": "WCOL",
       "series_id": "World's Columbian Exposition",
       "series_name": "World's Columbian Exposition",
       "specifications": {
@@ -112,6 +113,7 @@
         }
       ],
       "official_name": "Panama-Pacific International Exposition",
+      "series_code": "PPIE",
       "series_id": "Panama-Pacific International Exposition",
       "series_name": "Panama-Pacific International Exposition",
       "specifications": {
@@ -159,6 +161,7 @@
         }
       ],
       "official_name": "Illinois Centennial",
+      "series_code": "ILCN",
       "series_id": "Illinois Centennial",
       "series_name": "Illinois Centennial",
       "specifications": {
@@ -206,6 +209,7 @@
         }
       ],
       "official_name": "Maine Centennial",
+      "series_code": "MECN",
       "series_id": "Maine Centennial",
       "series_name": "Maine Centennial",
       "specifications": {
@@ -253,6 +257,7 @@
         }
       ],
       "official_name": "Pilgrim Tercentenary",
+      "series_code": "PILG",
       "series_id": "Pilgrim Tercentenary",
       "series_name": "Pilgrim Tercentenary",
       "specifications": {
@@ -329,6 +334,7 @@
         }
       ],
       "official_name": "Alabama Centennial",
+      "series_code": "ALCN",
       "series_id": "Alabama Centennial",
       "series_name": "Alabama Centennial",
       "specifications": {
@@ -403,6 +409,7 @@
         }
       ],
       "official_name": "Missouri Centennial",
+      "series_code": "MOCN",
       "series_id": "Missouri Centennial",
       "series_name": "Missouri Centennial",
       "specifications": {
@@ -477,6 +484,7 @@
         }
       ],
       "official_name": "Grant Memorial",
+      "series_code": "GRNT",
       "series_id": "Grant Memorial",
       "series_name": "Grant Memorial",
       "specifications": {
@@ -525,6 +533,7 @@
         }
       ],
       "official_name": "Monroe Doctrine Centennial",
+      "series_code": "MNDO",
       "series_id": "Monroe Doctrine Centennial",
       "series_name": "Monroe Doctrine Centennial",
       "specifications": {
@@ -573,6 +582,7 @@
         }
       ],
       "official_name": "Huguenot-Walloon Tercentenary",
+      "series_code": "HUGE",
       "series_id": "Huguenot-Walloon Tercentenary",
       "series_name": "Huguenot-Walloon Tercentenary",
       "specifications": {
@@ -620,6 +630,7 @@
         }
       ],
       "official_name": "California Diamond Jubilee",
+      "series_code": "CADJ",
       "series_id": "California Diamond Jubilee",
       "series_name": "California Diamond Jubilee",
       "specifications": {
@@ -667,6 +678,7 @@
         }
       ],
       "official_name": "Fort Vancouver Centennial",
+      "series_code": "FTVA",
       "series_id": "Fort Vancouver Centennial",
       "series_name": "Fort Vancouver Centennial",
       "specifications": {
@@ -715,6 +727,7 @@
         }
       ],
       "official_name": "Lexington-Concord Sesquicentennial",
+      "series_code": "LEXC",
       "series_id": "Lexington-Concord Sesquicentennial",
       "series_name": "Lexington-Concord Sesquicentennial",
       "specifications": {
@@ -762,6 +775,7 @@
         }
       ],
       "official_name": "Stone Mountain Memorial",
+      "series_code": "STMN",
       "series_id": "Stone Mountain Memorial",
       "series_name": "Stone Mountain Memorial",
       "specifications": {
@@ -1076,6 +1090,7 @@
         }
       ],
       "official_name": "Oregon Trail Memorial",
+      "series_code": "ORTR",
       "series_id": "Oregon Trail Memorial",
       "series_name": "Oregon Trail Memorial",
       "specifications": {
@@ -1124,6 +1139,7 @@
         }
       ],
       "official_name": "Sesquicentennial of American Independence",
+      "series_code": "SEAI",
       "series_id": "Sesquicentennial of American Independence",
       "series_name": "Sesquicentennial of American Independence",
       "specifications": {
@@ -1171,6 +1187,7 @@
         }
       ],
       "official_name": "Vermont Sesquicentennial",
+      "series_code": "VTSQ",
       "series_id": "Vermont Sesquicentennial",
       "series_name": "Vermont Sesquicentennial",
       "specifications": {
@@ -1219,6 +1236,7 @@
         }
       ],
       "official_name": "Hawaiian Sesquicentennial",
+      "series_code": "HISQ",
       "series_id": "Hawaiian Sesquicentennial",
       "series_name": "Hawaiian Sesquicentennial",
       "specifications": {
@@ -1495,6 +1513,7 @@
         }
       ],
       "official_name": "Daniel Boone Bicentennial",
+      "series_code": "DNBO",
       "series_id": "Daniel Boone Bicentennial",
       "series_name": "Daniel Boone Bicentennial",
       "specifications": {
@@ -1542,6 +1561,7 @@
         }
       ],
       "official_name": "Maryland Tercentenary",
+      "series_code": "MDTC",
       "series_id": "Maryland Tercentenary",
       "series_name": "Maryland Tercentenary",
       "specifications": {
@@ -1817,6 +1837,7 @@
         }
       ],
       "official_name": "Texas Centennial",
+      "series_code": "TXCN",
       "series_id": "Texas Centennial",
       "series_name": "Texas Centennial",
       "specifications": {
@@ -2130,6 +2151,7 @@
         }
       ],
       "official_name": "Arkansas Centennial",
+      "series_code": "ARCN",
       "series_id": "Arkansas Centennial",
       "series_name": "Arkansas Centennial",
       "specifications": {
@@ -2199,6 +2221,7 @@
         }
       ],
       "official_name": "California-Pacific Exposition",
+      "series_code": "CAPE",
       "series_id": "California-Pacific Exposition",
       "series_name": "California-Pacific Exposition",
       "specifications": {
@@ -2246,6 +2269,7 @@
         }
       ],
       "official_name": "Connecticut Tercentenary",
+      "series_code": "CTTC",
       "series_id": "Connecticut Tercentenary",
       "series_name": "Connecticut Tercentenary",
       "specifications": {
@@ -2294,6 +2318,7 @@
         }
       ],
       "official_name": "Hudson, New York, Sesquicentennial",
+      "series_code": "HUNY",
       "series_id": "Hudson, New York, Sesquicentennial",
       "series_name": "Hudson, New York, Sesquicentennial",
       "specifications": {
@@ -2341,6 +2366,7 @@
         }
       ],
       "official_name": "Old Spanish Trail",
+      "series_code": "OSPT",
       "series_id": "Old Spanish Trail",
       "series_name": "Old Spanish Trail",
       "specifications": {
@@ -2389,6 +2415,7 @@
         }
       ],
       "official_name": "Albany, New York, Charter",
+      "series_code": "ALNY",
       "series_id": "Albany, New York, Charter",
       "series_name": "Albany, New York, Charter",
       "specifications": {
@@ -2437,6 +2464,7 @@
         }
       ],
       "official_name": "Arkansas-Robinson",
+      "series_code": "ARRB",
       "series_id": "Arkansas-Robinson",
       "series_name": "Arkansas-Robinson",
       "specifications": {
@@ -2485,6 +2513,7 @@
         }
       ],
       "official_name": "Battle of Gettysburg",
+      "series_code": "GTYB",
       "series_id": "Battle of Gettysburg",
       "series_name": "Battle of Gettysburg",
       "specifications": {
@@ -2533,6 +2562,7 @@
         }
       ],
       "official_name": "Bridgeport, Connecticut, Centennial",
+      "series_code": "BDPT",
       "series_id": "Bridgeport, Connecticut, Centennial",
       "series_name": "Bridgeport, Connecticut, Centennial",
       "specifications": {
@@ -2618,6 +2648,7 @@
         }
       ],
       "official_name": "Cincinnati Music Center",
+      "series_code": "CNMC",
       "series_id": "Cincinnati Music Center",
       "series_name": "Cincinnati Music Center",
       "specifications": {
@@ -2666,6 +2697,7 @@
         }
       ],
       "official_name": "Cleveland Centennial",
+      "series_code": "CLVC",
       "series_id": "Cleveland Centennial",
       "series_name": "Cleveland Centennial",
       "specifications": {
@@ -2752,6 +2784,7 @@
         }
       ],
       "official_name": "Columbia, South Carolina, Sesquicentennial",
+      "series_code": "COSC",
       "series_id": "Columbia, South Carolina, Sesquicentennial",
       "series_name": "Columbia, South Carolina, Sesquicentennial",
       "specifications": {
@@ -2799,6 +2832,7 @@
         }
       ],
       "official_name": "Delaware Tercentenary",
+      "series_code": "DETC",
       "series_id": "Delaware Tercentenary",
       "series_name": "Delaware Tercentenary",
       "specifications": {
@@ -2847,6 +2881,7 @@
         }
       ],
       "official_name": "Elgin, Illinois, Centennial",
+      "series_code": "ELIL",
       "series_id": "Elgin, Illinois, Centennial",
       "series_name": "Elgin, Illinois, Centennial",
       "specifications": {
@@ -2894,6 +2929,7 @@
         }
       ],
       "official_name": "Long Island Tercentenary",
+      "series_code": "LITC",
       "series_id": "Long Island Tercentenary",
       "series_name": "Long Island Tercentenary",
       "specifications": {
@@ -2942,6 +2978,7 @@
         }
       ],
       "official_name": "Lynchburg, Virginia, Sesquicentennial",
+      "series_code": "LYVA",
       "series_id": "Lynchburg, Virginia, Sesquicentennial",
       "series_name": "Lynchburg, Virginia, Sesquicentennial",
       "specifications": {
@@ -2990,6 +3027,7 @@
         }
       ],
       "official_name": "Norfolk, Virginia, Bicentennial",
+      "series_code": "NFVA",
       "series_id": "Norfolk, Virginia, Bicentennial",
       "series_name": "Norfolk, Virginia, Bicentennial",
       "specifications": {
@@ -3077,6 +3115,7 @@
         }
       ],
       "official_name": "Providence, Rhode Island, Tercentenary",
+      "series_code": "PVRI",
       "series_id": "Providence, Rhode Island, Tercentenary",
       "series_name": "Providence, Rhode Island, Tercentenary",
       "specifications": {
@@ -3125,6 +3164,7 @@
         }
       ],
       "official_name": "San Francisco-Oakland Bay Bridge",
+      "series_code": "SFBB",
       "series_id": "San Francisco-Oakland Bay Bridge",
       "series_name": "San Francisco-Oakland Bay Bridge",
       "specifications": {
@@ -3173,6 +3213,7 @@
         }
       ],
       "official_name": "Wisconsin Territorial Centennial",
+      "series_code": "WITC",
       "series_id": "Wisconsin Territorial Centennial",
       "series_name": "Wisconsin Territorial Centennial",
       "specifications": {
@@ -3220,6 +3261,7 @@
         }
       ],
       "official_name": "York County, Maine, Tercentenary",
+      "series_code": "YCME",
       "series_id": "York County, Maine, Tercentenary",
       "series_name": "York County, Maine, Tercentenary",
       "specifications": {
@@ -3268,6 +3310,7 @@
         }
       ],
       "official_name": "Battle of Antietam",
+      "series_code": "ANTM",
       "series_id": "Battle of Antietam",
       "series_name": "Battle of Antietam",
       "specifications": {
@@ -3315,6 +3358,7 @@
         }
       ],
       "official_name": "Roanoke Island",
+      "series_code": "ROAN",
       "series_id": "Roanoke Island",
       "series_name": "Roanoke Island",
       "specifications": {
@@ -3362,6 +3406,7 @@
         }
       ],
       "official_name": "New Rochelle, New York, 250th Anniversary",
+      "series_code": "NWRC",
       "series_id": "New Rochelle, New York, 250th Anniversary",
       "series_name": "New Rochelle, New York, 250th Anniversary",
       "specifications": {
@@ -3733,6 +3778,7 @@
         }
       ],
       "official_name": "Booker T. Washington",
+      "series_code": "BTWH",
       "series_id": "Booker T. Washington",
       "series_name": "Booker T. Washington",
       "specifications": {
@@ -3781,6 +3827,7 @@
         }
       ],
       "official_name": "Iowa Statehood Centennial",
+      "series_code": "IASC",
       "series_id": "Iowa Statehood Centennial",
       "series_name": "Iowa Statehood Centennial",
       "specifications": {
@@ -4039,6 +4086,7 @@
         }
       ],
       "official_name": "Carver/Washington",
+      "series_code": "CARW",
       "series_id": "Carver/Washington",
       "series_name": "Carver/Washington",
       "specifications": {

@@ -44,6 +44,7 @@
         }
       ],
       "official_name": "Liberty Head Quarter Eagle",
+      "series_code": "LHQE",
       "series_id": "Liberty Head Quarter Eagle",
       "series_name": "Liberty Head Quarter Eagle",
       "specifications": {
@@ -96,6 +97,7 @@
         }
       ],
       "official_name": "Indian Head Quarter Eagle",
+      "series_code": "IHQE",
       "series_id": "Indian Head Quarter Eagle",
       "series_name": "Indian Head Quarter Eagle",
       "specifications": {
@@ -137,6 +139,7 @@
         }
       ],
       "official_name": "Panama-Pacific Exposition",
+      "series_code": "PPQE",
       "series_id": "Panama-Pacific Exposition",
       "series_name": "Panama-Pacific Exposition",
       "specifications": {
@@ -178,6 +181,7 @@
         }
       ],
       "official_name": "Sesquicentennial of American Independence",
+      "series_code": "SAQE",
       "series_id": "Sesquicentennial of American Independence",
       "series_name": "Sesquicentennial of American Independence",
       "specifications": {

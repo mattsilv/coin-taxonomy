@@ -40,6 +40,7 @@
         }
       ],
       "official_name": "AG-MET Art Bar (Blank)",
+      "series_code": "EN18",
       "series_id": "AG-MET Art Bar (Blank)",
       "series_name": "AG-MET Art Bar (Blank)",
       "specifications": {
@@ -87,6 +88,7 @@
         }
       ],
       "official_name": "AG-MET Art Bar (Flower)",
+      "series_code": "EN19",
       "series_id": "AG-MET Art Bar (Flower)",
       "series_name": "AG-MET Art Bar (Flower)",
       "specifications": {
@@ -134,6 +136,7 @@
         }
       ],
       "official_name": "AG-MET Art Bar (Pebble)",
+      "series_code": "EN17",
       "series_id": "AG-MET Art Bar (Pebble)",
       "series_name": "AG-MET Art Bar (Pebble)",
       "specifications": {
@@ -181,6 +184,7 @@
         }
       ],
       "official_name": "Argentor Dealers Bar",
+      "series_code": "EN47",
       "series_id": "Argentor Dealers Bar",
       "series_name": "Argentor Dealers Bar",
       "specifications": {
@@ -228,6 +232,7 @@
         }
       ],
       "official_name": "Art Bar (Frosted Reverse)",
+      "series_code": "EN15",
       "series_id": "Art Bar (Frosted Reverse)",
       "series_name": "Art Bar (Frosted Reverse)",
       "specifications": {
@@ -275,6 +280,7 @@
         }
       ],
       "official_name": "Art Bar (Original Logo)",
+      "series_code": "EN14",
       "series_id": "Art Bar (Original Logo)",
       "series_name": "Art Bar (Original Logo)",
       "specifications": {
@@ -322,6 +328,7 @@
         }
       ],
       "official_name": "Art Bar (Pebble Finish)",
+      "series_code": "EN16",
       "series_id": "Art Bar (Pebble Finish)",
       "series_name": "Art Bar (Pebble Finish)",
       "specifications": {
@@ -369,6 +376,7 @@
         }
       ],
       "official_name": "Australia Ingot (Poured)",
+      "series_code": "EN53",
       "series_id": "Australia Ingot (Poured)",
       "series_name": "Australia Ingot (Poured)",
       "specifications": {
@@ -416,6 +424,7 @@
         }
       ],
       "official_name": "Australia Series 1",
+      "series_code": "EN50",
       "series_id": "Australia Series 1",
       "series_name": "Australia Series 1",
       "specifications": {
@@ -463,6 +472,7 @@
         }
       ],
       "official_name": "Australia Series 2",
+      "series_code": "EN51",
       "series_id": "Australia Series 2",
       "series_name": "Australia Series 2",
       "specifications": {
@@ -510,6 +520,7 @@
         }
       ],
       "official_name": "Australia Series 3",
+      "series_code": "EN52",
       "series_id": "Australia Series 3",
       "series_name": "Australia Series 3",
       "specifications": {
@@ -557,6 +568,7 @@
         }
       ],
       "official_name": "Baker Brothers",
+      "series_code": "EN65",
       "series_id": "Baker Brothers",
       "series_name": "Baker Brothers",
       "specifications": {
@@ -604,6 +616,7 @@
         }
       ],
       "official_name": "Blank Bar (Poured)",
+      "series_code": "EN13",
       "series_id": "Blank Bar (Poured)",
       "series_name": "Blank Bar (Poured)",
       "specifications": {
@@ -651,6 +664,7 @@
         }
       ],
       "official_name": "Club of Kings",
+      "series_code": "EN70",
       "series_id": "Club of Kings",
       "series_name": "Club of Kings",
       "specifications": {
@@ -698,6 +712,7 @@
         }
       ],
       "official_name": "Colonial Mint Bar",
+      "series_code": "EN25",
       "series_id": "Colonial Mint Bar",
       "series_name": "Colonial Mint Bar",
       "specifications": {
@@ -745,6 +760,7 @@
         }
       ],
       "official_name": "Commercial Bar (Frosted)",
+      "series_code": "EN20",
       "series_id": "Commercial Bar (Frosted)",
       "series_name": "Commercial Bar (Frosted)",
       "specifications": {
@@ -792,6 +808,7 @@
         }
       ],
       "official_name": "Commercial Bar (Large 6-Digit)",
+      "series_code": "EN22",
       "series_id": "Commercial Bar (Large 6-Digit)",
       "series_name": "Commercial Bar (Large 6-Digit)",
       "specifications": {
@@ -839,6 +856,7 @@
         }
       ],
       "official_name": "Commercial Bar (Letter Prefix)",
+      "series_code": "EN21",
       "series_id": "Commercial Bar (Letter Prefix)",
       "series_name": "Commercial Bar (Letter Prefix)",
       "specifications": {
@@ -886,6 +904,7 @@
         }
       ],
       "official_name": "Commercial Bar (PH-PQ Prefix)",
+      "series_code": "EN24",
       "series_id": "Commercial Bar (PH-PQ Prefix)",
       "series_name": "Commercial Bar (PH-PQ Prefix)",
       "specifications": {
@@ -933,6 +952,7 @@
         }
       ],
       "official_name": "Commercial Bar (Repeated Hallmark)",
+      "series_code": "EN23",
       "series_id": "Commercial Bar (Repeated Hallmark)",
       "series_name": "Commercial Bar (Repeated Hallmark)",
       "specifications": {
@@ -980,6 +1000,7 @@
         }
       ],
       "official_name": "Eagle Logo (Italic Hallmark)",
+      "series_code": "EN40",
       "series_id": "Eagle Logo (Italic Hallmark)",
       "series_name": "Eagle Logo (Italic Hallmark)",
       "specifications": {
@@ -1027,6 +1048,7 @@
         }
       ],
       "official_name": "Eagle Logo (Proof-Like)",
+      "series_code": "EN41",
       "series_id": "Eagle Logo (Proof-Like)",
       "series_name": "Eagle Logo (Proof-Like)",
       "specifications": {
@@ -1074,6 +1096,7 @@
         }
       ],
       "official_name": "Eagle Logo (Standard/Thin Font)",
+      "series_code": "EN42",
       "series_id": "Eagle Logo (Standard/Thin Font)",
       "series_name": "Eagle Logo (Standard/Thin Font)",
       "specifications": {
@@ -1121,6 +1144,7 @@
         }
       ],
       "official_name": "Earliest 1oz Production Bar",
+      "series_code": "EN01",
       "series_id": "Earliest 1oz Production Bar",
       "series_name": "Earliest 1oz Production Bar",
       "specifications": {
@@ -1168,6 +1192,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (5-Digit)",
+      "series_code": "EN06",
       "series_id": "Engelhard Industries of Canada (5-Digit)",
       "series_name": "Engelhard Industries of Canada (5-Digit)",
       "specifications": {
@@ -1215,6 +1240,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (6-Digit No Bull)",
+      "series_code": "EN04",
       "series_id": "Engelhard Industries of Canada (6-Digit No Bull)",
       "series_name": "Engelhard Industries of Canada (6-Digit No Bull)",
       "specifications": {
@@ -1262,6 +1288,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (A Prefix)",
+      "series_code": "EN05",
       "series_id": "Engelhard Industries of Canada (A Prefix)",
       "series_name": "Engelhard Industries of Canada (A Prefix)",
       "specifications": {
@@ -1309,6 +1336,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Anomaly)",
+      "series_code": "EN11",
       "series_id": "Engelhard Industries of Canada (Anomaly)",
       "series_name": "Engelhard Industries of Canada (Anomaly)",
       "specifications": {
@@ -1356,6 +1384,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Large Font)",
+      "series_code": "EN03",
       "series_id": "Engelhard Industries of Canada (Large Font)",
       "series_name": "Engelhard Industries of Canada (Large Font)",
       "specifications": {
@@ -1403,6 +1432,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Large Serial)",
+      "series_code": "EN10",
       "series_id": "Engelhard Industries of Canada (Large Serial)",
       "series_name": "Engelhard Industries of Canada (Large Serial)",
       "specifications": {
@@ -1450,6 +1480,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (No Bull)",
+      "series_code": "EN02",
       "series_id": "Engelhard Industries of Canada (No Bull)",
       "series_name": "Engelhard Industries of Canada (No Bull)",
       "specifications": {
@@ -1497,6 +1528,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Shortened 1)",
+      "series_code": "EN09",
       "series_id": "Engelhard Industries of Canada (Shortened 1)",
       "series_name": "Engelhard Industries of Canada (Shortened 1)",
       "specifications": {
@@ -1544,6 +1576,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Standard 6-Digit)",
+      "series_code": "EN08",
       "series_id": "Engelhard Industries of Canada (Standard 6-Digit)",
       "series_name": "Engelhard Industries of Canada (Standard 6-Digit)",
       "specifications": {
@@ -1591,6 +1624,7 @@
         }
       ],
       "official_name": "Engelhard Industries of Canada (Unique Font)",
+      "series_code": "EN07",
       "series_id": "Engelhard Industries of Canada (Unique Font)",
       "series_name": "Engelhard Industries of Canada (Unique Font)",
       "specifications": {
@@ -1638,6 +1672,7 @@
         }
       ],
       "official_name": "Engelhard London",
+      "series_code": "EN31",
       "series_id": "Engelhard London",
       "series_name": "Engelhard London",
       "specifications": {
@@ -1685,6 +1720,7 @@
         }
       ],
       "official_name": "Gold Standard Corp (Series 1)",
+      "series_code": "EN62",
       "series_id": "Gold Standard Corp (Series 1)",
       "series_name": "Gold Standard Corp (Series 1)",
       "specifications": {
@@ -1732,6 +1768,7 @@
         }
       ],
       "official_name": "Gold Standard Corp (Series 2)",
+      "series_code": "EN63",
       "series_id": "Gold Standard Corp (Series 2)",
       "series_name": "Gold Standard Corp (Series 2)",
       "specifications": {
@@ -1779,6 +1816,7 @@
         }
       ],
       "official_name": "Great American Insurance",
+      "series_code": "EN72",
       "series_id": "Great American Insurance",
       "series_name": "Great American Insurance",
       "specifications": {
@@ -1826,6 +1864,7 @@
         }
       ],
       "official_name": "IMPEX Art Bar Series 1",
+      "series_code": "EN12",
       "series_id": "IMPEX Art Bar Series 1",
       "series_name": "IMPEX Art Bar Series 1",
       "specifications": {
@@ -1873,6 +1912,7 @@
         }
       ],
       "official_name": "IMPEX Bar Series 2",
+      "series_code": "EN26",
       "series_id": "IMPEX Bar Series 2",
       "series_name": "IMPEX Bar Series 2",
       "specifications": {
@@ -1920,6 +1960,7 @@
         }
       ],
       "official_name": "JELENKO Bar",
+      "series_code": "EN28",
       "series_id": "JELENKO Bar",
       "series_name": "JELENKO Bar",
       "specifications": {
@@ -1967,6 +2008,7 @@
         }
       ],
       "official_name": "Liberty Trade Art Bar",
+      "series_code": "EN71",
       "series_id": "Liberty Trade Art Bar",
       "series_name": "Liberty Trade Art Bar",
       "specifications": {
@@ -2014,6 +2056,7 @@
         }
       ],
       "official_name": "Litton Systems Canada",
+      "series_code": "EN69",
       "series_id": "Litton Systems Canada",
       "series_name": "Litton Systems Canada",
       "specifications": {
@@ -2061,6 +2104,7 @@
         }
       ],
       "official_name": "Madison Mint Bar (Blank Reverse)",
+      "series_code": "EN29",
       "series_id": "Madison Mint Bar (Blank Reverse)",
       "series_name": "Madison Mint Bar (Blank Reverse)",
       "specifications": {
@@ -2108,6 +2152,7 @@
         }
       ],
       "official_name": "Madison Mint Bar (Marked Reverse)",
+      "series_code": "EN30",
       "series_id": "Madison Mint Bar (Marked Reverse)",
       "series_name": "Madison Mint Bar (Marked Reverse)",
       "specifications": {
@@ -2155,6 +2200,7 @@
         }
       ],
       "official_name": "Maple Leaf A",
+      "series_code": "EN43",
       "series_id": "Maple Leaf A",
       "series_name": "Maple Leaf A",
       "specifications": {
@@ -2202,6 +2248,7 @@
         }
       ],
       "official_name": "Maple Leaf B (Border)",
+      "series_code": "EN46",
       "series_id": "Maple Leaf B (Border)",
       "series_name": "Maple Leaf B (Border)",
       "specifications": {
@@ -2249,6 +2296,7 @@
         }
       ],
       "official_name": "Maple Leaf B (Centered)",
+      "series_code": "EN44",
       "series_id": "Maple Leaf B (Centered)",
       "series_name": "Maple Leaf B (Centered)",
       "specifications": {
@@ -2296,6 +2344,7 @@
         }
       ],
       "official_name": "Maple Leaf B (Large Font)",
+      "series_code": "EN45",
       "series_id": "Maple Leaf B (Large Font)",
       "series_name": "Maple Leaf B (Large Font)",
       "specifications": {
@@ -2343,6 +2392,7 @@
         }
       ],
       "official_name": "Maple Leaf C (Border)",
+      "series_code": "EN48",
       "series_id": "Maple Leaf C (Border)",
       "series_name": "Maple Leaf C (Border)",
       "specifications": {
@@ -2390,6 +2440,7 @@
         }
       ],
       "official_name": "Maple Leaf C (Unique Serial)",
+      "series_code": "EN49",
       "series_id": "Maple Leaf C (Unique Serial)",
       "series_name": "Maple Leaf C (Unique Serial)",
       "specifications": {
@@ -2437,6 +2488,7 @@
         }
       ],
       "official_name": "Portrait (6-Digit/MC Absent)",
+      "series_code": "EN34",
       "series_id": "Portrait (6-Digit/MC Absent)",
       "series_name": "Portrait (6-Digit/MC Absent)",
       "specifications": {
@@ -2484,6 +2536,7 @@
         }
       ],
       "official_name": "Portrait (Large E)",
+      "series_code": "EN38",
       "series_id": "Portrait (Large E)",
       "series_name": "Portrait (Large E)",
       "specifications": {
@@ -2531,6 +2584,7 @@
         }
       ],
       "official_name": "Portrait (Large E/6-Digit)",
+      "series_code": "EN39",
       "series_id": "Portrait (Large E/6-Digit)",
       "series_name": "Portrait (Large E/6-Digit)",
       "specifications": {
@@ -2578,6 +2632,7 @@
         }
       ],
       "official_name": "Portrait (Proof-Like/US Prefix)",
+      "series_code": "EN35",
       "series_id": "Portrait (Proof-Like/US Prefix)",
       "series_name": "Portrait (Proof-Like/US Prefix)",
       "specifications": {
@@ -2625,6 +2680,7 @@
         }
       ],
       "official_name": "Portrait (Wide E at Top)",
+      "series_code": "EN36",
       "series_id": "Portrait (Wide E at Top)",
       "series_name": "Portrait (Wide E at Top)",
       "specifications": {
@@ -2672,6 +2728,7 @@
         }
       ],
       "official_name": "Portrait (Wide E at Top/No Serial)",
+      "series_code": "EN37",
       "series_id": "Portrait (Wide E at Top/No Serial)",
       "series_name": "Portrait (Wide E at Top/No Serial)",
       "specifications": {
@@ -2719,6 +2776,7 @@
         }
       ],
       "official_name": "Portrait (Wide E/MC Absent)",
+      "series_code": "EN33",
       "series_id": "Portrait (Wide E/MC Absent)",
       "series_name": "Portrait (Wide E/MC Absent)",
       "specifications": {
@@ -2766,6 +2824,7 @@
         }
       ],
       "official_name": "Portrait (Wide E/MC in Globe)",
+      "series_code": "EN32",
       "series_id": "Portrait (Wide E/MC in Globe)",
       "series_name": "Portrait (Wide E/MC in Globe)",
       "specifications": {
@@ -2813,6 +2872,7 @@
         }
       ],
       "official_name": "ROYAL Bar",
+      "series_code": "EN27",
       "series_id": "ROYAL Bar",
       "series_name": "ROYAL Bar",
       "specifications": {
@@ -2860,6 +2920,7 @@
         }
       ],
       "official_name": "Robert G. Warner Co",
+      "series_code": "EN64",
       "series_id": "Robert G. Warner Co",
       "series_name": "Robert G. Warner Co",
       "specifications": {
@@ -2907,6 +2968,7 @@
         }
       ],
       "official_name": "Scotiabank",
+      "series_code": "EN66",
       "series_id": "Scotiabank",
       "series_name": "Scotiabank",
       "specifications": {
@@ -2954,6 +3016,7 @@
         }
       ],
       "official_name": "Sheffield Smelting (Serial)",
+      "series_code": "EN55",
       "series_id": "Sheffield Smelting (Serial)",
       "series_name": "Sheffield Smelting (Serial)",
       "specifications": {
@@ -3001,6 +3064,7 @@
         }
       ],
       "official_name": "Sheffield Smelting (Smooth)",
+      "series_code": "EN54",
       "series_id": "Sheffield Smelting (Smooth)",
       "series_name": "Sheffield Smelting (Smooth)",
       "specifications": {
@@ -3048,6 +3112,7 @@
         }
       ],
       "official_name": "Sports Series - Baseball",
+      "series_code": "EN61",
       "series_id": "Sports Series - Baseball",
       "series_name": "Sports Series - Baseball",
       "specifications": {
@@ -3095,6 +3160,7 @@
         }
       ],
       "official_name": "Sports Series - Basketball",
+      "series_code": "EN57",
       "series_id": "Sports Series - Basketball",
       "series_name": "Sports Series - Basketball",
       "specifications": {
@@ -3142,6 +3208,7 @@
         }
       ],
       "official_name": "Sports Series - Football",
+      "series_code": "EN56",
       "series_id": "Sports Series - Football",
       "series_name": "Sports Series - Football",
       "specifications": {
@@ -3189,6 +3256,7 @@
         }
       ],
       "official_name": "Sports Series - Golf",
+      "series_code": "EN59",
       "series_id": "Sports Series - Golf",
       "series_name": "Sports Series - Golf",
       "specifications": {
@@ -3236,6 +3304,7 @@
         }
       ],
       "official_name": "Sports Series - Hockey",
+      "series_code": "EN58",
       "series_id": "Sports Series - Hockey",
       "series_name": "Sports Series - Hockey",
       "specifications": {
@@ -3283,6 +3352,7 @@
         }
       ],
       "official_name": "Sports Series - Tennis",
+      "series_code": "EN60",
       "series_id": "Sports Series - Tennis",
       "series_name": "Sports Series - Tennis",
       "specifications": {
@@ -3330,6 +3400,7 @@
         }
       ],
       "official_name": "Toronto Dominion Bank",
+      "series_code": "EN67",
       "series_id": "Toronto Dominion Bank",
       "series_name": "Toronto Dominion Bank",
       "specifications": {
@@ -3377,6 +3448,7 @@
         }
       ],
       "official_name": "Victoria General Hospital",
+      "series_code": "EN68",
       "series_id": "Victoria General Hospital",
       "series_name": "Victoria General Hospital",
       "specifications": {

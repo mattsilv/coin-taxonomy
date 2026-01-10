@@ -34,6 +34,7 @@
         }
       ],
       "official_name": "Panama-Pacific Exposition Octagonal",
+      "series_code": "PPEO",
       "series_id": "Panama-Pacific Exposition Octagonal",
       "series_name": "Panama-Pacific Exposition Octagonal",
       "specifications": {
@@ -76,6 +77,7 @@
         }
       ],
       "official_name": "Panama-Pacific Exposition Round",
+      "series_code": "PPER",
       "series_id": "Panama-Pacific Exposition Round",
       "series_name": "Panama-Pacific Exposition Round",
       "specifications": {

@@ -722,6 +722,7 @@
         }
       ],
       "official_name": "Silver Three-Cent",
+      "series_code": "TCST",
       "series_id": "Silver Three-Cent",
       "series_name": "Silver Three-Cent",
       "specifications": {
@@ -1425,6 +1426,7 @@
         }
       ],
       "official_name": "Nickel Three-Cent",
+      "series_code": "TCNT",
       "series_id": "Nickel Three-Cent",
       "series_name": "Nickel Three-Cent",
       "specifications": {

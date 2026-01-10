@@ -213,15 +213,24 @@ class DatabaseExporter:
                         "coins": coins
                     }
 
+                    # Extract series_code from first coin_id (canonical source)
+                    # Format: COUNTRY-CODE-YEAR-MINT (e.g., US-WCOL-1892-P)
+                    if coins:
+                        first_coin_id = coins[0].get("coin_id", "")
+                        if first_coin_id and "-" in first_coin_id:
+                            parts = first_coin_id.split("-")
+                            if len(parts) >= 2:
+                                series_entry["series_code"] = parts[1]
+
                     # Look up aliases from series_registry
                     cursor.execute('''
                         SELECT aliases FROM series_registry
                         WHERE series_name = ? AND denomination = ?
                     ''', (series_id, denom_name))
-                    alias_row = cursor.fetchone()
-                    if alias_row and alias_row[0]:
+                    registry_row = cursor.fetchone()
+                    if registry_row and registry_row[0]:
                         try:
-                            aliases = json.loads(alias_row[0])
+                            aliases = json.loads(registry_row[0])
                             if aliases:
                                 series_entry["aliases"] = aliases
                         except json.JSONDecodeError:

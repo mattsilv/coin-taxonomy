@@ -12,6 +12,14 @@
 - **[Release Notes Index](./release-notes/README.md)** - All release notes
 - **[Latest: v2.1.0 - Schema Alignment](./release-notes/2025-09-04-schema-alignment.md)** 🚨 Breaking Changes
 
+### 🏛️ Taxonomy Reference (Source of Truth)
+- **[Source of Truth](./SOURCE_OF_TRUTH.md)** - Architecture overview and consumer repos
+- **[Taxonomy ID Format](./taxonomy-id-format.md)** - Complete ID format specification
+- **[Commemorative Half Dollars](./series-codes/commemorative-half-dollars.md)** - 48 series codes
+- **[Morgan Dollars](./series-codes/morgan-dollars.md)** - MORG code + varieties
+- **[American Eagles](./series-codes/american-eagles.md)** - AGE/ASE patterns
+- **[Libertads](./series-codes/libertads.md)** - ML{metal}{size} pattern
+
 ### 🔧 Integration & Development
 - **[Integration Guide](./INTEGRATION_GUIDE.md)** - How to integrate the taxonomy into your application
 - **[Bullion Integration Guide](./BULLION_INTEGRATION_GUIDE.md)** - Backend engineer primer for bullion products
@@ -44,6 +52,7 @@ coin-taxonomy/
 │   └── universal/         # Universal format (experimental)
 ├── docs/
 │   ├── release-notes/     # Version release notes
+│   ├── series-codes/      # Series code reference docs
 │   ├── archived/          # Old documentation
 │   └── *.md              # Technical documentation
 └── tests/                 # Test suites

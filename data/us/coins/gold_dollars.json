@@ -33,6 +33,7 @@
         }
       ],
       "official_name": "Louisiana Purchase - Jefferson",
+      "series_code": "LPJF",
       "series_id": "Louisiana Purchase - Jefferson",
       "series_name": "Louisiana Purchase - Jefferson",
       "specifications": {
@@ -74,6 +75,7 @@
         }
       ],
       "official_name": "Louisiana Purchase - McKinley",
+      "series_code": "LPMK",
       "series_id": "Louisiana Purchase - McKinley",
       "series_name": "Louisiana Purchase - McKinley",
       "specifications": {
@@ -131,6 +133,7 @@
         }
       ],
       "official_name": "Lewis & Clark Exposition",
+      "series_code": "LEWC",
       "series_id": "Lewis & Clark Exposition",
       "series_name": "Lewis & Clark Exposition",
       "specifications": {
@@ -172,6 +175,7 @@
         }
       ],
       "official_name": "Panama-Pacific Exposition",
+      "series_code": "PPGD",
       "series_id": "Panama-Pacific Exposition",
       "series_name": "Panama-Pacific Exposition",
       "specifications": {
@@ -229,6 +233,7 @@
         }
       ],
       "official_name": "McKinley Memorial",
+      "series_code": "MCKI",
       "series_id": "McKinley Memorial",
       "series_name": "McKinley Memorial",
       "specifications": {
@@ -275,6 +280,7 @@
         }
       ],
       "official_name": "Grant Memorial with Star",
+      "series_code": "GRGS",
       "series_id": "Grant Memorial with Star",
       "series_name": "Grant Memorial with Star",
       "specifications": {

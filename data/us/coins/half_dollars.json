@@ -47,6 +47,7 @@
         }
       ],
       "official_name": "Barber Half Dollar",
+      "series_code": "BARH",
       "series_id": "Barber Half Dollar",
       "series_name": "Barber Half Dollar",
       "specifications": {
@@ -102,6 +103,7 @@
         }
       ],
       "official_name": "Walking Liberty Half Dollar",
+      "series_code": "WLHD",
       "series_id": "Walking Liberty Half Dollar",
       "series_name": "Walking Liberty Half Dollar",
       "specifications": {
@@ -157,6 +159,7 @@
         }
       ],
       "official_name": "Franklin Half Dollar",
+      "series_code": "FRNH",
       "series_id": "Franklin Half Dollar",
       "series_name": "Franklin Half Dollar",
       "specifications": {
@@ -213,6 +216,7 @@
         }
       ],
       "official_name": "Kennedy Half Dollar",
+      "series_code": "KENH",
       "series_id": "Kennedy Half Dollar",
       "series_name": "Kennedy Half Dollar",
       "specifications": {
