@@ -142,6 +142,34 @@ For coins with significant design varieties that affect collector value, an opti
 - Link related documentation in issue descriptions
 - Run success validation before closing issues
 
+## Pull Request Workflow ⚠️
+**CRITICAL**: NEVER push directly to main. Always create a PR.
+
+### Required Steps
+1. **Create feature branch**: `git checkout -b feature/issue-NN-description`
+2. **Make changes and commit** to feature branch
+3. **Push feature branch**: `git push -u origin feature/issue-NN-description`
+4. **Create PR**: `gh pr create --title "..." --body "..."`
+5. **Wait for review/approval** before merging
+
+### PR Title Format
+```
+Add [feature] - Issue #NN
+```
+
+### PR Body Template
+```markdown
+## Summary
+- Brief description of changes
+
+## Test plan
+- [ ] Ran export_from_database.py
+- [ ] Validated JSON exports
+- [ ] Tested affected functionality
+
+Closes #NN
+```
+
 ## Documentation Structure
 - Main index: `docs/PROJECT_DOCS.md`
 - README.md has comprehensive TOC
