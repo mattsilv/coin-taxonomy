@@ -887,12 +887,76 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/10 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1991,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/2 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1981,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/20 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1991,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1/4 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1981,
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Silver 1 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1982,
       "end_year": 2022,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/10 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/2 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/2 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/20 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/4 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1/4 oz",
+      "country_code": "MX",
+      "denomination": "No Face Value",
+      "start_year": 1992,
       "type": "coin"
     },
     {
@@ -908,6 +972,49 @@
       ],
       "variety_suffixes": [
         "2S4"
+      ]
+    },
+    {
+      "series_id": "Modern Commemorative Gold__Modern_Commemorative_Gold",
+      "series_name": "Modern Commemorative Gold",
+      "country_code": "US",
+      "denomination": "Modern Commemorative Gold",
+      "start_year": 1986,
+      "defining_characteristics": "Catch-all for 1986+ commemorative gold coins ($5, $10) until individual series defined. Includes all modern gold commemorative programs from Statue of Liberty (1986) to present.",
+      "official_name": "Modern Commemorative Gold",
+      "type": "coin",
+      "aliases": [
+        "Gold Commemorative",
+        "Modern Gold Comm"
+      ]
+    },
+    {
+      "series_id": "Modern Commemorative Half__Modern_Commemorative_Half_Dollars",
+      "series_name": "Modern Commemorative Half",
+      "country_code": "US",
+      "denomination": "Modern Commemorative Half Dollars",
+      "start_year": 1982,
+      "defining_characteristics": "Catch-all for 1982+ commemorative half dollars until individual series defined. Includes all modern clad half dollar commemorative programs.",
+      "official_name": "Modern Commemorative Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Modern Comm Half",
+        "Commemorative Half"
+      ]
+    },
+    {
+      "series_id": "Modern Commemorative__Modern_Commemorative_Dollars",
+      "series_name": "Modern Commemorative",
+      "country_code": "US",
+      "denomination": "Modern Commemorative Dollars",
+      "start_year": 1982,
+      "defining_characteristics": "Catch-all for 1982+ commemorative silver dollars until individual series defined. Includes all modern commemorative dollar programs from Washington 250th Anniversary (1982) to present.",
+      "official_name": "Modern Commemorative Dollar",
+      "type": "coin",
+      "aliases": [
+        "Modern Comm",
+        "Commemorative",
+        "Modern Silver Commemorative"
       ]
     },
     {
