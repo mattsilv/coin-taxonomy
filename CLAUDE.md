@@ -1,7 +1,50 @@
-# Coin Taxonomy Project Rules
+# CLAUDE.md
 
-## Pre-Commit Hook Validation ⚠️
-**CRITICAL**: Always check for pre-commit hook errors and fix them before committing. If validation fails, either fix the data issues OR update the validation schemas to accommodate our growing taxonomy system.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Common Commands
+
+```bash
+# Setup
+uv venv && source .venv/bin/activate
+
+# Export from database (regenerates all JSON)
+uv run python scripts/export_from_database.py
+
+# Rebuild everything from scratch
+uv run python scripts/rebuild_and_export.py
+
+# Validate taxonomy
+uv run python scripts/validate_taxonomy.py
+
+# Run tests
+uv run pytest tests/
+
+# Run pre-commit hooks manually
+pre-commit run --all-files
+
+# Add new coins (create a migration script in scripts/)
+uv run python scripts/add_[feature].py
+```
+
+## Architecture
+
+### Database (Source of Truth)
+- `database/coins.db` - SQLite database with all coin data
+- Key tables: `coins` (legacy US), `issues` (universal flat), `series_registry` (series metadata)
+
+### JSON Exports (Generated - Never Edit Directly)
+- `data/us/coins/*.json` - By denomination (cents.json, dollars.json, etc.)
+- `data/us/us_coins_complete.json` - Complete US taxonomy
+- `data/universal/` - Universal format v1.1 (us_issues.json, series_registry.json, etc.)
+- `data/ai-optimized/` - Token-optimized formats for LLMs (10K-26K tokens)
+- `docs/data/universal/` - Copy for GitHub Pages
+
+### Pre-Commit Hooks
+Three hooks auto-run on commits:
+1. `export-from-database` - Regenerates JSON when database changes
+2. `validate-json-exports` - Validates all JSON files
+3. `data-integrity-check` - Checks database constraints
 
 ## Python Dependency Management
 ALWAYS use uv for Python dependency management:
@@ -69,20 +112,22 @@ This script performs the database-first export:
 
 ### Validation Rules
 1. **Exactly 4 parts** separated by **exactly 3 dashes** (no more, no fewer)
-2. **Country code**: 2-3 uppercase letters (e.g., `US`, `CA`, `GB`)
-3. **Type abbreviation**: 2-4 uppercase letters identifying the coin series (e.g., `IHC`, `LWC`, `MD`)
-4. **Year**: 4-digit year when the coin was minted (e.g., `1877`, `1909`, `1942`)
-5. **Mint mark**: 1-2 uppercase letters identifying the mint facility (e.g., `P`, `D`, `S`, `CC`, `W`)
+2. **Country code**: 2-3 uppercase letters (e.g., `US`, `CA`, `MX`)
+3. **Type code**: Exactly 4 uppercase alphanumeric characters (e.g., `LWCT`, `MORG`, `ASEA`)
+4. **Year**: 4-digit year (e.g., `1877`, `1909`, `2024`) or `XXXX` for random year bullion
+5. **Mint mark**: 1-2 uppercase letters (e.g., `P`, `D`, `S`, `CC`, `W`) or `X` for unspecified
 
 ### Valid Examples
-- `US-IHC-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
-- `US-LWC-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint
-- `US-WHD-1942-D` = US Winged Liberty Head Dime (Mercury Dime), 1942, Denver mint
+- `US-INCH-1877-P` = US Indian Head Cent, 1877, Philadelphia mint
+- `US-LWCT-1909-S` = US Lincoln Wheat Cent, 1909, San Francisco mint
+- `US-MERC-1942-D` = US Mercury Dime, 1942, Denver mint
+- `US-MORG-1921-P` = US Morgan Dollar, 1921, Philadelphia mint
 
 ### Invalid Formats (Will Be Rejected)
-- `IHC-1877-P` (missing country prefix)
-- `us-ihc-1877-p` (lowercase not allowed)
-- `US_IHC_1877_P` (underscores not allowed)
+- `INCH-1877-P` (missing country prefix)
+- `us-inch-1877-p` (lowercase not allowed)
+- `US_INCH_1877_P` (underscores not allowed)
+- `US-IHC-1877-P` (type code must be exactly 4 characters)
 
 ### Enforcement
 - Database CHECK constraints validate format on insert/update
@@ -134,6 +179,30 @@ For coins with significant design varieties that affect collector value, an opti
 - Use `X` for unspecified mint when applicable
 - Document as "Random year bullion" in `notes` field
 - Year field accepts either 4-digit numeric year (1773-9999) OR literal string "XXXX"
+
+## Common Type Codes
+
+| Code | Series | Denomination |
+|------|--------|--------------|
+| LWCT | Lincoln Wheat Cent | Cents |
+| LMCT | Lincoln Memorial Cent | Cents |
+| INCH | Indian Head Cent | Cents |
+| BUFF | Buffalo Nickel | Nickels |
+| JEFF | Jefferson Nickel | Nickels |
+| MERC | Mercury Dime | Dimes |
+| ROOS | Roosevelt Dime | Dimes |
+| WASH | Washington Quarter | Quarters |
+| SLIQ | Standing Liberty Quarter | Quarters |
+| WLHD | Walking Liberty Half | Half Dollars |
+| MORG | Morgan Dollar | Dollars |
+| PEAC | Peace Dollar | Dollars |
+| ASEA | American Silver Eagle | Bullion |
+| AGEO | American Gold Eagle 1oz | Bullion |
+| AGBF | American Gold Buffalo | Bullion |
+| GMPL | Gold Maple Leaf | Canadian Bullion |
+| SMPL | Silver Maple Leaf | Canadian Bullion |
+
+Full registry: `data/universal/series_registry.json`
 
 ## GitHub Issue Workflow
 - All feature work tracked in GitHub issues
