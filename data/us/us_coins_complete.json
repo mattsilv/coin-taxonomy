@@ -22546,6 +22546,50 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "KR-CHWO-XXXX-K",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "KR",
+      "denomination": "1 Clay",
+      "diameter_mm": 40.0,
+      "mint": "K",
+      "notes": "Random year bullion - valued by metal content. Minted by KOMSCO. Design changes annually. Highly collectible Korean bullion.",
+      "obverse_description": "KOMSCO logo, 'REPUBLIC OF KOREA', '1 CLAY', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Chiwoo Cheonwang (god of war) warrior design, '1oz', 'Ag .999'",
+      "series_id": "Chiwoo Cheonwang 1 oz",
+      "series_name": "Chiwoo Cheonwang 1 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AM-NOAH-XXXX-G",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "AM",
+      "denomination": "500 Dram",
+      "diameter_mm": 38.6,
+      "mint": "G",
+      "notes": "Random year bullion - valued by metal content. Legal tender of Armenia. Minted by Geiger Edelmetalle (Germany). Popular low-premium bullion.",
+      "obverse_description": "Armenian coat of arms, 'REPUBLIC OF ARMENIA', '500 DRAM', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Noah's Ark with Mt. Ararat, dove with olive branch, '1 OZ', '.999 SILVER'",
+      "series_id": "Noah's Ark 1 oz",
+      "series_name": "Noah's Ark 1 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-ATB5-XXXX-P",
       "composition": {},
       "country": "US",
@@ -24192,6 +24236,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "GB-QBST-XXXX-RM",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "GB",
+      "denomination": "Five Pounds",
+      "diameter_mm": 38.61,
+      "mint": "RM",
+      "notes": "Random year bullion - valued by metal content. 10-coin series featuring heraldic beasts from coronation ceremony. Completed 2021.",
+      "obverse_description": "Queen Elizabeth II effigy by Jody Clark, denomination",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Heraldic beast design (Lion, Griffin, Dragon, Unicorn, etc.)",
+      "series_id": "Queen's Beasts 2 oz",
+      "series_name": "Queen's Beasts 2 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 62.206,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "MX-MLGD-XXXX-MO",
       "composition": {},
       "country": "MX",
@@ -24432,6 +24498,204 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "US-E100-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Vintage 100oz bars. Investment grade silver. Serial numbered.",
+      "obverse_description": "Engelhard logo, serial number, '100 TROY OZ', '.999+ FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Blank or Engelhard hallmark",
+      "series_id": "Engelhard Bar 100 oz",
+      "series_name": "Engelhard Bar 100 oz",
+      "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 3110.35,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-ENG5-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Vintage poured and pressed silver bars. Multiple varieties (P-loaf, pressed). Highly collectible.",
+      "obverse_description": "Engelhard logo, serial number, '5 TROY OZ', '.999+ FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Blank or Engelhard hallmark",
+      "series_id": "Engelhard Bar 5 oz",
+      "series_name": "Engelhard Bar 5 oz",
+      "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 155.517,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-ENGP-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": 39.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Collectible vintage silver rounds. Multiple varieties exist (Wide/Narrow date, etc.).",
+      "obverse_description": "Prospector panning for gold, 'ENGELHARD', '1 TROY OUNCE'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Eagle design, '.999+ FINE SILVER'",
+      "series_id": "Engelhard Prospector 1 oz",
+      "series_name": "Engelhard Prospector 1 oz",
+      "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-JMTB-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Classic refiner silver bars. Available in 1oz, 5oz, 10oz, 100oz. Multiple vintage varieties.",
+      "obverse_description": "Johnson Matthey logo, serial number, weight, '.999+ FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Blank or JM hallmark",
+      "series_id": "Johnson Matthey Bar",
+      "series_name": "Johnson Matthey Bar",
+      "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-SCOT-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Popular modern poured and pressed bars. Stackers, Chunky bars, and Lion series highly collected.",
+      "obverse_description": "Scottsdale Mint logo, weight, '.999 FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Varies by product (Stacker, Chunky, Lion, etc.)",
+      "series_id": "Scottsdale Mint Silver",
+      "series_name": "Scottsdale Mint Silver",
+      "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AU-AEMU-XXXX-P",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "AU",
+      "denomination": "One Dollar",
+      "diameter_mm": 40.6,
+      "mint": "P",
+      "notes": "Random year bullion - valued by metal content. Limited mintage Perth Mint series. Highly collectible.",
+      "obverse_description": "Monarch effigy, 'AUSTRALIA', '1 DOLLAR', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Emu design, '1oz 9999 SILVER'",
+      "series_id": "Australian Emu 1 oz",
+      "series_name": "Australian Emu 1 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AU-ROOS-XXXX-P",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "AU",
+      "denomination": "One Dollar",
+      "diameter_mm": 40.6,
+      "mint": "P",
+      "notes": "Random year bullion - valued by metal content. Perth Mint bullion coin. Design changes annually.",
+      "obverse_description": "King Charles III effigy (2024+) or Queen Elizabeth II, 'AUSTRALIA', '1 DOLLAR', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Kangaroo design (changes annually), '1oz 9999 SILVER'",
+      "series_id": "Australian Kangaroo Silver 1 oz",
+      "series_name": "Australian Kangaroo Silver 1 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AU-KOAL-XXXX-P",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "AU",
+      "denomination": "One Dollar",
+      "diameter_mm": 40.6,
+      "mint": "P",
+      "notes": "Random year bullion - valued by metal content. Perth Mint bullion coin. Design changes annually.",
+      "obverse_description": "Monarch effigy, 'AUSTRALIA', '1 DOLLAR', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Koala design (changes annually), '1oz 9999 SILVER'",
+      "series_id": "Australian Koala 1 oz",
+      "series_name": "Australian Koala 1 oz",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "AU-LUNR-XXXX-P",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "AU",
+      "denomination": "One Dollar",
+      "diameter_mm": 40.6,
+      "mint": "P",
+      "notes": "Random year bullion - valued by metal content. Features Chinese Zodiac animals. Series I (1999-2010), Series II (2008-2019), Series III (2020+).",
+      "obverse_description": "Monarch effigy, 'AUSTRALIA', '1 DOLLAR', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Chinese Zodiac animal (Dragon, Tiger, Rabbit, etc.), '1oz 9999 SILVER'",
+      "series_id": "Perth Lunar Series",
+      "series_name": "Perth Lunar Series",
+      "source_citation": "Issue #90 - World Silver Coins",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "AU-WTED-XXXX-X",
       "composition": {
         "silver": 99.99
@@ -24473,11 +24737,33 @@
       "varieties": [],
       "weight_grams": 30.0,
       "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "XX-WGLD-XXXX-X",
+      "composition": {
+        "gold": 91.67
+      },
+      "country": "XX",
+      "denomination": "Various",
+      "diameter_mm": 22.05,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Catch-all for foreign gold sovereigns and similar gold coins. Includes British, Australian, South African sovereigns, etc.",
+      "obverse_description": "Various monarch/national designs",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Various national designs (St. George, coat of arms, etc.)",
+      "series_id": "World Gold Sovereigns",
+      "series_name": "World Gold Sovereigns",
+      "source_citation": "Issue #90 - World Gold Catch-all",
+      "varieties": [],
+      "weight_grams": 7.988,
+      "year": "XXXX"
     }
   ],
-  "generated_at": "2026-01-10T10:43:03.480516",
+  "generated_at": "2026-01-11T23:00:30.280743",
   "taxonomy_version": "1.1",
-  "total_coins": 1133,
+  "total_coins": 1146,
   "year_range": {
     "earliest": "1837",
     "latest": "XXXX"

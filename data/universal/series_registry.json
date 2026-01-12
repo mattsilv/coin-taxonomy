@@ -171,6 +171,49 @@
       ]
     },
     {
+      "series_id": "Australian Emu 1 oz__One_Dollar",
+      "series_name": "Australian Emu 1 oz",
+      "country_code": "AU",
+      "denomination": "One Dollar",
+      "start_year": 2018,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Australian Emu 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Silver Emu",
+        "Australian Emu"
+      ]
+    },
+    {
+      "series_id": "Australian Kangaroo Silver 1 oz__One_Dollar",
+      "series_name": "Australian Kangaroo Silver 1 oz",
+      "country_code": "AU",
+      "denomination": "One Dollar",
+      "start_year": 2016,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Australian Kangaroo Silver 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Silver Kangaroo",
+        "Australian Silver Kangaroo",
+        "Roo"
+      ]
+    },
+    {
+      "series_id": "Australian Koala 1 oz__One_Dollar",
+      "series_name": "Australian Koala 1 oz",
+      "country_code": "AU",
+      "denomination": "One Dollar",
+      "start_year": 2007,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Australian Koala 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Silver Koala",
+        "Australian Koala"
+      ]
+    },
+    {
       "series_id": "Barber Half Dollar__Half_Dollars",
       "series_name": "Barber Half Dollar",
       "country_code": "US",
@@ -297,6 +340,21 @@
       "type": "coin"
     },
     {
+      "series_id": "Chiwoo Cheonwang 1 oz__1_Clay",
+      "series_name": "Chiwoo Cheonwang 1 oz",
+      "country_code": "KR",
+      "denomination": "1 Clay",
+      "start_year": 2016,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Chiwoo Cheonwang 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Chiwoo",
+        "Korean Chiwoo",
+        "South Korean Silver"
+      ]
+    },
+    {
       "series_id": "Cincinnati Music Center__Commemorative_Half_Dollars",
       "series_name": "Cincinnati Music Center",
       "country_code": "US",
@@ -398,6 +456,68 @@
       "aliases": [
         "Elgin Centennial",
         "Elgin"
+      ]
+    },
+    {
+      "series_id": "Engelhard Bar 10 oz__No_Face_Value",
+      "series_name": "Engelhard Bar 10 oz",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "end_year": 1988,
+      "defining_characteristics": "Bullion, 10.0 oz silver",
+      "official_name": "Engelhard Bar 10 oz",
+      "type": "coin",
+      "aliases": [
+        "Engelhard 10oz",
+        "Engelhard 10 oz Bar"
+      ]
+    },
+    {
+      "series_id": "Engelhard Bar 100 oz__No_Face_Value",
+      "series_name": "Engelhard Bar 100 oz",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "end_year": 1988,
+      "defining_characteristics": "Bullion, 100.0 oz silver",
+      "official_name": "Engelhard Bar 100 oz",
+      "type": "coin",
+      "aliases": [
+        "Engelhard 100oz",
+        "Engelhard 100 oz Bar",
+        "Engelhard Monster Bar"
+      ]
+    },
+    {
+      "series_id": "Engelhard Bar 5 oz__No_Face_Value",
+      "series_name": "Engelhard Bar 5 oz",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "end_year": 1988,
+      "defining_characteristics": "Bullion, 5.0 oz silver",
+      "official_name": "Engelhard Bar 5 oz",
+      "type": "coin",
+      "aliases": [
+        "Engelhard 5oz",
+        "Engelhard 5 oz Bar"
+      ]
+    },
+    {
+      "series_id": "Engelhard Prospector 1 oz__No_Face_Value",
+      "series_name": "Engelhard Prospector 1 oz",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1982,
+      "end_year": 1988,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Engelhard Prospector 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Engelhard Prospector",
+        "Prospector Round",
+        "E Prospector"
       ]
     },
     {
@@ -702,6 +822,21 @@
       "aliases": [
         "Iowa Centennial",
         "Iowa"
+      ]
+    },
+    {
+      "series_id": "Johnson Matthey Bar__No_Face_Value",
+      "series_name": "Johnson Matthey Bar",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Johnson Matthey Bar",
+      "type": "coin",
+      "aliases": [
+        "JM Bar",
+        "Johnson Matthey",
+        "JM Silver"
       ]
     },
     {
@@ -1061,6 +1196,21 @@
       "type": "coin"
     },
     {
+      "series_id": "Noah's Ark 1 oz__500_Dram",
+      "series_name": "Noah's Ark 1 oz",
+      "country_code": "AM",
+      "denomination": "500 Dram",
+      "start_year": 2011,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Noah's Ark 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Armenian Noah's Ark",
+        "Noah Ark",
+        "Armenia Silver"
+      ]
+    },
+    {
       "series_id": "Norfolk, Virginia, Bicentennial__Commemorative_Half_Dollars",
       "series_name": "Norfolk, Virginia, Bicentennial",
       "country_code": "US",
@@ -1166,6 +1316,21 @@
       ]
     },
     {
+      "series_id": "Perth Lunar Series__One_Dollar",
+      "series_name": "Perth Lunar Series",
+      "country_code": "AU",
+      "denomination": "One Dollar",
+      "start_year": 1999,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Perth Lunar Series",
+      "type": "coin",
+      "aliases": [
+        "Lunar Series",
+        "Perth Lunar",
+        "Lunar Silver"
+      ]
+    },
+    {
       "series_id": "Pilgrim Tercentenary__Commemorative_Half_Dollars",
       "series_name": "Pilgrim Tercentenary",
       "country_code": "US",
@@ -1228,6 +1393,22 @@
       "type": "coin"
     },
     {
+      "series_id": "Queen's Beasts 2 oz__Five_Pounds",
+      "series_name": "Queen's Beasts 2 oz",
+      "country_code": "GB",
+      "denomination": "Five Pounds",
+      "start_year": 2016,
+      "end_year": 2021,
+      "defining_characteristics": "Bullion, 2.0 oz silver",
+      "official_name": "Queen's Beasts 2 oz",
+      "type": "coin",
+      "aliases": [
+        "Queen's Beasts",
+        "Queens Beasts",
+        "Royal Beasts"
+      ]
+    },
+    {
       "series_id": "Roanoke Island__Commemorative_Half_Dollars",
       "series_name": "Roanoke Island",
       "country_code": "US",
@@ -1265,6 +1446,21 @@
       "aliases": [
         "Bay Bridge",
         "SF-Oakland"
+      ]
+    },
+    {
+      "series_id": "Scottsdale Mint Silver__No_Face_Value",
+      "series_name": "Scottsdale Mint Silver",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 2005,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Scottsdale Mint Silver",
+      "type": "coin",
+      "aliases": [
+        "Scottsdale Stacker",
+        "Scottsdale Silver",
+        "Chunky"
       ]
     },
     {
@@ -1507,6 +1703,22 @@
       "aliases": [
         "Wisconsin Territorial",
         "Wisconsin"
+      ]
+    },
+    {
+      "series_id": "World Gold Sovereigns__Various",
+      "series_name": "World Gold Sovereigns",
+      "country_code": "XX",
+      "denomination": "Various",
+      "start_year": 1800,
+      "defining_characteristics": "Bullion, 1.0 oz gold",
+      "official_name": "World Gold Sovereigns",
+      "type": "coin",
+      "aliases": [
+        "Foreign Gold",
+        "World Gold",
+        "Gold Sovereign",
+        "Sovereign"
       ]
     },
     {

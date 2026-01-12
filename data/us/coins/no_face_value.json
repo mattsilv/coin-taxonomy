@@ -1,0 +1,283 @@
+{
+  "country": "US",
+  "denomination": "No Face Value",
+  "face_value": 1.0,
+  "series": [
+    {
+      "aliases": [
+        "Engelhard 100oz",
+        "Engelhard 100 oz Bar",
+        "Engelhard Monster Bar"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-E100-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Engelhard Corporation",
+          "distinguishing_features": "Engelhard Corporation",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Vintage 100oz bars. Investment grade silver. Serial numbered.",
+          "obverse_description": "Engelhard logo, serial number, '100 TROY OZ', '.999+ FINE SILVER'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Blank or Engelhard hallmark",
+          "source_citation": "Issue #90 - Vintage Bars/Pours",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 3110.35,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 3110.35
+          }
+        }
+      ],
+      "official_name": "Engelhard Bar 100 oz",
+      "series_code": "E100",
+      "series_id": "Engelhard Bar 100 oz",
+      "series_name": "Engelhard Bar 100 oz",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    },
+    {
+      "aliases": [
+        "Engelhard 5oz",
+        "Engelhard 5 oz Bar"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENG5-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Engelhard Corporation",
+          "distinguishing_features": "Engelhard Corporation",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Vintage poured and pressed silver bars. Multiple varieties (P-loaf, pressed). Highly collectible.",
+          "obverse_description": "Engelhard logo, serial number, '5 TROY OZ', '.999+ FINE SILVER'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Blank or Engelhard hallmark",
+          "source_citation": "Issue #90 - Vintage Bars/Pours",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 155.517,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 155.517
+          }
+        }
+      ],
+      "official_name": "Engelhard Bar 5 oz",
+      "series_code": "ENG5",
+      "series_id": "Engelhard Bar 5 oz",
+      "series_name": "Engelhard Bar 5 oz",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    },
+    {
+      "aliases": [
+        "Engelhard Prospector",
+        "Prospector Round",
+        "E Prospector"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-ENGP-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Engelhard Corporation",
+          "diameter_mm": 39.0,
+          "distinguishing_features": "Engelhard Corporation",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Collectible vintage silver rounds. Multiple varieties exist (Wide/Narrow date, etc.).",
+          "obverse_description": "Prospector panning for gold, 'ENGELHARD', '1 TROY OUNCE'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design, '.999+ FINE SILVER'",
+          "source_citation": "Issue #90 - Vintage Bars/Pours",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 31.1035,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.1035
+          }
+        }
+      ],
+      "official_name": "Engelhard Prospector 1 oz",
+      "series_code": "ENGP",
+      "series_id": "Engelhard Prospector 1 oz",
+      "series_name": "Engelhard Prospector 1 oz",
+      "specifications": {
+        "diameter_mm": 39.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    },
+    {
+      "aliases": [
+        "JM Bar",
+        "Johnson Matthey",
+        "JM Silver"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-JMTB-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Johnson Matthey",
+          "distinguishing_features": "Johnson Matthey",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Classic refiner silver bars. Available in 1oz, 5oz, 10oz, 100oz. Multiple vintage varieties.",
+          "obverse_description": "Johnson Matthey logo, serial number, weight, '.999+ FINE SILVER'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Blank or JM hallmark",
+          "source_citation": "Issue #90 - Vintage Bars/Pours",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 31.1035,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.1035
+          }
+        }
+      ],
+      "official_name": "Johnson Matthey Bar",
+      "series_code": "JMTB",
+      "series_id": "Johnson Matthey Bar",
+      "series_name": "Johnson Matthey Bar",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    },
+    {
+      "aliases": [
+        "Scottsdale Stacker",
+        "Scottsdale Silver",
+        "Chunky"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-SCOT-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Scottsdale Mint",
+          "distinguishing_features": "Scottsdale Mint",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Popular modern poured and pressed bars. Stackers, Chunky bars, and Lion series highly collected.",
+          "obverse_description": "Scottsdale Mint logo, weight, '.999 FINE SILVER'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Varies by product (Stacker, Chunky, Lion, etc.)",
+          "source_citation": "Issue #90 - Vintage Bars/Pours",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 31.1035,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.1035
+          }
+        }
+      ],
+      "official_name": "Scottsdale Mint Silver",
+      "series_code": "SCOT",
+      "series_id": "Scottsdale Mint Silver",
+      "series_name": "Scottsdale Mint Silver",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    }
+  ]
+}
