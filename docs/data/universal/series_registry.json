@@ -308,6 +308,36 @@
       ]
     },
     {
+      "series_id": "Canadian Polar Bear 1 oz__Five_Dollars",
+      "series_name": "Canadian Polar Bear 1 oz",
+      "country_code": "CA",
+      "denomination": "Five Dollars",
+      "start_year": 2019,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Canadian Polar Bear 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Polar Bear",
+        "Canadian Polar Bear",
+        "RCM Polar Bear"
+      ]
+    },
+    {
+      "series_id": "Capped Bust Cent__Cents",
+      "series_name": "Capped Bust Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1807,
+      "end_year": 1814,
+      "defining_characteristics": "Copper coin, 10.89g",
+      "official_name": "Capped Bust Cent",
+      "type": "coin",
+      "aliases": [
+        "Capped Bust",
+        "Classic Head Large Cent"
+      ]
+    },
+    {
       "series_id": "Carver/Washington__Commemorative_Half_Dollars",
       "series_name": "Carver/Washington",
       "country_code": "US",
@@ -364,6 +394,22 @@
       "type": "coin",
       "aliases": [
         "Cincinnati"
+      ]
+    },
+    {
+      "series_id": "Classic Head Cent__Cents",
+      "series_name": "Classic Head Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1808,
+      "end_year": 1836,
+      "defining_characteristics": "Copper coin, 10.89g",
+      "official_name": "Classic Head Cent",
+      "type": "coin",
+      "aliases": [
+        "Classic Head",
+        "Coronet Head Cent",
+        "Matron Head"
       ]
     },
     {
@@ -427,6 +473,21 @@
       "type": "coin",
       "aliases": [
         "Delaware"
+      ]
+    },
+    {
+      "series_id": "Draped Bust Cent__Cents",
+      "series_name": "Draped Bust Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1796,
+      "end_year": 1807,
+      "defining_characteristics": "Copper coin, 10.89g",
+      "official_name": "Draped Bust Cent",
+      "type": "coin",
+      "aliases": [
+        "Draped Bust",
+        "DB Cent"
       ]
     },
     {
@@ -636,6 +697,21 @@
       "start_year": 1942,
       "end_year": 1942,
       "type": "coin"
+    },
+    {
+      "series_id": "Germania 1 oz__Five_Mark",
+      "series_name": "Germania 1 oz",
+      "country_code": "DE",
+      "denomination": "Five Mark",
+      "start_year": 2019,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Germania 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Germania",
+        "Germania Mint",
+        "German Silver"
+      ]
     },
     {
       "series_id": "Gold Maple Leaf 1 oz__$50",
@@ -1258,6 +1334,22 @@
       "type": "coin"
     },
     {
+      "series_id": "PAMP Suisse Silver Bar__No_Face_Value",
+      "series_name": "PAMP Suisse Silver Bar",
+      "country_code": "CH",
+      "denomination": "No Face Value",
+      "start_year": 1977,
+      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
+      "official_name": "PAMP Suisse Silver Bar",
+      "type": "coin",
+      "aliases": [
+        "PAMP",
+        "PAMP Bar",
+        "Fortuna Bar",
+        "Lady Fortuna"
+      ]
+    },
+    {
       "series_id": "Palladium Maple Leaf__Palladium_Maple_Leaf",
       "series_name": "Palladium Maple Leaf",
       "country_code": "CA",
@@ -1480,6 +1572,38 @@
       ]
     },
     {
+      "series_id": "Seated Liberty Half Dollar__Half_Dollars",
+      "series_name": "Seated Liberty Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
+      "start_year": 1839,
+      "end_year": 1891,
+      "defining_characteristics": "Silver coin, 12.44g",
+      "official_name": "Seated Liberty Half Dollar",
+      "type": "coin",
+      "aliases": [
+        "Seated Half",
+        "Liberty Seated Half",
+        "Seated Liberty 50c"
+      ]
+    },
+    {
+      "series_id": "Seated Liberty Quarter__Quarters",
+      "series_name": "Seated Liberty Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1838,
+      "end_year": 1891,
+      "defining_characteristics": "Silver coin, 6.22g",
+      "official_name": "Seated Liberty Quarter",
+      "type": "coin",
+      "aliases": [
+        "Seated Quarter",
+        "Liberty Seated Quarter",
+        "Seated Liberty 25c"
+      ]
+    },
+    {
       "series_id": "Sesquicentennial of American Independence__Commemorative_Half_Dollars",
       "series_name": "Sesquicentennial of American Independence",
       "country_code": "US",
@@ -1564,6 +1688,21 @@
       ]
     },
     {
+      "series_id": "Singapore Lunar Series 1 oz__Two_Dollars",
+      "series_name": "Singapore Lunar Series 1 oz",
+      "country_code": "SG",
+      "denomination": "Two Dollars",
+      "start_year": 2010,
+      "defining_characteristics": "Bullion, 1.0 oz silver",
+      "official_name": "Singapore Lunar Series 1 oz",
+      "type": "coin",
+      "aliases": [
+        "Singapore Lunar",
+        "Singapore Zodiac",
+        "SG Lunar"
+      ]
+    },
+    {
       "series_id": "Small Cent__1_Cent",
       "series_name": "Small Cent",
       "country_code": "CA",
@@ -1594,6 +1733,21 @@
       ]
     },
     {
+      "series_id": "Sunshine Mint Silver__No_Face_Value",
+      "series_name": "Sunshine Mint Silver",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1983,
+      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
+      "official_name": "Sunshine Mint Silver",
+      "type": "coin",
+      "aliases": [
+        "Sunshine",
+        "Sunshine Mint",
+        "SMI Silver"
+      ]
+    },
+    {
       "series_id": "Texas Centennial__Commemorative_Half_Dollars",
       "series_name": "Texas Centennial",
       "country_code": "US",
@@ -1615,6 +1769,22 @@
       "type": "coin"
     },
     {
+      "series_id": "US Large Cent__Cents",
+      "series_name": "US Large Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1793,
+      "end_year": 1857,
+      "defining_characteristics": "Copper coin, 10.89g",
+      "official_name": "US Large Cent",
+      "type": "coin",
+      "aliases": [
+        "Large Penny",
+        "Copper Cent",
+        "Big Cent"
+      ]
+    },
+    {
       "series_id": "US-ATB5",
       "series_name": "America the Beautiful 5oz Silver",
       "country_code": "US",
@@ -1631,6 +1801,21 @@
       "start_year": 2010,
       "end_year": 2021,
       "type": "coin"
+    },
+    {
+      "series_id": "Valcambi Silver Bar__No_Face_Value",
+      "series_name": "Valcambi Silver Bar",
+      "country_code": "CH",
+      "denomination": "No Face Value",
+      "start_year": 1961,
+      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
+      "official_name": "Valcambi Silver Bar",
+      "type": "coin",
+      "aliases": [
+        "Valcambi",
+        "Valcambi Suisse",
+        "Valcambi Bar"
+      ]
     },
     {
       "series_id": "Vermont Sesquicentennial__Commemorative_Half_Dollars",

@@ -278,6 +278,63 @@
         "end": "XXXX",
         "start": "XXXX"
       }
+    },
+    {
+      "aliases": [
+        "Sunshine",
+        "Sunshine Mint",
+        "SMI Silver"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-SUNM-XXXX-X",
+          "composition": {
+            "silver": 99.9
+          },
+          "designer": "Sunshine Minting Inc.",
+          "diameter_mm": 39.0,
+          "distinguishing_features": "Sunshine Minting Inc.",
+          "mint": "X",
+          "notes": "Random year bullion - valued by metal content. Idaho-based mint. Known for security MintMark SI feature. Rounds and bars.",
+          "obverse_description": "Sunshine Mint logo (sun rays), 'SUNSHINE MINTING', weight, '.999 FINE SILVER'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle design or blank (bars)",
+          "source_citation": "Issue #92 - Bar/Pour Manufacturers",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 31.1035,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 31.1035
+          }
+        }
+      ],
+      "official_name": "Sunshine Mint Silver",
+      "series_code": "SUNM",
+      "series_id": "Sunshine Mint Silver",
+      "series_name": "Sunshine Mint Silver",
+      "specifications": {
+        "diameter_mm": 39.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
     }
   ]
 }

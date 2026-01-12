@@ -5,6 +5,64 @@
   "series": [
     {
       "aliases": [
+        "Seated Half",
+        "Liberty Seated Half",
+        "Seated Liberty 50c"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-STHF-1855-P",
+          "composition": {
+            "copper": 10,
+            "silver": 90
+          },
+          "designer": "Christian Gobrecht",
+          "diameter_mm": 30.6,
+          "distinguishing_features": "Christian Gobrecht",
+          "mint": "P",
+          "notes": "Multiple varieties: No Motto (1839-1866), With Motto (1866-1891). Branch mints: O, S, CC.",
+          "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle with shield on breast, 'UNITED STATES OF AMERICA', 'HALF DOL.' below",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 12.44,
+          "year": 1855
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1855,
+            "start": 1855
+          },
+          "weight": {
+            "grams": 12.44
+          }
+        }
+      ],
+      "official_name": "Seated Liberty Half Dollar",
+      "series_code": "STHF",
+      "series_id": "Seated Liberty Half Dollar",
+      "series_name": "Seated Liberty Half Dollar",
+      "specifications": {
+        "diameter_mm": 30.6,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1855,
+        "start": 1855
+      }
+    },
+    {
+      "aliases": [
         "Barber",
         "Liberty Head Half"
       ],
