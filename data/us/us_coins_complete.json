@@ -2,6 +2,94 @@
   "coins": [
     {
       "business_strikes": null,
+      "coin_id": "US-DRPT-1800-P",
+      "composition": {
+        "copper": 100
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 29.0,
+      "mint": "P",
+      "notes": "Classic early American cent design. Large cents only (no small cents in this era).",
+      "obverse_description": "Liberty facing right with draped bust, hair tied with ribbon, 'LIBERTY' above, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+      "series_id": "Draped Bust Cent",
+      "series_name": "Draped Bust Cent",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 10.89,
+      "year": "1800"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-CAPB-1810-P",
+      "composition": {
+        "copper": 100
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 29.0,
+      "mint": "P",
+      "notes": "Short-lived design by John Reich. Minting paused 1815-1816 due to copper shortage.",
+      "obverse_description": "Liberty facing left wearing cap, 'LIBERTY' on headband, stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+      "series_id": "Capped Bust Cent",
+      "series_name": "Capped Bust Cent",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 10.89,
+      "year": "1810"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-LGCT-1820-P",
+      "composition": {
+        "copper": 100
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 29.0,
+      "mint": "P",
+      "notes": "US copper cent minted 1793-1857. Multiple design types. Replaced by Flying Eagle Cent.",
+      "obverse_description": "Liberty head design (various types: Flowing Hair, Liberty Cap, Draped Bust, Classic Head, Coronet)",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wreath design surrounding 'ONE CENT', 'UNITED STATES OF AMERICA'",
+      "series_id": "US Large Cent",
+      "series_name": "US Large Cent",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 10.89,
+      "year": "1820"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-CLHC-1825-P",
+      "composition": {
+        "copper": 100
+      },
+      "country": "US",
+      "denomination": "Cents",
+      "diameter_mm": 29.0,
+      "mint": "P",
+      "notes": "Also known as Coronet or Matron Head. Large cent design 1816-1839.",
+      "obverse_description": "Liberty head with coronet inscribed 'LIBERTY', stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+      "series_id": "Classic Head Cent",
+      "series_name": "Classic Head Cent",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 10.89,
+      "year": "1825"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-SLDI-1837-P",
       "composition": {
         "copper": 10,
@@ -248,6 +336,52 @@
       ],
       "weight_grams": 0.75,
       "year": "1854"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-STHF-1855-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Half Dollars",
+      "diameter_mm": 30.6,
+      "mint": "P",
+      "notes": "Multiple varieties: No Motto (1839-1866), With Motto (1866-1891). Branch mints: O, S, CC.",
+      "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Eagle with shield on breast, 'UNITED STATES OF AMERICA', 'HALF DOL.' below",
+      "series_id": "Seated Liberty Half Dollar",
+      "series_name": "Seated Liberty Half Dollar",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 12.44,
+      "year": "1855"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-STQT-1855-P",
+      "composition": {
+        "copper": 10,
+        "silver": 90
+      },
+      "country": "US",
+      "denomination": "Quarters",
+      "diameter_mm": 24.3,
+      "mint": "P",
+      "notes": "Multiple varieties: No Motto (1838-1866), With Motto (1866-1891). Branch mints: O, S, CC.",
+      "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Eagle with shield on breast, 'UNITED STATES OF AMERICA', 'QUAR. DOL.' below",
+      "series_id": "Seated Liberty Quarter",
+      "series_name": "Seated Liberty Quarter",
+      "source_citation": "Issue #92 - Vintage US Type Coins",
+      "varieties": [],
+      "weight_grams": 6.22,
+      "year": "1855"
     },
     {
       "business_strikes": 139000,
@@ -24192,6 +24326,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CA-POLR-XXXX-X",
+      "composition": {
+        "silver": 99.99
+      },
+      "country": "CA",
+      "denomination": "Five Dollars",
+      "diameter_mm": 38.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Royal Canadian Mint bullion series. Design may vary by year.",
+      "obverse_description": "King Charles III effigy (2024+) or Queen Elizabeth II, 'CANADA', '5 DOLLARS', date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Polar bear design, '1 OZ FINE SILVER 9999 ARGENT PUR'",
+      "series_id": "Canadian Polar Bear 1 oz",
+      "series_name": "Canadian Polar Bear 1 oz",
+      "source_citation": "Issue #92 - World Silver",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "CA-SMLI-XXXX-X",
       "composition": {
         "silver": 99.99
@@ -24230,6 +24386,28 @@
       "series_id": "Silver Maple Leaf 1 oz",
       "series_name": "Silver Maple Leaf 1 oz",
       "source_citation": "Official mint specifications",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "DE-GERM-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "DE",
+      "denomination": "Five Mark",
+      "diameter_mm": 40.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Private mint series featuring Germanic mythology. Popular collectible bullion.",
+      "obverse_description": "Germania personification (female warrior with shield), denomination, date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Double-headed eagle design, '1 OZ', '.999 FINE SILVER'",
+      "series_id": "Germania 1 oz",
+      "series_name": "Germania 1 oz",
+      "source_citation": "Issue #92 - World Silver",
       "varieties": [],
       "weight_grams": 31.1035,
       "year": "XXXX"
@@ -24586,6 +24764,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "CH-PAMP-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "CH",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Swiss refiner. Lady Fortuna design iconic. Available in 1oz, 5oz, 10oz, 100oz, 1kg.",
+      "obverse_description": "PAMP logo, Lady Fortuna design, serial number, weight, '.999 FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Assay certificate information or blank",
+      "series_id": "PAMP Suisse Silver Bar",
+      "series_name": "PAMP Suisse Silver Bar",
+      "source_citation": "Issue #92 - Bar/Pour Manufacturers",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "US-SCOT-XXXX-X",
       "composition": {
         "silver": 99.9
@@ -24602,6 +24802,50 @@
       "series_id": "Scottsdale Mint Silver",
       "series_name": "Scottsdale Mint Silver",
       "source_citation": "Issue #90 - Vintage Bars/Pours",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "US-SUNM-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "US",
+      "denomination": "No Face Value",
+      "diameter_mm": 39.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Idaho-based mint. Known for security MintMark SI feature. Rounds and bars.",
+      "obverse_description": "Sunshine Mint logo (sun rays), 'SUNSHINE MINTING', weight, '.999 FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Eagle design or blank (bars)",
+      "series_id": "Sunshine Mint Silver",
+      "series_name": "Sunshine Mint Silver",
+      "source_citation": "Issue #92 - Bar/Pour Manufacturers",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
+      "coin_id": "CH-VALC-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "CH",
+      "denomination": "No Face Value",
+      "diameter_mm": null,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Swiss refiner owned by Rajesh Exports. CombiBar breakable bars popular.",
+      "obverse_description": "Valcambi logo, serial number, weight, '.999 FINE SILVER'",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Blank or Valcambi hallmark",
+      "series_id": "Valcambi Silver Bar",
+      "series_name": "Valcambi Silver Bar",
+      "source_citation": "Issue #92 - Bar/Pour Manufacturers",
       "varieties": [],
       "weight_grams": 31.1035,
       "year": "XXXX"
@@ -24740,6 +24984,28 @@
     },
     {
       "business_strikes": null,
+      "coin_id": "SG-SGLN-XXXX-X",
+      "composition": {
+        "silver": 99.9
+      },
+      "country": "SG",
+      "denomination": "Two Dollars",
+      "diameter_mm": 40.0,
+      "mint": "X",
+      "notes": "Random year bullion - valued by metal content. Annual Chinese Zodiac series. Minted by Singapore Mint. Limited mintages.",
+      "obverse_description": "Singapore national crest, 'SINGAPORE', denomination, date",
+      "proof_strikes": null,
+      "rarity": "common",
+      "reverse_description": "Chinese Zodiac animal design (changes annually), '1 oz 999 FINE SILVER'",
+      "series_id": "Singapore Lunar Series 1 oz",
+      "series_name": "Singapore Lunar Series 1 oz",
+      "source_citation": "Issue #92 - World Silver",
+      "varieties": [],
+      "weight_grams": 31.1035,
+      "year": "XXXX"
+    },
+    {
+      "business_strikes": null,
       "coin_id": "XX-WGLD-XXXX-X",
       "composition": {
         "gold": 91.67
@@ -24761,11 +25027,11 @@
       "year": "XXXX"
     }
   ],
-  "generated_at": "2026-01-11T23:00:30.280743",
+  "generated_at": "2026-01-11T23:24:56.093511",
   "taxonomy_version": "1.1",
-  "total_coins": 1146,
+  "total_coins": 1158,
   "year_range": {
-    "earliest": "1837",
+    "earliest": "1800",
     "latest": "XXXX"
   }
 }

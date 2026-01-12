@@ -5,6 +5,232 @@
   "series": [
     {
       "aliases": [
+        "Draped Bust",
+        "DB Cent"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-DRPT-1800-P",
+          "composition": {
+            "copper": 100
+          },
+          "designer": "Robert Scot",
+          "diameter_mm": 29.0,
+          "distinguishing_features": "Robert Scot",
+          "mint": "P",
+          "notes": "Classic early American cent design. Large cents only (no small cents in this era).",
+          "obverse_description": "Liberty facing right with draped bust, hair tied with ribbon, 'LIBERTY' above, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 10.89,
+          "year": 1800
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1800,
+            "start": 1800
+          },
+          "weight": {
+            "grams": 10.89
+          }
+        }
+      ],
+      "official_name": "Draped Bust Cent",
+      "series_code": "DRPT",
+      "series_id": "Draped Bust Cent",
+      "series_name": "Draped Bust Cent",
+      "specifications": {
+        "diameter_mm": 29.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1800,
+        "start": 1800
+      }
+    },
+    {
+      "aliases": [
+        "Capped Bust",
+        "Classic Head Large Cent"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-CAPB-1810-P",
+          "composition": {
+            "copper": 100
+          },
+          "designer": "John Reich",
+          "diameter_mm": 29.0,
+          "distinguishing_features": "John Reich",
+          "mint": "P",
+          "notes": "Short-lived design by John Reich. Minting paused 1815-1816 due to copper shortage.",
+          "obverse_description": "Liberty facing left wearing cap, 'LIBERTY' on headband, stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 10.89,
+          "year": 1810
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1810,
+            "start": 1810
+          },
+          "weight": {
+            "grams": 10.89
+          }
+        }
+      ],
+      "official_name": "Capped Bust Cent",
+      "series_code": "CAPB",
+      "series_id": "Capped Bust Cent",
+      "series_name": "Capped Bust Cent",
+      "specifications": {
+        "diameter_mm": 29.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1810,
+        "start": 1810
+      }
+    },
+    {
+      "aliases": [
+        "Large Penny",
+        "Copper Cent",
+        "Big Cent"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-LGCT-1820-P",
+          "composition": {
+            "copper": 100
+          },
+          "designer": "Various (Scot, Reich, Gobrecht)",
+          "diameter_mm": 29.0,
+          "distinguishing_features": "Various (Scot, Reich, Gobrecht)",
+          "mint": "P",
+          "notes": "US copper cent minted 1793-1857. Multiple design types. Replaced by Flying Eagle Cent.",
+          "obverse_description": "Liberty head design (various types: Flowing Hair, Liberty Cap, Draped Bust, Classic Head, Coronet)",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath design surrounding 'ONE CENT', 'UNITED STATES OF AMERICA'",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 10.89,
+          "year": 1820
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1820,
+            "start": 1820
+          },
+          "weight": {
+            "grams": 10.89
+          }
+        }
+      ],
+      "official_name": "US Large Cent",
+      "series_code": "LGCT",
+      "series_id": "US Large Cent",
+      "series_name": "US Large Cent",
+      "specifications": {
+        "diameter_mm": 29.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1820,
+        "start": 1820
+      }
+    },
+    {
+      "aliases": [
+        "Classic Head",
+        "Coronet Head Cent",
+        "Matron Head"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-CLHC-1825-P",
+          "composition": {
+            "copper": 100
+          },
+          "designer": "John Reich",
+          "diameter_mm": 29.0,
+          "distinguishing_features": "John Reich",
+          "mint": "P",
+          "notes": "Also known as Coronet or Matron Head. Large cent design 1816-1839.",
+          "obverse_description": "Liberty head with coronet inscribed 'LIBERTY', stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Wreath encircling 'ONE CENT', 'UNITED STATES OF AMERICA' around",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 10.89,
+          "year": 1825
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1825,
+            "start": 1825
+          },
+          "weight": {
+            "grams": 10.89
+          }
+        }
+      ],
+      "official_name": "Classic Head Cent",
+      "series_code": "CLHC",
+      "series_id": "Classic Head Cent",
+      "series_name": "Classic Head Cent",
+      "specifications": {
+        "diameter_mm": 29.0,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1825,
+        "start": 1825
+      }
+    },
+    {
+      "aliases": [
         "Lincoln Wheat",
         "Wheat Cent",
         "Wheaties",

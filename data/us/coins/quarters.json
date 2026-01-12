@@ -4,6 +4,64 @@
   "face_value": 0.25,
   "series": [
     {
+      "aliases": [
+        "Seated Quarter",
+        "Liberty Seated Quarter",
+        "Seated Liberty 25c"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-STQT-1855-P",
+          "composition": {
+            "copper": 10,
+            "silver": 90
+          },
+          "designer": "Christian Gobrecht",
+          "diameter_mm": 24.3,
+          "distinguishing_features": "Christian Gobrecht",
+          "mint": "P",
+          "notes": "Multiple varieties: No Motto (1838-1866), With Motto (1866-1891). Branch mints: O, S, CC.",
+          "obverse_description": "Liberty seated on rock, holding shield with 'LIBERTY' and pole with liberty cap, 13 stars around, date below",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle with shield on breast, 'UNITED STATES OF AMERICA', 'QUAR. DOL.' below",
+          "source_citation": "Issue #92 - Vintage US Type Coins",
+          "subcategory": "numismatic",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 6.22,
+          "year": 1855
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": 1855,
+            "start": 1855
+          },
+          "weight": {
+            "grams": 6.22
+          }
+        }
+      ],
+      "official_name": "Seated Liberty Quarter",
+      "series_code": "STQT",
+      "series_id": "Seated Liberty Quarter",
+      "series_name": "Seated Liberty Quarter",
+      "specifications": {
+        "diameter_mm": 24.3,
+        "edge": "plain"
+      },
+      "years": {
+        "end": 1855,
+        "start": 1855
+      }
+    },
+    {
       "coins": [
         {
           "business_strikes": null,
