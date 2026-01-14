@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schema/libertad_denominations.schema.json",
+  "version": "1.0.0",
+  "description": "Valid Libertad denominations by metal type. Source of truth for downstream systems.",
+  "last_updated": "2025-01-14",
+  "silver": {
+    "weights_oz": [0.05, 0.1, 0.25, 0.5, 1, 2, 5, 32.15],
+    "denominations": ["1/20oz", "1/10oz", "1/4oz", "1/2oz", "1oz", "2oz", "5oz", "1kg"],
+    "notes": {
+      "1kg": "32.15 troy oz equivalent, produced since 2002",
+      "1oz": "Most common denomination, produced since 1982",
+      "fractional": "1/20, 1/10, 1/4, 1/2 oz produced since 1992"
+    },
+    "start_years": {
+      "1oz": 1982,
+      "1/20oz": 1992,
+      "1/10oz": 1992,
+      "1/4oz": 1992,
+      "1/2oz": 1992,
+      "2oz": 1996,
+      "5oz": 1996,
+      "1kg": 2002
+    }
+  },
+  "gold": {
+    "weights_oz": [0.05, 0.1, 0.25, 0.5, 1],
+    "denominations": ["1/20oz", "1/10oz", "1/4oz", "1/2oz", "1oz"],
+    "notes": {
+      "1oz": "Produced since 1981",
+      "fractional": "1/20, 1/10 oz added in 1991; 1/4, 1/2 oz from 1981"
+    },
+    "start_years": {
+      "1oz": 1981,
+      "1/2oz": 1981,
+      "1/4oz": 1981,
+      "1/10oz": 1991,
+      "1/20oz": 1991
+    }
+  },
+  "platinum": {
+    "weights_oz": [1],
+    "denominations": ["1oz"],
+    "notes": {
+      "1oz": "Limited production, first issued 2016"
+    },
+    "start_years": {
+      "1oz": 2016
+    }
+  },
+  "bimetallic": {
+    "weights_oz": [1],
+    "denominations": ["1oz"],
+    "notes": {
+      "1oz": "Silver center with gold ring, limited issues"
+    }
+  }
+}
