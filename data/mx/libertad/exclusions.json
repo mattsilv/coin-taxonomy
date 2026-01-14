@@ -1,0 +1,136 @@
+{
+  "$schema": "../../schema/libertad_exclusions.schema.json",
+  "version": "1.0.0",
+  "description": "Exclusion keywords for filtering non-official Libertad products. These patterns indicate items that are NOT genuine Libertad bullion coins.",
+  "last_updated": "2025-01-14",
+  "fake_weights": {
+    "description": "Weights that are not official Libertad denominations, often tribute/replica rounds",
+    "patterns": [
+      "3g",
+      "5g",
+      "10g",
+      "15g",
+      "3gram",
+      "3 gram",
+      "5gram",
+      "5 gram",
+      "10gram",
+      "10 gram",
+      "1/8oz",
+      "1/8 oz",
+      "3oz",
+      "3 oz",
+      "10oz",
+      "10 oz"
+    ],
+    "notes": "Official silver weights: 1/20, 1/10, 1/4, 1/2, 1, 2, 5 oz and 1kg. Official gold weights: 1/20, 1/10, 1/4, 1/2, 1 oz"
+  },
+  "tribute_rounds": {
+    "description": "Indicators of unofficial tribute/replica products",
+    "patterns": [
+      "tribute",
+      "tribute round",
+      "commemorative card",
+      "coa card",
+      "intaglio",
+      "intaglio mint",
+      "copper",
+      "copper round",
+      "brass",
+      "nickel",
+      "replica",
+      "copy",
+      "reproduction",
+      "fantasy",
+      "medal",
+      "medallion",
+      "token"
+    ],
+    "notes": "Official Libertads are only minted in silver, gold, platinum, or bimetallic. Any other metal is unofficial."
+  },
+  "multi_coin_lots": {
+    "description": "Indicators of multi-coin listings that should not be classified as single coins",
+    "patterns": [
+      "and one",
+      "and 1/",
+      "( 2 coins )",
+      "( 3 coins )",
+      "(2 coins)",
+      "(3 coins)",
+      "(4 coins)",
+      "(5 coins)",
+      "2 coin",
+      "3 coin",
+      "4 coin",
+      "5 coin",
+      "2 coins",
+      "3 coins",
+      "4 coins",
+      "5 coins",
+      "lot of",
+      "set of",
+      "pair of",
+      "both coins",
+      "2-coin",
+      "3-coin",
+      "4-coin",
+      "5-coin",
+      "2x",
+      "3x",
+      "4x",
+      "5x",
+      "two coins",
+      "three coins",
+      "four coins",
+      "five coins"
+    ],
+    "notes": "Listings containing multiple coins should not be classified as a single denomination"
+  },
+  "non_official_modifications": {
+    "description": "Indicators of aftermarket modifications that affect authenticity/value",
+    "patterns": [
+      "colorized",
+      "gilded",
+      "gold plated",
+      "gold-plated",
+      "goldplated",
+      "enameled",
+      "painted",
+      "ruthenium",
+      "antique finish",
+      "antiqued",
+      "hologram",
+      "holographic",
+      "enhanced",
+      "laser engraved"
+    ],
+    "notes": "Aftermarket modifications. Note: Some official proofs have special finishes, but these terms typically indicate unofficial modifications."
+  },
+  "packaging_only": {
+    "description": "Indicators of packaging/accessories without the coin",
+    "patterns": [
+      "empty capsule",
+      "capsule only",
+      "box only",
+      "coa only",
+      "certificate only",
+      "no coin",
+      "without coin"
+    ],
+    "notes": "Listings for packaging/accessories without the actual coin"
+  },
+  "damaged_indicators": {
+    "description": "Indicators of significant damage that may affect classification confidence",
+    "patterns": [
+      "damaged",
+      "bent",
+      "holed",
+      "hole",
+      "mounted",
+      "jewelry",
+      "scrap",
+      "cull"
+    ],
+    "notes": "Damaged coins may still be genuine but require careful evaluation"
+  }
+}

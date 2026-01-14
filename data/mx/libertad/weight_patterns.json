@@ -1,0 +1,139 @@
+{
+  "$schema": "../../schema/libertad_weight_patterns.schema.json",
+  "version": "1.0.0",
+  "description": "Regex patterns for extracting weight from Libertad listing titles. Patterns are ordered by specificity - more specific patterns should be checked first.",
+  "last_updated": "2025-01-14",
+  "pattern_notes": {
+    "regex_flavor": "JavaScript/PCRE compatible",
+    "case_sensitivity": "Patterns should be applied case-insensitively (i flag)",
+    "order": "Process patterns in array order; first match wins",
+    "spanish": "Includes 'onza' patterns for Spanish language listings"
+  },
+  "silver_patterns": [
+    {
+      "pattern": "1[\\s\\-/]*kg|one[\\s\\-]*kilo|1[\\s\\-]*kilo",
+      "weight_oz": 32.15,
+      "denomination": "1kg",
+      "description": "1 kilogram (32.15 troy oz)"
+    },
+    {
+      "pattern": "5[\\s\\-]*(oz|onza|ounce)(?!\\s*silver\\s*eagle)",
+      "weight_oz": 5.0,
+      "denomination": "5oz",
+      "description": "5 oz silver"
+    },
+    {
+      "pattern": "2[\\s\\-]*(oz|onza|ounce)(?!\\s*silver\\s*eagle)",
+      "weight_oz": 2.0,
+      "denomination": "2oz",
+      "description": "2 oz silver"
+    },
+    {
+      "pattern": "1[\\s\\-]*(oz|onza|ounce)|one[\\s\\-]*(oz|onza|ounce)|\\b1oz\\b",
+      "weight_oz": 1.0,
+      "denomination": "1oz",
+      "description": "1 oz silver (default/most common)"
+    },
+    {
+      "pattern": "1[\\s/\\-]*2[\\s\\-]*(oz|onza|ounce)|half[\\s\\-]*(oz|onza|ounce)|\\.5[\\s\\-]*(oz|onza|ounce)|0\\.5[\\s\\-]*(oz|onza|ounce)",
+      "weight_oz": 0.5,
+      "denomination": "1/2oz",
+      "description": "1/2 oz silver"
+    },
+    {
+      "pattern": "1[\\s/\\-]*4[\\s\\-]*(oz|onza|ounce)|quarter[\\s\\-]*(oz|onza|ounce)|\\.25[\\s\\-]*(oz|onza|ounce)|0\\.25[\\s\\-]*(oz|onza|ounce)",
+      "weight_oz": 0.25,
+      "denomination": "1/4oz",
+      "description": "1/4 oz silver"
+    },
+    {
+      "pattern": "1[\\s/\\-]*10(th)?[\\s\\-]*(oz|onza|ounce)|tenth[\\s\\-]*(oz|onza|ounce)|\\.1[\\s\\-]*(oz|onza|ounce)|0\\.1[\\s\\-]*(oz|onza|ounce)",
+      "weight_oz": 0.1,
+      "denomination": "1/10oz",
+      "description": "1/10 oz silver"
+    },
+    {
+      "pattern": "1[\\s/\\-]*20(th)?[\\s\\-]*(oz|onza|ounce)|twentieth[\\s\\-]*(oz|onza|ounce)|\\.05[\\s\\-]*(oz|onza|ounce)|0\\.05[\\s\\-]*(oz|onza|ounce)",
+      "weight_oz": 0.05,
+      "denomination": "1/20oz",
+      "description": "1/20 oz silver"
+    }
+  ],
+  "gold_patterns": [
+    {
+      "pattern": "1[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold|gold[\\s\\-]*1[\\s\\-]*(oz|onza|ounce)|one[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold",
+      "weight_oz": 1.0,
+      "denomination": "1oz",
+      "description": "1 oz gold"
+    },
+    {
+      "pattern": "1[\\s/\\-]*2[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold|gold[\\s\\-]*1[\\s/\\-]*2[\\s\\-]*(oz|onza|ounce)|half[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold",
+      "weight_oz": 0.5,
+      "denomination": "1/2oz",
+      "description": "1/2 oz gold"
+    },
+    {
+      "pattern": "1[\\s/\\-]*4[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold|gold[\\s\\-]*1[\\s/\\-]*4[\\s\\-]*(oz|onza|ounce)|quarter[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold",
+      "weight_oz": 0.25,
+      "denomination": "1/4oz",
+      "description": "1/4 oz gold"
+    },
+    {
+      "pattern": "1[\\s/\\-]*10(th)?[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold|gold[\\s\\-]*1[\\s/\\-]*10(th)?[\\s\\-]*(oz|onza|ounce)|tenth[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold",
+      "weight_oz": 0.1,
+      "denomination": "1/10oz",
+      "description": "1/10 oz gold"
+    },
+    {
+      "pattern": "1[\\s/\\-]*20(th)?[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold|gold[\\s\\-]*1[\\s/\\-]*20(th)?[\\s\\-]*(oz|onza|ounce)|twentieth[\\s\\-]*(oz|onza|ounce)[\\s\\-]*gold",
+      "weight_oz": 0.05,
+      "denomination": "1/20oz",
+      "description": "1/20 oz gold"
+    }
+  ],
+  "fineness_patterns": [
+    {
+      "pattern": "\\.999[9]?[\\s\\-]*(fine)?[\\s\\-]*silver",
+      "fineness": 0.999,
+      "metal": "silver",
+      "description": ".999 or .9999 fine silver"
+    },
+    {
+      "pattern": "\\.999[9]?[\\s\\-]*(fine)?[\\s\\-]*gold",
+      "fineness": 0.999,
+      "metal": "gold",
+      "description": ".999 or .9999 fine gold"
+    },
+    {
+      "pattern": "\\.900[\\s\\-]*(fine)?[\\s\\-]*gold",
+      "fineness": 0.9,
+      "metal": "gold",
+      "description": ".900 fine gold (pre-1992 gold Libertads)"
+    }
+  ],
+  "proof_patterns": [
+    {
+      "pattern": "\\bproof\\b",
+      "is_proof": true,
+      "description": "Proof strike indicator"
+    },
+    {
+      "pattern": "\\bbu\\b|brilliant[\\s\\-]*uncirculated",
+      "is_proof": false,
+      "finish": "BU",
+      "description": "Brilliant Uncirculated (business strike)"
+    },
+    {
+      "pattern": "\\bantique[d]?[\\s\\-]*finish\\b",
+      "is_proof": false,
+      "finish": "antiqued",
+      "description": "Antiqued finish (typically unofficial)"
+    },
+    {
+      "pattern": "\\breverse[\\s\\-]*proof\\b",
+      "is_proof": true,
+      "finish": "reverse_proof",
+      "description": "Reverse proof finish"
+    }
+  ]
+}
