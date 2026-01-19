@@ -872,6 +872,22 @@
       ]
     },
     {
+      "series_id": "Indian Head Cent__Cents",
+      "series_name": "Indian Head Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1859,
+      "end_year": 1909,
+      "defining_characteristics": "Copper-nickel (1859-1864), Bronze (1864-1909). 1877 is key date with lowest mintage. 1908-S and 1909-S are scarce.",
+      "official_name": "Indian Head Cent",
+      "type": "coin",
+      "aliases": [
+        "Indian Cent",
+        "Indian Penny",
+        "Indian Head Penny"
+      ]
+    },
+    {
       "series_id": "Indian Head Quarter Eagle__$2.50",
       "series_name": "Indian Head Quarter Eagle",
       "country_code": "US",
@@ -930,6 +946,42 @@
       ]
     },
     {
+      "series_id": "Krugerrand Gold__No Face Value",
+      "series_name": "Krugerrand Gold",
+      "country_code": "ZA",
+      "denomination": "No Face Value",
+      "start_year": 1967,
+      "defining_characteristics": "First modern gold bullion coin. 22K gold (91.67%) with copper alloy. Available in 1 oz, 1/2 oz, 1/4 oz, 1/10 oz sizes. No face value - traded on gold content.",
+      "official_name": "South African Krugerrand (Gold)",
+      "type": "bullion",
+      "aliases": [
+        "Krugerrand",
+        "Kruger",
+        "Gold Krugerrand",
+        "SA Gold"
+      ],
+      "variety_suffixes": [
+        "1oz",
+        "12oz",
+        "14oz",
+        "110oz"
+      ]
+    },
+    {
+      "series_id": "Krugerrand Silver__No Face Value",
+      "series_name": "Krugerrand Silver",
+      "country_code": "ZA",
+      "denomination": "No Face Value",
+      "start_year": 2017,
+      "defining_characteristics": ".999 fine silver. Introduced in 2017 for 50th anniversary of original gold Krugerrand. 1 oz size.",
+      "official_name": "South African Krugerrand (Silver)",
+      "type": "bullion",
+      "aliases": [
+        "Silver Krugerrand",
+        "Krugerrand Silver 1oz"
+      ]
+    },
+    {
       "series_id": "Lafayette Dollar__Commemorative_Dollars",
       "series_name": "Lafayette Dollar",
       "country_code": "US",
@@ -967,6 +1019,22 @@
       "aliases": [
         "Lexington-Concord",
         "Lexington"
+      ]
+    },
+    {
+      "series_id": "Liberty Cap Large Cent__Cents",
+      "series_name": "Liberty Cap Large Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1793,
+      "end_year": 1796,
+      "defining_characteristics": "100% copper. Early American coinage featuring Liberty wearing Phrygian cap. Weight reduced from 13.48g to 10.89g in 1795. Very rare and valuable.",
+      "official_name": "Liberty Cap Large Cent",
+      "type": "coin",
+      "aliases": [
+        "Liberty Cap Cent",
+        "Liberty Cap",
+        "Phrygian Cap Cent"
       ]
     },
     {
@@ -1087,6 +1155,25 @@
       "start_year": 1916,
       "end_year": 1917,
       "type": "coin"
+    },
+    {
+      "series_id": "Mercury Dime__Dimes",
+      "series_name": "Mercury Dime",
+      "country_code": "US",
+      "denomination": "Dimes",
+      "start_year": 1916,
+      "end_year": 1945,
+      "defining_characteristics": "90% silver. Designed by Adolph A. Weinman. 1916-D is legendary key date (264,000 mintage). Full Bands designation for sharp strike.",
+      "official_name": "Winged Liberty Head Dime",
+      "type": "coin",
+      "aliases": [
+        "Winged Liberty Head Dime",
+        "Winged Liberty Dime",
+        "Mercury"
+      ],
+      "variety_suffixes": [
+        "FB"
+      ]
     },
     {
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -1510,6 +1597,21 @@
       "type": "coin",
       "aliases": [
         "Roanoke"
+      ]
+    },
+    {
+      "series_id": "Roosevelt Dime__Dimes",
+      "series_name": "Roosevelt Dime",
+      "country_code": "US",
+      "denomination": "Dimes",
+      "start_year": 1946,
+      "defining_characteristics": "90% silver (1946-1964), Clad (1965-present). Silver proofs available 1992-present. Designed by John R. Sinnock.",
+      "official_name": "Roosevelt Dime",
+      "type": "coin",
+      "aliases": [
+        "Roosevelt",
+        "Rosie",
+        "FDR Dime"
       ]
     },
     {
