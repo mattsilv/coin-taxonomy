@@ -2000,6 +2000,107 @@
       "defining_characteristics": "{\"weight_troy_oz\": 1.0, \"weight_grams\": 31.103, \"diameter_mm\": 40.6, \"thickness_mm\": 2.98, \"fineness\": 0.999, \"silver_content_oz\": 1.0, \"composition\": {\"silver\": 99.9}, \"edge\": \"reeded\", \"designer\": \"Adolph A. Weinman (obverse), John Mercanti (reverse Type 1), Emily Damstra (reverse Type 2)\"}",
       "official_name": "American Silver Eagle $1 One Ounce Silver Coin",
       "type": "bullion"
+    },
+    {
+      "series_id": "Gold Dollar Type 1__$1",
+      "series_name": "Gold Dollar Type 1",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": 1849,
+      "end_year": 1854,
+      "type": "coin",
+      "aliases": ["Liberty Head Gold Dollar", "Type 1 Gold Dollar"]
+    },
+    {
+      "series_id": "Gold Dollar Type 2__$1",
+      "series_name": "Gold Dollar Type 2",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": 1854,
+      "end_year": 1856,
+      "type": "coin",
+      "aliases": ["Small Indian Head Gold Dollar", "Indian Princess Type 2"]
+    },
+    {
+      "series_id": "Gold Dollar Type 3__$1",
+      "series_name": "Gold Dollar Type 3",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": 1856,
+      "end_year": 1889,
+      "type": "coin",
+      "aliases": ["Large Indian Head Gold Dollar", "Indian Princess Type 3"]
+    },
+    {
+      "series_id": "Three Dollar Gold__$3",
+      "series_name": "Three Dollar Gold",
+      "country_code": "US",
+      "denomination": "$3",
+      "start_year": 1854,
+      "end_year": 1889,
+      "type": "coin",
+      "aliases": ["Indian Princess $3", "$3 Gold"]
+    },
+    {
+      "series_id": "Liberty Head Half Eagle__$5",
+      "series_name": "Liberty Head Half Eagle",
+      "country_code": "US",
+      "denomination": "$5",
+      "start_year": 1839,
+      "end_year": 1908,
+      "type": "coin",
+      "aliases": ["Liberty $5", "Coronet Half Eagle", "Liberty Gold $5"]
+    },
+    {
+      "series_id": "Indian Head Half Eagle__$5",
+      "series_name": "Indian Head Half Eagle",
+      "country_code": "US",
+      "denomination": "$5",
+      "start_year": 1908,
+      "end_year": 1929,
+      "type": "coin",
+      "aliases": ["Indian $5", "Incuse $5"]
+    },
+    {
+      "series_id": "Liberty Head Eagle__$10",
+      "series_name": "Liberty Head Eagle",
+      "country_code": "US",
+      "denomination": "$10",
+      "start_year": 1838,
+      "end_year": 1907,
+      "type": "coin",
+      "aliases": ["Liberty $10", "Coronet Eagle"]
+    },
+    {
+      "series_id": "Indian Head Eagle__$10",
+      "series_name": "Indian Head Eagle",
+      "country_code": "US",
+      "denomination": "$10",
+      "start_year": 1907,
+      "end_year": 1933,
+      "type": "coin",
+      "aliases": ["Indian $10"]
+    },
+    {
+      "series_id": "Liberty Head Double Eagle__$20",
+      "series_name": "Liberty Head Double Eagle",
+      "country_code": "US",
+      "denomination": "$20",
+      "start_year": 1850,
+      "end_year": 1907,
+      "type": "coin",
+      "aliases": ["Liberty $20", "Coronet Double Eagle"]
+    },
+    {
+      "series_id": "St. Gaudens Double Eagle__$20",
+      "series_name": "St. Gaudens Double Eagle",
+      "country_code": "US",
+      "denomination": "$20",
+      "start_year": 1907,
+      "end_year": 1933,
+      "type": "coin",
+      "aliases": ["St. Gaudens $20", "Saint Gaudens"],
+      "variety_suffixes": ["High Relief", "HR"]
     }
   ]
 }
