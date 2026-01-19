@@ -69,6 +69,7 @@ def create_universal_schema(conn):
             defining_characteristics TEXT,
             official_name TEXT,
             type TEXT DEFAULT 'coin',  -- coin, banknote
+            series_group TEXT,  -- optional grouping for related series (e.g., "American Eagle", "Classic Commemoratives")
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         )
