@@ -210,18 +210,18 @@ def main():
     else:
         print(f"   ⚠️  {duplicate_count} codes appear in multiple files")
 
-    # Validate database
+    # Validate database (canonical path: database/coins.db)
     print("\n🗄️  Validating database...")
-    db_paths = ["coins.db", "database/coins.db"]
-    for db_path in db_paths:
-        if Path(db_path).exists():
-            db_errors = validate_database(db_path)
-            if not db_errors:
-                print(f"   ✅ {db_path}")
-            else:
-                print(f"   ❌ {db_path} ({len(db_errors)} errors)")
-                all_errors.extend(db_errors)
-            break
+    db_path = "database/coins.db"  # Canonical DB path per SOURCE_OF_TRUTH.md
+    if Path(db_path).exists():
+        db_errors = validate_database(db_path)
+        if not db_errors:
+            print(f"   ✅ {db_path}")
+        else:
+            print(f"   ❌ {db_path} ({len(db_errors)} errors)")
+            all_errors.extend(db_errors)
+    else:
+        print(f"   ⚠️  Database not found at {db_path}")
 
     # Summary
     print("\n" + "=" * 60)

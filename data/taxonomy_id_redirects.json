@@ -1,0 +1,7 @@
+{
+  "_comment": "Maps old taxonomy IDs to new IDs when changes are made. Empty if no ID changes.",
+  "_version": "1.0.0",
+  "_updated": "2025-01-19",
+  "_issue": "#116",
+  "redirects": {}
+}
