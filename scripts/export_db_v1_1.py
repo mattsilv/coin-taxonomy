@@ -252,7 +252,8 @@ def export_registries(conn, output_dir):
             'end_year': row_dict.get('end_year'),
             'defining_characteristics': row_dict.get('defining_characteristics'),
             'official_name': row_dict.get('official_name'),
-            'type': row_dict.get('type')
+            'type': row_dict.get('type'),
+            'series_group': row_dict.get('series_group')
         }
         # Parse aliases JSON if present
         if row_dict.get('aliases'):

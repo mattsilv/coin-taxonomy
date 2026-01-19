@@ -2,6 +2,17 @@
 
 This document establishes `coin-taxonomy` as the canonical source of truth for all taxonomy definitions across the coin ecosystem.
 
+## Canonical Database Location
+
+**CRITICAL**: The SQLite database at `database/coins.db` is the single source of truth.
+
+| Path | Status | Purpose |
+|------|--------|---------|
+| `database/coins.db` | **CANONICAL** | Production database - all scripts must use this |
+| `coins.db` (root) | DEPRECATED | Legacy location - do not use |
+
+All validation scripts, migration scripts, and export pipelines must reference `database/coins.db`.
+
 ## What This Repo Owns
 
 ### Taxonomy ID Format Specification

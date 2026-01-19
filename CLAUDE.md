@@ -11,7 +11,9 @@ ALWAYS use uv for Python dependency management:
 - Never use pip directly
 
 ## Data Source of Truth - Database-First Pipeline ⚠️
-**CRITICAL**: SQLite database is the SINGLE SOURCE OF TRUTH for all coin data.
+**CRITICAL**: SQLite database at `database/coins.db` is the SINGLE SOURCE OF TRUTH for all coin data.
+
+**Canonical DB Path**: `database/coins.db` (NOT `coins.db` at root - that's deprecated)
 
 **NEVER EDIT JSON FILES DIRECTLY** - They are generated artifacts!
 
