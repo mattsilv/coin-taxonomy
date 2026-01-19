@@ -3,6 +3,7 @@
 Taxonomy Validation Tests
 
 Issue #85: Add taxonomy documentation and validation tests
+Updated for Issue #113: Uses shared TaxonomyValidator module
 
 Validates:
 - All series codes are unique 4-letter uppercase
@@ -12,68 +13,42 @@ Validates:
 """
 
 import json
-import re
 import sqlite3
 import sys
 from pathlib import Path
 from collections import defaultdict
 
+# Add project root to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+# Use the shared canonical validator (Issue #113)
+from scripts.utils.taxonomy_validator import TaxonomyValidator
+
+# Module-level validator instance
+_validator = TaxonomyValidator()
+
 
 def validate_series_code_format(code: str) -> tuple[bool, str]:
-    """Validate series code is 4 uppercase alphanumeric characters.
+    """Validate series code using shared TaxonomyValidator.
 
-    Note: While CLAUDE.md specifies letters only, some existing series
-    (Engelhard, ATB) use alphanumeric codes like EN18, ATB5.
+    Returns:
+        tuple: (is_valid, error_message)
     """
-    if not code:
-        return False, "Empty code"
-    if len(code) != 4:
-        return False, f"Code '{code}' is not 4 characters"
-    if not code.isupper() and not code.isdigit():
-        # Check if mixed alphanumeric but all uppercase letters
-        if not all(c.isupper() or c.isdigit() for c in code):
-            return False, f"Code '{code}' contains invalid characters"
-    if not code.isalnum():
-        return False, f"Code '{code}' is not alphanumeric"
+    errors, _ = _validator.validate_series_code(code)
+    if errors:
+        return False, errors[0].message
     return True, ""
 
 
 def validate_coin_id_format(coin_id: str) -> tuple[bool, str]:
-    """Validate coin ID matches format: COUNTRY-CODE-YEAR-MINT[-VARIETY]."""
-    if not coin_id:
-        return False, "Empty coin_id"
+    """Validate coin ID using shared TaxonomyValidator.
 
-    # Split by dash
-    parts = coin_id.split("-")
-    if len(parts) < 4:
-        return False, f"'{coin_id}' has less than 4 parts"
-    if len(parts) > 5:
-        return False, f"'{coin_id}' has more than 5 parts"
-
-    country, code, year, mint = parts[:4]
-    variety = parts[4] if len(parts) == 5 else None
-
-    # Country: 2-3 uppercase letters
-    if not re.match(r"^[A-Z]{2,3}$", country):
-        return False, f"Invalid country '{country}' in {coin_id}"
-
-    # Code: 4 uppercase alphanumeric characters
-    if not re.match(r"^[A-Z0-9]{4}$", code):
-        return False, f"Invalid series code '{code}' in {coin_id}"
-
-    # Year: 4 digits or XXXX
-    if not re.match(r"^(\d{4}|XXXX)$", year):
-        return False, f"Invalid year '{year}' in {coin_id}"
-
-    # Mint: 1-2 uppercase letters
-    if not re.match(r"^[A-Z]{1,2}$", mint):
-        return False, f"Invalid mint '{mint}' in {coin_id}"
-
-    # Variety (optional): 1-20 alphanumeric (extended for descriptive names like PronghornAntelope)
-    # Note: Prefer short codes (4 chars) for new entries
-    if variety and not re.match(r"^[A-Za-z0-9]{1,20}$", variety):
-        return False, f"Invalid variety '{variety}' in {coin_id}"
-
+    Returns:
+        tuple: (is_valid, error_message)
+    """
+    errors, _ = _validator.validate_coin_id(coin_id)
+    if errors:
+        return False, errors[0].message
     return True, ""
 
 

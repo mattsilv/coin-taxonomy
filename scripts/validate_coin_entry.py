@@ -4,10 +4,23 @@ Coin Entry Validation Module
 
 Validates that coin entries include all required fields, including visual descriptions.
 Used by migration scripts to ensure data completeness before database insertion.
+
+Updated for Issue #113: Uses shared TaxonomyValidator for coin_id format validation.
 """
 
 import json
+import sys
+from pathlib import Path
 from typing import Dict, List, Optional
+
+# Add project root to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+# Use the shared canonical validator (Issue #113)
+from scripts.utils.taxonomy_validator import TaxonomyValidator
+
+# Module-level validator instance
+_taxonomy_validator = TaxonomyValidator()
 
 class CoinEntryValidator:
     """Validates coin entry data for completeness and format."""
@@ -102,34 +115,12 @@ class CoinEntryValidator:
             if isinstance(names, list) and len(names) == 0:
                 errors.append("common_names cannot be empty array")
         
-        # Validate coin_id format: COUNTRY-TYPE-YEAR-MINT or COUNTRY-TYPE-YEAR-MINT-SUFFIX
+        # Validate coin_id format using shared TaxonomyValidator (Issue #113)
         if 'coin_id' in coin_data:
             coin_id = coin_data['coin_id']
-            parts = coin_id.split('-')
-            if len(parts) not in (4, 5):
-                errors.append(f"coin_id must have format COUNTRY-TYPE-YEAR-MINT[-SUFFIX], got: {coin_id}")
-            else:
-                country = parts[0]
-                type_code = parts[1]
-                year_str = parts[2]
-                mint = parts[3]
-                suffix = parts[4] if len(parts) == 5 else None
-
-                if len(country) < 2 or len(country) > 3 or not country.isupper():
-                    errors.append(f"Country code must be 2-3 uppercase letters, got: {country}")
-                if len(type_code) < 2 or len(type_code) > 4 or not type_code.isalnum() or not type_code.isupper():
-                    errors.append(f"Type code must be 2-4 uppercase alphanumeric, got: {type_code}")
-                if not (year_str.isdigit() and len(year_str) == 4) and year_str != 'XXXX':
-                    errors.append(f"Year must be 4 digits or 'XXXX', got: {year_str}")
-                if len(mint) < 1 or len(mint) > 2 or not mint.isupper():
-                    errors.append(f"Mint mark must be 1-2 uppercase letters, got: {mint}")
-
-                # Validate suffix if present
-                if suffix:
-                    if not suffix.isalnum() or not suffix.isupper():
-                        errors.append(f"Suffix must be uppercase alphanumeric, got: {suffix}")
-                    if len(suffix) > 6:
-                        errors.append(f"Suffix must be 1-6 characters, got: {len(suffix)}")
+            validation_errors, _ = _taxonomy_validator.validate_coin_id(coin_id)
+            for ve in validation_errors:
+                errors.append(f"{ve.field}: {ve.message} (got: {ve.value})")
         
         # Check optional fields types
         for field, expected_types in self.OPTIONAL_FIELDS.items():
