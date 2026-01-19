@@ -161,7 +161,7 @@ def main():
     """Run priority score updates"""
     print("🔄 Updating variant priority scores...")
     
-    conn = sqlite3.connect('data/coins.db')
+    conn = sqlite3.connect('database/coins.db')
     
     try:
         # Update priority scores

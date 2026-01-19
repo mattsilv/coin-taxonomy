@@ -228,8 +228,8 @@ def main():
     """Run migration"""
     print("🔄 Running migration: Adding Buffalo Nickel variants...")
     
-    # Connect to database (using data/coins.db where coin_variants table exists)
-    conn = sqlite3.connect('data/coins.db')
+    # Connect to database (using database/coins.db where coin_variants table exists)
+    conn = sqlite3.connect('database/coins.db')
     cursor = conn.cursor()
     
     try:

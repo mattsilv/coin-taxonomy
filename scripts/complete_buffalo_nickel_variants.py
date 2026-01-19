@@ -344,7 +344,7 @@ def main():
     """Complete Buffalo Nickel implementation"""
     print("🦬 Implementing complete Buffalo Nickel variant system...")
     
-    conn = sqlite3.connect('data/coins.db')
+    conn = sqlite3.connect('database/coins.db')
     
     try:
         # Clear existing and add complete set

@@ -35,7 +35,7 @@ class MarketplaceListing:
 class MarketplaceListingMatcher:
     """Advanced fuzzy matching for marketplace listings"""
     
-    def __init__(self, db_path='data/coins.db'):
+    def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         self._build_lookup_tables()
         self._init_normalizers()

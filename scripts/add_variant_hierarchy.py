@@ -158,7 +158,7 @@ def main():
     """Run migration to add hierarchical relationships"""
     print("🔄 Adding hierarchical variant relationships...")
     
-    conn = sqlite3.connect('data/coins.db')
+    conn = sqlite3.connect('database/coins.db')
     
     try:
         # Add parent column

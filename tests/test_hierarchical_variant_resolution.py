@@ -17,7 +17,7 @@ class TestHierarchicalVariantResolution(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         """Set up test class with database connection."""
-        cls.db_path = 'data/coins.db'
+        cls.db_path = 'database/coins.db'
         cls.resolver = VariantResolver(db_path=cls.db_path)
     
     def test_database_schema(self):
@@ -227,7 +227,7 @@ class TestDataIntegrity(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         """Set up test class with database connection."""
-        cls.db_path = 'data/coins.db'
+        cls.db_path = 'database/coins.db'
     
     def test_variant_id_format(self):
         """Test all variant IDs follow correct format."""

@@ -232,7 +232,7 @@ python scripts/migrate_hierarchical_variant_resolution.py
 Backups are automatically created:
 ```bash
 # Restore from backup
-cp backups/coins_backup_variant_hierarchy_TIMESTAMP.db data/coins.db
+cp backups/coins_backup_variant_hierarchy_TIMESTAMP.db database/coins.db
 ```
 
 ## API Reference
