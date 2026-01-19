@@ -11,7 +11,7 @@ from typing import List, Dict, Optional
 class CoinVariantQuery:
     """Helper class for querying coin variants"""
     
-    def __init__(self, db_path: str = 'data/coins.db'):
+    def __init__(self, db_path: str = 'database/coins.db'):
         self.db_path = db_path
     
     def get_all_variants_for_type(self, base_type: str) -> List[Dict]:

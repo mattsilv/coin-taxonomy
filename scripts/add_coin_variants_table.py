@@ -183,7 +183,7 @@ def main():
     print("🔄 Running migration: Adding coin_variants table...")
     
     # Connect to database
-    conn = sqlite3.connect('data/coins.db')
+    conn = sqlite3.connect('database/coins.db')
     cursor = conn.cursor()
     
     try:

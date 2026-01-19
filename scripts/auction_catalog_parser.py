@@ -34,7 +34,7 @@ class AuctionListing:
 class AuctionCatalogParser:
     """Parse auction listings and map to coin variants"""
     
-    def __init__(self, db_path='data/coins.db'):
+    def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         self._init_patterns()
         self._init_coin_types()

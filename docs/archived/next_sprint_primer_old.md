@@ -154,7 +154,7 @@ uv add pytest --dev  # If running tests
 ### 2. Database-First Development
 ```bash
 # Always start with database changes
-sqlite3 data/coins.db
+sqlite3 database/coins.db
 
 # Create migration script
 vim scripts/add_[feature].py
@@ -214,7 +214,7 @@ When you commit, these run automatically:
 
 - **GitHub Issues**: Comment on the issue you're working on
 - **Previous PRs**: Check commits `49106f0` and `3282a5e` for auction parser examples
-- **Database Schema**: See `data/coins.db` for current structure
+- **Database Schema**: See `database/coins.db` for current structure
 - **Test Examples**: `tests/test_auction_marketplace_integration.py` shows patterns
 
 ## 🎯 Why This Matters

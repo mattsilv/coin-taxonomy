@@ -22,7 +22,7 @@ from datetime import datetime
 from typing import Dict, List, Tuple, Optional
 
 class HierarchicalVariantResolutionMigration:
-    def __init__(self, db_path='data/coins.db'):
+    def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         self.backup_path = None
         
@@ -326,7 +326,7 @@ import sqlite3
 from typing import Optional, List, Dict, Tuple
 
 class VariantResolver:
-    def __init__(self, db_path='data/coins.db'):
+    def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         
     def map_auction_to_variant(self, year: int, mint_mark: str, coin_type: str, 
@@ -643,7 +643,7 @@ if __name__ == "__main__":
 def main():
     parser = argparse.ArgumentParser(description='Migrate database for hierarchical variant resolution')
     parser.add_argument('--dry-run', action='store_true', help='Test migration without saving changes')
-    parser.add_argument('--db-path', default='data/coins.db', help='Path to database file')
+    parser.add_argument('--db-path', default='database/coins.db', help='Path to database file')
     
     args = parser.parse_args()
     

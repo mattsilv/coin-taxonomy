@@ -10,7 +10,7 @@ import json
 from typing import Optional, List, Dict, Tuple
 
 class VariantResolver:
-    def __init__(self, db_path='data/coins.db'):
+    def __init__(self, db_path='database/coins.db'):
         self.db_path = db_path
         
     def map_auction_to_variant(self, year: int, mint_mark: str, coin_type: str, 
