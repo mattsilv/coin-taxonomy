@@ -22,6 +22,7 @@
 
 ### 🔧 Integration & Development
 - **[Integration Guide](./INTEGRATION_GUIDE.md)** - How to integrate the taxonomy into your application
+- **[Search Query Schema](./search-query-schema.md)** - JSON schema for search query configurations
 - **[Bullion Integration Guide](./BULLION_INTEGRATION_GUIDE.md)** - Backend engineer primer for bullion products
 - **[Coin Inventory Guide](./COIN_INVENTORY_GUIDE.md)** - 🆕 Collection management & graded coin tracking ([Issue #65](https://github.com/mattsilv/coin-taxonomy/issues/65))
 - **[AI Research Guidelines](./AI_RESEARCH_GUIDELINES.md)** - Using AI for coin research
