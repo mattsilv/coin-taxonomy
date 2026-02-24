@@ -659,7 +659,7 @@
       "notes": "Ottawa mint, C mint mark"
     },
     {
-      "issue_id": "CA-$5 -1912-C",
+      "issue_id": "CA-FGLD-1912-C",
       "object_type": "coin",
       "series_id": "$5 Gold__Five_Dollars",
       "series_name": "$5 Gold__Five_Dollars",
@@ -713,7 +713,7 @@
       "notes": "Withdrawn 1914, officially released 2012"
     },
     {
-      "issue_id": "CA-$10-1912-C",
+      "issue_id": "CA-TGLD-1912-C",
       "object_type": "coin",
       "series_id": "$10 Gold__Ten_Dollars",
       "series_name": "$10 Gold__Ten_Dollars",
@@ -767,7 +767,7 @@
       "notes": "Withdrawn 1914, officially released 2012"
     },
     {
-      "issue_id": "CA-$5 -1913-C",
+      "issue_id": "CA-FGLD-1913-C",
       "object_type": "coin",
       "series_id": "$5 Gold__Five_Dollars",
       "series_name": "$5 Gold__Five_Dollars",
@@ -821,7 +821,7 @@
       "notes": "Withdrawn 1914, officially released 2012"
     },
     {
-      "issue_id": "CA-$10-1913-C",
+      "issue_id": "CA-TGLD-1913-C",
       "object_type": "coin",
       "series_id": "$10 Gold__Ten_Dollars",
       "series_name": "$10 Gold__Ten_Dollars",
@@ -929,7 +929,7 @@
       "notes": "Ottawa mint, C mint mark"
     },
     {
-      "issue_id": "CA-$5 -1914-C",
+      "issue_id": "CA-FGLD-1914-C",
       "object_type": "coin",
       "series_id": "$5 Gold__Five_Dollars",
       "series_name": "$5 Gold__Five_Dollars",
@@ -983,7 +983,7 @@
       "notes": "Withdrawn 1914, officially released 2012"
     },
     {
-      "issue_id": "CA-$10-1914-C",
+      "issue_id": "CA-TGLD-1914-C",
       "object_type": "coin",
       "series_id": "$10 Gold__Ten_Dollars",
       "series_name": "$10 Gold__Ten_Dollars",
@@ -2246,7 +2246,7 @@
       "source_citation": "Charlton Standard Catalogue of Canadian Coins"
     },
     {
-      "issue_id": "CA-5 C-1968-P",
+      "issue_id": "CA-NICK-1968-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2354,7 +2354,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1969-P",
+      "issue_id": "CA-NICK-1969-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2462,7 +2462,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1970-P",
+      "issue_id": "CA-NICK-1970-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2570,7 +2570,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1971-P",
+      "issue_id": "CA-NICK-1971-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2678,7 +2678,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1972-P",
+      "issue_id": "CA-NICK-1972-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2786,7 +2786,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1973-P",
+      "issue_id": "CA-NICK-1973-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -2894,7 +2894,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1974-P",
+      "issue_id": "CA-NICK-1974-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3002,7 +3002,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1975-P",
+      "issue_id": "CA-NICK-1975-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3110,7 +3110,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1976-P",
+      "issue_id": "CA-NICK-1976-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3218,7 +3218,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1977-P",
+      "issue_id": "CA-NICK-1977-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3326,7 +3326,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1978-P",
+      "issue_id": "CA-NICK-1978-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3434,7 +3434,7 @@
       "notes": "Nickel dollar era"
     },
     {
-      "issue_id": "CA-5 C-1979-P",
+      "issue_id": "CA-NICK-1979-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3596,7 +3596,7 @@
       "notes": ".999 fine"
     },
     {
-      "issue_id": "CA-5 C-1980-P",
+      "issue_id": "CA-NICK-1980-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3758,7 +3758,7 @@
       "notes": ".999 fine"
     },
     {
-      "issue_id": "CA-5 C-1981-P",
+      "issue_id": "CA-NICK-1981-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -3920,7 +3920,7 @@
       "notes": ".999 fine"
     },
     {
-      "issue_id": "CA-5 C-1982-P",
+      "issue_id": "CA-NICK-1982-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -4082,7 +4082,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1982-P",
+      "issue_id": "CA-GMLH-1982-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -4136,7 +4136,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1982-P",
+      "issue_id": "CA-GMLQ-1982-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -4190,7 +4190,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1982-P",
+      "issue_id": "CA-GMLT-1982-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -4244,7 +4244,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1982-P",
+      "issue_id": "CA-GMLS-1982-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -4298,7 +4298,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1983-P",
+      "issue_id": "CA-NICK-1983-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -4460,7 +4460,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1983-P",
+      "issue_id": "CA-GMLH-1983-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -4514,7 +4514,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1983-P",
+      "issue_id": "CA-GMLQ-1983-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -4568,7 +4568,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1983-P",
+      "issue_id": "CA-GMLT-1983-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -4622,7 +4622,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1983-P",
+      "issue_id": "CA-GMLS-1983-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -4676,7 +4676,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1984-P",
+      "issue_id": "CA-NICK-1984-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -4838,7 +4838,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1984-P",
+      "issue_id": "CA-GMLH-1984-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -4892,7 +4892,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1984-P",
+      "issue_id": "CA-GMLQ-1984-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -4946,7 +4946,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1984-P",
+      "issue_id": "CA-GMLT-1984-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -5000,7 +5000,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1984-P",
+      "issue_id": "CA-GMLS-1984-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -5054,7 +5054,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1985-P",
+      "issue_id": "CA-NICK-1985-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -5216,7 +5216,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1985-P",
+      "issue_id": "CA-GMLH-1985-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -5270,7 +5270,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1985-P",
+      "issue_id": "CA-GMLQ-1985-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -5324,7 +5324,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1985-P",
+      "issue_id": "CA-GMLT-1985-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -5378,7 +5378,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1985-P",
+      "issue_id": "CA-GMLS-1985-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -5432,7 +5432,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1986-P",
+      "issue_id": "CA-NICK-1986-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -5594,7 +5594,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1986-P",
+      "issue_id": "CA-GMLH-1986-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -5648,7 +5648,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1986-P",
+      "issue_id": "CA-GMLQ-1986-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -5702,7 +5702,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1986-P",
+      "issue_id": "CA-GMLT-1986-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -5756,7 +5756,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1986-P",
+      "issue_id": "CA-GMLS-1986-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -5810,7 +5810,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1987-P",
+      "issue_id": "CA-NICK-1987-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -5972,7 +5972,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1987-P",
+      "issue_id": "CA-GMLH-1987-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -6026,7 +6026,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1987-P",
+      "issue_id": "CA-GMLQ-1987-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -6080,7 +6080,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1987-P",
+      "issue_id": "CA-GMLT-1987-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -6134,7 +6134,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1987-P",
+      "issue_id": "CA-GMLS-1987-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -6188,7 +6188,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-5 C-1988-P",
+      "issue_id": "CA-NICK-1988-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -6350,7 +6350,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1988-P",
+      "issue_id": "CA-GMLH-1988-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -6404,7 +6404,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1988-P",
+      "issue_id": "CA-GMLQ-1988-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -6458,7 +6458,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1988-P",
+      "issue_id": "CA-GMLT-1988-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -6512,7 +6512,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1988-P",
+      "issue_id": "CA-GMLS-1988-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -6674,7 +6674,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1989-P",
+      "issue_id": "CA-NICK-1989-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -6836,7 +6836,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1989-P",
+      "issue_id": "CA-GMLH-1989-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -6890,7 +6890,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1989-P",
+      "issue_id": "CA-GMLQ-1989-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -6944,7 +6944,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1989-P",
+      "issue_id": "CA-GMLT-1989-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -6998,7 +6998,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1989-P",
+      "issue_id": "CA-GMLS-1989-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -7160,7 +7160,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1990-P",
+      "issue_id": "CA-NICK-1990-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -7322,7 +7322,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1990-P",
+      "issue_id": "CA-GMLH-1990-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -7376,7 +7376,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1990-P",
+      "issue_id": "CA-GMLQ-1990-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -7430,7 +7430,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1990-P",
+      "issue_id": "CA-GMLT-1990-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -7484,7 +7484,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1990-P",
+      "issue_id": "CA-GMLS-1990-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -7646,7 +7646,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1991-P",
+      "issue_id": "CA-NICK-1991-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -7808,7 +7808,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1991-P",
+      "issue_id": "CA-GMLH-1991-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -7862,7 +7862,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1991-P",
+      "issue_id": "CA-GMLQ-1991-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -7916,7 +7916,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1991-P",
+      "issue_id": "CA-GMLT-1991-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -7970,7 +7970,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1991-P",
+      "issue_id": "CA-GMLS-1991-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -8132,7 +8132,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1992-P",
+      "issue_id": "CA-NICK-1992-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -8294,7 +8294,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1992-P",
+      "issue_id": "CA-GMLH-1992-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -8348,7 +8348,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1992-P",
+      "issue_id": "CA-GMLQ-1992-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -8402,7 +8402,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1992-P",
+      "issue_id": "CA-GMLT-1992-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -8456,7 +8456,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1992-P",
+      "issue_id": "CA-GMLS-1992-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -8618,7 +8618,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1993-P",
+      "issue_id": "CA-NICK-1993-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -8780,7 +8780,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1993-P",
+      "issue_id": "CA-GMLH-1993-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -8834,7 +8834,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1993-P",
+      "issue_id": "CA-GMLQ-1993-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -8888,7 +8888,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1993-P",
+      "issue_id": "CA-GMLT-1993-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -8942,7 +8942,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1993-P",
+      "issue_id": "CA-GMLS-1993-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -9104,7 +9104,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1994-P",
+      "issue_id": "CA-NICK-1994-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -9266,7 +9266,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1994-P",
+      "issue_id": "CA-GMLH-1994-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -9320,7 +9320,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1994-P",
+      "issue_id": "CA-GMLQ-1994-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -9374,7 +9374,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1994-P",
+      "issue_id": "CA-GMLT-1994-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -9428,7 +9428,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1994-P",
+      "issue_id": "CA-GMLS-1994-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -9590,7 +9590,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1995-P",
+      "issue_id": "CA-NICK-1995-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -9752,7 +9752,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1995-P",
+      "issue_id": "CA-GMLH-1995-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -9806,7 +9806,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1995-P",
+      "issue_id": "CA-GMLQ-1995-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -9860,7 +9860,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1995-P",
+      "issue_id": "CA-GMLT-1995-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -9914,7 +9914,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1995-P",
+      "issue_id": "CA-GMLS-1995-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -10076,7 +10076,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1996-P",
+      "issue_id": "CA-NICK-1996-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -10294,7 +10294,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1996-P",
+      "issue_id": "CA-GMLH-1996-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -10348,7 +10348,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1996-P",
+      "issue_id": "CA-GMLQ-1996-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -10402,7 +10402,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1996-P",
+      "issue_id": "CA-GMLT-1996-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -10456,7 +10456,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1996-P",
+      "issue_id": "CA-GMLS-1996-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -10618,7 +10618,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1997-P",
+      "issue_id": "CA-NICK-1997-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -10834,7 +10834,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1997-P",
+      "issue_id": "CA-GMLH-1997-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -10888,7 +10888,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1997-P",
+      "issue_id": "CA-GMLQ-1997-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -10942,7 +10942,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1997-P",
+      "issue_id": "CA-GMLT-1997-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -10996,7 +10996,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1997-P",
+      "issue_id": "CA-GMLS-1997-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -11158,7 +11158,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1998-P",
+      "issue_id": "CA-NICK-1998-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -11374,7 +11374,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1998-P",
+      "issue_id": "CA-GMLH-1998-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -11428,7 +11428,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1998-P",
+      "issue_id": "CA-GMLQ-1998-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -11482,7 +11482,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1998-P",
+      "issue_id": "CA-GMLT-1998-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -11536,7 +11536,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1998-P",
+      "issue_id": "CA-GMLS-1998-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -11698,7 +11698,7 @@
       "notes": ".9995 fine platinum"
     },
     {
-      "issue_id": "CA-5 C-1999-P",
+      "issue_id": "CA-NICK-1999-P",
       "object_type": "coin",
       "series_id": "5 Cents Nickel__Five_Cents",
       "series_name": "5 Cents Nickel__Five_Cents",
@@ -11914,7 +11914,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-1999-P",
+      "issue_id": "CA-GMLH-1999-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -11968,7 +11968,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-1999-P",
+      "issue_id": "CA-GMLQ-1999-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -12022,7 +12022,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-1999-P",
+      "issue_id": "CA-GMLT-1999-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -12076,7 +12076,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-1999-P",
+      "issue_id": "CA-GMLS-1999-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -12400,7 +12400,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2000-P",
+      "issue_id": "CA-NICS-2000-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -12454,7 +12454,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2000-P",
+      "issue_id": "CA-DIMS-2000-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -12508,7 +12508,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2000-P",
+      "issue_id": "CA-QRTS-2000-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -12562,7 +12562,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-50 -2000-P",
+      "issue_id": "CA-HLFS-2000-P",
       "object_type": "coin",
       "series_id": "50 Cents Steel__Fifty_Cents",
       "series_name": "50 Cents Steel__Fifty_Cents",
@@ -12670,7 +12670,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2000-P",
+      "issue_id": "CA-GMLH-2000-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -12724,7 +12724,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2000-P",
+      "issue_id": "CA-GMLQ-2000-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -12778,7 +12778,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2000-P",
+      "issue_id": "CA-GMLT-2000-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -12832,7 +12832,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2000-P",
+      "issue_id": "CA-GMLS-2000-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -13156,7 +13156,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2001-P",
+      "issue_id": "CA-NICS-2001-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -13210,7 +13210,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2001-P",
+      "issue_id": "CA-DIMS-2001-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -13264,7 +13264,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2001-P",
+      "issue_id": "CA-QRTS-2001-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -13372,7 +13372,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2001-P",
+      "issue_id": "CA-GMLH-2001-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -13426,7 +13426,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2001-P",
+      "issue_id": "CA-GMLQ-2001-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -13480,7 +13480,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2001-P",
+      "issue_id": "CA-GMLT-2001-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -13534,7 +13534,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2001-P",
+      "issue_id": "CA-GMLS-2001-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -13858,7 +13858,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2002-P",
+      "issue_id": "CA-NICS-2002-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -13912,7 +13912,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2002-P",
+      "issue_id": "CA-DIMS-2002-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -13966,7 +13966,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2002-P",
+      "issue_id": "CA-QRTS-2002-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -14020,7 +14020,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-50 -2002-P",
+      "issue_id": "CA-HLFS-2002-P",
       "object_type": "coin",
       "series_id": "50 Cents Steel__Fifty_Cents",
       "series_name": "50 Cents Steel__Fifty_Cents",
@@ -14128,7 +14128,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2002-P",
+      "issue_id": "CA-GMLH-2002-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -14182,7 +14182,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2002-P",
+      "issue_id": "CA-GMLQ-2002-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -14236,7 +14236,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2002-P",
+      "issue_id": "CA-GMLT-2002-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -14290,7 +14290,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2002-P",
+      "issue_id": "CA-GMLS-2002-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -14614,7 +14614,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2003-P",
+      "issue_id": "CA-NICS-2003-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -14668,7 +14668,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2003-P",
+      "issue_id": "CA-DIMS-2003-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -14722,7 +14722,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2003-P",
+      "issue_id": "CA-QRTS-2003-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -14830,7 +14830,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2003-P",
+      "issue_id": "CA-GMLH-2003-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -14884,7 +14884,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2003-P",
+      "issue_id": "CA-GMLQ-2003-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -14938,7 +14938,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2003-P",
+      "issue_id": "CA-GMLT-2003-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -14992,7 +14992,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2003-P",
+      "issue_id": "CA-GMLS-2003-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -15262,7 +15262,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2004-P",
+      "issue_id": "CA-NICS-2004-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -15316,7 +15316,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2004-P",
+      "issue_id": "CA-DIMS-2004-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -15370,7 +15370,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2004-P",
+      "issue_id": "CA-QRTS-2004-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -15478,7 +15478,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2004-P",
+      "issue_id": "CA-GMLH-2004-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -15532,7 +15532,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2004-P",
+      "issue_id": "CA-GMLQ-2004-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -15586,7 +15586,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2004-P",
+      "issue_id": "CA-GMLT-2004-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -15640,7 +15640,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2004-P",
+      "issue_id": "CA-GMLS-2004-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -15910,7 +15910,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2005-P",
+      "issue_id": "CA-NICS-2005-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -15964,7 +15964,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2005-P",
+      "issue_id": "CA-DIMS-2005-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -16018,7 +16018,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2005-P",
+      "issue_id": "CA-QRTS-2005-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -16126,7 +16126,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2005-P",
+      "issue_id": "CA-GMLH-2005-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -16180,7 +16180,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2005-P",
+      "issue_id": "CA-GMLQ-2005-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -16234,7 +16234,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2005-P",
+      "issue_id": "CA-GMLT-2005-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -16288,7 +16288,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2005-P",
+      "issue_id": "CA-GMLS-2005-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -16612,7 +16612,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2006-P",
+      "issue_id": "CA-NICS-2006-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -16666,7 +16666,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2006-P",
+      "issue_id": "CA-DIMS-2006-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -16720,7 +16720,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2006-P",
+      "issue_id": "CA-QRTS-2006-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -16828,7 +16828,7 @@
       "notes": ".9999 fine"
     },
     {
-      "issue_id": "CA-GOL2-2006-P",
+      "issue_id": "CA-GMLH-2006-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -16882,7 +16882,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2006-P",
+      "issue_id": "CA-GMLQ-2006-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -16936,7 +16936,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2006-P",
+      "issue_id": "CA-GMLT-2006-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -16990,7 +16990,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2006-P",
+      "issue_id": "CA-GMLS-2006-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -17314,7 +17314,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2007-P",
+      "issue_id": "CA-NICS-2007-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -17368,7 +17368,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2007-P",
+      "issue_id": "CA-DIMS-2007-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -17422,7 +17422,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2007-P",
+      "issue_id": "CA-QRTS-2007-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -17530,7 +17530,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2007-P",
+      "issue_id": "CA-GMLH-2007-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -17584,7 +17584,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2007-P",
+      "issue_id": "CA-GMLQ-2007-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -17638,7 +17638,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2007-P",
+      "issue_id": "CA-GMLT-2007-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -17692,7 +17692,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2007-P",
+      "issue_id": "CA-GMLS-2007-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -17746,7 +17746,7 @@
       "notes": "Fractional 1/20 oz"
     },
     {
-      "issue_id": "CA-GOL-2007-P",
+      "issue_id": "CA-BGML-2007-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Big_Maple_Leaf",
       "series_name": "Gold Maple Leaf__Big_Maple_Leaf",
@@ -18070,7 +18070,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2008-P",
+      "issue_id": "CA-NICS-2008-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -18124,7 +18124,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2008-P",
+      "issue_id": "CA-DIMS-2008-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -18178,7 +18178,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2008-P",
+      "issue_id": "CA-QRTS-2008-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -18286,7 +18286,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2008-P",
+      "issue_id": "CA-GMLH-2008-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -18340,7 +18340,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2008-P",
+      "issue_id": "CA-GMLQ-2008-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -18394,7 +18394,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2008-P",
+      "issue_id": "CA-GMLT-2008-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -18448,7 +18448,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2008-P",
+      "issue_id": "CA-GMLS-2008-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -18718,7 +18718,7 @@
       "notes": "Multi-ply steel composition"
     },
     {
-      "issue_id": "CA-5 C1-2009-P",
+      "issue_id": "CA-NICS-2009-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -18772,7 +18772,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2009-P",
+      "issue_id": "CA-DIMS-2009-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -18826,7 +18826,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2009-P",
+      "issue_id": "CA-QRTS-2009-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -18934,7 +18934,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2009-P",
+      "issue_id": "CA-GMLH-2009-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -18988,7 +18988,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2009-P",
+      "issue_id": "CA-GMLQ-2009-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -19042,7 +19042,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2009-P",
+      "issue_id": "CA-GMLT-2009-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -19096,7 +19096,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2009-P",
+      "issue_id": "CA-GMLS-2009-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -19474,7 +19474,7 @@
       "notes": "Final years before discontinuation"
     },
     {
-      "issue_id": "CA-5 C1-2010-P",
+      "issue_id": "CA-NICS-2010-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -19528,7 +19528,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2010-P",
+      "issue_id": "CA-DIMS-2010-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -19582,7 +19582,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2010-P",
+      "issue_id": "CA-QRTS-2010-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -19636,7 +19636,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-50 -2010-P",
+      "issue_id": "CA-HLFS-2010-P",
       "object_type": "coin",
       "series_id": "50 Cents Steel__Fifty_Cents",
       "series_name": "50 Cents Steel__Fifty_Cents",
@@ -19744,7 +19744,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2010-P",
+      "issue_id": "CA-GMLH-2010-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -19798,7 +19798,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2010-P",
+      "issue_id": "CA-GMLQ-2010-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -19852,7 +19852,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2010-P",
+      "issue_id": "CA-GMLT-2010-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -19906,7 +19906,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2010-P",
+      "issue_id": "CA-GMLS-2010-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -20176,7 +20176,7 @@
       "notes": "Final years before discontinuation"
     },
     {
-      "issue_id": "CA-5 C1-2011-P",
+      "issue_id": "CA-NICS-2011-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -20230,7 +20230,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2011-P",
+      "issue_id": "CA-DIMS-2011-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -20284,7 +20284,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2011-P",
+      "issue_id": "CA-QRTS-2011-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -20392,7 +20392,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2011-P",
+      "issue_id": "CA-GMLH-2011-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -20446,7 +20446,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2011-P",
+      "issue_id": "CA-GMLQ-2011-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -20500,7 +20500,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2011-P",
+      "issue_id": "CA-GMLT-2011-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -20554,7 +20554,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2011-P",
+      "issue_id": "CA-GMLS-2011-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -20932,7 +20932,7 @@
       "notes": "Final years before discontinuation"
     },
     {
-      "issue_id": "CA-5 C1-2012-P",
+      "issue_id": "CA-NICS-2012-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -20986,7 +20986,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2012-P",
+      "issue_id": "CA-DIMS-2012-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -21040,7 +21040,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2012-P",
+      "issue_id": "CA-QRTS-2012-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -21148,7 +21148,7 @@
       "notes": ".99999 special editions available"
     },
     {
-      "issue_id": "CA-GOL2-2012-P",
+      "issue_id": "CA-GMLH-2012-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -21202,7 +21202,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2012-P",
+      "issue_id": "CA-GMLQ-2012-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -21256,7 +21256,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2012-P",
+      "issue_id": "CA-GMLT-2012-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -21310,7 +21310,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2012-P",
+      "issue_id": "CA-GMLS-2012-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -21634,7 +21634,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2013-P",
+      "issue_id": "CA-NICS-2013-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -21688,7 +21688,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2013-P",
+      "issue_id": "CA-DIMS-2013-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -21742,7 +21742,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2013-P",
+      "issue_id": "CA-QRTS-2013-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -21850,7 +21850,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2013-P",
+      "issue_id": "CA-GMLH-2013-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -21904,7 +21904,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2013-P",
+      "issue_id": "CA-GMLQ-2013-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -21958,7 +21958,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2013-P",
+      "issue_id": "CA-GMLT-2013-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -22012,7 +22012,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2013-P",
+      "issue_id": "CA-GMLS-2013-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -22336,7 +22336,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2014-P",
+      "issue_id": "CA-NICS-2014-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -22390,7 +22390,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2014-P",
+      "issue_id": "CA-DIMS-2014-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -22444,7 +22444,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2014-P",
+      "issue_id": "CA-QRTS-2014-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -22552,7 +22552,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2014-P",
+      "issue_id": "CA-GMLH-2014-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -22606,7 +22606,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2014-P",
+      "issue_id": "CA-GMLQ-2014-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -22660,7 +22660,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2014-P",
+      "issue_id": "CA-GMLT-2014-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -22714,7 +22714,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2014-P",
+      "issue_id": "CA-GMLS-2014-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -22984,7 +22984,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2015-P",
+      "issue_id": "CA-NICS-2015-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -23038,7 +23038,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2015-P",
+      "issue_id": "CA-DIMS-2015-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -23092,7 +23092,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2015-P",
+      "issue_id": "CA-QRTS-2015-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -23146,7 +23146,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-50 -2015-P",
+      "issue_id": "CA-HLFS-2015-P",
       "object_type": "coin",
       "series_id": "50 Cents Steel__Fifty_Cents",
       "series_name": "50 Cents Steel__Fifty_Cents",
@@ -23254,7 +23254,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2015-P",
+      "issue_id": "CA-GMLH-2015-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -23308,7 +23308,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2015-P",
+      "issue_id": "CA-GMLQ-2015-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -23362,7 +23362,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2015-P",
+      "issue_id": "CA-GMLT-2015-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -23416,7 +23416,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2015-P",
+      "issue_id": "CA-GMLS-2015-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -23740,7 +23740,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2016-P",
+      "issue_id": "CA-NICS-2016-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -23794,7 +23794,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2016-P",
+      "issue_id": "CA-DIMS-2016-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -23848,7 +23848,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2016-P",
+      "issue_id": "CA-QRTS-2016-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -23956,7 +23956,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2016-P",
+      "issue_id": "CA-GMLH-2016-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -24010,7 +24010,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2016-P",
+      "issue_id": "CA-GMLQ-2016-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -24064,7 +24064,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2016-P",
+      "issue_id": "CA-GMLT-2016-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -24118,7 +24118,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2016-P",
+      "issue_id": "CA-GMLS-2016-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -24442,7 +24442,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2017-P",
+      "issue_id": "CA-NICS-2017-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -24496,7 +24496,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2017-P",
+      "issue_id": "CA-DIMS-2017-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -24550,7 +24550,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2017-P",
+      "issue_id": "CA-QRTS-2017-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -24658,7 +24658,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2017-P",
+      "issue_id": "CA-GMLH-2017-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -24712,7 +24712,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2017-P",
+      "issue_id": "CA-GMLQ-2017-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -24766,7 +24766,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2017-P",
+      "issue_id": "CA-GMLT-2017-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -24820,7 +24820,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2017-P",
+      "issue_id": "CA-GMLS-2017-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -25144,7 +25144,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2018-P",
+      "issue_id": "CA-NICS-2018-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -25198,7 +25198,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2018-P",
+      "issue_id": "CA-DIMS-2018-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -25252,7 +25252,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2018-P",
+      "issue_id": "CA-QRTS-2018-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -25360,7 +25360,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2018-P",
+      "issue_id": "CA-GMLH-2018-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -25414,7 +25414,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2018-P",
+      "issue_id": "CA-GMLQ-2018-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -25468,7 +25468,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2018-P",
+      "issue_id": "CA-GMLT-2018-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -25522,7 +25522,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2018-P",
+      "issue_id": "CA-GMLS-2018-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -25846,7 +25846,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2019-P",
+      "issue_id": "CA-NICS-2019-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -25900,7 +25900,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2019-P",
+      "issue_id": "CA-DIMS-2019-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -25954,7 +25954,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2019-P",
+      "issue_id": "CA-QRTS-2019-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -26062,7 +26062,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2019-P",
+      "issue_id": "CA-GMLH-2019-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -26116,7 +26116,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2019-P",
+      "issue_id": "CA-GMLQ-2019-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -26170,7 +26170,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2019-P",
+      "issue_id": "CA-GMLT-2019-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -26224,7 +26224,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2019-P",
+      "issue_id": "CA-GMLS-2019-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -26548,7 +26548,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2020-P",
+      "issue_id": "CA-NICS-2020-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -26602,7 +26602,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2020-P",
+      "issue_id": "CA-DIMS-2020-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -26656,7 +26656,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2020-P",
+      "issue_id": "CA-QRTS-2020-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -26710,7 +26710,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-50 -2020-P",
+      "issue_id": "CA-HLFS-2020-P",
       "object_type": "coin",
       "series_id": "50 Cents Steel__Fifty_Cents",
       "series_name": "50 Cents Steel__Fifty_Cents",
@@ -26818,7 +26818,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2020-P",
+      "issue_id": "CA-GMLH-2020-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -26872,7 +26872,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2020-P",
+      "issue_id": "CA-GMLQ-2020-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -26926,7 +26926,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2020-P",
+      "issue_id": "CA-GMLT-2020-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -26980,7 +26980,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2020-P",
+      "issue_id": "CA-GMLS-2020-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -27304,7 +27304,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2021-P",
+      "issue_id": "CA-NICS-2021-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -27358,7 +27358,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2021-P",
+      "issue_id": "CA-DIMS-2021-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -27412,7 +27412,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2021-P",
+      "issue_id": "CA-QRTS-2021-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -27520,7 +27520,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2021-P",
+      "issue_id": "CA-GMLH-2021-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -27574,7 +27574,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2021-P",
+      "issue_id": "CA-GMLQ-2021-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -27628,7 +27628,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2021-P",
+      "issue_id": "CA-GMLT-2021-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -27682,7 +27682,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2021-P",
+      "issue_id": "CA-GMLS-2021-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -28006,7 +28006,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2022-P",
+      "issue_id": "CA-NICS-2022-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -28060,7 +28060,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2022-P",
+      "issue_id": "CA-DIMS-2022-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -28114,7 +28114,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2022-P",
+      "issue_id": "CA-QRTS-2022-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -28222,7 +28222,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2022-P",
+      "issue_id": "CA-GMLH-2022-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -28276,7 +28276,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2022-P",
+      "issue_id": "CA-GMLQ-2022-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -28330,7 +28330,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2022-P",
+      "issue_id": "CA-GMLT-2022-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -28384,7 +28384,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2022-P",
+      "issue_id": "CA-GMLS-2022-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -28708,7 +28708,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2023-P",
+      "issue_id": "CA-NICS-2023-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -28762,7 +28762,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2023-P",
+      "issue_id": "CA-DIMS-2023-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -28816,7 +28816,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2023-P",
+      "issue_id": "CA-QRTS-2023-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -28924,7 +28924,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2023-P",
+      "issue_id": "CA-GMLH-2023-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -28978,7 +28978,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2023-P",
+      "issue_id": "CA-GMLQ-2023-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -29032,7 +29032,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2023-P",
+      "issue_id": "CA-GMLT-2023-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -29086,7 +29086,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2023-P",
+      "issue_id": "CA-GMLS-2023-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
@@ -29410,7 +29410,7 @@
       "notes": "Bimetallic design"
     },
     {
-      "issue_id": "CA-5 C1-2024-P",
+      "issue_id": "CA-NICS-2024-P",
       "object_type": "coin",
       "series_id": "5 Cents Steel__Five_Cents",
       "series_name": "5 Cents Steel__Five_Cents",
@@ -29464,7 +29464,7 @@
       "notes": "Multi-ply plated steel"
     },
     {
-      "issue_id": "CA-10 -2024-P",
+      "issue_id": "CA-DIMS-2024-P",
       "object_type": "coin",
       "series_id": "10 Cents Steel__Ten_Cents",
       "series_name": "10 Cents Steel__Ten_Cents",
@@ -29518,7 +29518,7 @@
       "notes": "Steel core with nickel plating"
     },
     {
-      "issue_id": "CA-25 -2024-P",
+      "issue_id": "CA-QRTS-2024-P",
       "object_type": "coin",
       "series_id": "25 Cents Steel__Twenty-Five_Cents",
       "series_name": "25 Cents Steel__Twenty-Five_Cents",
@@ -29626,7 +29626,7 @@
       "notes": ".99999 special editions available. Security features added 2013+"
     },
     {
-      "issue_id": "CA-GOL2-2024-P",
+      "issue_id": "CA-GMLH-2024-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/2_oz",
@@ -29680,7 +29680,7 @@
       "notes": "Fractional 1/2 oz"
     },
     {
-      "issue_id": "CA-GOL4-2024-P",
+      "issue_id": "CA-GMLQ-2024-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/4_oz",
@@ -29734,7 +29734,7 @@
       "notes": "Fractional 1/4 oz"
     },
     {
-      "issue_id": "CA-GOL1-2024-P",
+      "issue_id": "CA-GMLT-2024-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/10_oz",
@@ -29788,7 +29788,7 @@
       "notes": "Fractional 1/10 oz"
     },
     {
-      "issue_id": "CA-GOL3-2024-P",
+      "issue_id": "CA-GMLS-2024-P",
       "object_type": "coin",
       "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",
       "series_name": "Gold Maple Leaf__Gold_Maple_Leaf_1/20_oz",

@@ -57,7 +57,7 @@ class TaxonomyValidator:
 
     # Regex patterns for validation
     COUNTRY_PATTERN = re.compile(r"^[A-Z]{2,3}$")
-    SERIES_CODE_PATTERN = re.compile(r"^[A-Z0-9]{4}$")
+    SERIES_CODE_PATTERN = re.compile(r"^[A-Z0-9]{2,4}$")
     YEAR_PATTERN = re.compile(r"^(\d{4}|XXXX)$")
     MINT_PATTERN = re.compile(r"^[A-Z]{1,2}$")
     VARIETY_PATTERN = re.compile(r"^[A-Za-z0-9]{1,20}$")
@@ -109,7 +109,7 @@ class TaxonomyValidator:
         if not self.SERIES_CODE_PATTERN.match(code):
             errors.append(ValidationError(
                 "series_code",
-                f"Must be 4 uppercase alphanumeric characters",
+                f"Must be 2-4 uppercase alphanumeric characters",
                 code
             ))
 
@@ -169,10 +169,10 @@ class TaxonomyValidator:
             errors.append(ValidationError("series_code", "Empty series code", ""))
             return errors, warnings
 
-        if len(code) != 4:
+        if not (2 <= len(code) <= 4):
             errors.append(ValidationError(
                 "series_code",
-                f"Must be exactly 4 characters",
+                f"Must be 2-4 characters",
                 code
             ))
 
@@ -392,7 +392,7 @@ if __name__ == "__main__":
         "US-MORG-1879-CC-VAM",  # Valid with variety
         "US-MORG-1879-CC-VeryLongVarietyName",  # Warning: long variety
         "us-morg-1879-cc",      # Error: lowercase
-        "US-MOR-1879-CC",       # Error: 3-char code
+        "US-MOR-1879-CC",       # Valid: 3-char code (2-4 allowed)
     ]
 
     print("Testing TaxonomyValidator:")

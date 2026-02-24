@@ -93,26 +93,6 @@
       ]
     },
     {
-      "series_id": "American Gold Buffalo (1 oz)__$50",
-      "series_name": "American Gold Buffalo (1 oz)",
-      "country_code": "US",
-      "denomination": "$50",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Buffalo"
-    },
-    {
-      "series_id": "American Gold Eagle (1 oz)__$50",
-      "series_name": "American Gold Eagle (1 oz)",
-      "country_code": "US",
-      "denomination": "$50",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Eagle"
-    },
-    {
       "series_id": "American Gold Eagle (1/10 oz)__$5",
       "series_name": "American Gold Eagle (1/10 oz)",
       "country_code": "US",
@@ -137,16 +117,6 @@
       "series_name": "American Gold Eagle (1/4 oz)",
       "country_code": "US",
       "denomination": "$10",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Eagle"
-    },
-    {
-      "series_id": "American Silver Eagle (1 oz)__$1",
-      "series_name": "American Silver Eagle (1 oz)",
-      "country_code": "US",
-      "denomination": "$1",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin",
@@ -548,22 +518,6 @@
       ]
     },
     {
-      "series_id": "Engelhard Bar 100 oz__No_Face_Value",
-      "series_name": "Engelhard Bar 100 oz",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": 1970,
-      "end_year": 1988,
-      "defining_characteristics": "Bullion, 100.0 oz silver",
-      "official_name": "Engelhard Bar 100 oz",
-      "type": "coin",
-      "aliases": [
-        "Engelhard 100oz",
-        "Engelhard 100 oz Bar",
-        "Engelhard Monster Bar"
-      ]
-    },
-    {
       "series_id": "Engelhard Bar 5 oz__No_Face_Value",
       "series_name": "Engelhard Bar 5 oz",
       "country_code": "US",
@@ -725,21 +679,6 @@
         "Germania",
         "Germania Mint",
         "German Silver"
-      ]
-    },
-    {
-      "series_id": "Gold Maple Leaf 1 oz__$50",
-      "series_name": "Gold Maple Leaf 1 oz",
-      "country_code": "CA",
-      "denomination": "$50",
-      "start_year": 1979,
-      "defining_characteristics": "Bullion coin, 1.0 oz gold",
-      "official_name": "Gold Maple Leaf 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Canadian Gold Maple Leaf",
-        "Gold Maple Leaf",
-        "GML"
       ]
     },
     {

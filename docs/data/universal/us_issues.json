@@ -15505,10 +15505,10 @@
       "source_citation": "Engelhard Production Records"
     },
     {
-      "issue_id": "US-AGE(-XXXX-X",
+      "issue_id": "US-AGEO-XXXX-X",
       "object_type": "coin",
-      "series_id": "American Gold Eagle (1 oz)__$50",
-      "series_name": "American Gold Eagle (1 oz)__$50",
+      "series_id": "american_gold_eagle_1oz",
+      "series_name": "american_gold_eagle_1oz",
       "series_group": null,
       "series_group_years": null,
       "issuing_entity": {
@@ -15725,10 +15725,10 @@
       "source_citation": "US Mint specifications, bullion dealers"
     },
     {
-      "issue_id": "US-ASE(-XXXX-X",
+      "issue_id": "US-ASEA-XXXX-X",
       "object_type": "coin",
-      "series_id": "American Silver Eagle (1 oz)__$1",
-      "series_name": "American Silver Eagle (1 oz)__$1",
+      "series_id": "american_silver_eagle_1oz",
+      "series_name": "american_silver_eagle_1oz",
       "series_group": null,
       "series_group_years": null,
       "issuing_entity": {
@@ -15780,10 +15780,10 @@
       "source_citation": "US Mint specifications, bullion dealers"
     },
     {
-      "issue_id": "US-AME-XXXX-X",
+      "issue_id": "US-AGBF-XXXX-X",
       "object_type": "coin",
-      "series_id": "American Gold Buffalo (1 oz)__$50",
-      "series_name": "American Gold Buffalo (1 oz)__$50",
+      "series_id": "american_gold_buffalo_1oz",
+      "series_name": "american_gold_buffalo_1oz",
       "series_group": null,
       "series_group_years": null,
       "issuing_entity": {
