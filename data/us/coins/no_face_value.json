@@ -54,10 +54,6 @@
       }
     },
     {
-      "aliases": [
-        "Engelhard 5oz",
-        "Engelhard 5 oz Bar"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -108,11 +104,6 @@
       }
     },
     {
-      "aliases": [
-        "Engelhard Prospector",
-        "Prospector Round",
-        "E Prospector"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -165,11 +156,6 @@
       }
     },
     {
-      "aliases": [
-        "JM Bar",
-        "Johnson Matthey",
-        "JM Silver"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -220,11 +206,6 @@
       }
     },
     {
-      "aliases": [
-        "Scottsdale Stacker",
-        "Scottsdale Silver",
-        "Chunky"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -275,11 +256,6 @@
       }
     },
     {
-      "aliases": [
-        "Sunshine",
-        "Sunshine Mint",
-        "SMI Silver"
-      ],
       "coins": [
         {
           "business_strikes": null,

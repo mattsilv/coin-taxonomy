@@ -1,0 +1,61 @@
+{
+  "country_code": "AM",
+  "total_issues": 1,
+  "issues": [
+    {
+      "issue_id": "AM-NOA-XXXX-G",
+      "object_type": "coin",
+      "series_id": "Noah's Ark 1 oz__500_Dram",
+      "series_name": "Noah's Ark 1 oz__500_Dram",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "AM",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "500 Dram",
+        "common_names": [
+          "500 Dram"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "G",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": 38.6,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Noah's Ark 1 oz__500_Dram_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Noah's Ark 1 oz__500_Dram_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - valued by metal content. Legal tender of Armenia. Minted by Geiger Edelmetalle (Germany). Popular low-premium bullion.",
+      "source_citation": "Issue #90 - World Silver Coins"
+    }
+  ]
+}

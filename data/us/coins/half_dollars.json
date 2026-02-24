@@ -996,11 +996,6 @@
       }
     },
     {
-      "aliases": [
-        "Seated Half",
-        "Liberty Seated Half",
-        "Seated Liberty 50c"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -1054,10 +1049,6 @@
       }
     },
     {
-      "aliases": [
-        "Barber",
-        "Liberty Head Half"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -1110,10 +1101,6 @@
       }
     },
     {
-      "aliases": [
-        "Walking Liberty",
-        "Walker"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -1166,10 +1153,6 @@
       }
     },
     {
-      "aliases": [
-        "Franklin",
-        "Ben Franklin Half"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -1222,10 +1205,6 @@
       }
     },
     {
-      "aliases": [
-        "Kennedy",
-        "JFK Half"
-      ],
       "coins": [
         {
           "business_strikes": null,

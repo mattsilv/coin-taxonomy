@@ -1,0 +1,116 @@
+{
+  "country_code": "CH",
+  "total_issues": 2,
+  "issues": [
+    {
+      "issue_id": "CH-PAM-XXXX-X",
+      "object_type": "coin",
+      "series_id": "PAMP Suisse Silver Bar__No_Face_Value",
+      "series_name": "PAMP Suisse Silver Bar__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CH",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "PAMP Suisse Silver Bar__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "PAMP Suisse Silver Bar__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - valued by metal content. Swiss refiner. Lady Fortuna design iconic. Available in 1oz, 5oz, 10oz, 100oz, 1kg.",
+      "source_citation": "Issue #92 - Bar/Pour Manufacturers"
+    },
+    {
+      "issue_id": "CH-VAL-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Valcambi Silver Bar__No_Face_Value",
+      "series_name": "Valcambi Silver Bar__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CH",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Valcambi Silver Bar__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Valcambi Silver Bar__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - valued by metal content. Swiss refiner owned by Rajesh Exports. CombiBar breakable bars popular.",
+      "source_citation": "Issue #92 - Bar/Pour Manufacturers"
+    }
+  ]
+}

@@ -610,11 +610,6 @@
       }
     },
     {
-      "aliases": [
-        "Seated Liberty",
-        "Seated Dime",
-        "Liberty Seated Dime"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -2274,11 +2269,6 @@
       }
     },
     {
-      "aliases": [
-        "Winged Liberty Head Dime",
-        "Winged Liberty Dime",
-        "Mercury"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -4105,11 +4095,6 @@
       }
     },
     {
-      "aliases": [
-        "Roosevelt",
-        "Rosie",
-        "FDR Dime"
-      ],
       "coins": [
         {
           "business_strikes": null,

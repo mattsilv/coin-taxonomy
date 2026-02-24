@@ -1,0 +1,60 @@
+{
+  "country": "US",
+  "denomination": "$100",
+  "face_value": 1.0,
+  "series": [
+    {
+      "aliases": [
+        "Platinum Eagle",
+        "American Platinum Eagle",
+        "APE",
+        "1 oz Platinum Eagle"
+      ],
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-APEO-XXXX-W",
+          "composition": {},
+          "designer": "US Mint",
+          "diameter_mm": 32.7,
+          "distinguishing_features": "US Mint",
+          "mint": "W",
+          "notes": "Random year bullion - valued by metal content.",
+          "obverse_description": "Statue of Liberty head, 'LIBERTY', 'IN GOD WE TRUST', date, 'E PLURIBUS UNUM'",
+          "proof_strikes": null,
+          "rarity": "common",
+          "reverse_description": "Eagle soaring over sun (varies by year for proof), '$100', '1 OZ.', '.9995 PLATINUM'",
+          "source_citation": "Official mint specifications",
+          "subcategory": "sovereign_bullion",
+          "total_mintage": null,
+          "varieties": [],
+          "weight_grams": 31.1035,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Historical",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          }
+        }
+      ],
+      "official_name": "American Platinum Eagle (1 oz)",
+      "series_code": "APEO",
+      "series_id": "American Platinum Eagle (1 oz)",
+      "series_name": "American Platinum Eagle (1 oz)",
+      "specifications": {
+        "diameter_mm": 32.7,
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    }
+  ]
+}

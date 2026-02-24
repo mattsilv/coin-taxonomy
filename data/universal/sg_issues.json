@@ -1,0 +1,61 @@
+{
+  "country_code": "SG",
+  "total_issues": 1,
+  "issues": [
+    {
+      "issue_id": "SG-SIN-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Singapore Lunar Series 1 oz__Two_Dollars",
+      "series_name": "Singapore Lunar Series 1 oz__Two_Dollars",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "SG",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Two Dollars",
+        "common_names": [
+          "Two Dollars"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": 40.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Singapore Lunar Series 1 oz__Two_Dollars_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Singapore Lunar Series 1 oz__Two_Dollars_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - valued by metal content. Annual Chinese Zodiac series. Minted by Singapore Mint. Limited mintages.",
+      "source_citation": "Issue #92 - World Silver"
+    }
+  ]
+}

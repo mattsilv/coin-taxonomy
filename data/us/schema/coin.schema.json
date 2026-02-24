@@ -63,7 +63,9 @@
         "Paper $100",
         "Engelhard Bullion",
         "5oz Silver",
-        "No Face Value"
+        "No Face Value",
+        "$100",
+        "$10 Face Value"
       ]
     },
     "face_value": {

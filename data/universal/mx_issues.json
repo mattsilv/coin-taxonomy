@@ -1,6 +1,6 @@
 {
   "country_code": "MX",
-  "total_issues": 117,
+  "total_issues": 127,
   "issues": [
     {
       "issue_id": "MX-MEX-1981-MO",
@@ -6262,86 +6262,664 @@
       "source_citation": "Casa de Moneda de Mexico"
     },
     {
-      "issue_id": "MX-MLSK-XXXX-MO",
+      "issue_id": "MX-MEX4-XXXX-MO",
       "object_type": "coin",
-      "series_id": "Mexican Libertad Silver 1 kg__No_Face_Value",
-      "series_name": "Mexican Libertad Silver 1 kg__No_Face_Value",
+      "series_id": "Mexican Libertad Silver 1/2 oz__Mexican_Libertad_Silver_1/2_oz",
+      "series_name": "Mexican Libertad Silver 1/2 oz__Mexican_Libertad_Silver_1/2_oz",
       "series_group": null,
       "series_group_years": null,
       "issuing_entity": {
         "country_code": "MX",
-        "authority_name": "Casa de Moneda de Mexico",
+        "authority_name": "Unknown",
         "monetary_system": "decimal",
-        "currency_unit": "peso"
+        "currency_unit": "dollar"
       },
       "denomination": {
         "face_value": 0.01,
-        "unit_name": "No Face Value",
-        "common_names": [],
-        "system_fraction": null
+        "unit_name": "Mexican Libertad Silver 1/2 oz",
+        "common_names": [
+          "Mexican Libertad Silver 1/2 oz"
+        ],
+        "system_fraction": "1/100 dollar"
       },
       "issue_year": "XXXX",
-      "mint_id": null,
+      "mint_id": "MO",
       "specifications": {
-        "weight_grams": 1000.0,
-        "diameter_mm": 110.0,
-        "edge": "reeded",
-        "composition": ".999 Ag"
+        "weight_grams": 15.552,
+        "diameter_mm": 33.0,
+        "edge": "plain"
       },
       "sides": {
         "obverse": {
-          "description": "Winged Victory"
+          "design_id": "Mexican Libertad Silver 1/2 oz__Mexican_Libertad_Silver_1/2_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
         },
         "reverse": {
-          "description": "Mexican coat of arms"
+          "design_id": "Mexican Libertad Silver 1/2 oz__Mexican_Libertad_Silver_1/2_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
         }
       },
-      "mintage": {},
-      "rarity": null,
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
       "varieties": [],
-      "notes": "Random year 32.15 oz silver bullion",
-      "source_citation": "Casa de Moneda de Mexico"
+      "notes": "Random year bullion (0.5 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX6-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz",
+      "series_name": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 1/4 oz",
+        "common_names": [
+          "Mexican Libertad Silver 1/4 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 7.776,
+        "diameter_mm": 27.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.25 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MLS1-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz",
+      "series_name": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 1/10 oz",
+        "common_names": [
+          "Mexican Libertad Silver 1/10 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 3.11,
+        "diameter_mm": 20.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.1 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX5-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz",
+      "series_name": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 1/20 oz",
+        "common_names": [
+          "Mexican Libertad Silver 1/20 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 1.555,
+        "diameter_mm": 16.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.05 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX1-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/2 oz__Mexican_Libertad_Gold_1/2_oz",
+      "series_name": "Mexican Libertad Gold 1/2 oz__Mexican_Libertad_Gold_1/2_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Gold 1/2 oz",
+        "common_names": [
+          "Mexican Libertad Gold 1/2 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 15.552,
+        "diameter_mm": 29.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1/2 oz__Mexican_Libertad_Gold_1/2_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1/2 oz__Mexican_Libertad_Gold_1/2_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.5 oz gold)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX3-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/4 oz__Mexican_Libertad_Gold_1/4_oz",
+      "series_name": "Mexican Libertad Gold 1/4 oz__Mexican_Libertad_Gold_1/4_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Gold 1/4 oz",
+        "common_names": [
+          "Mexican Libertad Gold 1/4 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 7.776,
+        "diameter_mm": 23.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1/4 oz__Mexican_Libertad_Gold_1/4_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1/4 oz__Mexican_Libertad_Gold_1/4_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.25 oz gold)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MLG1-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz",
+      "series_name": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Gold 1/10 oz",
+        "common_names": [
+          "Mexican Libertad Gold 1/10 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 3.11,
+        "diameter_mm": 16.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.1 oz gold)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX2-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz",
+      "series_name": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Gold 1/20 oz",
+        "common_names": [
+          "Mexican Libertad Gold 1/20 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 1.555,
+        "diameter_mm": 13.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.05 oz gold)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX7-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 2 oz__Mexican_Libertad_Silver_2_oz",
+      "series_name": "Mexican Libertad Silver 2 oz__Mexican_Libertad_Silver_2_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 2 oz",
+        "common_names": [
+          "Mexican Libertad Silver 2 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 62.206,
+        "diameter_mm": 48.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 2 oz__Mexican_Libertad_Silver_2_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 2 oz__Mexican_Libertad_Silver_2_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (2.0 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX8-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 5 oz__Mexican_Libertad_Silver_5_oz",
+      "series_name": "Mexican Libertad Silver 5 oz__Mexican_Libertad_Silver_5_oz",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 5 oz",
+        "common_names": [
+          "Mexican Libertad Silver 5 oz"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 155.515,
+        "diameter_mm": 65.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 5 oz__Mexican_Libertad_Silver_5_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 5 oz__Mexican_Libertad_Silver_5_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (5.0 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MLSK-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg",
+      "series_name": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Mexican Libertad Silver 1 kg",
+        "common_names": [
+          "Mexican Libertad Silver 1 kg"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 1000.0,
+        "diameter_mm": 110.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (32.15 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
     },
     {
       "issue_id": "MX-MLPO-XXXX-MO",
       "object_type": "coin",
-      "series_id": "Mexican Libertad Platinum 1 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Platinum 1 oz__No_Face_Value",
+      "series_id": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz",
+      "series_name": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz",
       "series_group": null,
       "series_group_years": null,
       "issuing_entity": {
         "country_code": "MX",
-        "authority_name": "Casa de Moneda de Mexico",
+        "authority_name": "Unknown",
         "monetary_system": "decimal",
-        "currency_unit": "peso"
+        "currency_unit": "dollar"
       },
       "denomination": {
         "face_value": 0.01,
-        "unit_name": "No Face Value",
-        "common_names": [],
-        "system_fraction": null
+        "unit_name": "Mexican Libertad Platinum 1 oz",
+        "common_names": [
+          "Mexican Libertad Platinum 1 oz"
+        ],
+        "system_fraction": "1/100 dollar"
       },
       "issue_year": "XXXX",
-      "mint_id": null,
+      "mint_id": "MO",
       "specifications": {
         "weight_grams": 31.103,
         "diameter_mm": 32.0,
-        "edge": "reeded",
-        "composition": ".9995 Pt"
+        "edge": "plain"
       },
       "sides": {
         "obverse": {
-          "description": "Winged Victory"
+          "design_id": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
         },
         "reverse": {
-          "description": "Mexican coat of arms"
+          "design_id": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
         }
       },
-      "mintage": {},
-      "rarity": null,
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "scarce",
       "varieties": [],
-      "notes": "Random year 1.0 oz platinum bullion",
-      "source_citation": "Casa de Moneda de Mexico"
+      "notes": "Random year bullion (1.0 oz platinum)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
     }
   ]
 }
