@@ -149,8 +149,8 @@ Each series should include `aliases` JSON for text matching in the price compari
 - [x] New entries appear in `data/universal/series_registry.json`
 - [x] New coin entries appear in country-specific universal JSON exports
 - [x] `scripts/validate.py` passes
-- [ ] Pre-commit hook export completes without errors
-- [ ] All changes committed together (database + generated JSON)
+- [x] Pre-commit hook export completes without errors
+- [x] All changes committed together (database + generated JSON)
 
 ## Implementation Steps
 
