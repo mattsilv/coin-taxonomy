@@ -64,20 +64,40 @@
       "type": "coin"
     },
     {
+      "series_id": "AG-MET Art Bar (Blank)__Engelhard_Bullion",
+      "series_name": "AG-MET Art Bar (Blank)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "AG-MET Art Bar (Flower)__Engelhard_Bullion",
+      "series_name": "AG-MET Art Bar (Flower)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "AG-MET Art Bar (Pebble)__Engelhard_Bullion",
+      "series_name": "AG-MET Art Bar (Pebble)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Alabama Centennial__Commemorative_Half_Dollars",
       "series_name": "Alabama Centennial",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1921,
       "end_year": 1921,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Alabama"
-      ],
-      "variety_suffixes": [
-        "2X2"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Albany, New York, Charter__Commemorative_Half_Dollars",
@@ -86,11 +106,43 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Albany Charter",
-        "Albany"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "America the Beautiful 5oz Silver__5oz_Silver",
+      "series_name": "America the Beautiful 5oz Silver",
+      "country_code": "US",
+      "denomination": "5oz Silver",
+      "start_year": 2010,
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "America the Beautiful Quarters__Quarters",
+      "series_name": "America the Beautiful Quarters",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 2010,
+      "end_year": 2021,
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Buffalo (1 oz)__$50",
+      "series_name": "American Gold Buffalo (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1 oz)__$50",
+      "series_name": "American Gold Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "American Gold Eagle (1/10 oz)__$5",
@@ -99,8 +151,7 @@
       "denomination": "$5",
       "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Eagle"
+      "type": "coin"
     },
     {
       "series_id": "American Gold Eagle (1/2 oz)__$25",
@@ -109,8 +160,7 @@
       "denomination": "$25",
       "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Eagle"
+      "type": "coin"
     },
     {
       "series_id": "American Gold Eagle (1/4 oz)__$10",
@@ -119,8 +169,43 @@
       "denomination": "$10",
       "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin",
-      "series_group": "American Eagle"
+      "type": "coin"
+    },
+    {
+      "series_id": "American Liberty Gold__$100_Gold",
+      "series_name": "American Liberty Gold",
+      "country_code": "US",
+      "denomination": "$100 Gold",
+      "start_year": 2015,
+      "end_year": 2025,
+      "type": "coin"
+    },
+    {
+      "series_id": "American Platinum Eagle (1 oz)__$100",
+      "series_name": "American Platinum Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$100",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Silver Eagle (1 oz)__$1",
+      "series_name": "American Silver Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$1",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Argentor Dealers Bar__Engelhard_Bullion",
+      "series_name": "Argentor Dealers Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Arkansas Centennial__Commemorative_Half_Dollars",
@@ -129,11 +214,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1939,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Arkansas"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Arkansas-Robinson__Commemorative_Half_Dollars",
@@ -142,54 +223,115 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Robinson",
-        "Arkansas Robinson"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Art Bar (Frosted Reverse)__Engelhard_Bullion",
+      "series_name": "Art Bar (Frosted Reverse)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Art Bar (Original Logo)__Engelhard_Bullion",
+      "series_name": "Art Bar (Original Logo)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Art Bar (Pebble Finish)__Engelhard_Bullion",
+      "series_name": "Art Bar (Pebble Finish)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Australia Ingot (Poured)__Engelhard_Bullion",
+      "series_name": "Australia Ingot (Poured)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Australia Series 1__Engelhard_Bullion",
+      "series_name": "Australia Series 1",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Australia Series 2__Engelhard_Bullion",
+      "series_name": "Australia Series 2",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Australia Series 3__Engelhard_Bullion",
+      "series_name": "Australia Series 3",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Australian Emu 1 oz__One_Dollar",
       "series_name": "Australian Emu 1 oz",
       "country_code": "AU",
       "denomination": "One Dollar",
-      "start_year": 2018,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Australian Emu 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Silver Emu",
-        "Australian Emu"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Australian Kangaroo Silver 1 oz__One_Dollar",
       "series_name": "Australian Kangaroo Silver 1 oz",
       "country_code": "AU",
       "denomination": "One Dollar",
-      "start_year": 2016,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Australian Kangaroo Silver 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Silver Kangaroo",
-        "Australian Silver Kangaroo",
-        "Roo"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Australian Koala 1 oz__One_Dollar",
       "series_name": "Australian Koala 1 oz",
       "country_code": "AU",
       "denomination": "One Dollar",
-      "start_year": 2007,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Australian Koala 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Silver Koala",
-        "Australian Koala"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Baker Brothers__Engelhard_Bullion",
+      "series_name": "Baker Brothers",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Barber Dime__Dimes",
+      "series_name": "Barber Dime",
+      "country_code": "US",
+      "denomination": "Dimes",
+      "start_year": 1892,
+      "end_year": 1916,
+      "type": "coin"
     },
     {
       "series_id": "Barber Half Dollar__Half_Dollars",
@@ -197,14 +339,17 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1892,
-      "end_year": 1915,
-      "defining_characteristics": "Classic US silver half dollar, 1892-1915",
-      "official_name": "Barber Half Dollar",
-      "type": "coin",
-      "aliases": [
-        "Barber",
-        "Liberty Head Half"
-      ]
+      "end_year": 1892,
+      "type": "coin"
+    },
+    {
+      "series_id": "Barber Quarter__Quarters",
+      "series_name": "Barber Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1892,
+      "end_year": 1916,
+      "type": "coin"
     },
     {
       "series_id": "Battle of Antietam__Commemorative_Half_Dollars",
@@ -213,11 +358,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1937,
       "end_year": 1937,
-      "type": "coin",
-      "aliases": [
-        "Antietam Anniversary",
-        "Antietam"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Battle of Gettysburg__Commemorative_Half_Dollars",
@@ -226,11 +367,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Gettysburg Anniversary",
-        "Gettysburg"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Blank Bar (Poured)__Engelhard_Bullion",
+      "series_name": "Blank Bar (Poured)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Booker T. Washington__Commemorative_Half_Dollars",
@@ -239,11 +385,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1946,
       "end_year": 1951,
-      "type": "coin",
-      "aliases": [
-        "Booker T Washington",
-        "BTW"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Bridgeport, Connecticut, Centennial__Commemorative_Half_Dollars",
@@ -252,12 +394,34 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Bridgeport Centennial",
-        "Bridgeport"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "British Gold Britannia (1 oz)__100_Pounds",
+      "series_name": "British Gold Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "100 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "British Gold Britannia (1/10 oz)__10_Pounds",
+      "series_name": "British Gold Britannia (1/10 oz)",
+      "country_code": "GB",
+      "denomination": "10 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "British Silver Britannia (1 oz)__2_Pounds",
+      "series_name": "British Silver Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "2 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "California Diamond Jubilee__Commemorative_Half_Dollars",
@@ -266,10 +430,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin",
-      "aliases": [
-        "California Jubilee"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "California-Pacific Exposition__Commemorative_Half_Dollars",
@@ -278,43 +439,61 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "San Diego",
-        "California Pacific",
-        "San Diego California-Pacific Exposition",
-        "San Diego-Pacific"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Canadian Polar Bear 1 oz__Five_Dollars",
       "series_name": "Canadian Polar Bear 1 oz",
       "country_code": "CA",
       "denomination": "Five Dollars",
-      "start_year": 2019,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Canadian Polar Bear 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Polar Bear",
-        "Canadian Polar Bear",
-        "RCM Polar Bear"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Capped Bust Cent__Cents",
       "series_name": "Capped Bust Cent",
       "country_code": "US",
       "denomination": "Cents",
+      "start_year": 1810,
+      "end_year": 1810,
+      "type": "coin"
+    },
+    {
+      "series_id": "Capped Bust Dime__Dimes",
+      "series_name": "Capped Bust Dime",
+      "country_code": "US",
+      "denomination": "Dimes",
+      "start_year": 1809,
+      "end_year": 1837,
+      "type": "coin"
+    },
+    {
+      "series_id": "Capped Bust Half Dime__Half_Dimes",
+      "series_name": "Capped Bust Half Dime",
+      "country_code": "US",
+      "denomination": "Half Dimes",
+      "start_year": 1829,
+      "end_year": 1837,
+      "type": "coin"
+    },
+    {
+      "series_id": "Capped Bust Half Dollar__Half_Dollars",
+      "series_name": "Capped Bust Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
       "start_year": 1807,
-      "end_year": 1814,
-      "defining_characteristics": "Copper coin, 10.89g",
-      "official_name": "Capped Bust Cent",
-      "type": "coin",
-      "aliases": [
-        "Capped Bust",
-        "Classic Head Large Cent"
-      ]
+      "end_year": 1839,
+      "type": "coin"
+    },
+    {
+      "series_id": "Capped Bust Quarter__Quarters",
+      "series_name": "Capped Bust Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1815,
+      "end_year": 1838,
+      "type": "coin"
     },
     {
       "series_id": "Carver/Washington__Commemorative_Half_Dollars",
@@ -323,12 +502,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1951,
       "end_year": 1954,
-      "type": "coin",
-      "aliases": [
-        "Carver-Washington",
-        "Washington-Carver",
-        "Carver Washington"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Centennial__1_Dollar",
@@ -353,15 +527,9 @@
       "series_name": "Chiwoo Cheonwang 1 oz",
       "country_code": "KR",
       "denomination": "1 Clay",
-      "start_year": 2016,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Chiwoo Cheonwang 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Chiwoo",
-        "Korean Chiwoo",
-        "South Korean Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Cincinnati Music Center__Commemorative_Half_Dollars",
@@ -370,26 +538,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Cincinnati"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Classic Head Cent__Cents",
       "series_name": "Classic Head Cent",
       "country_code": "US",
       "denomination": "Cents",
-      "start_year": 1808,
-      "end_year": 1836,
-      "defining_characteristics": "Copper coin, 10.89g",
-      "official_name": "Classic Head Cent",
-      "type": "coin",
-      "aliases": [
-        "Classic Head",
-        "Coronet Head Cent",
-        "Matron Head"
-      ]
+      "start_year": 1825,
+      "end_year": 1825,
+      "type": "coin"
     },
     {
       "series_id": "Cleveland Centennial__Commemorative_Half_Dollars",
@@ -398,12 +556,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Cleveland-Great Lakes",
-        "Cleveland"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Club of Kings__Engelhard_Bullion",
+      "series_name": "Club of Kings",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Colonial Mint Bar__Engelhard_Bullion",
+      "series_name": "Colonial Mint Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Columbia, South Carolina, Sesquicentennial__Commemorative_Half_Dollars",
@@ -412,12 +583,52 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Columbia South Carolina",
-        "Columbia SC"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Commercial Bar (Frosted)__Engelhard_Bullion",
+      "series_name": "Commercial Bar (Frosted)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Commercial Bar (Large 6-Digit)__Engelhard_Bullion",
+      "series_name": "Commercial Bar (Large 6-Digit)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Commercial Bar (Letter Prefix)__Engelhard_Bullion",
+      "series_name": "Commercial Bar (Letter Prefix)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Commercial Bar (PH-PQ Prefix)__Engelhard_Bullion",
+      "series_name": "Commercial Bar (PH-PQ Prefix)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Commercial Bar (Repeated Hallmark)__Engelhard_Bullion",
+      "series_name": "Commercial Bar (Repeated Hallmark)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Connecticut Tercentenary__Commemorative_Half_Dollars",
@@ -426,10 +637,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin",
-      "aliases": [
-        "Connecticut"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Daniel Boone Bicentennial__Commemorative_Half_Dollars",
@@ -438,12 +646,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1938,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Daniel Boone",
-        "Boone"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Delaware Tercentenary__Commemorative_Half_Dollars",
@@ -452,25 +655,79 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Delaware"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Draped Bust Cent__Cents",
       "series_name": "Draped Bust Cent",
       "country_code": "US",
       "denomination": "Cents",
+      "start_year": 1800,
+      "end_year": 1800,
+      "type": "coin"
+    },
+    {
+      "series_id": "Draped Bust Dollar__Dollars",
+      "series_name": "Draped Bust Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1795,
+      "end_year": 1804,
+      "type": "coin"
+    },
+    {
+      "series_id": "Draped Bust Half Dime__Half_Dimes",
+      "series_name": "Draped Bust Half Dime",
+      "country_code": "US",
+      "denomination": "Half Dimes",
+      "start_year": 1796,
+      "end_year": 1805,
+      "type": "coin"
+    },
+    {
+      "series_id": "Draped Bust Half Dollar__Half_Dollars",
+      "series_name": "Draped Bust Half Dollar",
+      "country_code": "US",
+      "denomination": "Half Dollars",
       "start_year": 1796,
       "end_year": 1807,
-      "defining_characteristics": "Copper coin, 10.89g",
-      "official_name": "Draped Bust Cent",
-      "type": "coin",
-      "aliases": [
-        "Draped Bust",
-        "DB Cent"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Eagle Logo (Italic Hallmark)__Engelhard_Bullion",
+      "series_name": "Eagle Logo (Italic Hallmark)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Eagle Logo (Proof-Like)__Engelhard_Bullion",
+      "series_name": "Eagle Logo (Proof-Like)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Eagle Logo (Standard/Thin Font)__Engelhard_Bullion",
+      "series_name": "Eagle Logo (Standard/Thin Font)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Earliest 1oz Production Bar__Engelhard_Bullion",
+      "series_name": "Earliest 1oz Production Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Eisenhower Dollar__Dollars",
@@ -478,15 +735,8 @@
       "country_code": "US",
       "denomination": "Dollars",
       "start_year": 1971,
-      "end_year": 1978,
-      "defining_characteristics": "Available in clad and 40% silver versions. The reverse features the Apollo 11 moon landing mission insignia.",
-      "official_name": "Eisenhower Dollar",
-      "type": "coin",
-      "aliases": [
-        "Eisenhower",
-        "Ike Dollar",
-        "Ike"
-      ]
+      "end_year": 1971,
+      "type": "coin"
     },
     {
       "series_id": "Elgin, Illinois, Centennial__Commemorative_Half_Dollars",
@@ -495,12 +745,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Elgin Centennial",
-        "Elgin"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Engelhard Bar 10 oz__No_Face_Value",
@@ -518,41 +763,127 @@
       ]
     },
     {
+      "series_id": "Engelhard Bar 100 oz__No_Face_Value",
+      "series_name": "Engelhard Bar 100 oz",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Engelhard Bar 5 oz__No_Face_Value",
       "series_name": "Engelhard Bar 5 oz",
       "country_code": "US",
       "denomination": "No Face Value",
-      "start_year": 1970,
-      "end_year": 1988,
-      "defining_characteristics": "Bullion, 5.0 oz silver",
-      "official_name": "Engelhard Bar 5 oz",
-      "type": "coin",
-      "aliases": [
-        "Engelhard 5oz",
-        "Engelhard 5 oz Bar"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (5-Digit)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (5-Digit)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (6-Digit No Bull)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (6-Digit No Bull)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (A Prefix)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (A Prefix)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Anomaly)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Anomaly)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Large Font)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Large Font)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Large Serial)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Large Serial)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (No Bull)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (No Bull)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Shortened 1)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Shortened 1)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Standard 6-Digit)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Standard 6-Digit)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard Industries of Canada (Unique Font)__Engelhard_Bullion",
+      "series_name": "Engelhard Industries of Canada (Unique Font)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Engelhard London__Engelhard_Bullion",
+      "series_name": "Engelhard London",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Engelhard Prospector 1 oz__No_Face_Value",
       "series_name": "Engelhard Prospector 1 oz",
       "country_code": "US",
       "denomination": "No Face Value",
-      "start_year": 1982,
-      "end_year": 1988,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Engelhard Prospector 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Engelhard Prospector",
-        "Prospector Round",
-        "E Prospector"
-      ]
-    },
-    {
-      "series_id": "Engelhard__Engelhard_Bullion",
-      "series_name": "Engelhard",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -564,11 +895,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Fort Vancouver"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Franklin Half Dollar__Half_Dollars",
@@ -576,14 +903,62 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1948,
-      "end_year": 1963,
-      "defining_characteristics": "Classic US silver half dollar, 1948-1963",
-      "official_name": "Franklin Half Dollar",
-      "type": "coin",
-      "aliases": [
-        "Franklin",
-        "Ben Franklin Half"
-      ]
+      "end_year": 1948,
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Gold Bar (1 oz)__No_Face_Value",
+      "series_name": "Generic Gold Bar (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Silver Bar (1 oz)__No_Face_Value",
+      "series_name": "Generic Silver Bar (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Silver Bar (10 oz)__No_Face_Value",
+      "series_name": "Generic Silver Bar (10 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Silver Bar (100 oz)__No_Face_Value",
+      "series_name": "Generic Silver Bar (100 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Silver Bar (5 oz)__No_Face_Value",
+      "series_name": "Generic Silver Bar (5 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Generic Silver Round (1 oz)__No_Face_Value",
+      "series_name": "Generic Silver Round (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "George V Silver Dollar__1_Dollar",
@@ -671,15 +1046,45 @@
       "series_name": "Germania 1 oz",
       "country_code": "DE",
       "denomination": "Five Mark",
-      "start_year": 2019,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Germania 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Germania",
-        "Germania Mint",
-        "German Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Dollar Type 1__$1_Gold",
+      "series_name": "Gold Dollar Type 1",
+      "country_code": "US",
+      "denomination": "$1 Gold",
+      "start_year": 1849,
+      "end_year": 1854,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Dollar Type 2__$1_Gold",
+      "series_name": "Gold Dollar Type 2",
+      "country_code": "US",
+      "denomination": "$1 Gold",
+      "start_year": 1854,
+      "end_year": 1856,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Dollar Type 3__$1_Gold",
+      "series_name": "Gold Dollar Type 3",
+      "country_code": "US",
+      "denomination": "$1 Gold",
+      "start_year": 1856,
+      "end_year": 1889,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Maple Leaf 1 oz__$50",
+      "series_name": "Gold Maple Leaf 1 oz",
+      "country_code": "CA",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Gold Maple Leaf__Big_Maple_Leaf",
@@ -713,7 +1118,7 @@
       "series_name": "Gold Maple Leaf",
       "country_code": "CA",
       "denomination": "Gold Maple Leaf 1/20 oz",
-      "start_year": 1982,
+      "start_year": 1993,
       "end_year": 2024,
       "type": "coin"
     },
@@ -722,7 +1127,7 @@
       "series_name": "Gold Maple Leaf",
       "country_code": "CA",
       "denomination": "Gold Maple Leaf 1/2 oz",
-      "start_year": 1982,
+      "start_year": 1986,
       "end_year": 2024,
       "type": "coin"
     },
@@ -733,6 +1138,33 @@
       "denomination": "Gold Maple Leaf 1/4 oz",
       "start_year": 1982,
       "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Maple Leaf__Gold_Maple_Leaf_1_gram",
+      "series_name": "Gold Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Gold Maple Leaf 1 gram",
+      "start_year": 2014,
+      "end_year": 2024,
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Standard Corp (Series 1)__Engelhard_Bullion",
+      "series_name": "Gold Standard Corp (Series 1)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Gold Standard Corp (Series 2)__Engelhard_Bullion",
+      "series_name": "Gold Standard Corp (Series 2)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -751,13 +1183,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1922,
       "end_year": 1922,
-      "type": "coin",
-      "aliases": [
-        "Grant"
-      ],
-      "variety_suffixes": [
-        "STAR"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Great American Insurance__Engelhard_Bullion",
+      "series_name": "Great American Insurance",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Hawaiian Sesquicentennial__Commemorative_Half_Dollars",
@@ -766,12 +1201,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1928,
       "end_year": 1928,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Hawaiian",
-        "Hawaii"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Hudson, New York, Sesquicentennial__Commemorative_Half_Dollars",
@@ -780,12 +1210,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Hudson Sesquicentennial",
-        "Hudson"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Huguenot-Walloon Tercentenary__Commemorative_Half_Dollars",
@@ -794,11 +1219,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1924,
       "end_year": 1924,
-      "type": "coin",
-      "aliases": [
-        "Huguenot-Walloon",
-        "Huguenot"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "IMPEX Art Bar Series 1__Engelhard_Bullion",
+      "series_name": "IMPEX Art Bar Series 1",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "IMPEX Bar Series 2__Engelhard_Bullion",
+      "series_name": "IMPEX Bar Series 2",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Illinois Centennial__Commemorative_Half_Dollars",
@@ -807,25 +1246,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1918,
       "end_year": 1918,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Illinois"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Incuse Silver Maple Leaf__Five_Dollars",
       "series_name": "Incuse Silver Maple Leaf",
       "country_code": "CA",
       "denomination": "Five Dollars",
-      "start_year": 2018,
-      "defining_characteristics": "Bullion coin, 1.0 oz silver",
-      "official_name": "Incuse Silver Maple Leaf",
-      "type": "coin",
-      "aliases": [
-        "Incuse Maple Leaf",
-        "Incuse SML"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Indian Head Cent__Cents",
@@ -834,30 +1264,34 @@
       "denomination": "Cents",
       "start_year": 1859,
       "end_year": 1909,
-      "defining_characteristics": "Copper-nickel (1859-1864), Bronze (1864-1909). 1877 is key date with lowest mintage. 1908-S and 1909-S are scarce.",
-      "official_name": "Indian Head Cent",
-      "type": "coin",
-      "aliases": [
-        "Indian Cent",
-        "Indian Penny",
-        "Indian Head Penny"
-      ]
+      "type": "coin"
     },
     {
-      "series_id": "Indian Head Quarter Eagle__$2.50",
-      "series_name": "Indian Head Quarter Eagle",
+      "series_id": "Indian Head Eagle__$10_Gold",
+      "series_name": "Indian Head Eagle",
       "country_code": "US",
-      "denomination": "$2.50",
+      "denomination": "$10 Gold",
+      "start_year": 1907,
+      "end_year": 1933,
+      "type": "coin"
+    },
+    {
+      "series_id": "Indian Head Half Eagle__$5_Gold",
+      "series_name": "Indian Head Half Eagle",
+      "country_code": "US",
+      "denomination": "$5 Gold",
       "start_year": 1908,
       "end_year": 1929,
-      "defining_characteristics": "Unique incuse (recessed) design - the only regular-issue US coins with incuse design. Controversial when introduced but now highly prized by collectors.",
-      "official_name": "Indian Head Quarter Eagle",
-      "type": "coin",
-      "aliases": [
-        "Indian Quarter Eagle",
-        "Indian $2.50",
-        "Incuse Quarter Eagle"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Indian Head Quarter Eagle__Quarter_Eagles",
+      "series_name": "Indian Head Quarter Eagle",
+      "country_code": "US",
+      "denomination": "Quarter Eagles",
+      "start_year": 1908,
+      "end_year": 1908,
+      "type": "coin"
     },
     {
       "series_id": "Iowa Statehood Centennial__Commemorative_Half_Dollars",
@@ -866,27 +1300,34 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1946,
       "end_year": 1946,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Iowa Centennial",
-        "Iowa"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "JELENKO Bar__Engelhard_Bullion",
+      "series_name": "JELENKO Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Johnson Matthey Bar__No_Face_Value",
       "series_name": "Johnson Matthey Bar",
       "country_code": "US",
       "denomination": "No Face Value",
-      "start_year": 1970,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Johnson Matthey Bar",
-      "type": "coin",
-      "aliases": [
-        "JM Bar",
-        "Johnson Matthey",
-        "JM Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Junk Silver 90% ($10 Face Value)__$10_Face_Value",
+      "series_name": "Junk Silver 90% ($10 Face Value)",
+      "country_code": "US",
+      "denomination": "$10 Face Value",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Kennedy Half Dollar__Half_Dollars",
@@ -894,13 +1335,8 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1964,
-      "defining_characteristics": "Classic US silver half dollar, 1964-present",
-      "official_name": "Kennedy Half Dollar",
-      "type": "coin",
-      "aliases": [
-        "Kennedy",
-        "JFK Half"
-      ]
+      "end_year": 1964,
+      "type": "coin"
     },
     {
       "series_id": "Krugerrand Gold__No Face Value",
@@ -925,6 +1361,15 @@
       ]
     },
     {
+      "series_id": "Krugerrand Gold__No_Face_Value",
+      "series_name": "Krugerrand Gold",
+      "country_code": "ZA",
+      "denomination": "No Face Value",
+      "start_year": 1967,
+      "end_year": 2025,
+      "type": "coin"
+    },
+    {
       "series_id": "Krugerrand Silver__No Face Value",
       "series_name": "Krugerrand Silver",
       "country_code": "ZA",
@@ -937,6 +1382,15 @@
         "Silver Krugerrand",
         "Krugerrand Silver 1oz"
       ]
+    },
+    {
+      "series_id": "Krugerrand Silver__No_Face_Value",
+      "series_name": "Krugerrand Silver",
+      "country_code": "ZA",
+      "denomination": "No Face Value",
+      "start_year": 2017,
+      "end_year": 2025,
+      "type": "coin"
     },
     {
       "series_id": "Lafayette Dollar__Commemorative_Dollars",
@@ -972,12 +1426,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Lexington-Concord",
-        "Lexington"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Liberty Cap Large Cent__Cents",
@@ -986,30 +1435,61 @@
       "denomination": "Cents",
       "start_year": 1793,
       "end_year": 1796,
-      "defining_characteristics": "100% copper. Early American coinage featuring Liberty wearing Phrygian cap. Weight reduced from 13.48g to 10.89g in 1795. Very rare and valuable.",
-      "official_name": "Liberty Cap Large Cent",
-      "type": "coin",
-      "aliases": [
-        "Liberty Cap Cent",
-        "Liberty Cap",
-        "Phrygian Cap Cent"
-      ]
+      "type": "coin"
     },
     {
-      "series_id": "Liberty Head Quarter Eagle__$2.50",
+      "series_id": "Liberty Head Double Eagle__$20_Gold",
+      "series_name": "Liberty Head Double Eagle",
+      "country_code": "US",
+      "denomination": "$20 Gold",
+      "start_year": 1850,
+      "end_year": 1907,
+      "type": "coin"
+    },
+    {
+      "series_id": "Liberty Head Eagle__$10_Gold",
+      "series_name": "Liberty Head Eagle",
+      "country_code": "US",
+      "denomination": "$10 Gold",
+      "start_year": 1838,
+      "end_year": 1907,
+      "type": "coin"
+    },
+    {
+      "series_id": "Liberty Head Half Eagle__$5_Gold",
+      "series_name": "Liberty Head Half Eagle",
+      "country_code": "US",
+      "denomination": "$5 Gold",
+      "start_year": 1839,
+      "end_year": 1908,
+      "type": "coin"
+    },
+    {
+      "series_id": "Liberty Head Nickel__Nickels",
+      "series_name": "Liberty Head Nickel",
+      "country_code": "US",
+      "denomination": "Nickels",
+      "start_year": 1883,
+      "end_year": 1912,
+      "type": "coin"
+    },
+    {
+      "series_id": "Liberty Head Quarter Eagle__Quarter_Eagles",
       "series_name": "Liberty Head Quarter Eagle",
       "country_code": "US",
-      "denomination": "$2.50",
+      "denomination": "Quarter Eagles",
       "start_year": 1840,
-      "end_year": 1907,
-      "defining_characteristics": "The Liberty Head (Coronet) design was used for the $2.50 gold piece from 1840-1907. Earlier types (1796-1839) have different designs.",
-      "official_name": "Liberty Head Quarter Eagle",
-      "type": "coin",
-      "aliases": [
-        "Liberty Quarter Eagle",
-        "Liberty $2.50",
-        "Coronet Quarter Eagle"
-      ]
+      "end_year": 1840,
+      "type": "coin"
+    },
+    {
+      "series_id": "Liberty Trade Art Bar__Engelhard_Bullion",
+      "series_name": "Liberty Trade Art Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Lincoln Wheat Cent__Cents",
@@ -1017,18 +1497,17 @@
       "country_code": "US",
       "denomination": "Cents",
       "start_year": 1909,
-      "end_year": 1958,
-      "defining_characteristics": "1943 cents were struck in zinc-coated steel due to WWII copper shortage. VDB initials on 1909 reverse are highly collectible.",
-      "official_name": "Lincoln Wheat Cent",
-      "type": "coin",
-      "series_group": "Lincoln Cent",
-      "aliases": [
-        "Lincoln Wheat",
-        "Wheat Cent",
-        "Wheaties",
-        "Wheat Penny",
-        "Lincoln Wheat Penny"
-      ]
+      "end_year": 1909,
+      "type": "coin"
+    },
+    {
+      "series_id": "Litton Systems Canada__Engelhard_Bullion",
+      "series_name": "Litton Systems Canada",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Long Island Tercentenary__Commemorative_Half_Dollars",
@@ -1037,10 +1516,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Long Island"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Loonie__Dollars",
@@ -1076,12 +1552,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Lynchburg Sesquicentennial",
-        "Lynchburg"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Madison Mint Bar (Blank Reverse)__Engelhard_Bullion",
+      "series_name": "Madison Mint Bar (Blank Reverse)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Madison Mint Bar (Marked Reverse)__Engelhard_Bullion",
+      "series_name": "Madison Mint Bar (Marked Reverse)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Maine Centennial__Commemorative_Half_Dollars",
@@ -1090,11 +1579,61 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1920,
       "end_year": 1920,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Maine"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf A__Engelhard_Bullion",
+      "series_name": "Maple Leaf A",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf B (Border)__Engelhard_Bullion",
+      "series_name": "Maple Leaf B (Border)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf B (Centered)__Engelhard_Bullion",
+      "series_name": "Maple Leaf B (Centered)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf B (Large Font)__Engelhard_Bullion",
+      "series_name": "Maple Leaf B (Large Font)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf C (Border)__Engelhard_Bullion",
+      "series_name": "Maple Leaf C (Border)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Maple Leaf C (Unique Serial)__Engelhard_Bullion",
+      "series_name": "Maple Leaf C (Unique Serial)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Maryland Tercentenary__Commemorative_Half_Dollars",
@@ -1103,10 +1642,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1934,
-      "type": "coin",
-      "aliases": [
-        "Maryland"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "McKinley Memorial__Gold_Dollars",
@@ -1124,17 +1660,7 @@
       "denomination": "Dimes",
       "start_year": 1916,
       "end_year": 1945,
-      "defining_characteristics": "90% silver. Designed by Adolph A. Weinman. 1916-D is legendary key date (264,000 mintage). Full Bands designation for sharp strike.",
-      "official_name": "Winged Liberty Head Dime",
-      "type": "coin",
-      "aliases": [
-        "Winged Liberty Head Dime",
-        "Winged Liberty Dime",
-        "Mercury"
-      ],
-      "variety_suffixes": [
-        "FB"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -1146,11 +1672,29 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz",
+      "series_name": "Mexican Libertad Gold 1/10 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Gold 1/10 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1/10 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1991,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Gold 1/2 oz__Mexican_Libertad_Gold_1/2_oz",
+      "series_name": "Mexican Libertad Gold 1/2 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Gold 1/2 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -1162,6 +1706,15 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz",
+      "series_name": "Mexican Libertad Gold 1/20 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Gold 1/20 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1/20 oz",
       "country_code": "MX",
@@ -1170,11 +1723,38 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Gold 1/4 oz__Mexican_Libertad_Gold_1/4_oz",
+      "series_name": "Mexican Libertad Gold 1/4 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Gold 1/4 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1/4 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1981,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz",
+      "series_name": "Mexican Libertad Platinum 1 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Platinum 1 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg",
+      "series_name": "Mexican Libertad Silver 1 kg",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 1 kg",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -1187,11 +1767,29 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz",
+      "series_name": "Mexican Libertad Silver 1/10 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 1/10 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
       "series_name": "Mexican Libertad Silver 1/10 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/2 oz__Mexican_Libertad_Silver_1/2_oz",
+      "series_name": "Mexican Libertad Silver 1/2 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 1/2 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -1203,11 +1801,29 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz",
+      "series_name": "Mexican Libertad Silver 1/20 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 1/20 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
       "series_name": "Mexican Libertad Silver 1/20 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1992,
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz",
+      "series_name": "Mexican Libertad Silver 1/4 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 1/4 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -1219,20 +1835,31 @@
       "type": "coin"
     },
     {
+      "series_id": "Mexican Libertad Silver 2 oz__Mexican_Libertad_Silver_2_oz",
+      "series_name": "Mexican Libertad Silver 2 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 2 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Mexican Libertad Silver 5 oz__Mexican_Libertad_Silver_5_oz",
+      "series_name": "Mexican Libertad Silver 5 oz",
+      "country_code": "MX",
+      "denomination": "Mexican Libertad Silver 5 oz",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "Missouri Centennial__Commemorative_Half_Dollars",
       "series_name": "Missouri Centennial",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1921,
       "end_year": 1921,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Missouri"
-      ],
-      "variety_suffixes": [
-        "2S4"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Modern Commemorative Gold__Modern_Commemorative_Gold",
@@ -1284,12 +1911,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1923,
       "end_year": 1923,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Monroe Doctrine",
-        "Monroe"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Native American Dollar__Dollars",
+      "series_name": "Native American Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 2009,
+      "end_year": 2025,
+      "type": "coin"
     },
     {
       "series_id": "New Rochelle, New York, 250th Anniversary__Commemorative_Half_Dollars",
@@ -1298,10 +1929,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1938,
       "end_year": 1938,
-      "type": "coin",
-      "aliases": [
-        "New Rochelle"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Nickel Dollar__Dollars",
@@ -1319,23 +1947,16 @@
       "denomination": "Three Cents",
       "start_year": 1865,
       "end_year": 1889,
-      "type": "coin",
-      "series_group": "Three-Cent"
+      "type": "coin"
     },
     {
       "series_id": "Noah's Ark 1 oz__500_Dram",
       "series_name": "Noah's Ark 1 oz",
       "country_code": "AM",
       "denomination": "500 Dram",
-      "start_year": 2011,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Noah's Ark 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Armenian Noah's Ark",
-        "Noah Ark",
-        "Armenia Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Norfolk, Virginia, Bicentennial__Commemorative_Half_Dollars",
@@ -1344,12 +1965,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Norfolk Bicentennial",
-        "Norfolk"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Old Spanish Trail__Commemorative_Half_Dollars",
@@ -1358,10 +1974,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1935,
       "end_year": 1935,
-      "type": "coin",
-      "aliases": [
-        "Spanish Trail"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Oregon Trail Memorial__Commemorative_Half_Dollars",
@@ -1370,11 +1983,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1926,
       "end_year": 1939,
-      "type": "coin",
-      "aliases": [
-        "Oregon Trail",
-        "Oregon"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Ottawa Sovereign__Sovereign",
@@ -1390,16 +1999,9 @@
       "series_name": "PAMP Suisse Silver Bar",
       "country_code": "CH",
       "denomination": "No Face Value",
-      "start_year": 1977,
-      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
-      "official_name": "PAMP Suisse Silver Bar",
-      "type": "coin",
-      "aliases": [
-        "PAMP",
-        "PAMP Bar",
-        "Fortuna Bar",
-        "Lady Fortuna"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Palladium Maple Leaf__Palladium_Maple_Leaf",
@@ -1453,26 +2055,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1915,
       "end_year": 1915,
-      "type": "coin",
-      "aliases": [
-        "Panama-Pacific",
-        "Pan-Pac"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Perth Lunar Series__One_Dollar",
       "series_name": "Perth Lunar Series",
       "country_code": "AU",
       "denomination": "One Dollar",
-      "start_year": 1999,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Perth Lunar Series",
-      "type": "coin",
-      "aliases": [
-        "Lunar Series",
-        "Perth Lunar",
-        "Lunar Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Pilgrim Tercentenary__Commemorative_Half_Dollars",
@@ -1481,10 +2073,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1920,
       "end_year": 1920,
-      "type": "coin",
-      "aliases": [
-        "Pilgrim"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf",
@@ -1496,18 +2085,139 @@
       "type": "coin"
     },
     {
+      "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf_1/10_oz",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf 1/10 oz",
+      "start_year": 1988,
+      "end_year": 2002,
+      "type": "coin"
+    },
+    {
+      "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf_1/15_oz",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf 1/15 oz",
+      "start_year": 1994,
+      "end_year": 1994,
+      "type": "coin"
+    },
+    {
+      "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf_1/20_oz",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf 1/20 oz",
+      "start_year": 1988,
+      "end_year": 2002,
+      "type": "coin"
+    },
+    {
+      "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf_1/2_oz",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf 1/2 oz",
+      "start_year": 1988,
+      "end_year": 2002,
+      "type": "coin"
+    },
+    {
+      "series_id": "Platinum Maple Leaf__Platinum_Maple_Leaf_1/4_oz",
+      "series_name": "Platinum Maple Leaf",
+      "country_code": "CA",
+      "denomination": "Platinum Maple Leaf 1/4 oz",
+      "start_year": 1988,
+      "end_year": 2002,
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (6-Digit/MC Absent)__Engelhard_Bullion",
+      "series_name": "Portrait (6-Digit/MC Absent)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Large E)__Engelhard_Bullion",
+      "series_name": "Portrait (Large E)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Large E/6-Digit)__Engelhard_Bullion",
+      "series_name": "Portrait (Large E/6-Digit)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Proof-Like/US Prefix)__Engelhard_Bullion",
+      "series_name": "Portrait (Proof-Like/US Prefix)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Wide E at Top)__Engelhard_Bullion",
+      "series_name": "Portrait (Wide E at Top)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Wide E at Top/No Serial)__Engelhard_Bullion",
+      "series_name": "Portrait (Wide E at Top/No Serial)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Wide E/MC Absent)__Engelhard_Bullion",
+      "series_name": "Portrait (Wide E/MC Absent)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Portrait (Wide E/MC in Globe)__Engelhard_Bullion",
+      "series_name": "Portrait (Wide E/MC in Globe)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Presidential Dollar__Dollars",
+      "series_name": "Presidential Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 2007,
+      "end_year": 2020,
+      "type": "coin"
+    },
+    {
       "series_id": "Providence, Rhode Island, Tercentenary__Commemorative_Half_Dollars",
       "series_name": "Providence, Rhode Island, Tercentenary",
       "country_code": "US",
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Rhode Island",
-        "Providence",
-        "Rhode Island Tercentenary"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Provincial Silver__10_Cents",
@@ -1541,16 +2251,18 @@
       "series_name": "Queen's Beasts 2 oz",
       "country_code": "GB",
       "denomination": "Five Pounds",
-      "start_year": 2016,
-      "end_year": 2021,
-      "defining_characteristics": "Bullion, 2.0 oz silver",
-      "official_name": "Queen's Beasts 2 oz",
-      "type": "coin",
-      "aliases": [
-        "Queen's Beasts",
-        "Queens Beasts",
-        "Royal Beasts"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "ROYAL Bar__Engelhard_Bullion",
+      "series_name": "ROYAL Bar",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Roanoke Island__Commemorative_Half_Dollars",
@@ -1559,10 +2271,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1937,
       "end_year": 1937,
-      "type": "coin",
-      "aliases": [
-        "Roanoke"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Robert G. Warner Co__Engelhard_Bullion",
+      "series_name": "Robert G. Warner Co",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Roosevelt Dime__Dimes",
@@ -1570,14 +2288,8 @@
       "country_code": "US",
       "denomination": "Dimes",
       "start_year": 1946,
-      "defining_characteristics": "90% silver (1946-1964), Clad (1965-present). Silver proofs available 1992-present. Designed by John R. Sinnock.",
-      "official_name": "Roosevelt Dime",
-      "type": "coin",
-      "aliases": [
-        "Roosevelt",
-        "Rosie",
-        "FDR Dime"
-      ]
+      "end_year": 2025,
+      "type": "coin"
     },
     {
       "series_id": "Sacagawea Dollar__Dollars",
@@ -1585,14 +2297,8 @@
       "country_code": "US",
       "denomination": "Dollars",
       "start_year": 2000,
-      "defining_characteristics": "Distinctive golden color from manganese brass composition. Continued as Native American $1 series from 2009 with changing reverses.",
-      "official_name": "Sacagawea Dollar",
-      "type": "coin",
-      "aliases": [
-        "Sacagawea",
-        "Golden Dollar",
-        "Sac Dollar"
-      ]
+      "end_year": 2000,
+      "type": "coin"
     },
     {
       "series_id": "San Francisco-Oakland Bay Bridge__Commemorative_Half_Dollars",
@@ -1601,26 +2307,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "Bay Bridge",
-        "SF-Oakland"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Scotiabank__Engelhard_Bullion",
+      "series_name": "Scotiabank",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Scottsdale Mint Silver__No_Face_Value",
       "series_name": "Scottsdale Mint Silver",
       "country_code": "US",
       "denomination": "No Face Value",
-      "start_year": 2005,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Scottsdale Mint Silver",
-      "type": "coin",
-      "aliases": [
-        "Scottsdale Stacker",
-        "Scottsdale Silver",
-        "Chunky"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Seated Liberty Dime__Dimes",
@@ -1628,47 +2333,44 @@
       "country_code": "US",
       "denomination": "Dimes",
       "start_year": 1837,
-      "end_year": 1891,
-      "defining_characteristics": "Multiple design variations: No Stars (1837-1838), Stars (1838-1860), Legend (1860-1891).",
-      "official_name": "Seated Liberty Dime",
-      "type": "coin",
-      "aliases": [
-        "Seated Liberty",
-        "Seated Dime",
-        "Liberty Seated Dime"
-      ]
+      "end_year": 1837,
+      "type": "coin"
+    },
+    {
+      "series_id": "Seated Liberty Dollar__Dollars",
+      "series_name": "Seated Liberty Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1840,
+      "end_year": 1873,
+      "type": "coin"
+    },
+    {
+      "series_id": "Seated Liberty Half Dime__Half_Dimes",
+      "series_name": "Seated Liberty Half Dime",
+      "country_code": "US",
+      "denomination": "Half Dimes",
+      "start_year": 1837,
+      "end_year": 1873,
+      "type": "coin"
     },
     {
       "series_id": "Seated Liberty Half Dollar__Half_Dollars",
       "series_name": "Seated Liberty Half Dollar",
       "country_code": "US",
       "denomination": "Half Dollars",
-      "start_year": 1839,
-      "end_year": 1891,
-      "defining_characteristics": "Silver coin, 12.44g",
-      "official_name": "Seated Liberty Half Dollar",
-      "type": "coin",
-      "aliases": [
-        "Seated Half",
-        "Liberty Seated Half",
-        "Seated Liberty 50c"
-      ]
+      "start_year": 1855,
+      "end_year": 1855,
+      "type": "coin"
     },
     {
       "series_id": "Seated Liberty Quarter__Quarters",
       "series_name": "Seated Liberty Quarter",
       "country_code": "US",
       "denomination": "Quarters",
-      "start_year": 1838,
-      "end_year": 1891,
-      "defining_characteristics": "Silver coin, 6.22g",
-      "official_name": "Seated Liberty Quarter",
-      "type": "coin",
-      "aliases": [
-        "Seated Quarter",
-        "Liberty Seated Quarter",
-        "Seated Liberty 25c"
-      ]
+      "start_year": 1855,
+      "end_year": 1855,
+      "type": "coin"
     },
     {
       "series_id": "Sesquicentennial of American Independence__Commemorative_Half_Dollars",
@@ -1677,12 +2379,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1926,
       "end_year": 1926,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Sesquicentennial",
-        "1926 Sesqui"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Sesquicentennial of American Independence__Quarter_Eagles",
@@ -1691,23 +2388,43 @@
       "denomination": "Quarter Eagles",
       "start_year": 1926,
       "end_year": 1926,
-      "type": "coin",
-      "series_group": "Classic Commemoratives"
+      "type": "coin"
+    },
+    {
+      "series_id": "Sheffield Smelting (Serial)__Engelhard_Bullion",
+      "series_name": "Sheffield Smelting (Serial)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sheffield Smelting (Smooth)__Engelhard_Bullion",
+      "series_name": "Sheffield Smelting (Smooth)",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Shield Nickel__Nickels",
+      "series_name": "Shield Nickel",
+      "country_code": "US",
+      "denomination": "Nickels",
+      "start_year": 1866,
+      "end_year": 1883,
+      "type": "coin"
     },
     {
       "series_id": "Silver Maple Leaf 1 oz__Five_Dollars",
       "series_name": "Silver Maple Leaf 1 oz",
       "country_code": "CA",
       "denomination": "Five Dollars",
-      "start_year": 1988,
-      "defining_characteristics": "Bullion coin, 1.0 oz silver",
-      "official_name": "Silver Maple Leaf 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Canadian Silver Maple Leaf",
-        "Silver Maple Leaf",
-        "SML"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Silver Maple Leaf__Silver_Maple_Leaf",
@@ -1732,15 +2449,9 @@
       "series_name": "Silver Panda",
       "country_code": "CN",
       "denomination": "Ten Yuan",
-      "start_year": 1983,
-      "defining_characteristics": "Bullion coin, 1.0 oz silver",
-      "official_name": "Silver Panda",
-      "type": "coin",
-      "aliases": [
-        "Chinese Silver Panda",
-        "China Panda",
-        "Panda"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Silver Three-Cent Type I__Three_Cents",
@@ -1758,19 +2469,22 @@
       ]
     },
     {
+      "series_id": "Silver Three-Cent__Three_Cents",
+      "series_name": "Silver Three-Cent",
+      "country_code": "US",
+      "denomination": "Three Cents",
+      "start_year": 1851,
+      "end_year": 1873,
+      "type": "coin"
+    },
+    {
       "series_id": "Singapore Lunar Series 1 oz__Two_Dollars",
       "series_name": "Singapore Lunar Series 1 oz",
       "country_code": "SG",
       "denomination": "Two Dollars",
-      "start_year": 2010,
-      "defining_characteristics": "Bullion, 1.0 oz silver",
-      "official_name": "Singapore Lunar Series 1 oz",
-      "type": "coin",
-      "aliases": [
-        "Singapore Lunar",
-        "Singapore Zodiac",
-        "SG Lunar"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Small Cent__1_Cent",
@@ -1779,6 +2493,78 @@
       "denomination": "1 Cent",
       "start_year": 1920,
       "end_year": 1953,
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Baseball__Engelhard_Bullion",
+      "series_name": "Sports Series - Baseball",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Basketball__Engelhard_Bullion",
+      "series_name": "Sports Series - Basketball",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Football__Engelhard_Bullion",
+      "series_name": "Sports Series - Football",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Golf__Engelhard_Bullion",
+      "series_name": "Sports Series - Golf",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Hockey__Engelhard_Bullion",
+      "series_name": "Sports Series - Hockey",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Sports Series - Tennis__Engelhard_Bullion",
+      "series_name": "Sports Series - Tennis",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "St. Gaudens Double Eagle__$20_Gold",
+      "series_name": "St. Gaudens Double Eagle",
+      "country_code": "US",
+      "denomination": "$20 Gold",
+      "start_year": 1907,
+      "end_year": 1933,
+      "type": "coin"
+    },
+    {
+      "series_id": "Standing Liberty Quarter__Quarters",
+      "series_name": "Standing Liberty Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1916,
+      "end_year": 1930,
       "type": "coin"
     },
     {
@@ -1797,25 +2583,25 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1925,
       "end_year": 1925,
-      "type": "coin",
-      "aliases": [
-        "Stone Mountain"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "Sunshine Mint Silver__No_Face_Value",
       "series_name": "Sunshine Mint Silver",
       "country_code": "US",
       "denomination": "No Face Value",
-      "start_year": 1983,
-      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
-      "official_name": "Sunshine Mint Silver",
-      "type": "coin",
-      "aliases": [
-        "Sunshine",
-        "Sunshine Mint",
-        "SMI Silver"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Susan B. Anthony Dollar__Dollars",
+      "series_name": "Susan B. Anthony Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1979,
+      "end_year": 1999,
+      "type": "coin"
     },
     {
       "series_id": "Texas Centennial__Commemorative_Half_Dollars",
@@ -1824,11 +2610,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1934,
       "end_year": 1938,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Texas"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Three Dollar Gold__$3_Gold",
+      "series_name": "Three Dollar Gold",
+      "country_code": "US",
+      "denomination": "$3 Gold",
+      "start_year": 1854,
+      "end_year": 1889,
+      "type": "coin"
     },
     {
       "series_id": "Toonie__Two_Dollars",
@@ -1840,20 +2631,40 @@
       "type": "coin"
     },
     {
+      "series_id": "Toronto Dominion Bank__Engelhard_Bullion",
+      "series_name": "Toronto Dominion Bank",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Twenty Cent Piece__Twenty_Cents",
+      "series_name": "Twenty Cent Piece",
+      "country_code": "US",
+      "denomination": "Twenty Cents",
+      "start_year": 1875,
+      "end_year": 1878,
+      "type": "coin"
+    },
+    {
+      "series_id": "Two Cent Piece__Two_Cents",
+      "series_name": "Two Cent Piece",
+      "country_code": "US",
+      "denomination": "Two Cents",
+      "start_year": 1864,
+      "end_year": 1873,
+      "type": "coin"
+    },
+    {
       "series_id": "US Large Cent__Cents",
       "series_name": "US Large Cent",
       "country_code": "US",
       "denomination": "Cents",
-      "start_year": 1793,
-      "end_year": 1857,
-      "defining_characteristics": "Copper coin, 10.89g",
-      "official_name": "US Large Cent",
-      "type": "coin",
-      "aliases": [
-        "Large Penny",
-        "Copper Cent",
-        "Big Cent"
-      ]
+      "start_year": 1820,
+      "end_year": 1820,
+      "type": "coin"
     },
     {
       "series_id": "US-ATB5",
@@ -1878,15 +2689,9 @@
       "series_name": "Valcambi Silver Bar",
       "country_code": "CH",
       "denomination": "No Face Value",
-      "start_year": 1961,
-      "defining_characteristics": "Bar/Pour, 1.0 oz silver",
-      "official_name": "Valcambi Silver Bar",
-      "type": "coin",
-      "aliases": [
-        "Valcambi",
-        "Valcambi Suisse",
-        "Valcambi Bar"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Vermont Sesquicentennial__Commemorative_Half_Dollars",
@@ -1895,11 +2700,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1927,
       "end_year": 1927,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Vermont"
-      ]
+      "type": "coin"
+    },
+    {
+      "series_id": "Victoria General Hospital__Engelhard_Bullion",
+      "series_name": "Victoria General Hospital",
+      "country_code": "US",
+      "denomination": "Engelhard Bullion",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Victoria Silver__25_Cents",
@@ -1925,29 +2735,17 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1916,
-      "end_year": 1947,
-      "defining_characteristics": "Classic US silver half dollar, 1916-1947",
-      "official_name": "Walking Liberty Half Dollar",
-      "type": "coin",
-      "aliases": [
-        "Walking Liberty",
-        "Walker"
-      ]
+      "end_year": 1916,
+      "type": "coin"
     },
     {
       "series_id": "Wedge-Tailed Eagle 1 oz Silver__One_Dollar",
       "series_name": "Wedge-Tailed Eagle 1 oz Silver",
       "country_code": "AU",
       "denomination": "One Dollar",
-      "start_year": 2014,
-      "defining_characteristics": "Bullion coin, 1.0 oz silver",
-      "official_name": "Wedge-Tailed Eagle 1 oz Silver",
-      "type": "coin",
-      "aliases": [
-        "Australian Wedge-Tailed Eagle",
-        "Wedge-Tailed Eagle",
-        "WTE"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "Wisconsin Territorial Centennial__Commemorative_Half_Dollars",
@@ -1956,28 +2754,16 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "series_group": "Classic Commemoratives",
-      "aliases": [
-        "Wisconsin Territorial",
-        "Wisconsin"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "World Gold Sovereigns__Various",
       "series_name": "World Gold Sovereigns",
       "country_code": "XX",
       "denomination": "Various",
-      "start_year": 1800,
-      "defining_characteristics": "Bullion, 1.0 oz gold",
-      "official_name": "World Gold Sovereigns",
-      "type": "coin",
-      "aliases": [
-        "Foreign Gold",
-        "World Gold",
-        "Gold Sovereign",
-        "Sovereign"
-      ]
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
     },
     {
       "series_id": "World's Columbian Exposition - Isabella Quarter__Commemorative_Quarters",
@@ -1995,12 +2781,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1892,
       "end_year": 1893,
-      "type": "coin",
-      "aliases": [
-        "Columbian Exposition",
-        "Columbian Half",
-        "Columbian"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "York County, Maine, Tercentenary__Commemorative_Half_Dollars",
@@ -2009,10 +2790,7 @@
       "denomination": "Commemorative Half Dollars",
       "start_year": 1936,
       "end_year": 1936,
-      "type": "coin",
-      "aliases": [
-        "York County"
-      ]
+      "type": "coin"
     },
     {
       "series_id": "american_gold_buffalo_1oz",
@@ -2070,6 +2848,23 @@
       "series_group": "American Eagle"
     },
     {
+      "series_id": "american_platinum_eagle_1oz",
+      "series_name": "American Platinum Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$100",
+      "start_year": 1997,
+      "defining_characteristics": "Bullion, 31.1035g, .9995 Pt",
+      "official_name": "American Platinum Eagle (1 oz)",
+      "type": "bullion",
+      "series_group": "American Eagle",
+      "aliases": [
+        "Platinum Eagle",
+        "American Platinum Eagle",
+        "APE",
+        "1 oz Platinum Eagle"
+      ]
+    },
+    {
       "series_id": "american_silver_eagle_1oz",
       "series_name": "American Silver Eagle (1 oz)",
       "country_code": "US",
@@ -2079,6 +2874,177 @@
       "official_name": "American Silver Eagle $1 One Ounce Silver Coin",
       "type": "bullion",
       "series_group": "American Eagle"
+    },
+    {
+      "series_id": "british_gold_britannia_110oz",
+      "series_name": "British Gold Britannia (1/10 oz)",
+      "country_code": "GB",
+      "denomination": "10 Pounds",
+      "start_year": 1987,
+      "defining_characteristics": "Bullion, 3.1103g, .9999 Au",
+      "official_name": "British Gold Britannia (1/10 oz)",
+      "type": "bullion",
+      "series_group": "Britannia",
+      "aliases": [
+        "1/10 oz Gold Britannia",
+        "Tenth oz Britannia"
+      ]
+    },
+    {
+      "series_id": "british_gold_britannia_1oz",
+      "series_name": "British Gold Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "100 Pounds",
+      "start_year": 1987,
+      "defining_characteristics": "Bullion, 31.1035g, .9999 Au",
+      "official_name": "British Gold Britannia (1 oz)",
+      "type": "bullion",
+      "series_group": "Britannia",
+      "aliases": [
+        "Gold Britannia",
+        "Brit Gold",
+        "Royal Mint Gold Britannia",
+        "1 oz Gold Britannia"
+      ]
+    },
+    {
+      "series_id": "british_silver_britannia_1oz",
+      "series_name": "British Silver Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "2 Pounds",
+      "start_year": 1997,
+      "defining_characteristics": "Bullion, 31.1035g, .999 Ag",
+      "official_name": "British Silver Britannia (1 oz)",
+      "type": "bullion",
+      "series_group": "Britannia",
+      "aliases": [
+        "Silver Britannia",
+        "Brit Silver",
+        "Royal Mint Silver Britannia",
+        "1 oz Silver Britannia"
+      ]
+    },
+    {
+      "series_id": "generic_gold_bar_1oz",
+      "series_name": "Generic Gold Bar (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 31.1035g, .999 Au",
+      "official_name": "Generic Gold Bar (1 oz)",
+      "type": "bullion",
+      "series_group": "Generic Gold",
+      "aliases": [
+        "Gold Bar",
+        "1 oz Gold Bar",
+        ".999 Gold Bar",
+        "Generic Gold Bar"
+      ]
+    },
+    {
+      "series_id": "generic_silver_bar_100oz",
+      "series_name": "Generic Silver Bar (100 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 3110.35g, .999 Ag",
+      "official_name": "Generic Silver Bar (100 oz)",
+      "type": "bullion",
+      "series_group": "Generic Silver",
+      "aliases": [
+        "100 oz Silver Bar",
+        "Silver Bar 100 oz"
+      ]
+    },
+    {
+      "series_id": "generic_silver_bar_10oz",
+      "series_name": "Generic Silver Bar (10 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 311.035g, .999 Ag",
+      "official_name": "Generic Silver Bar (10 oz)",
+      "type": "bullion",
+      "series_group": "Generic Silver",
+      "aliases": [
+        "10 oz Silver Bar",
+        "Silver Bar 10 oz"
+      ]
+    },
+    {
+      "series_id": "generic_silver_bar_1oz",
+      "series_name": "Generic Silver Bar (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 31.1035g, .999 Ag",
+      "official_name": "Generic Silver Bar (1 oz)",
+      "type": "bullion",
+      "series_group": "Generic Silver",
+      "aliases": [
+        "1 oz Silver Bar",
+        ".999 Silver Bar",
+        "Silver Bar"
+      ]
+    },
+    {
+      "series_id": "generic_silver_bar_5oz",
+      "series_name": "Generic Silver Bar (5 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 155.517g, .999 Ag",
+      "official_name": "Generic Silver Bar (5 oz)",
+      "type": "bullion",
+      "series_group": "Generic Silver",
+      "aliases": [
+        "5 oz Silver Bar",
+        "Silver Bar 5 oz"
+      ]
+    },
+    {
+      "series_id": "generic_silver_round_1oz",
+      "series_name": "Generic Silver Round (1 oz)",
+      "country_code": "XX",
+      "denomination": "No Face Value",
+      "start_year": 1970,
+      "defining_characteristics": "Bullion, 31.1035g, .999 Ag",
+      "official_name": "Generic Silver Round (1 oz)",
+      "type": "bullion",
+      "series_group": "Generic Silver",
+      "aliases": [
+        "Silver Round",
+        ".999 Silver Round",
+        "Generic Silver Round",
+        "1 oz Silver Round"
+      ]
+    },
+    {
+      "series_id": "junk_silver_90pct",
+      "series_name": "Junk Silver 90% ($10 Face Value)",
+      "country_code": "US",
+      "denomination": "$10 Face Value",
+      "start_year": 1892,
+      "defining_characteristics": "Bullion, 715.0g, .900 Ag (mixed denominations)",
+      "official_name": "Junk Silver 90% ($10 Face Value)",
+      "type": "bullion",
+      "aliases": [
+        "Junk Silver",
+        "90% Silver",
+        "Constitutional Silver",
+        "$10 FV Silver",
+        "Pre-1965 Silver",
+        "90% Silver Bag"
+      ]
+    },
+    {
+      "series_id": "morgan_dollar__Dollars",
+      "series_name": "morgan_dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1878,
+      "end_year": 1921,
+      "type": "coin"
     }
   ]
 }

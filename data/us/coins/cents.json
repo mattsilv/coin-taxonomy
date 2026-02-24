@@ -4,11 +4,6 @@
   "face_value": 0.01,
   "series": [
     {
-      "aliases": [
-        "Liberty Cap Cent",
-        "Liberty Cap",
-        "Phrygian Cap Cent"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -115,10 +110,6 @@
       }
     },
     {
-      "aliases": [
-        "Draped Bust",
-        "DB Cent"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -171,10 +162,6 @@
       }
     },
     {
-      "aliases": [
-        "Capped Bust",
-        "Classic Head Large Cent"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -227,11 +214,6 @@
       }
     },
     {
-      "aliases": [
-        "Large Penny",
-        "Copper Cent",
-        "Big Cent"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -284,11 +266,6 @@
       }
     },
     {
-      "aliases": [
-        "Classic Head",
-        "Coronet Head Cent",
-        "Matron Head"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -341,11 +318,6 @@
       }
     },
     {
-      "aliases": [
-        "Indian Cent",
-        "Indian Penny",
-        "Indian Head Penny"
-      ],
       "coins": [
         {
           "business_strikes": null,
@@ -1432,13 +1404,6 @@
       }
     },
     {
-      "aliases": [
-        "Lincoln Wheat",
-        "Wheat Cent",
-        "Wheaties",
-        "Wheat Penny",
-        "Lincoln Wheat Penny"
-      ],
       "coins": [
         {
           "business_strikes": null,
