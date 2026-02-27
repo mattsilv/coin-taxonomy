@@ -1,12 +1,14 @@
-# United States & Canada Coin Taxonomy Database
+# Coin & Bullion Taxonomy Database
 
 📚 **[Documentation Hub](./docs/PROJECT_DOCS.md)** | 📋 **[Release Notes](./docs/release-notes/README.md)** | 🌐 **[Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | 📝 **[Changelog](./CHANGELOG.md)**
 
-**The universal translator between different auction sites and marketplaces**
+> Sponsored by **[Coindex.app](https://coindex.app)** — track coin & bullion prices across dealers
 
-The coin taxonomy project becomes your universal translator between different auction sites, while providing standardized `COUNTRY-TYPE-YEAR-MINT` identifiers that create the foundation for comprehensive coin price intelligence systems.
+**A unified taxonomy for tracking comparative price history of coins and bullion.**
 
-With 2,567+ US coins, 558+ Canadian coins, and 82+ paper currency notes mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, and any coin marketplace or database.
+Standardized `COUNTRY-TYPE-YEAR-MINT` identifiers across 10+ countries create the foundation for price comparison, portfolio tracking, and marketplace integration. Covers US numismatics, world sovereign mint bullion (Eagles, Maple Leafs, Britannias, Libertads, Krugerrands, and more), and generic bars/rounds.
+
+With 2,600+ coins and bullion products mapped to consistent IDs, this taxonomy enables seamless integration across eBay, Heritage, PCGS, NGC, dealer price feeds, and any coin marketplace or database.
 
 **🌐 [Live Demo](https://mattsilv.github.io/coin-taxonomy/)** | **📊 [AI Formats](#ai-optimized-formats)** | **🔗 [Integration Guide](#integration-for-external-systems)** | **🔄 [Sync Instructions](#keeping-your-data-synchronized)**
 
@@ -81,9 +83,9 @@ See [Issue #62](https://github.com/mattsilv/coin-taxonomy/issues/62) for full sp
 
 ## What You Get
 
-- **3,125+ coins across 2 countries** (US: 2,567, Canada: 558)
+- **2,600+ coins and bullion products across 10+ countries** (US, CA, GB, MX, AU, ZA, CN, and more)
 - **82+ paper currency notes** with standardized identifiers
-- **Complete gold & silver bullion coverage** (Eagles, Maple Leafs, commemoratives)
+- **Complete world bullion coverage** (Eagles, Maple Leafs, Britannias, Libertads, Krugerrands, Philharmonics, generic bars/rounds)
 - **Full pre-1933 gold coins** (1,123+ US coins across all denominations)
 - **Modern bullion programs** (US & Canadian gold/silver/platinum/palladium)
 - **SQLite database** as single source of truth (version controlled)
@@ -250,14 +252,17 @@ WASH = Washington Quarter     SLIQ = Standing Liberty Quarter
 MORG = Morgan Dollar          PEAC = Peace Dollar
 TRDO = Trade Dollar
 
-# Gold Bullion (Modern)
-AGEO = American Gold Eagle 1oz    AGEH = American Gold Eagle 1/2oz
-AGEQ = American Gold Eagle 1/4oz  AGET = American Gold Eagle 1/10oz
+# Gold Bullion (Modern) — weight suffix convention
+AGEO = American Gold Eagle        # 1oz base; -12oz, -14oz, -110oz suffixes
 AGBF = American Buffalo Gold
 
 # Silver Bullion (Modern)
 ASEA = American Silver Eagle      ATBQ = America the Beautiful 5oz
-MSMC = Morgan Commemorative       PSMC = Peace Commemorative
+
+# World Bullion
+BGBO = British Gold Britannia     BSBO = British Silver Britannia
+MLSO = Mexican Libertad Silver    MLGO = Mexican Libertad Gold
+KRGR = Krugerrand Gold            KRGS = Krugerrand Silver
 ```
 
 **Paper Currency Examples:**
@@ -427,7 +432,7 @@ Precise metal content with transition dates:
 
 - **Sources:** PCGS, NGC, Red Book, US Mint
 - **Validation:** JSON Schema + automated tests
-- **Coverage:** 1,539+ coins, 48+ series (1793-present)
+- **Coverage:** 2,600+ coins, 280+ series (1793-present)
 - **Updates:** Git-tracked with full audit trail
 
 ## Integration for External Systems
@@ -454,7 +459,7 @@ If you're using this taxonomy as a source of truth for your coin auction platfor
    ```bash
    # Download the latest database directly
    curl -H "Accept: application/vnd.github.v3.raw" \
-     https://api.github.com/repos/mattsilv/coin-taxonomy/contents/coins.db \
+     https://api.github.com/repos/mattsilv/coin-taxonomy/contents/database/coins.db \
      > coins.db
    ```
 
@@ -676,4 +681,4 @@ if syncer.sync_taxonomy():
 
 MIT License - Open source for commercial and non-commercial use.
 
-For numismatic tools and updates: **[silv.app](https://www.silv.app)**
+For coin & bullion price tracking: **[Coindex.app](https://coindex.app)**

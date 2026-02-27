@@ -132,6 +132,24 @@ Applied the same pattern to add weight suffix variants for existing Britannia se
 - **`variety_suffixes` on existing series**: Updated `BSBO` and `BGBO` with their new weight suffixes to document valid suffix values for downstream consumers.
 - **No denomination schema update needed**: Bar products use "Silver Bar" denomination (no face value), and Britannia sizes use existing GBP denominations (5, 10, 25, 50 Pounds).
 
+## Follow-Up: Weight Suffix Standardization (Issue #137)
+
+Audited all bullion series and found 3 competing conventions for encoding weights. Standardized to weight-suffix-only:
+
+**Migration**: `scripts/standardize_bullion_weight_suffixes_issue137.py`
+- Remapped 15 XXXX entries from per-weight series codes to base code + suffix
+- Deprecated 17 old series codes (AGEH, AGEQ, AGET, MLSH, MLSD, BGBT, etc.)
+- Fixed Libertad: type coin→bullion, added missing MLSO/MLGO XXXX entries, created MLGO series_registry entry
+- Updated variety_suffixes on AGEO, MLSO, MLGO, BGBO
+
+### Key Learnings from #137
+
+- **Three conventions had evolved independently**: Eagles (separate codes per weight), Maple Leaf/Krugerrand (weight suffixes), Britannia (hybrid). Standardizing early prevents downstream consumer confusion.
+- **Weight letter inconsistency was a trap**: `T`=1/10oz for Eagles but `T`=1/20oz for Libertad. Suffix approach (`110oz`, `120oz`) is unambiguous.
+- **Libertad had multiple data quality issues**: type='coin' instead of 'bullion', denomination=product name, duplicate series (MLS1/MLSD), missing 1oz XXXX entries. Always audit adjacent data when fixing conventions.
+- **Year-specific entries are separate scope**: 105 Libertad year-specific entries still use old series names in `series` column. Migrating those is a follow-up — don't try to fix everything in one PR.
+- **Downstream impact tracking**: Created issues in u2-server (#487) and coindex-monorepo (#391) with full mapping tables and parsing examples. Always notify consumers before breaking changes.
+
 ## Cross-References
 
 - **Issue**: [#130](https://github.com/mattsilv/coin-taxonomy/issues/130)
@@ -141,3 +159,4 @@ Applied the same pattern to add weight suffix variants for existing Britannia se
 - **ID format spec**: `docs/taxonomy-id-format.md`
 - **Prior solution**: `docs/solutions/database-issues/corrupted-series-abbreviations-migration.md`
 - **Downstream**: u2-server PR #452 (price comparison system)
+- **Standardization**: [#137](https://github.com/mattsilv/coin-taxonomy/issues/137), brainstorm at `docs/brainstorms/2026-02-27-bullion-weight-suffix-standard-brainstorm.md`
