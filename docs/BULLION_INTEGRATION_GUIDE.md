@@ -426,7 +426,7 @@ def get_product_type(taxonomy_id: str) -> str:
         return "bullion"
 
     # Check series code
-    bullion_series = ["AGEO", "AGET", "AGEF", "AGES", "AGBF",  # US Gold
+    bullion_series = ["AGEO", "AGEQ", "AGEH", "AGET", "AGBF",  # US Gold
                       "ASEA",                                    # US Silver
                       "GMLO", "GMLH", "GMLQ", "GMLT",           # CA Gold
                       "SMLO"]                                    # CA Silver
@@ -660,9 +660,9 @@ def test_end_to_end_bullion_flow():
 ### Series Code Reference
 
 #### US Gold Bullion
-- `AGES` - American Gold Eagle $5 (1/10 oz)
-- `AGET` - American Gold Eagle $10 (1/4 oz)
-- `AGEF` - American Gold Eagle $25 (1/2 oz)
+- `AGET` - American Gold Eagle $5 (1/10 oz)
+- `AGEQ` - American Gold Eagle $10 (1/4 oz)
+- `AGEH` - American Gold Eagle $25 (1/2 oz)
 - `AGEO` - American Gold Eagle $50 (1 oz)
 - `AGBF` - American Gold Buffalo $50 (1 oz)
 
