@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-01-28",
+  "last_updated": "2026-02-27",
   "description": "Third-party coin grading service registry. Provides standardized information about major grading companies for external metadata systems.",
   "services": [
     {
@@ -106,6 +106,32 @@
       }
     },
     {
+      "code": "CACG",
+      "name": "Certified Acceptance Corporation Grading",
+      "founded": 2023,
+      "website": "https://www.cacgrading.com",
+      "cert_lookup_url": "https://www.cacgrading.com/certlookup/",
+      "cert_number_format": {
+        "pattern": "\\d{7,8}",
+        "description": "7 or 8-digit numeric certification number",
+        "example": "1234567",
+        "validation_regex": "^\\d{7,8}$"
+      },
+      "grade_format": "CACG {GRADE}",
+      "grade_format_with_modifiers": "CACG {GRADE} {MODIFIERS}",
+      "grade_format_examples": [
+        "CACG MS-65",
+        "CACG PR-69 DCAM",
+        "CACG AU-58"
+      ],
+      "industry_standard": true,
+      "focus": "US coins, world coins",
+      "notes": "Full independent grading service launched in 2023 by John Albanese (also founder of CAC sticker verification). Issues its own slabs/holders. Distinct from the CAC sticker service — CACG grades raw coins, while CAC stickers verify coins already in PCGS/NGC holders.",
+      "population_reports": true,
+      "holder_types": ["standard"],
+      "special_designations": []
+    },
+    {
       "code": "ANACS",
       "name": "American Numismatic Association Certification Service",
       "founded": 1972,
@@ -123,7 +149,7 @@
       "notes": "Oldest grading service (1972), now independently owned. Known for grading problem coins and attribution services. Not included in primary standard but commonly encountered.",
       "population_reports": false,
       "included_in_standard": false,
-      "reason_excluded": "Focus on PCGS and NGC only per user requirements"
+      "reason_excluded": "Approved trio is PCGS, NGC, CACG. ANACS-graded coins do not have comparable comp price data for our price comparison use case."
     },
     {
       "code": "ICG",
@@ -143,7 +169,7 @@
       "notes": "Founded in 1998. Not included in primary standard but commonly encountered in the marketplace.",
       "population_reports": false,
       "included_in_standard": false,
-      "reason_excluded": "Focus on PCGS and NGC only per user requirements"
+      "reason_excluded": "Approved trio is PCGS, NGC, CACG. ICG-graded coins do not have comparable comp price data for our price comparison use case."
     },
     {
       "code": "CAC",
@@ -155,7 +181,7 @@
       "grade_format": "N/A - CAC is a sticker service, not a grading service",
       "industry_standard": false,
       "focus": "Quality verification for PCGS/NGC coins",
-      "notes": "CAC does NOT grade coins. They apply green (solid for grade) or gold (premium quality) stickers to already-graded PCGS/NGC coins that meet their quality standards. Founded by John Albanese in 2007.",
+      "notes": "CAC does NOT grade coins — it is a sticker verification service. They apply green (solid for grade) or gold (premium quality) stickers to coins already graded by PCGS or NGC. The coin stays in its original PCGS/NGC slab. Founded by John Albanese in 2007. DISTINCT from CACG, which is a full grading service with its own slabs (same company, different product).",
       "population_reports": false,
       "is_grading_service": false,
       "is_verification_service": true,
@@ -180,6 +206,7 @@
     "examples": [
       "PCGS MS-65",
       "NGC PR-69 DCAM",
+      "CACG AU-58",
       "PCGS AU-58",
       "NGC MS-67 RD"
     ],
@@ -205,8 +232,8 @@
     }
   },
   "usage_notes": {
-    "primary_services": ["PCGS", "NGC"],
-    "market_acceptance": "PCGS and NGC coins typically command higher premiums than other services",
+    "primary_services": ["PCGS", "NGC", "CACG"],
+    "market_acceptance": "PCGS, NGC, and CACG coins are the approved trio for comp price tracking. These services' graded coins command higher premiums than other services.",
     "cross_grading": "Common practice to resubmit coins to different services seeking higher grades",
     "population_importance": "Lower population coins in high grades command significant premiums",
     "cert_verification": "Always verify certification numbers on service websites before purchase"
