@@ -4,14 +4,11 @@
   "face_value": 1.0,
   "series": [
     {
-      "aliases": [
-        "AGES"
-      ],
       "coins": [
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-AGET-XXXX-X",
+          "coin_id": "US-AGEO-XXXX-X-110oz",
           "composition": {
             "copper": 5.33,
             "gold": 91.67,
@@ -47,10 +44,10 @@
           }
         }
       ],
-      "official_name": "American Gold Eagle (1/10 oz)",
-      "series_code": "AGET",
-      "series_id": "American Gold Eagle (1/10 oz)",
-      "series_name": "American Gold Eagle (1/10 oz)",
+      "official_name": "American Gold Eagle (1 oz)",
+      "series_code": "AGEO",
+      "series_id": "American Gold Eagle (1 oz)",
+      "series_name": "American Gold Eagle (1 oz)",
       "specifications": {
         "diameter_mm": 16.5,
         "edge": "plain"
