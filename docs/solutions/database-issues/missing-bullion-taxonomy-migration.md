@@ -112,6 +112,26 @@ For future bullion/coin series additions:
 - [ ] Verify country-specific issue files created (e.g., `gb_issues.json`, `xx_issues.json`)
 - [ ] Pre-commit hook passes all validation checks
 
+## Follow-Up: Britannia/RCM Expansion (Issue #135)
+
+Applied the same pattern to add weight suffix variants for existing Britannia series and new branded bar series:
+
+| coin_id | Product |
+|---------|---------|
+| `GB-BSBO-XXXX-RM-2oz` | Silver Britannia 2 oz |
+| `GB-BSBO-XXXX-RM-10oz` | Silver Britannia 10 oz |
+| `GB-BGBO-XXXX-RM-14oz` | Gold Britannia 1/4 oz |
+| `GB-BGBO-XXXX-RM-12oz` | Gold Britannia 1/2 oz |
+| `CA-RCMB-XXXX-P-10oz` | RCM Silver Bar 10 oz |
+| `GB-RMSB-XXXX-RM-10oz` | Royal Mint Silver Bar 10 oz |
+
+### Key Learnings from #135
+
+- **Weight suffix pattern extends to sizes > 1oz**: `2oz`, `10oz` work alongside existing fractional suffixes (`14oz`, `12oz`, `110oz`). No schema or constraint changes needed.
+- **Branded bar products get their own series codes**: RCM Silver Bar (`RCMB`) and Royal Mint Silver Bar (`RMSB`) are distinct from generic silver bars (`GS10`) since branding affects dealer premiums.
+- **`variety_suffixes` on existing series**: Updated `BSBO` and `BGBO` with their new weight suffixes to document valid suffix values for downstream consumers.
+- **No denomination schema update needed**: Bar products use "Silver Bar" denomination (no face value), and Britannia sizes use existing GBP denominations (5, 10, 25, 50 Pounds).
+
 ## Cross-References
 
 - **Issue**: [#130](https://github.com/mattsilv/coin-taxonomy/issues/130)

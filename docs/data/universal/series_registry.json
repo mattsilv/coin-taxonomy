@@ -136,6 +136,42 @@
       "type": "coin"
     },
     {
+      "series_id": "American Gold Eagle (1 oz)__$50",
+      "series_name": "American Gold Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/10 oz)__$5",
+      "series_name": "American Gold Eagle (1/10 oz)",
+      "country_code": "US",
+      "denomination": "$5",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/2 oz)__$25",
+      "series_name": "American Gold Eagle (1/2 oz)",
+      "country_code": "US",
+      "denomination": "$25",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1/4 oz)__$10",
+      "series_name": "American Gold Eagle (1/4 oz)",
+      "country_code": "US",
+      "denomination": "$10",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "American Liberty Gold__$100_Gold",
       "series_name": "American Liberty Gold",
       "country_code": "US",
@@ -370,8 +406,35 @@
       "type": "coin"
     },
     {
+      "series_id": "British Gold Britannia (1 oz)__25_Pounds",
+      "series_name": "British Gold Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "25 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "British Gold Britannia (1 oz)__50_Pounds",
+      "series_name": "British Gold Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "50 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "British Gold Britannia (1/10 oz)__10_Pounds",
       "series_name": "British Gold Britannia (1/10 oz)",
+      "country_code": "GB",
+      "denomination": "10 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "British Silver Britannia (1 oz)__10_Pounds",
+      "series_name": "British Silver Britannia (1 oz)",
       "country_code": "GB",
       "denomination": "10 Pounds",
       "start_year": "XXXX",
@@ -383,6 +446,15 @@
       "series_name": "British Silver Britannia (1 oz)",
       "country_code": "GB",
       "denomination": "2 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "British Silver Britannia (1 oz)__5_Pounds",
+      "series_name": "British Silver Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "5 Pounds",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2220,6 +2292,15 @@
       "type": "coin"
     },
     {
+      "series_id": "RCM Silver Bar__Silver_Bar",
+      "series_name": "RCM Silver Bar",
+      "country_code": "CA",
+      "denomination": "Silver Bar",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "ROYAL Bar__Engelhard_Bullion",
       "series_name": "ROYAL Bar",
       "country_code": "US",
@@ -2253,6 +2334,15 @@
       "denomination": "Dimes",
       "start_year": 1946,
       "end_year": 2025,
+      "type": "coin"
+    },
+    {
+      "series_id": "Royal Mint Silver Bar__Silver_Bar",
+      "series_name": "Royal Mint Silver Bar",
+      "country_code": "GB",
+      "denomination": "Silver Bar",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -2878,6 +2968,10 @@
         "Brit Gold",
         "Royal Mint Gold Britannia",
         "1 oz Gold Britannia"
+      ],
+      "variety_suffixes": [
+        "14oz",
+        "12oz"
       ]
     },
     {
@@ -2895,6 +2989,10 @@
         "Brit Silver",
         "Royal Mint Silver Britannia",
         "1 oz Silver Britannia"
+      ],
+      "variety_suffixes": [
+        "2oz",
+        "10oz"
       ]
     },
     {
@@ -3018,6 +3116,25 @@
       "start_year": 1878,
       "end_year": 1921,
       "type": "coin"
+    },
+    {
+      "series_id": "rcm_silver_bar",
+      "series_name": "RCM Silver Bar",
+      "country_code": "CA",
+      "denomination": "Silver Bar",
+      "start_year": 2000,
+      "defining_characteristics": "Bullion, .9999 Ag, Royal Canadian Mint branded bar",
+      "official_name": "RCM Silver Bar",
+      "type": "bullion",
+      "series_group": "RCM Bars",
+      "aliases": [
+        "RCM Silver Bar",
+        "Royal Canadian Mint Silver Bar",
+        "RCM Bar"
+      ],
+      "variety_suffixes": [
+        "10oz"
+      ]
     }
   ]
 }

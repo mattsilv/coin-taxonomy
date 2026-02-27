@@ -1,6 +1,6 @@
 {
   "country_code": "GB",
-  "total_issues": 4,
+  "total_issues": 9,
   "issues": [
     {
       "issue_id": "GB-QUE-XXXX-RM",
@@ -113,7 +113,7 @@
       "source_citation": "Official mint specifications"
     },
     {
-      "issue_id": "GB-BRI1-XXXX-RM",
+      "issue_id": "GB-BRI3-XXXX-RM",
       "object_type": "coin",
       "series_id": "British Gold Britannia (1/10 oz)__10_Pounds",
       "series_name": "British Gold Britannia (1/10 oz)__10_Pounds",
@@ -168,7 +168,7 @@
       "source_citation": "Official mint specifications"
     },
     {
-      "issue_id": "GB-BSB(-XXXX-RM",
+      "issue_id": "GB-BRI4-XXXX-RM",
       "object_type": "coin",
       "series_id": "British Silver Britannia (1 oz)__2_Pounds",
       "series_name": "British Silver Britannia (1 oz)__2_Pounds",
@@ -220,6 +220,281 @@
       "rarity": "common",
       "varieties": [],
       "notes": "Random year bullion - valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "GB-BRI5-XXXX-RM",
+      "object_type": "coin",
+      "series_id": "British Silver Britannia (1 oz)__5_Pounds",
+      "series_name": "British Silver Britannia (1 oz)__5_Pounds",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "GB",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "5 Pounds",
+        "common_names": [
+          "5 Pounds"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "RM",
+      "specifications": {
+        "weight_grams": 62.207,
+        "diameter_mm": 38.61,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "British Silver Britannia (1 oz)__5_Pounds_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "British Silver Britannia (1 oz)__5_Pounds_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 2 oz Silver Britannia. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "GB-BSB(-XXXX-RM",
+      "object_type": "coin",
+      "series_id": "British Silver Britannia (1 oz)__10_Pounds",
+      "series_name": "British Silver Britannia (1 oz)__10_Pounds",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "GB",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "10 Pounds",
+        "common_names": [
+          "10 Pounds"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "RM",
+      "specifications": {
+        "weight_grams": 311.035,
+        "diameter_mm": 65.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "British Silver Britannia (1 oz)__10_Pounds_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "British Silver Britannia (1 oz)__10_Pounds_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 10 oz Silver Britannia. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "GB-BRI1-XXXX-RM",
+      "object_type": "coin",
+      "series_id": "British Gold Britannia (1 oz)__25_Pounds",
+      "series_name": "British Gold Britannia (1 oz)__25_Pounds",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "GB",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "25 Pounds",
+        "common_names": [
+          "25 Pounds"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "RM",
+      "specifications": {
+        "weight_grams": 7.776,
+        "diameter_mm": 22.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "British Gold Britannia (1 oz)__25_Pounds_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "British Gold Britannia (1 oz)__25_Pounds_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 1/4 oz Gold Britannia. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "GB-BRI2-XXXX-RM",
+      "object_type": "coin",
+      "series_id": "British Gold Britannia (1 oz)__50_Pounds",
+      "series_name": "British Gold Britannia (1 oz)__50_Pounds",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "GB",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "50 Pounds",
+        "common_names": [
+          "50 Pounds"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "RM",
+      "specifications": {
+        "weight_grams": 15.552,
+        "diameter_mm": 27.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "British Gold Britannia (1 oz)__50_Pounds_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "British Gold Britannia (1 oz)__50_Pounds_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 1/2 oz Gold Britannia. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "GB-RMSB-XXXX-RM",
+      "object_type": "coin",
+      "series_id": "Royal Mint Silver Bar__Silver_Bar",
+      "series_name": "Royal Mint Silver Bar__Silver_Bar",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "GB",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "Silver Bar",
+        "common_names": [
+          "Silver Bar"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "RM",
+      "specifications": {
+        "weight_grams": 311.035,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Royal Mint Silver Bar__Silver_Bar_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Royal Mint Silver Bar__Silver_Bar_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - Royal Mint branded 10 oz silver bar. Valued by metal content.",
       "source_citation": "Official mint specifications"
     }
   ]
