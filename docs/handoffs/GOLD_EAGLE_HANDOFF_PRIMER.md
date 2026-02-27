@@ -15,9 +15,9 @@ Added 4 American Gold Eagle weight variations to the coin taxonomy with random y
 | Series Code | Weight | Denomination | Coin ID | Example Use Case |
 |-------------|--------|--------------|---------|-----------------|
 | **AGEO** | 1 oz | $50 | `US-AGEO-XXXX-X` | "1 oz Gold Eagle - Random Year" |
-| **AGEF** | 1/2 oz | $25 | `US-AGEF-XXXX-X` | "1/2 oz Gold Eagle - Dealer's Choice" |
-| **AGET** | 1/4 oz | $10 | `US-AGET-XXXX-X` | "1/4 oz Gold Eagle - Any Year" |
-| **AGES** | 1/10 oz | $5 | `US-AGES-XXXX-X` | "1/10 oz Gold Eagle - Mixed Years" |
+| **AGEH** | 1/2 oz | $25 | `US-AGEH-XXXX-X` | "1/2 oz Gold Eagle - Dealer's Choice" |
+| **AGEQ** | 1/4 oz | $10 | `US-AGEQ-XXXX-X` | "1/4 oz Gold Eagle - Any Year" |
+| **AGET** | 1/10 oz | $5 | `US-AGET-XXXX-X` | "1/10 oz Gold Eagle - Mixed Years" |
 
 ---
 
@@ -96,7 +96,7 @@ def map_to_taxonomy(listing_title: str) -> dict:
             }
         elif '1/2 oz' in listing_title:
             return {
-                'taxonomy_id': 'US-AGEF-XXXX-X',
+                'taxonomy_id': 'US-AGEH-XXXX-X',
                 'product_type': 'bullion',
                 'weight_oz': 0.5
             }
@@ -223,18 +223,18 @@ WHERE year = 'XXXX';
 
 -- Results:
 -- US-AGEO-XXXX-X | American Gold Eagle (1 oz)    | XXXX | 31.103
--- US-AGEF-XXXX-X | American Gold Eagle (1/2 oz)  | XXXX | 16.966
--- US-AGET-XXXX-X | American Gold Eagle (1/4 oz)  | XXXX | 8.483
--- US-AGES-XXXX-X | American Gold Eagle (1/10 oz) | XXXX | 3.393
+-- US-AGEH-XXXX-X | American Gold Eagle (1/2 oz)  | XXXX | 16.966
+-- US-AGEQ-XXXX-X | American Gold Eagle (1/4 oz)  | XXXX | 8.483
+-- US-AGET-XXXX-X | American Gold Eagle (1/10 oz) | XXXX | 3.393
 ```
 
 ### JSON Export Files
 ```bash
 # Per-denomination exports
 data/us/coins/$50.json   # AGEO (1 oz)
-data/us/coins/$25.json   # AGEF (1/2 oz)
-data/us/coins/$10.json   # AGET (1/4 oz)
-data/us/coins/$5.json    # AGES (1/10 oz)
+data/us/coins/$25.json   # AGEH (1/2 oz)
+data/us/coins/$10.json   # AGEQ (1/4 oz)
+data/us/coins/$5.json    # AGET (1/10 oz)
 
 # Complete taxonomy
 data/us/us_coins_complete.json
@@ -347,10 +347,10 @@ if year == 'XXXX':
 
 ### Series Codes Cheat Sheet
 ```
-AGEO → 1 oz Gold Eagle
-AGEF → 1/2 oz Gold Eagle (F = Fractional/Half)
-AGET → 1/4 oz Gold Eagle (T = Twenty-five/Quarter)
-AGES → 1/10 oz Gold Eagle (S = Small/Tenth)
+AGEO → 1 oz Gold Eagle (O = One oz)
+AGEH → 1/2 oz Gold Eagle (H = Half oz)
+AGEQ → 1/4 oz Gold Eagle (Q = Quarter oz)
+AGET → 1/10 oz Gold Eagle (T = Tenth oz)
 ```
 
 ### Valuation Logic

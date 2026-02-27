@@ -4,11 +4,14 @@
   "face_value": 1.0,
   "series": [
     {
+      "aliases": [
+        "AGEF"
+      ],
       "coins": [
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-AGEF-XXXX-X",
+          "coin_id": "US-AGEH-XXXX-X",
           "composition": {
             "copper": 5.33,
             "gold": 91.67,
@@ -45,7 +48,7 @@
         }
       ],
       "official_name": "American Gold Eagle (1/2 oz)",
-      "series_code": "AGEF",
+      "series_code": "AGEH",
       "series_id": "American Gold Eagle (1/2 oz)",
       "series_name": "American Gold Eagle (1/2 oz)",
       "specifications": {

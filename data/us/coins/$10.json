@@ -4,11 +4,14 @@
   "face_value": 1.0,
   "series": [
     {
+      "aliases": [
+        "AGET"
+      ],
       "coins": [
         {
           "business_strikes": null,
           "category": "coin",
-          "coin_id": "US-AGET-XXXX-X",
+          "coin_id": "US-AGEQ-XXXX-X",
           "composition": {
             "copper": 5.33,
             "gold": 91.67,
@@ -45,7 +48,7 @@
         }
       ],
       "official_name": "American Gold Eagle (1/4 oz)",
-      "series_code": "AGET",
+      "series_code": "AGEQ",
       "series_id": "American Gold Eagle (1/4 oz)",
       "series_name": "American Gold Eagle (1/4 oz)",
       "specifications": {
