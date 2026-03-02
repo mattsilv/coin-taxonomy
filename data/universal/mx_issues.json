@@ -1,9 +1,64 @@
 {
   "country_code": "MX",
-  "total_issues": 127,
+  "total_issues": 182,
   "issues": [
     {
       "issue_id": "MX-MEX-1981-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1981",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1981",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1981",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 596000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".900 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-1981-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -500,6 +555,63 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-1989-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1989",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1989",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1989",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 704
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .900 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-1989-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -665,6 +777,61 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-1991-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1991",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1991",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1991",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 109193,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-1991-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -721,6 +888,61 @@
     },
     {
       "issue_id": "MX-MEX-1992-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1992",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1992",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1992",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 46281,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-1992-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -885,6 +1107,61 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-1993-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1993",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1993",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1993",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 73881,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-1993-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -941,6 +1218,61 @@
     },
     {
       "issue_id": "MX-MEX-1994-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "1994",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_1994",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_1994",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 1000,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "notes": ".999 fine gold, old angel (front-facing)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-1994-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -1380,6 +1712,61 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2000-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2000",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2000",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2000",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2370,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2000-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -1545,6 +1932,61 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2002-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2002",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2002",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2002",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 15000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2002-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -1601,6 +2043,61 @@
     },
     {
       "issue_id": "MX-MEX-2003-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2003",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2003",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2003",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 500,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2003-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -1766,6 +2263,118 @@
     },
     {
       "issue_id": "MX-MEX-2004-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2004",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2004",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2004",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1800
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2004-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2004",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2004",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2004",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 3000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2004-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -1989,6 +2598,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2005-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2005",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2005",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2005",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 3000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2005-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2005",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2005",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2005",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 570
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2005-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -2100,6 +2821,118 @@
     },
     {
       "issue_id": "MX-MEX-2006-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2006",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2006",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2006",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 520
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2006-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2006",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2006",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2006",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 4000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2006-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -2323,6 +3156,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2007-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2007",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2007",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2007",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2500,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2007-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2007",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2007",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2007",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2007-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -2434,6 +3379,118 @@
     },
     {
       "issue_id": "MX-MEX-2008-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2008",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2008",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2008",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2008-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2008",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2008",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2008",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 800,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2008-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -2657,6 +3714,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2009-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2009",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2009",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2009",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 6200,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2009-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2009",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2009",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2009",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 600
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2009-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -2768,6 +3937,118 @@
     },
     {
       "issue_id": "MX-MEX-2010-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2010",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2010",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2010",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 600
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2010-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2010",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2010",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2010",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 4000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2010-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -2991,6 +4272,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2011-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2011",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2011",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2011",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 3000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2011-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2011",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2011",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2011",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1100
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2011-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -3047,6 +4440,61 @@
     },
     {
       "issue_id": "MX-MEX-2012-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2012",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2012",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2012",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 3000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2012-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -3212,6 +4660,118 @@
     },
     {
       "issue_id": "MX-MEX-2013-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2013",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2013",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2013",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 400
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2013-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2013",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2013",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2013",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2350,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2013-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -3435,6 +4995,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2014-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2014",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2014",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2014",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 4050,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2014-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2014",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2014",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2014",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 250
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2014-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -3546,6 +5218,118 @@
     },
     {
       "issue_id": "MX-MEX-2015-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2015",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2015",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2015",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2015-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2015",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2015",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2015",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 4800,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2015-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -3770,6 +5554,118 @@
     },
     {
       "issue_id": "MX-MEX-2016-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2016",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2016",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2016",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 2100
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2016-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2016",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2016",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2016",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 4100,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2016-MO-Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -4107,6 +6003,118 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2017-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2017",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2017",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2017",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 900,
+        "proof_strikes": 0
+      },
+      "rarity": "key",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2017-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2017",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2017",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2017",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 600
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2017-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -4275,6 +6283,175 @@
     },
     {
       "issue_id": "MX-MEX-2018-MO-Reverse Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2018",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2018",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2018",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1000
+      },
+      "rarity": "common",
+      "varieties": [
+        "Reverse Proof"
+      ],
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2018-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2018",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2018",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2018",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2050,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2018-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2018",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2018",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2018",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1000
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2018-MO-Reverse Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -4556,6 +6733,175 @@
     },
     {
       "issue_id": "MX-MEX-2019-MO-Reverse Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2019",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2019",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2019",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Reverse Proof"
+      ],
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2019-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2019",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2019",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2019",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 2000,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2019-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2019",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2019",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2019",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 750
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2019-MO-Reverse Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -5007,6 +7353,175 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2020-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2020",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2020",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2020",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 1100,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2020-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2020",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2020",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2020",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 250
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2020-MO-Reverse Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2020",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2020",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2020",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 250
+      },
+      "rarity": "common",
+      "varieties": [
+        "Reverse Proof"
+      ],
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2020-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -5345,6 +7860,175 @@
       "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
     },
     {
+      "issue_id": "MX-MLGO-2021-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2021",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2021",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2021",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 1050,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2021-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2021",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2021",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2021",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2021-MO-Reverse Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2021",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2021",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2021",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Reverse Proof"
+      ],
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
       "issue_id": "MX-MLSO-2021-MO",
       "object_type": "coin",
       "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
@@ -5627,6 +8311,175 @@
     },
     {
       "issue_id": "MX-MEX-2022-MO-Reverse Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2022",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2022",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2022",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 500
+      },
+      "rarity": "common",
+      "varieties": [
+        "Reverse Proof"
+      ],
+      "notes": "Reverse Proof finish - .999 fine gold, new angel",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2022-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2022",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2022",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2022",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 1900,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": ".999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2022-MO-Proof",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "2022",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_2022",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_2022",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 1300
+      },
+      "rarity": "common",
+      "varieties": [
+        "Proof"
+      ],
+      "notes": "Proof finish - .999 fine gold, new angel (3/4 profile)",
+      "source_citation": "Libertad Research (libertad-research1.md), Banco de M\u00e9xico"
+    },
+    {
+      "issue_id": "MX-MLGO-2022-MO-Reverse Proof",
       "object_type": "coin",
       "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
       "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
@@ -6919,6 +9772,226 @@
       "rarity": "scarce",
       "varieties": [],
       "notes": "Random year bullion (1.0 oz platinum)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MLSO-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Silver 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": 36.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver 1 oz__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver 1 oz__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 1 oz Silver Libertad. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "MX-MLGO-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 31.1035,
+        "diameter_mm": 34.5,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold 1 oz__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion - 1 oz Gold Libertad. Valued by metal content.",
+      "source_citation": "Official mint specifications"
+    },
+    {
+      "issue_id": "MX-MLS(-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Silver (1 oz)__No_Face_Value",
+      "series_name": "Mexican Libertad Silver (1 oz)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 1000.0,
+        "diameter_mm": 110.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Silver (1 oz)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Silver (1 oz)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (32.15 oz silver)",
+      "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
+    },
+    {
+      "issue_id": "MX-MEX-XXXX-MO",
+      "object_type": "coin",
+      "series_id": "Mexican Libertad Gold (1 oz)__No_Face_Value",
+      "series_name": "Mexican Libertad Gold (1 oz)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "MX",
+        "authority_name": "Unknown",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "MO",
+      "specifications": {
+        "weight_grams": 1.555,
+        "diameter_mm": 13.0,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Mexican Libertad Gold (1 oz)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Mexican Libertad Gold (1 oz)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": "common",
+      "varieties": [],
+      "notes": "Random year bullion (0.05 oz gold)",
       "source_citation": "Casa de Moneda de Mexico; findbullionprices.com"
     }
   ]
