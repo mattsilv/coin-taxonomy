@@ -1,6 +1,6 @@
 {
   "country_code": "CA",
-  "total_issues": 955,
+  "total_issues": 977,
   "issues": [
     {
       "issue_id": "CA-LAR-1858-RM",
@@ -51681,6 +51681,1216 @@
       "varieties": [],
       "notes": "Random year bullion - valued by metal content. Royal Canadian Mint bullion series. Design may vary by year.",
       "source_citation": "Issue #92 - World Silver"
+    },
+    {
+      "issue_id": "CA-ENG6-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (No Bull)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (No Bull)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (No Bull)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (No Bull)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "1968-early 1970s. Lacks Canadian 'Bull' Hallmark. Font change around 75000 serial. Sample Serials: 05972, 13762, 38915, 41395, 43090, 44176, 44645, 45734, 60942, 72492, 76891. Estimated Mintage: <17,500",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG4-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Large Font)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Large Font)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Large Font)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Large Font)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Similar to above, but with a larger serial font. Sample Serials: 81787, 81790, 81791, 82109, 83489. Estimated Mintage: <1,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG1-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "6-digit variety, lacks the Canadian 'Bull' Hallmark. Sample Serials: 162581, 163588. Estimated Mintage: 1,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG2-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (A Prefix)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (A Prefix)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (A Prefix)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (A Prefix)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Includes Canadian 'Bull' Hallmark. 'A' serial prefix (likely prototype). Sample Serials: A 89049, A 89261, A 89309. Estimated Mintage: <100",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-EIC(-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (5-Digit)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (5-Digit)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (5-Digit)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (5-Digit)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "5-digit serial (no letter prefix). Sample Serials: 86284, 89936, 92031, 92960, 93344, 97875, 99123. Estimated Mintage: <1,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG9-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Unique Font)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Unique Font)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Unique Font)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Unique Font)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "6-digit serial, unique font (different 1, 3, 5). Sample Serials: 100329, 101642, 102023, 102080, 102082, 102083, 102087, 102506, 102513. Estimated Mintage: <250",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG8-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Standard 6-digit serial assignment. Sample Serials: 140985, 142544, 144731, 158735, 164667. Estimated Mintage: <12,500",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG7-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "6-digit serial, leading '1' has a shortened base. Sample Serials: 109662, 109688, 109711, 109734, 109769, 118529, 139398. Estimated Mintage: <500",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG5-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Large Serial)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Large Serial)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Large Serial)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Large Serial)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Larger serial number font. Sample Serials: 107752, 107881, 107939, 107940, 107942, 107943, 107944, 107947. Estimated Mintage: <250",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ENG3-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Engelhard Industries of Canada (Anomaly)__No_Face_Value",
+      "series_name": "Engelhard Industries of Canada (Anomaly)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Engelhard Industries of Canada (Anomaly)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Engelhard Industries of Canada (Anomaly)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Serial number anomaly: 1\u2022 prefix. Sample Serials: 1\u2022130251, 1\u2022130272. Estimated Mintage: <100",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-MAP-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf A__No_Face_Value",
+      "series_name": "Maple Leaf A__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf A__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf A__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "1981. 6-digit serial (no prefix). Sample Serials: 000060, 047689, 052846, 066960, 128128. Estimated Mintage: <15,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-MAP1-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf B (Centered)__No_Face_Value",
+      "series_name": "Maple Leaf B (Centered)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf B (Centered)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf B (Centered)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "1981. Centered text. Sample Serials: 030316, 058604. Estimated Mintage: <5,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ML(F-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf B (Large Font)__No_Face_Value",
+      "series_name": "Maple Leaf B (Large Font)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf B (Large Font)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf B (Large Font)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Larger serial font. Sample Serials: 425737, 426001. Estimated Mintage: <750",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ML(-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf B (Border)__No_Face_Value",
+      "series_name": "Maple Leaf B (Border)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf B (Border)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf B (Border)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Border on reverse. Sample Serials: 426449, 426479, 427060, 427067. Estimated Mintage: <750",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ARG-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Argentor Dealers Bar__No_Face_Value",
+      "series_name": "Argentor Dealers Bar__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Argentor Dealers Bar__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Argentor Dealers Bar__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "1981. Counterstamped. Sample Serials: 114628. Estimated Mintage: <500",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-MAP2-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf C (Border)__No_Face_Value",
+      "series_name": "Maple Leaf C (Border)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf C (Border)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf C (Border)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "1981. Border on reverse. Sample Serials: 156928, 337515, 414739, 427064, 427998. Estimated Mintage: <25,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-ML(S-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Maple Leaf C (Unique Serial)__No_Face_Value",
+      "series_name": "Maple Leaf C (Unique Serial)__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Maple Leaf C (Unique Serial)__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Maple Leaf C (Unique Serial)__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Unique serial example. Sample Serials: 401184. Estimated Mintage: <500",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-SCO-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Scotiabank__No_Face_Value",
+      "series_name": "Scotiabank__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Scotiabank__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Scotiabank__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Specialty Art Bar. Sample Serials: 002044, 002047, 008126, 008944. Estimated Mintage: 1,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-TOR-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Toronto Dominion Bank__No_Face_Value",
+      "series_name": "Toronto Dominion Bank__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Toronto Dominion Bank__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Toronto Dominion Bank__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Specialty Art Bar. Sample Serials: 359775, 359792, 400263, 400264. Estimated Mintage: 1,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-VIC-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Victoria General Hospital__No_Face_Value",
+      "series_name": "Victoria General Hospital__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Victoria General Hospital__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Victoria General Hospital__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Commemorative. Note 999 fineness. Sample Serials: 428310, 428238, 428241, 428301. Estimated Mintage: <10",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-LIT-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Litton Systems Canada__No_Face_Value",
+      "series_name": "Litton Systems Canada__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Litton Systems Canada__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Litton Systems Canada__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Specialty Art Bar. Sample Serials: 362262, 363095, 365170. Estimated Mintage: <3,000",
+      "source_citation": "Engelhard Production Records"
+    },
+    {
+      "issue_id": "CA-CLU-XXXX-X",
+      "object_type": "coin",
+      "series_id": "Club of Kings__No_Face_Value",
+      "series_name": "Club of Kings__No_Face_Value",
+      "series_group": null,
+      "series_group_years": null,
+      "issuing_entity": {
+        "country_code": "CA",
+        "authority_name": "Canada",
+        "monetary_system": "decimal",
+        "currency_unit": "dollar"
+      },
+      "denomination": {
+        "face_value": 0.01,
+        "unit_name": "No Face Value",
+        "common_names": [
+          "No Face Value"
+        ],
+        "system_fraction": "1/100 dollar"
+      },
+      "issue_year": "XXXX",
+      "mint_id": "X",
+      "specifications": {
+        "weight_grams": 31.103,
+        "diameter_mm": null,
+        "edge": "plain"
+      },
+      "sides": {
+        "obverse": {
+          "design_id": "Club of Kings__No_Face_Value_obverse_XXXX",
+          "primary_element": {
+            "type": "portrait",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        },
+        "reverse": {
+          "design_id": "Club of Kings__No_Face_Value_reverse_XXXX",
+          "primary_element": {
+            "type": "symbol",
+            "subject_id": "unknown",
+            "description": "To be enriched with detailed design data"
+          }
+        }
+      },
+      "mintage": {
+        "business_strikes": 0,
+        "proof_strikes": 0
+      },
+      "rarity": null,
+      "varieties": [],
+      "notes": "Specialty Art Bar. Sample Serials: 411821, 411929, 412391. Estimated Mintage: <600",
+      "source_citation": "Engelhard Production Records"
     }
   ]
 }

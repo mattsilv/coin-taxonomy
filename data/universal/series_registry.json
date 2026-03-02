@@ -64,28 +64,28 @@
       "type": "coin"
     },
     {
-      "series_id": "AG-MET Art Bar (Blank)__Engelhard_Bullion",
+      "series_id": "AG-MET Art Bar (Blank)__No_Face_Value",
       "series_name": "AG-MET Art Bar (Blank)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "AG-MET Art Bar (Flower)__Engelhard_Bullion",
+      "series_id": "AG-MET Art Bar (Flower)__No_Face_Value",
       "series_name": "AG-MET Art Bar (Flower)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "AG-MET Art Bar (Pebble)__Engelhard_Bullion",
+      "series_id": "AG-MET Art Bar (Pebble)__No_Face_Value",
       "series_name": "AG-MET Art Bar (Pebble)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -136,26 +136,17 @@
       "type": "coin"
     },
     {
-      "series_id": "American Gold Eagle (1 oz)__$50",
+      "series_id": "American Gold Eagle (1 oz)__$10",
       "series_name": "American Gold Eagle (1 oz)",
       "country_code": "US",
-      "denomination": "$50",
+      "denomination": "$10",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "American Gold Eagle (1/10 oz)__$5",
-      "series_name": "American Gold Eagle (1/10 oz)",
-      "country_code": "US",
-      "denomination": "$5",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "American Gold Eagle (1/2 oz)__$25",
-      "series_name": "American Gold Eagle (1/2 oz)",
+      "series_id": "American Gold Eagle (1 oz)__$25",
+      "series_name": "American Gold Eagle (1 oz)",
       "country_code": "US",
       "denomination": "$25",
       "start_year": "XXXX",
@@ -163,10 +154,19 @@
       "type": "coin"
     },
     {
-      "series_id": "American Gold Eagle (1/4 oz)__$10",
-      "series_name": "American Gold Eagle (1/4 oz)",
+      "series_id": "American Gold Eagle (1 oz)__$5",
+      "series_name": "American Gold Eagle (1 oz)",
       "country_code": "US",
-      "denomination": "$10",
+      "denomination": "$5",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "American Gold Eagle (1 oz)__$50",
+      "series_name": "American Gold Eagle (1 oz)",
+      "country_code": "US",
+      "denomination": "$50",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -199,10 +199,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Argentor Dealers Bar__Engelhard_Bullion",
+      "series_id": "Argentor Dealers Bar__No_Face_Value",
       "series_name": "Argentor Dealers Bar",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -226,64 +226,64 @@
       "type": "coin"
     },
     {
-      "series_id": "Art Bar (Frosted Reverse)__Engelhard_Bullion",
+      "series_id": "Art Bar (Frosted Reverse)__No_Face_Value",
       "series_name": "Art Bar (Frosted Reverse)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Art Bar (Original Logo)__Engelhard_Bullion",
+      "series_id": "Art Bar (Original Logo)__No_Face_Value",
       "series_name": "Art Bar (Original Logo)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Art Bar (Pebble Finish)__Engelhard_Bullion",
+      "series_id": "Art Bar (Pebble Finish)__No_Face_Value",
       "series_name": "Art Bar (Pebble Finish)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Australia Ingot (Poured)__Engelhard_Bullion",
+      "series_id": "Australia Ingot (Poured)__No_Face_Value",
       "series_name": "Australia Ingot (Poured)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "AU",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Australia Series 1__Engelhard_Bullion",
+      "series_id": "Australia Series 1__No_Face_Value",
       "series_name": "Australia Series 1",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "AU",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Australia Series 2__Engelhard_Bullion",
+      "series_id": "Australia Series 2__No_Face_Value",
       "series_name": "Australia Series 2",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "AU",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Australia Series 3__Engelhard_Bullion",
+      "series_id": "Australia Series 3__No_Face_Value",
       "series_name": "Australia Series 3",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "AU",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -316,10 +316,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Baker Brothers__Engelhard_Bullion",
+      "series_id": "Baker Brothers__No_Face_Value",
       "series_name": "Baker Brothers",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -370,10 +370,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Blank Bar (Poured)__Engelhard_Bullion",
+      "series_id": "Blank Bar (Poured)__No_Face_Value",
       "series_name": "Blank Bar (Poured)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -406,6 +406,15 @@
       "type": "coin"
     },
     {
+      "series_id": "British Gold Britannia (1 oz)__10_Pounds",
+      "series_name": "British Gold Britannia (1 oz)",
+      "country_code": "GB",
+      "denomination": "10 Pounds",
+      "start_year": "XXXX",
+      "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
       "series_id": "British Gold Britannia (1 oz)__25_Pounds",
       "series_name": "British Gold Britannia (1 oz)",
       "country_code": "GB",
@@ -419,15 +428,6 @@
       "series_name": "British Gold Britannia (1 oz)",
       "country_code": "GB",
       "denomination": "50 Pounds",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "British Gold Britannia (1/10 oz)__10_Pounds",
-      "series_name": "British Gold Britannia (1/10 oz)",
-      "country_code": "GB",
-      "denomination": "10 Pounds",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -457,6 +457,15 @@
       "denomination": "5 Pounds",
       "start_year": "XXXX",
       "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Buffalo Nickel__Nickels",
+      "series_name": "Buffalo Nickel",
+      "country_code": "US",
+      "denomination": "Nickels",
+      "start_year": 1913,
+      "end_year": 1938,
       "type": "coin"
     },
     {
@@ -595,19 +604,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Club of Kings__Engelhard_Bullion",
+      "series_id": "Club of Kings__No_Face_Value",
       "series_name": "Club of Kings",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Colonial Mint Bar__Engelhard_Bullion",
+      "series_id": "Colonial Mint Bar__No_Face_Value",
       "series_name": "Colonial Mint Bar",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -622,46 +631,46 @@
       "type": "coin"
     },
     {
-      "series_id": "Commercial Bar (Frosted)__Engelhard_Bullion",
+      "series_id": "Commercial Bar (Frosted)__No_Face_Value",
       "series_name": "Commercial Bar (Frosted)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Commercial Bar (Large 6-Digit)__Engelhard_Bullion",
+      "series_id": "Commercial Bar (Large 6-Digit)__No_Face_Value",
       "series_name": "Commercial Bar (Large 6-Digit)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Commercial Bar (Letter Prefix)__Engelhard_Bullion",
+      "series_id": "Commercial Bar (Letter Prefix)__No_Face_Value",
       "series_name": "Commercial Bar (Letter Prefix)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Commercial Bar (PH-PQ Prefix)__Engelhard_Bullion",
+      "series_id": "Commercial Bar (PH-PQ Prefix)__No_Face_Value",
       "series_name": "Commercial Bar (PH-PQ Prefix)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Commercial Bar (Repeated Hallmark)__Engelhard_Bullion",
+      "series_id": "Commercial Bar (Repeated Hallmark)__No_Face_Value",
       "series_name": "Commercial Bar (Repeated Hallmark)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -730,37 +739,37 @@
       "type": "coin"
     },
     {
-      "series_id": "Eagle Logo (Italic Hallmark)__Engelhard_Bullion",
+      "series_id": "Eagle Logo (Italic Hallmark)__No_Face_Value",
       "series_name": "Eagle Logo (Italic Hallmark)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Eagle Logo (Proof-Like)__Engelhard_Bullion",
+      "series_id": "Eagle Logo (Proof-Like)__No_Face_Value",
       "series_name": "Eagle Logo (Proof-Like)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Eagle Logo (Standard/Thin Font)__Engelhard_Bullion",
+      "series_id": "Eagle Logo (Standard/Thin Font)__No_Face_Value",
       "series_name": "Eagle Logo (Standard/Thin Font)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Earliest 1oz Production Bar__Engelhard_Bullion",
+      "series_id": "Earliest 1oz Production Bar__No_Face_Value",
       "series_name": "Earliest 1oz Production Bar",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -771,7 +780,7 @@
       "country_code": "US",
       "denomination": "Dollars",
       "start_year": 1971,
-      "end_year": 1971,
+      "end_year": 1978,
       "type": "coin"
     },
     {
@@ -792,7 +801,7 @@
       "end_year": 1988,
       "defining_characteristics": "Bullion, 10.0 oz silver",
       "official_name": "Engelhard Bar 10 oz",
-      "type": "coin",
+      "type": "bullion",
       "aliases": [
         "Engelhard 10oz",
         "Engelhard 10 oz Bar"
@@ -817,100 +826,100 @@
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (5-Digit)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (5-Digit)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (5-Digit)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (6-Digit No Bull)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (6-Digit No Bull)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (A Prefix)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (A Prefix)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (A Prefix)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Anomaly)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Anomaly)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Anomaly)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Large Font)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Large Font)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Large Font)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Large Serial)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Large Serial)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Large Serial)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (No Bull)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (No Bull)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (No Bull)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Shortened 1)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Shortened 1)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Standard 6-Digit)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Standard 6-Digit)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Industries of Canada (Unique Font)__Engelhard_Bullion",
+      "series_id": "Engelhard Industries of Canada (Unique Font)__No_Face_Value",
       "series_name": "Engelhard Industries of Canada (Unique Font)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Engelhard London__Engelhard_Bullion",
+      "series_id": "Engelhard London__No_Face_Value",
       "series_name": "Engelhard London",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "GB",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -939,7 +948,7 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1948,
-      "end_year": 1948,
+      "end_year": 1963,
       "type": "coin"
     },
     {
@@ -1186,19 +1195,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Gold Standard Corp (Series 1)__Engelhard_Bullion",
+      "series_id": "Gold Standard Corp (Series 1)__No_Face_Value",
       "series_name": "Gold Standard Corp (Series 1)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Gold Standard Corp (Series 2)__Engelhard_Bullion",
+      "series_id": "Gold Standard Corp (Series 2)__No_Face_Value",
       "series_name": "Gold Standard Corp (Series 2)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1222,10 +1231,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Great American Insurance__Engelhard_Bullion",
+      "series_id": "Great American Insurance__No_Face_Value",
       "series_name": "Great American Insurance",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1258,19 +1267,19 @@
       "type": "coin"
     },
     {
-      "series_id": "IMPEX Art Bar Series 1__Engelhard_Bullion",
+      "series_id": "IMPEX Art Bar Series 1__No_Face_Value",
       "series_name": "IMPEX Art Bar Series 1",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "IMPEX Bar Series 2__Engelhard_Bullion",
+      "series_id": "IMPEX Bar Series 2__No_Face_Value",
       "series_name": "IMPEX Bar Series 2",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1339,12 +1348,21 @@
       "type": "coin"
     },
     {
-      "series_id": "JELENKO Bar__Engelhard_Bullion",
+      "series_id": "JELENKO Bar__No_Face_Value",
       "series_name": "JELENKO Bar",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Jefferson Nickel__Nickels",
+      "series_name": "Jefferson Nickel",
+      "country_code": "US",
+      "denomination": "Nickels",
+      "start_year": 1938,
+      "end_year": 2024,
       "type": "coin"
     },
     {
@@ -1371,7 +1389,7 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1964,
-      "end_year": 1964,
+      "end_year": 2024,
       "type": "coin"
     },
     {
@@ -1519,12 +1537,21 @@
       "type": "coin"
     },
     {
-      "series_id": "Liberty Trade Art Bar__Engelhard_Bullion",
+      "series_id": "Liberty Trade Art Bar__No_Face_Value",
       "series_name": "Liberty Trade Art Bar",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Lincoln Memorial Cent__Cents",
+      "series_name": "Lincoln Memorial Cent",
+      "country_code": "US",
+      "denomination": "Cents",
+      "start_year": 1959,
+      "end_year": 2008,
       "type": "coin"
     },
     {
@@ -1533,14 +1560,14 @@
       "country_code": "US",
       "denomination": "Cents",
       "start_year": 1909,
-      "end_year": 1909,
+      "end_year": 1958,
       "type": "coin"
     },
     {
-      "series_id": "Litton Systems Canada__Engelhard_Bullion",
+      "series_id": "Litton Systems Canada__No_Face_Value",
       "series_name": "Litton Systems Canada",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1591,19 +1618,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Madison Mint Bar (Blank Reverse)__Engelhard_Bullion",
+      "series_id": "Madison Mint Bar (Blank Reverse)__No_Face_Value",
       "series_name": "Madison Mint Bar (Blank Reverse)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Madison Mint Bar (Marked Reverse)__Engelhard_Bullion",
+      "series_id": "Madison Mint Bar (Marked Reverse)__No_Face_Value",
       "series_name": "Madison Mint Bar (Marked Reverse)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1618,55 +1645,55 @@
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf A__Engelhard_Bullion",
+      "series_id": "Maple Leaf A__No_Face_Value",
       "series_name": "Maple Leaf A",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf B (Border)__Engelhard_Bullion",
+      "series_id": "Maple Leaf B (Border)__No_Face_Value",
       "series_name": "Maple Leaf B (Border)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf B (Centered)__Engelhard_Bullion",
+      "series_id": "Maple Leaf B (Centered)__No_Face_Value",
       "series_name": "Maple Leaf B (Centered)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf B (Large Font)__Engelhard_Bullion",
+      "series_id": "Maple Leaf B (Large Font)__No_Face_Value",
       "series_name": "Maple Leaf B (Large Font)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf C (Border)__Engelhard_Bullion",
+      "series_id": "Maple Leaf C (Border)__No_Face_Value",
       "series_name": "Maple Leaf C (Border)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Maple Leaf C (Unique Serial)__Engelhard_Bullion",
+      "series_id": "Maple Leaf C (Unique Serial)__No_Face_Value",
       "series_name": "Maple Leaf C (Unique Serial)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1699,29 +1726,21 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Gold 1 oz",
+      "series_id": "Mexican Libertad Gold (1 oz)__No_Face_Value",
+      "series_name": "Mexican Libertad Gold (1 oz)",
       "country_code": "MX",
       "denomination": "No Face Value",
-      "start_year": 1981,
-      "end_year": 2022,
-      "type": "coin"
-    },
-    {
-      "series_id": "Mexican Libertad Gold 1/10 oz__Mexican_Libertad_Gold_1/10_oz",
-      "series_name": "Mexican Libertad Gold 1/10 oz",
-      "country_code": "MX",
-      "denomination": "Mexican Libertad Gold 1/10 oz",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Gold 1/10 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Gold 1/10 oz",
+      "series_id": "Mexican Libertad Gold 1 oz__No_Face_Value",
+      "series_name": "Mexican Libertad Gold 1 oz",
       "country_code": "MX",
       "denomination": "No Face Value",
-      "start_year": 1991,
+      "start_year": 1981,
+      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -1734,28 +1753,12 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Gold 1/2 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Gold 1/2 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1981,
-      "type": "coin"
-    },
-    {
       "series_id": "Mexican Libertad Gold 1/20 oz__Mexican_Libertad_Gold_1/20_oz",
       "series_name": "Mexican Libertad Gold 1/20 oz",
       "country_code": "MX",
       "denomination": "Mexican Libertad Gold 1/20 oz",
       "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Mexican Libertad Gold 1/20 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Gold 1/20 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1991,
       "type": "coin"
     },
     {
@@ -1768,14 +1771,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Gold 1/4 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Gold 1/4 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1981,
-      "type": "coin"
-    },
-    {
       "series_id": "Mexican Libertad Platinum 1 oz__Mexican_Libertad_Platinum_1_oz",
       "series_name": "Mexican Libertad Platinum 1 oz",
       "country_code": "MX",
@@ -1785,10 +1780,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Silver 1 kg__Mexican_Libertad_Silver_1_kg",
-      "series_name": "Mexican Libertad Silver 1 kg",
+      "series_id": "Mexican Libertad Silver (1 oz)__No_Face_Value",
+      "series_name": "Mexican Libertad Silver (1 oz)",
       "country_code": "MX",
-      "denomination": "Mexican Libertad Silver 1 kg",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -1799,24 +1794,7 @@
       "country_code": "MX",
       "denomination": "No Face Value",
       "start_year": 1982,
-      "end_year": 2022,
-      "type": "coin"
-    },
-    {
-      "series_id": "Mexican Libertad Silver 1/10 oz__Mexican_Libertad_Silver_1/10_oz",
-      "series_name": "Mexican Libertad Silver 1/10 oz",
-      "country_code": "MX",
-      "denomination": "Mexican Libertad Silver 1/10 oz",
-      "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Mexican Libertad Silver 1/10 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Silver 1/10 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1992,
       "type": "coin"
     },
     {
@@ -1829,14 +1807,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Silver 1/2 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Silver 1/2 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1992,
-      "type": "coin"
-    },
-    {
       "series_id": "Mexican Libertad Silver 1/20 oz__Mexican_Libertad_Silver_1/20_oz",
       "series_name": "Mexican Libertad Silver 1/20 oz",
       "country_code": "MX",
@@ -1846,28 +1816,12 @@
       "type": "coin"
     },
     {
-      "series_id": "Mexican Libertad Silver 1/20 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Silver 1/20 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1992,
-      "type": "coin"
-    },
-    {
       "series_id": "Mexican Libertad Silver 1/4 oz__Mexican_Libertad_Silver_1/4_oz",
       "series_name": "Mexican Libertad Silver 1/4 oz",
       "country_code": "MX",
       "denomination": "Mexican Libertad Silver 1/4 oz",
       "start_year": "XXXX",
       "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Mexican Libertad Silver 1/4 oz__No_Face_Value",
-      "series_name": "Mexican Libertad Silver 1/4 oz",
-      "country_code": "MX",
-      "denomination": "No Face Value",
-      "start_year": 1992,
       "type": "coin"
     },
     {
@@ -2094,6 +2048,15 @@
       "type": "coin"
     },
     {
+      "series_id": "Peace Dollar__Dollars",
+      "series_name": "Peace Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1921,
+      "end_year": 1935,
+      "type": "coin"
+    },
+    {
       "series_id": "Perth Lunar Series__One_Dollar",
       "series_name": "Perth Lunar Series",
       "country_code": "AU",
@@ -2166,73 +2129,73 @@
       "type": "coin"
     },
     {
-      "series_id": "Portrait (6-Digit/MC Absent)__Engelhard_Bullion",
+      "series_id": "Portrait (6-Digit/MC Absent)__No_Face_Value",
       "series_name": "Portrait (6-Digit/MC Absent)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Large E)__Engelhard_Bullion",
+      "series_id": "Portrait (Large E)__No_Face_Value",
       "series_name": "Portrait (Large E)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Large E/6-Digit)__Engelhard_Bullion",
+      "series_id": "Portrait (Large E/6-Digit)__No_Face_Value",
       "series_name": "Portrait (Large E/6-Digit)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Proof-Like/US Prefix)__Engelhard_Bullion",
+      "series_id": "Portrait (Proof-Like/US Prefix)__No_Face_Value",
       "series_name": "Portrait (Proof-Like/US Prefix)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Wide E at Top)__Engelhard_Bullion",
+      "series_id": "Portrait (Wide E at Top)__No_Face_Value",
       "series_name": "Portrait (Wide E at Top)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Wide E at Top/No Serial)__Engelhard_Bullion",
+      "series_id": "Portrait (Wide E at Top/No Serial)__No_Face_Value",
       "series_name": "Portrait (Wide E at Top/No Serial)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Wide E/MC Absent)__Engelhard_Bullion",
+      "series_id": "Portrait (Wide E/MC Absent)__No_Face_Value",
       "series_name": "Portrait (Wide E/MC Absent)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Portrait (Wide E/MC in Globe)__Engelhard_Bullion",
+      "series_id": "Portrait (Wide E/MC in Globe)__No_Face_Value",
       "series_name": "Portrait (Wide E/MC in Globe)",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2301,10 +2264,10 @@
       "type": "coin"
     },
     {
-      "series_id": "ROYAL Bar__Engelhard_Bullion",
+      "series_id": "ROYAL Bar__No_Face_Value",
       "series_name": "ROYAL Bar",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2319,10 +2282,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Robert G. Warner Co__Engelhard_Bullion",
+      "series_id": "Robert G. Warner Co__No_Face_Value",
       "series_name": "Robert G. Warner Co",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2351,7 +2314,7 @@
       "country_code": "US",
       "denomination": "Dollars",
       "start_year": 2000,
-      "end_year": 2000,
+      "end_year": 2008,
       "type": "coin"
     },
     {
@@ -2364,10 +2327,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Scotiabank__Engelhard_Bullion",
+      "series_id": "Scotiabank__No_Face_Value",
       "series_name": "Scotiabank",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2445,19 +2408,19 @@
       "type": "coin"
     },
     {
-      "series_id": "Sheffield Smelting (Serial)__Engelhard_Bullion",
+      "series_id": "Sheffield Smelting (Serial)__No_Face_Value",
       "series_name": "Sheffield Smelting (Serial)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "GB",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sheffield Smelting (Smooth)__Engelhard_Bullion",
+      "series_id": "Sheffield Smelting (Smooth)__No_Face_Value",
       "series_name": "Sheffield Smelting (Smooth)",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "GB",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2550,55 +2513,55 @@
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Baseball__Engelhard_Bullion",
+      "series_id": "Sports Series - Baseball__No_Face_Value",
       "series_name": "Sports Series - Baseball",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Basketball__Engelhard_Bullion",
+      "series_id": "Sports Series - Basketball__No_Face_Value",
       "series_name": "Sports Series - Basketball",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Football__Engelhard_Bullion",
+      "series_id": "Sports Series - Football__No_Face_Value",
       "series_name": "Sports Series - Football",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Golf__Engelhard_Bullion",
+      "series_id": "Sports Series - Golf__No_Face_Value",
       "series_name": "Sports Series - Golf",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Hockey__Engelhard_Bullion",
+      "series_id": "Sports Series - Hockey__No_Face_Value",
       "series_name": "Sports Series - Hockey",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
     },
     {
-      "series_id": "Sports Series - Tennis__Engelhard_Bullion",
+      "series_id": "Sports Series - Tennis__No_Face_Value",
       "series_name": "Sports Series - Tennis",
       "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2685,12 +2648,21 @@
       "type": "coin"
     },
     {
-      "series_id": "Toronto Dominion Bank__Engelhard_Bullion",
+      "series_id": "Toronto Dominion Bank__No_Face_Value",
       "series_name": "Toronto Dominion Bank",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
+      "type": "coin"
+    },
+    {
+      "series_id": "Trade Dollar__Dollars",
+      "series_name": "Trade Dollar",
+      "country_code": "US",
+      "denomination": "Dollars",
+      "start_year": 1873,
+      "end_year": 1885,
       "type": "coin"
     },
     {
@@ -2757,10 +2729,10 @@
       "type": "coin"
     },
     {
-      "series_id": "Victoria General Hospital__Engelhard_Bullion",
+      "series_id": "Victoria General Hospital__No_Face_Value",
       "series_name": "Victoria General Hospital",
-      "country_code": "US",
-      "denomination": "Engelhard Bullion",
+      "country_code": "CA",
+      "denomination": "No Face Value",
       "start_year": "XXXX",
       "end_year": "XXXX",
       "type": "coin"
@@ -2789,7 +2761,16 @@
       "country_code": "US",
       "denomination": "Half Dollars",
       "start_year": 1916,
-      "end_year": 1916,
+      "end_year": 1947,
+      "type": "coin"
+    },
+    {
+      "series_id": "Washington Quarter__Quarters",
+      "series_name": "Washington Quarter",
+      "country_code": "US",
+      "denomination": "Quarters",
+      "start_year": 1932,
+      "end_year": 1998,
       "type": "coin"
     },
     {
@@ -2866,48 +2847,11 @@
       "defining_characteristics": "{\"weight_troy_oz\": 1.0, \"weight_grams\": 31.103, \"diameter_mm\": 32.7, \"thickness_mm\": 2.87, \"fineness\": 0.9167, \"gold_content_oz\": 1.0, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
       "official_name": "American Gold Eagle $50 One Ounce Gold Coin",
       "type": "bullion",
-      "series_group": "American Eagle"
-    },
-    {
-      "series_id": "american_gold_eagle_half_oz",
-      "series_name": "American Gold Eagle (1/2 oz)",
-      "country_code": "US",
-      "denomination": "$25",
-      "start_year": 1986,
-      "defining_characteristics": "{\"weight_troy_oz\": 0.5, \"weight_grams\": 16.966, \"diameter_mm\": 27.0, \"thickness_mm\": 2.24, \"fineness\": 0.9167, \"gold_content_oz\": 0.5, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
-      "official_name": "American Gold Eagle $25 Half Ounce Gold Coin",
-      "type": "bullion",
       "series_group": "American Eagle",
-      "aliases": [
-        "AGEF"
-      ]
-    },
-    {
-      "series_id": "american_gold_eagle_quarter_oz",
-      "series_name": "American Gold Eagle (1/4 oz)",
-      "country_code": "US",
-      "denomination": "$10",
-      "start_year": 1986,
-      "defining_characteristics": "{\"weight_troy_oz\": 0.25, \"weight_grams\": 8.483, \"diameter_mm\": 22.0, \"thickness_mm\": 1.83, \"fineness\": 0.9167, \"gold_content_oz\": 0.25, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
-      "official_name": "American Gold Eagle $10 Quarter Ounce Gold Coin",
-      "type": "bullion",
-      "series_group": "American Eagle",
-      "aliases": [
-        "AGET"
-      ]
-    },
-    {
-      "series_id": "american_gold_eagle_tenth_oz",
-      "series_name": "American Gold Eagle (1/10 oz)",
-      "country_code": "US",
-      "denomination": "$5",
-      "start_year": 1986,
-      "defining_characteristics": "{\"weight_troy_oz\": 0.1, \"weight_grams\": 3.393, \"diameter_mm\": 16.5, \"thickness_mm\": 1.26, \"fineness\": 0.9167, \"gold_content_oz\": 0.1, \"composition\": {\"gold\": 91.67, \"silver\": 3.0, \"copper\": 5.33}, \"edge\": \"reeded\", \"designer\": \"Augustus Saint-Gaudens (obverse), Miley Busiek (reverse)\"}",
-      "official_name": "American Gold Eagle $5 Tenth Ounce Gold Coin",
-      "type": "bullion",
-      "series_group": "American Eagle",
-      "aliases": [
-        "AGES"
+      "variety_suffixes": [
+        "12oz",
+        "14oz",
+        "110oz"
       ]
     },
     {
@@ -2939,21 +2883,6 @@
       "series_group": "American Eagle"
     },
     {
-      "series_id": "british_gold_britannia_110oz",
-      "series_name": "British Gold Britannia (1/10 oz)",
-      "country_code": "GB",
-      "denomination": "10 Pounds",
-      "start_year": 1987,
-      "defining_characteristics": "Bullion, 3.1103g, .9999 Au",
-      "official_name": "British Gold Britannia (1/10 oz)",
-      "type": "bullion",
-      "series_group": "Britannia",
-      "aliases": [
-        "1/10 oz Gold Britannia",
-        "Tenth oz Britannia"
-      ]
-    },
-    {
       "series_id": "british_gold_britannia_1oz",
       "series_name": "British Gold Britannia (1 oz)",
       "country_code": "GB",
@@ -2970,6 +2899,7 @@
         "1 oz Gold Britannia"
       ],
       "variety_suffixes": [
+        "110oz",
         "14oz",
         "12oz"
       ]
