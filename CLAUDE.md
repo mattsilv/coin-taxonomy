@@ -106,7 +106,7 @@ For coins with significant design varieties that affect collector value, an opti
 - `CA-GMPL-1982-P-14oz` = Gold Maple Leaf 1/4 oz
 
 **Suffix Rules**:
-1. **Uppercase alphanumeric only** - letters A-Z and digits 0-9 (1-4 characters)
+1. **Uppercase alphanumeric only** - letters A-Z and digits 0-9 (1-8 characters)
 2. **Suffix must match variety column** - if coin_id has suffix, variety column should contain matching value
 3. **Weight suffixes for fractional bullion** - e.g., `110oz`, `12oz`, `14oz`, `120oz`, `1g` (no variety column needed)
 4. **Base record (no suffix) = "regular" variety** - only add suffix for variations
