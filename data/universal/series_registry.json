@@ -793,147 +793,6 @@
       "type": "coin"
     },
     {
-      "series_id": "Engelhard Bar 10 oz__No_Face_Value",
-      "series_name": "Engelhard Bar 10 oz",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": 1970,
-      "end_year": 1988,
-      "defining_characteristics": "Bullion, 10.0 oz silver",
-      "official_name": "Engelhard Bar 10 oz",
-      "type": "bullion",
-      "aliases": [
-        "Engelhard 10oz",
-        "Engelhard 10 oz Bar"
-      ]
-    },
-    {
-      "series_id": "Engelhard Bar 100 oz__No_Face_Value",
-      "series_name": "Engelhard Bar 100 oz",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Bar 5 oz__No_Face_Value",
-      "series_name": "Engelhard Bar 5 oz",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (5-Digit)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (5-Digit)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (6-Digit No Bull)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (6-Digit No Bull)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (A Prefix)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (A Prefix)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Anomaly)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Anomaly)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Large Font)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Large Font)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Large Serial)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Large Serial)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (No Bull)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (No Bull)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Shortened 1)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Shortened 1)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Standard 6-Digit)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Standard 6-Digit)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Industries of Canada (Unique Font)__No_Face_Value",
-      "series_name": "Engelhard Industries of Canada (Unique Font)",
-      "country_code": "CA",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard London__No_Face_Value",
-      "series_name": "Engelhard London",
-      "country_code": "GB",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
-      "series_id": "Engelhard Prospector 1 oz__No_Face_Value",
-      "series_name": "Engelhard Prospector 1 oz",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
-      "type": "coin"
-    },
-    {
       "series_id": "Fort Vancouver Centennial__Commemorative_Half_Dollars",
       "series_name": "Fort Vancouver Centennial",
       "country_code": "US",
@@ -1363,15 +1222,6 @@
       "denomination": "Nickels",
       "start_year": 1938,
       "end_year": 2024,
-      "type": "coin"
-    },
-    {
-      "series_id": "Johnson Matthey Bar__No_Face_Value",
-      "series_name": "Johnson Matthey Bar",
-      "country_code": "US",
-      "denomination": "No Face Value",
-      "start_year": "XXXX",
-      "end_year": "XXXX",
       "type": "coin"
     },
     {
@@ -2926,6 +2776,102 @@
       ]
     },
     {
+      "series_id": "engelhard_gold_rounds",
+      "series_name": "Engelhard Gold Round",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_palladium",
+      "series_name": "Engelhard Palladium",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_platinum",
+      "series_name": "Engelhard Platinum",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_100oz",
+      "series_name": "Engelhard Silver Bar (100 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_10oz",
+      "series_name": "Engelhard Silver Bar (10 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_1oz",
+      "series_name": "Engelhard Silver Bar (1 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_20oz",
+      "series_name": "Engelhard Silver Bar (20-25 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_50oz",
+      "series_name": "Engelhard Silver Bar (50 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_5oz",
+      "series_name": "Engelhard Silver Bar (5 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_kilo",
+      "series_name": "Engelhard Silver Bar (Half Kilo - Kilo)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_odd",
+      "series_name": "Engelhard Silver Bar (Odd Size)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "engelhard_silver_rounds",
+      "series_name": "Engelhard Silver Round",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
       "series_id": "generic_gold_bar_1oz",
       "series_name": "Generic Gold Bar (1 oz)",
       "country_code": "XX",
@@ -3019,6 +2965,70 @@
         "Generic Silver Round",
         "1 oz Silver Round"
       ]
+    },
+    {
+      "series_id": "jm_silver_100oz",
+      "series_name": "Johnson Matthey Silver Bar (100 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_10oz",
+      "series_name": "Johnson Matthey Silver Bar (10 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_1oz",
+      "series_name": "Johnson Matthey Silver Bar (1 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_20oz",
+      "series_name": "Johnson Matthey Silver Bar (20-25 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_50oz",
+      "series_name": "Johnson Matthey Silver Bar (50 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_5oz",
+      "series_name": "Johnson Matthey Silver Bar (5 oz)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_kilo",
+      "series_name": "Johnson Matthey Silver Bar (Half Kilo - Kilo)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
+    },
+    {
+      "series_id": "jm_silver_odd",
+      "series_name": "Johnson Matthey Silver Bar (Odd Size)",
+      "country_code": "US",
+      "denomination": "No Face Value",
+      "start_year": 1960,
+      "type": "bullion"
     },
     {
       "series_id": "junk_silver_90pct",

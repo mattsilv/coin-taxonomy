@@ -16,7 +16,7 @@ This document defines the canonical format for coin taxonomy IDs used across all
 | SERIES | 4 uppercase letters | Yes | Series abbreviation code |
 | YEAR | 4 digits or XXXX | Yes | Mint year (XXXX for random year bullion) |
 | MINT | 1-2 uppercase letters | Yes | Mint mark |
-| VARIETY | 1-4 alphanumeric | No | Variety suffix for significant variants |
+| VARIETY | 1-8 alphanumeric | No | Variety suffix for significant variants |
 
 ### Examples
 
@@ -94,7 +94,7 @@ Variety suffixes are **optional** and only used for significant design variants 
 - Weight variants for bullion (110oz, 14oz)
 
 ### Suffix Format
-- 1-4 uppercase alphanumeric characters
+- 1-8 uppercase alphanumeric characters
 - Appended with additional dash: `US-GRNT-1922-P-STAR`
 
 ### Examples
