@@ -2138,10 +2138,10 @@
           }
         }
       ],
-      "official_name": "California-Pacific Exposition",
+      "official_name": "California-Pacific Exposition (San Diego)",
       "series_code": "CAPE",
-      "series_id": "California-Pacific Exposition",
-      "series_name": "California-Pacific Exposition",
+      "series_id": "California-Pacific Exposition (San Diego)",
+      "series_name": "California-Pacific Exposition (San Diego)",
       "specifications": {
         "diameter_mm": 30.6,
         "edge": "plain"
