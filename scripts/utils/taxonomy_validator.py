@@ -60,7 +60,7 @@ class TaxonomyValidator:
     SERIES_CODE_PATTERN = re.compile(r"^[A-Z0-9]{2,4}$")
     YEAR_PATTERN = re.compile(r"^(\d{4}|XXXX)$")
     MINT_PATTERN = re.compile(r"^[A-Z]{1,2}$")
-    VARIETY_PATTERN = re.compile(r"^[A-Za-z0-9]{1,20}$")
+    VARIETY_PATTERN = re.compile(r"^[A-Z0-9]{1,24}$")
 
     def validate_coin_id(self, coin_id: str) -> tuple[list[ValidationError], list[ValidationWarning]]:
         """
@@ -134,22 +134,14 @@ class TaxonomyValidator:
             if not self.VARIETY_PATTERN.match(variety):
                 errors.append(ValidationError(
                     "variety",
-                    f"Must be 1-20 alphanumeric characters",
+                    f"Must be 1-24 uppercase alphanumeric characters",
                     variety
                 ))
 
-            # Warning for long or mixed-case variety (per plan)
-            if len(variety) > 4:
+            if len(variety) > 8:
                 warnings.append(ValidationWarning(
                     "variety",
-                    f"Variety suffix >4 chars - consider shorter code",
-                    variety
-                ))
-
-            if variety != variety.upper() and variety != variety.lower():
-                warnings.append(ValidationWarning(
-                    "variety",
-                    f"Mixed case variety suffix - prefer all uppercase",
+                    f"Variety suffix >8 chars - consider shorter code",
                     variety
                 ))
 
