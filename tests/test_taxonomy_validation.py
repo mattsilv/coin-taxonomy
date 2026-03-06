@@ -72,11 +72,27 @@ class TestCoinIdValidation(unittest.TestCase):
         errors, warnings = self.validator.validate_coin_id("US-MORG-18-CC")
         self.assertGreater(len(errors), 0, "Should reject 2-digit year")
 
+    def test_invalid_coin_id_lowercase_variety(self):
+        """Test that lowercase variety suffixes are rejected."""
+        errors, warnings = self.validator.validate_coin_id("US-AGEO-XXXX-X-110oz")
+        self.assertGreater(len(errors), 0, "Should reject lowercase variety suffix")
+
+    def test_invalid_coin_id_special_chars(self):
+        """Test that special characters in coin IDs are rejected."""
+        for bad_id in ["US-MORG-1879-CC-(VAM)", "US-MORG-1879-CC-V[1]", "US-MORG-1879-CC-A B"]:
+            errors, warnings = self.validator.validate_coin_id(bad_id)
+            self.assertGreater(len(errors), 0, f"Should reject special chars in: {bad_id}")
+
+    def test_valid_variety_up_to_24_chars(self):
+        """Test that variety suffixes up to 24 chars are valid."""
+        errors, warnings = self.validator.validate_coin_id("US-EA1S-XXXX-X-EI01AVLARGESERIAL")
+        self.assertEqual(len(errors), 0, "24-char variety should be valid")
+
     def test_warning_long_variety(self):
         """Test that long variety suffixes generate warnings."""
         errors, warnings = self.validator.validate_coin_id("US-GRNT-1922-P-STARVARIETY")
         self.assertEqual(len(errors), 0, "Long variety should not be an error")
-        self.assertGreater(len(warnings), 0, "Should warn about long variety")
+        self.assertGreater(len(warnings), 0, "Should warn about long variety >8 chars")
 
     def test_all_coin_ids_valid_format(self):
         """CRITICAL: All coin_ids in database must match valid format."""
@@ -307,6 +323,54 @@ class TestDatabaseIntegrity(unittest.TestCase):
             self.db_path,
             CANONICAL_DB_PATH,
             f"Test should use canonical path {CANONICAL_DB_PATH}"
+        )
+
+
+class TestCoinIdStrictFormat(unittest.TestCase):
+    """Strict format enforcement tests to prevent malformed IDs."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.db_path = CANONICAL_DB_PATH
+        if not cls.db_path.exists():
+            raise unittest.SkipTest(f"Database not found at {cls.db_path}")
+        cls.conn = sqlite3.connect(cls.db_path)
+
+    @classmethod
+    def tearDownClass(cls):
+        if hasattr(cls, 'conn'):
+            cls.conn.close()
+
+    def test_no_lowercase_in_coin_ids(self):
+        """CRITICAL: No coin_id should contain lowercase letters."""
+        cursor = self.conn.cursor()
+        cursor.execute("SELECT coin_id FROM coins")
+        lowercase_ids = [r[0] for r in cursor.fetchall() if any(c.islower() for c in r[0])]
+        self.assertEqual(
+            len(lowercase_ids), 0,
+            f"Found {len(lowercase_ids)} coin_ids with lowercase. First 5: {lowercase_ids[:5]}"
+        )
+
+    def test_no_special_chars_in_coin_ids(self):
+        """CRITICAL: No coin_id should contain parentheses, brackets, or spaces."""
+        cursor = self.conn.cursor()
+        cursor.execute("SELECT coin_id FROM coins")
+        import re
+        bad_pattern = re.compile(r'[^A-Z0-9\-]')
+        bad_ids = [r[0] for r in cursor.fetchall() if bad_pattern.search(r[0])]
+        self.assertEqual(
+            len(bad_ids), 0,
+            f"Found {len(bad_ids)} coin_ids with invalid chars. First 5: {bad_ids[:5]}"
+        )
+
+    def test_coin_id_part_count(self):
+        """CRITICAL: All coin_ids must have 4 or 5 parts."""
+        cursor = self.conn.cursor()
+        cursor.execute("SELECT coin_id FROM coins")
+        bad_ids = [r[0] for r in cursor.fetchall() if len(r[0].split('-')) not in (4, 5)]
+        self.assertEqual(
+            len(bad_ids), 0,
+            f"Found {len(bad_ids)} coin_ids with wrong part count. First 5: {bad_ids[:5]}"
         )
 
 
