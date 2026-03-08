@@ -1,0 +1,58 @@
+{
+  "country": "US",
+  "denomination": "$500 Face Value",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-JK90-XXXX-X-500FV",
+          "composition": {
+            "copper": 10.0,
+            "silver": 90.0
+          },
+          "mint": "X",
+          "notes": "90% silver US coins, $500 face value bag for dealer price aggregation",
+          "proof_strikes": null,
+          "rarity": "common",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [
+            {
+              "name": "$500 face",
+              "premium": false
+            }
+          ],
+          "weight_grams": 12500.0,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 12500.0
+          }
+        }
+      ],
+      "official_name": "90% Junk Silver",
+      "series_code": "JK90",
+      "series_id": "90% Junk Silver",
+      "series_name": "90% Junk Silver",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    }
+  ]
+}

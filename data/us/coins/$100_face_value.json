@@ -1,0 +1,58 @@
+{
+  "country": "US",
+  "denomination": "$100 Face Value",
+  "face_value": 1.0,
+  "series": [
+    {
+      "coins": [
+        {
+          "business_strikes": null,
+          "category": "coin",
+          "coin_id": "US-JK90-XXXX-X-100FV",
+          "composition": {
+            "copper": 10.0,
+            "silver": 90.0
+          },
+          "mint": "X",
+          "notes": "90% silver US coins, $100 face value bag for dealer price aggregation",
+          "proof_strikes": null,
+          "rarity": "common",
+          "subcategory": "circulation",
+          "total_mintage": null,
+          "varieties": [
+            {
+              "name": "$100 face",
+              "premium": false
+            }
+          ],
+          "weight_grams": 2500.0,
+          "year": "XXXX"
+        }
+      ],
+      "composition_periods": [
+        {
+          "alloy": {},
+          "alloy_name": "Unknown",
+          "date_range": {
+            "end": "XXXX",
+            "start": "XXXX"
+          },
+          "weight": {
+            "grams": 2500.0
+          }
+        }
+      ],
+      "official_name": "90% Junk Silver",
+      "series_code": "JK90",
+      "series_id": "90% Junk Silver",
+      "series_name": "90% Junk Silver",
+      "specifications": {
+        "edge": "plain"
+      },
+      "years": {
+        "end": "XXXX",
+        "start": "XXXX"
+      }
+    }
+  ]
+}
