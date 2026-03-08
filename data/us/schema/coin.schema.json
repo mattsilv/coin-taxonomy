@@ -65,7 +65,11 @@
         "5oz Silver",
         "No Face Value",
         "$100",
-        "$10 Face Value"
+        "$10 Face Value",
+        "$1 Face Value",
+        "$100 Face Value",
+        "$500 Face Value",
+        "$1000 Face Value"
       ]
     },
     "face_value": {
